@@ -1,0 +1,93 @@
+In the present study, data were collected in three phases. In the
+first phase, we collected qualitative data from children to determine
+item wording. In the second phase, we used experts in the field to
+facilitate the choice of best items. In the third phase, we tested the
+items and used factor analysis to determine the content of the final
+scale.
+In Phase 1, a questionnaire was drafted and administered to 31
+children, ages 9 through 12, who were enrolled in private music
+lessons from eight different music studios. Satisfaction was operationally
+defined as "liking," or "disliking." Children were asked openended
+questions, including what they liked and disliked about their
+private music lessons, their private music teacher, the music they
+played, improving their abilities, practicing, and peer and parental
+influences. This questionnaire yielded a list of 153 positive and negative
+statements from the children. Seventy-eight of the children's
+responses were discarded by the principal investigator of the study
+because they were too ambiguous, too general, or too specific. For
+example, some of the discarded responses included statements such
+as "Nothing," "I just started with him," and "I have no problem."
+In Phase 2, the remaining 75 statements were given to nine teachers
+who specialized in musical instrument instruction with children,
+ages 9 to 12. These music teachers were asked to independently identify
+the statements that they thought were important to children taking
+private music lessons. A statement was selected to be an item in
+the scale if at least three teachers indicated that it was important.
+This resulted in a preliminary scale containing 45 items.
+In Phase 3, the preliminary 45-item scale containing both positively
+and negatively worded statements was administered to a sample
+of 568 children who were all taking private music lessons. All items
+began with either "I like ...," "I don't like ...," "I enjoy ...," or, "The
+best part...." Children were asked what they liked and disliked about
+their own private lessons using a 5-point Likert format with the following
+choices: (1) I disagree very much, (2) I disagree, (3) I do not
+know, (4) I agree, or (5) I agree very much. A brief demographic
+questionnaire was included, as well as a 10-point single-item Overall
+Rating Scale (10-point ORS) that each child was asked to complete
+by rating his or her private music lessons overall. The 10-point ORS
+ranged from 1 (Very Bad) to 10 (Very Good).
+Participants
+The 568 participants in the third data-collection phase were children,
+ages 9 to 12, who were all taking private music lessons. The
+children were assessed at private music studios, public and private
+schools, youth orchestras, and a music festival (see the note at the
+end of this article). The mean age of the participants was 10.7 years.
+Approximately 14% of the participants were age 9; 29% were age 10;
+Downloaded from jrm.sagepub.com at SWETS WISE ONLINE CONTENT on October 27, 2012
+JRME 25
+30% were age 11; and 27% were age 12. Grade 5 was the mean school
+grade level, with a range from Grade 3 to 8. Approximately 61% of
+the participants were girls, and 36% were boys (3% of the children
+did not indicate their gender). Approximately 34% of the participants
+played the piano, 19% played the violin, 9% played the flute,
+9% played the cello, 6% played the clarinet, and 6% played the saxophone.
+Less than 5% of children played the baritone, bass, bassoon,
+drums, French horn, guitar, harp, oboe, percussion, trombone, trumpet,
+or viola. Approximately 12% of the children did not indicate
+which instrument they played. Approximately 88% of the flute players,
+75% of pianists, and 61% of the violinists were girls. Approximately
+100% of the trombone, baritone, and bass players were boys,
+as were 94% of the trumpeters and 67% of the saxophone players.
+Overview of the Analyses
+Due to the exploratory nature of the present study, no assumptions
+were made as to whether music lesson satisfaction was a unidimensional
+or a multidimensional construct. Thus, both Varimax
+orthogonal and Direct Oblimin oblique rotations were performed
+for the factor analyses. As significant correlations were found among
+the factors in the Varimax rotation, it was decided to use the Direct
+Oblimin oblique rotation. Direct Oblimin factor analysis results are
+reported for the present study using a Principal Components
+Analysis extraction method, with a maximum of 25 iterations for convergence
+and delta = 0. Power analysis indicated that a sample of 568
+children was sufficient for the factor analysis.
+As previously stated, the aim of the study was to examine factors
+associated with children's private music lesson satisfaction and to
+produce a practical scale, the Music Lesson Satisfaction Scale
+(MLSS), that could be easily administered to children, ages 9 to 12.
+To achieve these objectives, items were excluded for the final version
+of the scale using the following criteria: First, items were eliminated
+if they had factor loadings less than .40. Second, negatively stated
+items were eliminated as they elicited a large proportion of "I don't
+know" responses. These responses may have been due to the children
+not understanding these items. The rationale to omit negatively
+worded items was supported by Rifkin et al. (1988) in their study
+examining children's satisfaction with medical care.
+Statistically significant associations between the MLSS and the 10-
+point ORS were examined using Pearson correlation coefficients
+(two-tailed significance). A three-way analysis of variance (ANOVA)
+was constructed to determine if there were any differences on the
+MLSS by gender, age, or musical instrument categories (e.g., strings,
+woodwinds, brass, piano, and percussion), and to test for the presence
+of any possible interaction effects. Gender, age, and musical
+instrument categories were the independent variables, and the MLSS
+mean score was the dependent variable.

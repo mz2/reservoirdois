@@ -1,0 +1,3947 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE 
+article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN"
+"JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:mml="http://www.w3.org/1998/Math/MathML"
+article-type="research-article" dtd-version="1.0">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">8</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.8</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Genetics</subject>
+<subject>Genomics</subject>
+<subject>Medical Genetics</subject>
+<subject>Ethical Issues</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Dealing with the unexpected: consumer responses to
+direct-access 
+<italic>BRCA</italic>mutation testing</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author">
+<name>
+<surname>Francke</surname>
+<given-names>Uta</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<xref ref-type="corresp" rid="corresp-1">*</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name>
+<surname>Dijamco</surname>
+<given-names>Cheri</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name>
+<surname>Kiefer</surname>
+<given-names>Amy K.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name>
+<surname>Eriksson</surname>
+<given-names>Nicholas</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<name>
+<surname>Moiseff</surname>
+<given-names>Bianca</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name>
+<surname>Tung</surname>
+<given-names>Joyce Y.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-7" contrib-type="author">
+<name>
+<surname>Mountain</surname>
+<given-names>Joanna L.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<aff id="aff-1">
+<label>1</label>
+<institution>23andMe, Inc.</institution>, 
+<addr-line>Mountain View, CA</addr-line>, 
+<country>USA</country></aff>
+<aff id="aff-2">
+<label>2</label>
+<institution>Department of Genetics</institution>, 
+<addr-line>Stanford University School of Medicine</addr-line>, 
+<addr-line>Stanford, CA</addr-line>, 
+<country>USA</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib id="editor-1" contrib-type="editor">
+<name>
+<surname>Wagner</surname>
+<given-names>Jennifer</given-names>
+</name>
+</contrib>
+</contrib-group>
+<author-notes>
+<corresp id="corresp-1">
+<label>*</label>
+<email>ufrancke@stanford.edu</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub" date-type="pub"
+iso-8601-date="2013-02-12">
+<day>12</day>
+<month>2</month>
+<year iso-8601-date="2013">2013</year>
+</pub-date>
+<volume>1</volume>
+<elocation-id>e8</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2012-11-13">
+<day>13</day>
+<month>11</month>
+<year iso-8601-date="2012">2012</year>
+</date>
+<date date-type="accepted" iso-8601-date="2012-12-23">
+<day>23</day>
+<month>12</month>
+<year iso-8601-date="2012">2012</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>&#194;&#169; 2013 Francke et
+al.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Francke et al.</copyright-holder>
+<license license-type="open-access"
+xlink:href="http://creativecommons.org/licenses/by/3.0/">
+<license-p>This is an open access article distributed under the
+terms of the 
+<ext-link ext-link-type="uri"
+xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative
+Commons Attribution License</ext-link>, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the
+original author and source are credited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/8" />
+<abstract>
+<p>
+<bold>Background.</bold>Inherited 
+<italic>BRCA</italic>gene mutations convey a high risk for breast
+and ovarian cancer, but current guidelines limit 
+<italic>BRCA</italic>mutation testing to women with early-onset
+cancer and relatives of mutation-positive cases. Benefits and risks
+of providing this information directly to consumers are
+unknown.</p>
+<p>
+<bold>Methods.</bold>To assess and quantify emotional and
+behavioral reactions of consumers to their 23andMe Personal Genome
+Service
+<sup>&#194;&#174;</sup>report of three 
+<italic>BRCA</italic>mutations that are common in Ashkenazi Jews,
+we invited all 136 
+<italic>BRCA</italic>1 and 
+<italic>BRCA</italic>2 mutation-positive individuals in the 23andMe
+customer database who had chosen to view their 
+<italic>BRCA</italic>reports to participate in this IRB-approved
+study. We also invited 160 mutation-negative customers who were
+matched for age, sex and ancestry. Semi-structured phone interviews
+were completed for 32 mutation carriers, 16 women and 16 men, and
+31 non-carriers. Questions addressed personal and family history of
+cancer, decision and timing of viewing the 
+<italic>BRCA</italic>report, recollection of the result, emotional
+responses, perception of personal cancer risk, information sharing,
+and actions taken or planned.</p>
+<p>
+<bold>Results.</bold>Eleven women and 14 men had received the
+unexpected result that they are carriers of a 
+<italic>BRCA</italic>1 185delAG or 5382insC, or 
+<italic>BRCA</italic>2 6174delT mutation. None of them reported
+extreme anxiety and four experienced moderate anxiety that was
+transitory. Remarkably, five women and six men described their
+response as neutral. Most carrier women sought medical advice and
+four underwent risk-reducing procedures after confirmatory mutation
+testing. Male carriers realized that their test results implied
+genetic risk for female relatives, and several of them felt
+considerably burdened by this fact. Sharing mutation information
+with family members led to screening of at least 30 relatives and
+identification of 13 additional carriers. Non-carriers did not
+report inappropriate actions, such as foregoing cancer screening.
+All but one of the 32 mutation-positive participants appreciated
+learning their 
+<italic>BRCA</italic>mutation status.</p>
+<p>
+<bold>Conclusions.</bold>Direct access to 
+<italic>BRCA</italic>mutation tests, considered a model for
+high-risk actionable genetic tests of proven clinical utility,
+provided clear benefits to participants. The unexpected information
+demonstrated a cascade effect as relatives of newly identified
+carriers also sought testing and more mutation carriers were
+identified. Given the absence of evidence for serious emotional
+distress or inappropriate actions in this subset of
+mutation-positive customers who agreed to be interviewed for this
+study, broader screening of Ashkenazi Jewish women for these three
+BRCA mutations should be considered.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>BRCA mutations</kwd>
+<kwd>Ashkenazi Jewish ancestry</kwd>
+<kwd>Direct-access genetic testing</kwd>
+<kwd>Direct-to-consumer genetic testing</kwd>
+<kwd>Male BRCA carriers</kwd>
+<kwd>Risk-reducing mastectomy</kwd>
+<kwd>Risk-reducing oophorectomy</kwd>
+<kwd>Cascade effect</kwd>
+<kwd>BRCA mutation testing</kwd>
+<kwd>Personal&#194;&#160;genomics</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>23andMe, Inc</funding-source>
+</award-group>
+<funding-statement>This work was supported by 23andMe, Inc.
+&#226;&#8364;&#339;Funding&#226;&#8364; consisted of the company
+paying the authors&#226;&#8364;&#8482; salaries, the transcription
+service and Amazon gift certificates to participants who completed
+the phone interviews. The funders had no role in study design, data
+collection and analysis, decision to publish, or preparation of the
+manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Direct-to-consumer (DTC) genetic health information first became
+available in 2007 when three companies started offering
+microarray-based genotyping of genome-wide single-nucleotide
+variants (23andMe; DeCodeMe; Navigenics). At present, health
+reports provided online to consumers include heterogeneous risk
+information based on results of published genome-wide association
+studies of distinct populations, carrier status for known Mendelian
+recessive disorders, variants affecting drug response and
+sensitivity to side effects, and a few rare high-impact Mendelian
+dominant mutations with disease-onset later in life
+(e.g.&#194;&#160;23andMe, DeCODE Genetics; Pathway Genomics).</p>
+<p>Concerns expressed in a large body of literature and position
+statements issued by professional societies postulate that
+high-impact genetic information should not be disseminated DTC
+because consumers will not be able to understand the meaning, or
+will misunderstand it; positive test results could cause panic and
+inappropriate actions, possibly putting undue burden on the health
+care system; and negative test results could cause false
+reassurance and inappropriate actions such as foregoing recommended
+cancer screening (
+<xref ref-type="bibr" rid="ref-5">Berliner &amp; Fay, 2007</xref>; 
+<xref ref-type="bibr" rid="ref-2">American College of Medical
+Genetics, 2008</xref>; 
+<xref ref-type="bibr" rid="ref-21">McGuire &amp; Burke,
+2008</xref>; 
+<xref ref-type="bibr" rid="ref-1">Annes, Giovanni &amp; Murray,
+2010</xref>; 
+<xref ref-type="bibr" rid="ref-28">Robson et al., 2010</xref>; 
+<xref ref-type="bibr" rid="ref-31">Skirton et al., 2012</xref>).
+Very few published studies have addressed the validity of these
+claims. Bloss and colleagues enrolled participants in a research
+study to assess reactions to results and subsequent actions taken,
+such as medical consultations and lifestyle changes (
+<xref ref-type="bibr" rid="ref-6">Bloss, Schork &amp; Topol,
+2011</xref>). Their study found little positive or negative effect
+of gaining access to this information. The panel of tests, however,
+was limited to low-impact single nucleotide polymorphism (SNP)
+associations with unclear clinical utility. There is a single case
+report of psychological distress in a woman who received a BRCA
+mutation report DTC that was relieved by genetic counseling (
+<xref ref-type="bibr" rid="ref-13">Dohany et al., 2012</xref>). In
+a survey study in which DTC genetic testing customers were asked to
+interpret hypothetical scenarios of type 2 diabetes and colorectal
+cancer risk, over 90% understood the meaning correctly (
+<xref ref-type="bibr" rid="ref-20">Kaufman et al.,
+2012</xref>).</p>
+<p>This study focuses on reactions of individuals who received
+their own test results of testing for three mutations that
+predispose one to hereditary breast and ovarian cancer (HBOC).
+These mutations are most common in people with Ashkenazi Jewish
+(AJ) ancestry: 
+<italic>BRCA1</italic>185delAG and 5382insC, 
+<italic>BRCA2</italic>6174delT. 
+<italic>BRCA1</italic>mutations confer upon women a breast cancer
+risk of about 60% and an ovarian cancer risk of about 40%; 
+<italic>BRCA2</italic>mutations confer a breast cancer risk of
+about 50% and an ovarian cancer risk of about 20% (
+<xref ref-type="bibr" rid="ref-7">Chen &amp; Parmigiani,
+2007</xref>). Among all predictive genetic tests currently
+available DTC, 
+<italic>BRCA</italic>mutation testing can be considered the most
+actionable with proven clinical utility (
+<xref ref-type="bibr" rid="ref-14">Domchek et al.,
+2010</xref>).</p>
+<p>Growing activity in the area of whole genome and exome
+sequencing has raised the question of how to deal with unexpected
+medically relevant information (
+<xref ref-type="bibr" rid="ref-3">Berg, Khoury &amp; Evans,
+2011</xref>). There was some but not complete concordance among
+specialists as to what information should be returned to patients (
+<xref ref-type="bibr" rid="ref-16">Green et al., 2012</xref>), and
+a global strategy for the categorization of genes and mutations has
+been proposed (
+<xref ref-type="bibr" rid="ref-4">Berg et al., 2012</xref>). From
+the socio-ethical standpoint there are few published data to inform
+this discussion (
+<xref ref-type="bibr" rid="ref-35">Wolf et al., 2012</xref>). Our
+interview-based study aimed to collect empirical data on the actual
+benefits and harms experienced by consumers who purchased the
+23andMe Personal Genome Service
+<sup>&#194;&#174;</sup>that includes testing for three relatively
+common 
+<italic>BRCA</italic>mutations. We report here the actual
+experiences of individuals who were faced with unexpected genetic
+information that has personal, medical, prognostic and family
+health consequences.</p>
+</sec>
+<sec>
+<title>Participants and Methods</title>
+<p>The study was approved by the external, AAHRPP-accredited
+Ethical &amp; Independent Review Services Institutional Review
+Board (E&amp;I Review Document IRB-1-02.5). The protocol involved
+identifying within the 23andMe database 
+<italic>BRCA</italic>mutation-positive customers who were at least
+18&#194;&#160;years of age, had consented to participate in
+research, and had chosen to view their results within the BRCA
+report. Before viewing their BRCA results, customers are encouraged
+to read written materials that provide information equivalent to
+that included in pre-test genetic counseling (
+<xref ref-type="supplementary-material"
+rid="supplemental-information">Supplemental Information</xref>).
+Customers then can decide if they wish to see their results for
+these particular genes. Only individuals who had agreed to that
+step were invited to participate in this study. A control group of
+mutation-negative customers matched for age, sex and ancestry were
+also selected. Eligible participants were emailed an invitation
+that stated: &#226;&#8364;&#339;The study will involve a phone call
+about learning your results for specific tests: the three most
+common 
+<italic>BRCA</italic>cancer mutations that predispose to the
+development of breast and ovarian cancer in females, and prostate
+cancer in males. You may or may not have one of these
+mutations&#226;&#8364;. Interested customers clicked on a button to
+learn more about the study and see the consent form. Those who
+agreed to participate were scheduled for a semi-structured phone
+interview by an experienced interviewer (CD) who did not know the 
+<italic>BRCA</italic>status of the participants. Verbal consent was
+obtained from each research participant at the beginning of the
+phone interview.</p>
+<p>Semi-structured Interview: During the interviews, we asked all
+participants whether they had been aware at the time of purchase
+that the 23andMe Personal Genome Service
+<sup>&#194;&#174;</sup>(PGS
+<sup>&#194;&#174;</sup>) included tests for high-impact 
+<italic>BRCA</italic>mutations. Further questions fell into several
+categories: personal cancer history, family cancer history, how
+long they waited to view their report and whether they recalled
+their results. Failure to recall the results of the 
+<italic>BRCA</italic>report resulted in termination of the
+interview. Those who remembered their results were then asked
+another series of questions: a rating of emotional response across
+six possible categories (including measures of surprise and anxiety
+or relief), perception of personal risk for breast, ovarian or
+prostate cancer, who they had shared their results with, and what
+actions they had taken or were planning to take. Lastly, we asked
+participants to identify their ethnic background and provide a
+retrospective assessment of their experience of obtaining their 
+<italic>BRCA</italic>results online. The interview guide was tested
+for understandability and clarity by engaging several employees of
+23andMe and collecting feedback. The interviewer was able to ask
+follow-up questions to clarify the meaning of any specific answer.
+The interviews were taped, coded and transcribed. At the conclusion
+of the interviews, the BRCA mutation status of each participant was
+verified from the 23andMe database.</p>
+<p>Data analysis: A total of 29 themes were identified from the
+topics covered in the interview by the interviewer and first author
+who had reviewed the transcripts. Two other authors (AKK and BM)
+then independently read through and coded&#194;&#160;each
+transcript&#194;&#160;for the presence or absence, and other
+qualitative or quantitative parameters, of each of the identified
+themes. Agreement between the coders was quite high, over 95%, for
+the majority of themes. Themes that had lower agreement were:
+anxiety, actions taken by female relatives, perceived benefits of
+PGS testing, and discussion with a medical profession. The coders
+re-reviewed the transcripts where there were specific areas of
+disagreement and then, through discussion, decided on a final
+coding. The majority of initial disagreements resulted from coder
+error, lack of clarity on how to code reactions or actions taken in
+response to prior BRCA testing, lack of clarity on how to code
+actions that were planned but not yet taken, and interpretation of
+qualified responses to the perceived benefits of the product.</p>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Study population</title>
+<p>We identified 204 
+<italic>BRCA1</italic>(185delAG or 5382insC) or 
+<italic>BRCA2</italic>6174delT mutation carriers (130 males and 74
+females) in the 23andMe database of 114,627 customers who were at
+least 18&#194;&#160;years of age and had consented to participate
+in research. The male&#226;&#8364;&#8220;female ratio reflects the
+gender distribution in the overall 23andMe customer base. Of the
+204 mutation carriers, 136 (67%), 77 men (59%) and 59 women (80%),
+had viewed their 
+<italic>BRCA</italic>report and were invited to participate in this
+study. In comparison, 65% of all customers in the database had
+viewed their 
+<italic>BRCA</italic>report (63% of males and 67% of females). We
+selected a control group of customers who did not have one of the
+three 
+<italic>BRCA</italic>mutations, matched to the mutation carriers by
+age, sex and ancestry. Five mutation-negative participants were
+unable to recall their 
+<italic>BRCA</italic>results and therefore did not complete the
+full interview. Two rounds of recruitment were required to recruit
+a comparable number of mutation-negative individuals. The
+demographics of the final set of individuals who completed
+interviews (32 mutation-positive
+&#226;&#8364;&#339;cases&#226;&#8364; and 31 mutation-negative
+&#226;&#8364;&#339;controls&#226;&#8364;) are detailed in 
+<xref ref-type="table" rid="table-1">Table&#194;&#160;1</xref>.
+While the control group included a few more females than males, the
+age range and mean age were very similar.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.8/table-1</object-id>
+<label>Table&#194;&#160;1</label>
+<caption>
+<p>Demographics and Awareness.</p>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png"
+xlink:href="https://peerj.com/articles/8/table-1.png" />
+<table>
+<colgroup>
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+</colgroup>
+<thead>
+<tr>
+<th align="left" />
+<th align="center" colspan="2">Cases (
+<italic>n</italic>&#194;&#160;=&#194;&#160;32)</th>
+<th align="center" colspan="2">Controls (
+<italic>n</italic>&#194;&#160;=&#194;&#160;31)</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">Females</th>
+<th align="left">Males</th>
+<th align="left">Females</th>
+<th align="left">Males</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Completed Interview</td>
+<td align="left">16</td>
+<td align="left">16</td>
+<td align="left">18</td>
+<td align="left">13</td>
+</tr>
+<tr>
+<td align="left">Age Range</td>
+<td align="left">30&#226;&#8364;&#8220;73</td>
+<td align="left">26&#226;&#8364;&#8220;62</td>
+<td align="left">27&#226;&#8364;&#8220;73</td>
+<td align="left">23&#226;&#8364;&#8220;66</td>
+</tr>
+<tr>
+<td align="left">Mean Age by Sex</td>
+<td align="left">51</td>
+<td align="left">43</td>
+<td align="left">50</td>
+<td align="left">43</td>
+</tr>
+<tr>
+<td align="left">Mean Age by Group</td>
+<td align="center" colspan="2">47</td>
+<td align="center" colspan="2">47</td>
+</tr>
+<tr>
+<td align="left" colspan="5">When you purchased the 23andMe
+Personal Genome Service
+<sup>&#194;&#174;</sup>were you aware that it included testing for
+mutations that predispose to breast and ovarian cancer?</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">7</td>
+<td align="left">6</td>
+<td align="left">10</td>
+<td align="left">10</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">9</td>
+<td align="left">10</td>
+<td align="left">8</td>
+<td align="left">3</td>
+</tr>
+<tr>
+<td align="left" colspan="5">Were you aware that having or not
+having Ashkenazi Jewish ancestry influences your risk of carrying
+one of the three mutations 23andMe is testing for?</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">10</td>
+<td align="left">10</td>
+<td align="left">8</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">6</td>
+<td align="left">6</td>
+<td align="left">10</td>
+<td align="left">8</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+<sec>
+<title>Awareness of 
+<italic>BRCA</italic>test and ancestry-based risk</title>
+<p>At the time of purchase, only 13/32 (41%) cases were aware that 
+<italic>BRCA</italic>testing was included in the PGS
+<sup>&#194;&#174;</sup>, compared to 20/31 (65%) of controls (
+<xref ref-type="table" rid="table-1">Table&#194;&#160;1</xref>). In
+contrast, 20/32 (63%) cases were aware that having Ashkenazi Jewish
+ancestry influences the risk of having one of the three 
+<italic>BRCA</italic>mutations, compared to 13/31 (42%) of
+controls.</p>
+</sec>
+<sec>
+<title>Personal and family history of cancer</title>
+<p>Answers to the questions regarding personal and family history
+of cancer are summarized in 
+<xref ref-type="table" rid="table-2">Table&#194;&#160;2</xref>. As
+expected, more cases than controls had a personal or family history
+of breast and ovarian cancer; there was little difference between
+cases and controls in terms of personal or family history of
+prostate and other cancers.</p>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.8/table-2</object-id>
+<label>Table&#194;&#160;2</label>
+<caption>
+<p>Personal and Family History of Cancer.</p>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png"
+xlink:href="https://peerj.com/articles/8/table-2.png" />
+<table>
+<colgroup>
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+</colgroup>
+<thead>
+<tr>
+<th align="left" />
+<th align="left" />
+<th align="center" colspan="2">Cases (
+<italic>n</italic>&#194;&#160;=&#194;&#160;32)</th>
+<th align="center" colspan="2">Controls (
+<italic>n</italic>&#194;&#160;=&#194;&#160;31)</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left" />
+<th align="left">Females</th>
+<th align="left">Males</th>
+<th align="left">Females</th>
+<th align="left">Males</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left" />
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;18)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;13)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="6">When you purchased the 23andMe
+Personal Genome Service
+<sup>
+&#194;&#174;</sup>&#194;&#160;&#226;&#8364;&#8220;&#194;&#160;had
+you been diagnosed previously with breast, ovarian or prostate
+cancer?</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left" />
+<td align="left">BC</td>
+<td align="left">2</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left" />
+<td align="left">BC/OC</td>
+<td align="left">2</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left" />
+<td align="left">PC</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left" />
+<td align="left">12</td>
+<td align="left">16</td>
+<td align="left">17</td>
+<td align="left">12</td>
+</tr>
+<tr>
+<td align="left" colspan="6">Had you been diagnosed previously with
+any other cancer?</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left" />
+<td align="left">Testicular</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left" />
+<td align="left">Melanoma</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left" />
+<td align="left">Sarcoma</td>
+<td align="left" />
+<td align="left" />
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left" />
+<td align="left">16</td>
+<td align="left">13</td>
+<td align="left">17</td>
+<td align="left">12</td>
+</tr>
+<tr>
+<td align="left" colspan="6">Had a first or second degree relative
+been diagnosed previously with breast or ovarian cancer?</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left" />
+<td align="left">BC</td>
+<td align="left">10</td>
+<td align="left">9</td>
+<td align="left">6</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td align="left" />
+<td align="left">OC</td>
+<td align="left">6</td>
+<td align="left">5</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left" />
+<td align="left">5</td>
+<td align="left">4</td>
+<td align="left">11</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left" colspan="6">Had a first or second degree relative
+been diagnosed previously with any other cancer?</td>
+</tr>
+<tr>
+<td align="left">Prostate</td>
+<td align="left" />
+<td align="left">0</td>
+<td align="left">4</td>
+<td align="left">5</td>
+<td align="left">4</td>
+</tr>
+<tr>
+<td align="left">Pancreatic</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left">2</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Colon</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Gastric</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">Melanoma</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Lung</td>
+<td align="left" />
+<td align="left">2</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Other</td>
+<td align="left" />
+<td align="left">uterine(1)</td>
+<td align="left">bladder(1)</td>
+<td align="left">esophageal(1)</td>
+<td align="left">leukemia(1)</td>
+</tr>
+<tr>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left">lymphoma(1)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p>
+<bold>Notes.</bold>
+</p>
+</fn>
+<fn id="table-2fn1">
+<p>BC &#226;&#8364;&#8220; breast cancer; OC &#226;&#8364;&#8220;
+ovarian cancer; PC &#226;&#8364;&#8220; prostate cancer.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec>
+<title>Viewing of the 
+<italic>BRCA</italic>report</title>
+<p>To avoid precipitating the discovery of a 
+<italic>BRCA</italic>mutation in people who did not already know
+about their mutation status, we only invited customers to
+participate if they had chosen to view their 
+<italic>BRCA</italic>report. In the current structure of the
+23andMe results-reporting website, BRCA reports are
+&#226;&#8364;&#339;locked&#226;&#8364;, which means they require an
+additional customer approval step to
+&#226;&#8364;&#339;open&#226;&#8364; (display) the result. This
+feature enables customers to view other health reports before
+separately choosing to view the BRCA report. During the interview,
+we asked about their recollection of opening the report. Responses
+show that one case and nine controls did not remember 
+<italic>whether</italic>the 
+<italic>BRCA</italic>report required an extra step to open, and one
+case and five controls did not remember 
+<italic>when</italic>they opened it. The majority, 24 cases (75%)
+and 18 controls (58%), however, remembered that they viewed it
+immediately, as soon as it was available to them (
+<xref ref-type="table" rid="table-3">Table&#194;&#160;3</xref>).
+Seven cases and eight controls waited for days to months before
+viewing their 
+<italic>BRCA</italic>results. Reasons given for this delay included
+uncertainty about wanting to know, being too busy with other tasks,
+and not noticing the report until some later time.</p>
+<table-wrap id="table-3">
+<object-id pub-id-type="doi">10.7717/peerj.8/table-3</object-id>
+<label>Table&#194;&#160;3</label>
+<caption>
+<p>BRCA Test Results.</p>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png"
+xlink:href="https://peerj.com/articles/8/table-3.png" />
+<table>
+<colgroup>
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+</colgroup>
+<thead>
+<tr>
+<th align="left" />
+<th align="center" colspan="2">Cases (
+<italic>n</italic>&#194;&#160;=&#194;&#160;32)</th>
+<th align="center" colspan="2">Controls (
+<italic>n</italic>&#194;&#160;=&#194;&#160;31)</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">Females</th>
+<th align="left">Males</th>
+<th align="left">Females</th>
+<th align="left">Males</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;18)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;13)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="5">Was your BRCA report locked?</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">14</td>
+<td align="left">15</td>
+<td align="left">11</td>
+<td align="left">9</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">Do not remember</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left">6</td>
+<td align="left">3</td>
+</tr>
+<tr>
+<td align="left" colspan="5">When did you unlock it?</td>
+</tr>
+<tr>
+<td align="left">Immediately</td>
+<td align="left">11</td>
+<td align="left">13</td>
+<td align="left">11</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td align="left">Later</td>
+<td align="left">4</td>
+<td align="left">3</td>
+<td align="left">6</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Do not remember</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left">4</td>
+</tr>
+<tr>
+<td align="left" colspan="5">What did you learn from your
+results?</td>
+</tr>
+<tr>
+<td align="left">I learned for the first time that I am a carrier
+of a BRCA1 or BRCA2 mutation</td>
+<td align="left">11</td>
+<td align="left">14</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">I had previous testing for these mutation and
+already knew that I am positive</td>
+<td align="left">5</td>
+<td align="left">2</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left" colspan="5">What was the reason for previous
+testing?</td>
+</tr>
+<tr>
+<td align="left">I was diagnosed with breast or ovarian cancer</td>
+<td align="left">3</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">A close female relative with breast or ovarian
+cancer tested positive for one of these mutations</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">A close female relative with breast or ovarian
+cancer</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">I learned for the first time that I am NOT a
+carrier of a BRCA1 or BRCA2 mutation</td>
+<td align="left" />
+<td align="left" />
+<td align="left">18</td>
+<td align="left">13</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+<sec>
+<title>Recollection of the 
+<italic>BRCA</italic>test results</title>
+<p>The blinded interviewer asked participants whether they
+remembered their 
+<italic>BRCA</italic>results and what they learned from them. Five
+individuals did not remember their results and were excluded from
+further participation in the study. All of these were
+mutation-negative. Eleven women and 14 men stated that they learned
+for the first time that they had a mutation in either 
+<italic>BRCA1</italic>(
+<italic>n</italic>&#194;&#160;=&#194;&#160;10) or 
+<italic>BRCA2</italic>(
+<italic>n</italic>&#194;&#160;=&#194;&#160;15). Seven participants
+(five females and two males) knew prior to obtaining their results
+that they carried one of the three 
+<italic>BRCA</italic>mutations that are tested for as part of the
+PGS
+<sup>&#194;&#174;</sup>. Confirmation of their carrier status by
+the PGS
+<sup>&#194;&#174;</sup>increased their confidence in 23andMe test
+results and encouraged some to initiate testing of their relatives
+who they understood might also be carriers. Reasons for prior 
+<italic>BRCA</italic>testing included a diagnosis of breast and/or
+ovarian cancer (three women), or having a first-degree relative
+with breast and/or ovarian cancer &#226;&#8364;&#8220; with and
+without a known 
+<italic>BRCA</italic>mutation (two men and two women) (
+<xref ref-type="table" rid="table-3">
+Table&#194;&#160;3</xref>).</p>
+<p>All participants in the control group recalled their negative
+mutation status correctly. None of the mutation-negative
+individuals had been tested previously, they first learned this
+information through the PGS
+<sup>&#194;&#174;</sup>testing. Mutation status as recalled by each
+participant was independently confirmed through inspection of the
+database.</p>
+</sec>
+<sec>
+<title>Emotional responses to 
+<italic>BRCA</italic>test results</title>
+<p>Participants were asked about their initial emotional responses
+to seeing their 23andMe 
+<italic>BRCA</italic>results. They were asked if they felt
+surprised by their results, and why or why not (
+<xref ref-type="table" rid="table-4">Table&#194;&#160;4</xref>).
+Ten mutation-positive individuals (six women and four men) who
+expressed surprise referenced the lack of a family history of
+breast or ovarian cancer or presence of only sporadic late-onset
+breast cancer, &#226;&#8364;&#339;not the genetic
+type&#226;&#8364;. Others were surprised because they believed the
+frequency of these mutations to be low in the general
+population.</p>
+<table-wrap id="table-4">
+<object-id pub-id-type="doi">10.7717/peerj.8/table-4</object-id>
+<label>Table&#194;&#160;4</label>
+<caption>
+<p>Responses to BRCA Test Results.</p>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png"
+xlink:href="https://peerj.com/articles/8/table-4.png" />
+<table>
+<colgroup>
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+</colgroup>
+<thead>
+<tr>
+<th align="left" />
+<th align="center" colspan="2">Cases (
+<italic>n</italic>&#194;&#160;=&#194;&#160;32)</th>
+<th align="center" colspan="2">Controls (
+<italic>n</italic>&#194;&#160;=&#194;&#160;31)</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">Females</th>
+<th align="left">Males</th>
+<th align="left">Females</th>
+<th align="left">Males</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;18)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;13)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="5">Were you surprised by this
+result?</td>
+</tr>
+<tr>
+<td align="left">Yes</td>
+<td align="left">6</td>
+<td align="left">4</td>
+<td align="left">1</td>
+<td align="left">0</td>
+</tr>
+<tr>
+<td align="left">No</td>
+<td align="left">10</td>
+<td align="left">12</td>
+<td align="left">17</td>
+<td align="left">13</td>
+</tr>
+<tr>
+<td align="left" colspan="5">How did you feel about this
+information?</td>
+</tr>
+<tr>
+<td align="left">Extremely upset (cried, lost sleep, had thoughts
+of suicide&#226;&#8364;&#166;)</td>
+<td align="left">0</td>
+<td align="left">0</td>
+<td align="left">0</td>
+<td align="left">0</td>
+</tr>
+<tr>
+<td align="left">Moderately upset (couldn&#226;&#8364;&#8482;t stop
+thinking about the result, felt moderate anxiety)</td>
+<td align="left">3</td>
+<td align="left">1</td>
+<td align="left">0</td>
+<td align="left">0</td>
+</tr>
+<tr>
+<td align="left">Somewhat upset (initial disappointment, felt
+anxious at first but then anxiety went away)</td>
+<td align="left">3</td>
+<td align="left">6</td>
+<td align="left">0</td>
+<td align="left">0</td>
+</tr>
+<tr>
+<td align="left">Neutral</td>
+<td align="left">9</td>
+<td align="left">8</td>
+<td align="left">7</td>
+<td align="left">8</td>
+</tr>
+<tr>
+<td align="left">Relieved</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">10</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left">Extremely relieved (if had high anxiety
+before)</td>
+<td align="left">0</td>
+<td align="left">0</td>
+<td align="left">1</td>
+<td align="left">0</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>Ten of the mutation-positive women were not surprised, including
+the five who had been previously tested, one who had close
+relatives known to be mutation-positive, and four others with a
+strong family history. The 12 mutation-positive men who were not
+surprised cited the following as reasons: two already knew about
+their mutation, one had a mutation-positive aunt, some had a
+positive family history of breast and/or ovarian cancer and others
+had realized they were at risk by having Ashkenazi Jewish
+ancestry.</p>
+<p>Participants were read six options (which overlapped the Impact
+of Events Scale) and asked to choose which emotional response best
+fit how they felt at the time of receiving their results (
+<xref ref-type="table" rid="table-4">Table&#194;&#160;4</xref>).
+For the mutation-positive group, remarkably, none of the 32
+reported having been &#226;&#8364;&#339;extremely
+upset&#226;&#8364;. Three of the four who were
+&#226;&#8364;&#339;moderately upset&#226;&#8364; were also
+&#226;&#8364;&#339;surprised&#226;&#8364; or
+&#226;&#8364;&#339;shocked&#226;&#8364; by discovering that they
+carried a 
+<italic>BRCA</italic>mutation. The nine participants who said they
+had been &#226;&#8364;&#339;somewhat upset&#226;&#8364; initially,
+with anxiety subsequently subsiding, include three who were also
+&#226;&#8364;&#339;surprised&#226;&#8364;. Remarkably, nine women
+and eight men who were mutation positive reported feeling
+&#226;&#8364;&#339;neutral&#226;&#8364;. Of these 17, four women
+and two men already knew that they were 
+<italic>BRCA</italic>mutation carriers. One female carrier was
+&#226;&#8364;&#339;relieved&#226;&#8364; to get confirmation of her
+previously known result. One young woman who was not
+&#226;&#8364;&#339;surprised&#226;&#8364; and felt
+&#226;&#8364;&#339;neutral&#226;&#8364; said:</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I wasn&#226;&#8364;&#8482;t surprised.
+It didn&#226;&#8364;&#8482;t come as a surprise and, like I said,
+it wasn&#226;&#8364;&#8482;t scary to me and it
+wasn&#226;&#8364;&#8482;t bad news. It was just kind of more
+information to work with I guess. Yeah. I think
+I&#226;&#8364;&#8482;m the only person in my family
+who&#226;&#8364;&#8482;s had this testing so far. And I maybe would
+have different feelings about my results if, you know, I lost my
+mother to breast cancer, if it was a more emotionally charged
+thing, or if I knew somebody else who had it or something like
+that. I think it would maybe feel differently, but as far as I know
+I&#226;&#8364;&#8482;m the only person whose been tested for
+it&#226;&#8364;.</italic>
+</p>
+</disp-quote>
+<p>One male who learned about his carrier status for the first time
+reported feeling &#226;&#8364;&#339;relieved&#226;&#8364; because
+his daughter who was tested simultaneously by 23andMe had not
+inherited his mutation.</p>
+<p>In the mutation-negative group, only one woman reported feeling
+&#226;&#8364;&#339;pleasantly surprised&#226;&#8364;; she also felt
+&#226;&#8364;&#339;extremely relieved&#226;&#8364; because she had
+a family history of breast, prostate and pancreatic cancer. The
+remaining 30 did not report feeling surprised, despite the fact
+that 12 had a family history of breast cancer in a first or second
+degree relative and one had a family history of ovarian cancer (
+<xref ref-type="table" rid="table-2">Table&#194;&#160;2</xref>).
+The emotional responses they identified most with were
+&#226;&#8364;&#339;neutral&#226;&#8364; or
+&#226;&#8364;&#339;relieved&#226;&#8364; (48% in each category),
+with 66% of the &#226;&#8364;&#339;relieved&#226;&#8364; responders
+being female (
+<xref ref-type="table" rid="table-4">
+Table&#194;&#160;4</xref>).</p>
+</sec>
+<sec>
+<title>Effect of 
+<italic>BRCA</italic>test results on perception of cancer
+risk</title>
+<p>We explored whether knowing one&#226;&#8364;&#8482;s 
+<italic>BRCA</italic>status affected the perception of
+one&#226;&#8364;&#8482;s own breast and ovarian cancer risk (for
+women) or breast and prostate cancer risk (for men). Most female
+carriers reported understanding their personal risk as
+significantly elevated, and several correctly recited the risk
+figures that they had learned from their 23andMe report for both
+cancers. Some stated that their perception had not changed much
+because they had always believed they were at high risk due to
+breast/ovarian cancer in close family members and Ashkenazi Jewish
+ancestry, but that knowing they had inherited a 
+<italic>BRCA</italic>mutation made them more aware of the reality
+and prompted them to take action. In general, male mutation
+carriers perceived their personal risk for breast cancer to be low
+and their risk for prostate cancer to be slightly higher than
+average.</p>
+<p>The majority of 
+<italic>BRCA</italic>mutation-negative participants stated that
+they perceived their cancer risk to be unchanged; only one woman
+thought her risk was reduced. The majority said they felt relieved
+not to be at high risk but realized that other genetic factors and
+environmental factors can still cause them to develop breast or
+ovarian cancer. Several women expressed the understanding that only
+the three common 
+<italic>BRCA</italic>mutations were included in this test and that
+other mutations in these genes may still be present. Some mentioned
+that they had a slightly higher than average risk based on their
+separate 23andMe breast cancer report covering seven variants in
+other genes known to be associated with breast cancer, further
+conveying their understanding that there are many other risk
+factors to consider beyond BRCA mutations. Not a single
+mutation-negative participant interpreted the negative 
+<italic>BRCA</italic>test result as indicating no or significantly
+lower than average risk for these cancers.</p>
+</sec>
+<sec>
+<title>Sharing of 
+<italic>BRCA</italic>test results</title>
+<p>We asked participants with whom they shared their 
+<italic>BRCA</italic>results. The majority of mutation-positive
+participants shared their results with spouses/partners and blood
+relatives (
+<xref ref-type="table" rid="table-5">Table&#194;&#160;5</xref>). In
+addition, 50% (8 females, 8 males) shared their test results with
+friends, ranging from &#226;&#8364;&#339;a few friends&#226;&#8364;
+to &#226;&#8364;&#339;everybody&#226;&#8364;, which included using
+blogs or social media. Of the 32 mutation-positive participants,
+only two men had not yet shared it with anyone but said they were
+planning to share it with present or future spouses and other
+family members &#226;&#8364;&#339;as appropriate&#226;&#8364;.</p>
+<table-wrap id="table-5">
+<object-id pub-id-type="doi">10.7717/peerj.8/table-5</object-id>
+<label>Table&#194;&#160;5</label>
+<caption>
+<p>Sharing of BRCA Results.</p>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png"
+xlink:href="https://peerj.com/articles/8/table-5.png" />
+<table>
+<colgroup>
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+<col align="left" />
+</colgroup>
+<thead>
+<tr>
+<th align="left" />
+<th align="center" colspan="2">Cases (
+<italic>n</italic>&#194;&#160;=&#194;&#160;32)</th>
+<th align="center" colspan="2">Controls (
+<italic>n</italic>&#194;&#160;=&#194;&#160;31)</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">Females</th>
+<th align="left">Males</th>
+<th align="left">Females</th>
+<th align="left">Males</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;18)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;13)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="5">With whom have you shared information
+about your 23andMe BRCA test results?</td>
+</tr>
+<tr>
+<td align="left">Spouse</td>
+<td align="left">9</td>
+<td align="left">8</td>
+<td align="left">5</td>
+<td align="left">8</td>
+</tr>
+<tr>
+<td align="left" colspan="5">Other relatives</td>
+</tr>
+<tr>
+<td align="left">Mother</td>
+<td align="left">4</td>
+<td align="left">6</td>
+<td align="left">5</td>
+<td align="left">3</td>
+</tr>
+<tr>
+<td align="left">Aunt(s)</td>
+<td align="left">5</td>
+<td align="left">3</td>
+<td align="left">2</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Sister(s)</td>
+<td align="left">7</td>
+<td align="left">7</td>
+<td align="left">4</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Daughter(s)</td>
+<td align="left">3</td>
+<td align="left">3</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Father</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Brother</td>
+<td align="left" />
+<td align="left" />
+<td align="left">1</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">Son</td>
+<td align="left">3</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Cousin(s)</td>
+<td align="left">4</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">Niece(s)</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Grandmother</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">Stepmother</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Sister-in-law</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Friends</td>
+<td align="left">8</td>
+<td align="left">8</td>
+<td align="left">5</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Primary care physician</td>
+<td align="left">4</td>
+<td align="left">5</td>
+<td align="left">5</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">OB/GYN physician</td>
+<td align="left">5</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Oncologist</td>
+<td align="left">4</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Genetic counselor</td>
+<td align="left">5</td>
+<td align="left" />
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Cancer geneticist</td>
+<td align="left">2</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Medical geneticist</td>
+<td align="left">1</td>
+<td align="left" />
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Other person</td>
+<td align="left" />
+<td align="left">2</td>
+<td align="left" />
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Nobody</td>
+<td align="left" />
+<td align="left">2</td>
+<td align="left">8</td>
+<td align="left">4</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>The majority of mutation-negative participants shared their 
+<italic>BRCA</italic>results with spouses and family members, and
+some (7/31) shared with friends or medical care providers. The
+remaining 12/31 (39%) did not share their result with anyone,
+stating that they didn&#226;&#8364;&#8482;t feel it to be relevant
+(
+<xref ref-type="table" rid="table-5">
+Table&#194;&#160;5</xref>).</p>
+</sec>
+<sec>
+<title>Communications with health care providers</title>
+<p>Seven mutation-negative participants said they informed their
+primary care physician. Thirteen of the 16 mutation-positive women
+(including two who had previously tested positive) sought medical
+advice (most did so immediately) from their primary care physician,
+gynecologist or oncologist. Five consulted with a genetic
+counselor, usually upon referral from the primary care physician,
+who then coordinated repeat 
+<italic>BRCA</italic>testing in a clinical lab (in most but not all
+cases) and referred them to an oncologist.</p>
+<p>Overall, our interviews revealed that sharing of 
+<italic>BRCA</italic>test results with physicians was more common
+amongst mutation-positive individuals (19/32 or 60%) than
+mutation-negative ones (8/31 or 26%), and within the
+mutation-positive group, it was also more common amongst women
+(13/16 or 81%) than men (6/16 or 38%). The three women who
+didn&#226;&#8364;&#8482;t contact a physician when they got their
+result already knew that they were BRCA mutation-positive and had
+been treated for breast and/or ovarian cancer.</p>
+<p>The rate at which mutation-negative participants shared their
+results with physicians is comparable to those reported in larger
+surveys of DTC customers: 27% (
+<xref ref-type="bibr" rid="ref-6">Bloss, Schork &amp; Topol,
+2011</xref>) and 20% (
+<xref ref-type="bibr" rid="ref-20">Kaufman et al., 2012</xref>).
+The high level of sharing with physicians for the mutation-positive
+women most likely reflects the actionability of the test
+results.</p>
+<p>Some female mutation-carriers expressed feeling pressured into
+surgical procedures by physicians, and some stated that the full
+range of choices presented to them by genetic counselors had caused
+anxiety.</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;It was a real shake up for me for a
+little while. But not because of my reaction to the BRCA2 results
+from 23andMe, but to the total fear factor that was put in by all
+of the traditional medical people; based on my doctor telling me if
+I didn&#226;&#8364;&#8482;t get my breasts and my whole female
+organs out within 6 weeks, and by the way that date has long since
+passed.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;At the beginning I was not anxious. It
+was very rational, you know, it is what it is. Later I had slight
+anxiety, because there are so many choices. So if it had been like
+so okay, this is, you know, one way to do the surgery,
+that&#226;&#8364;&#8482;s fine. But then I went to the genetic
+counselor, it&#226;&#8364;&#8482;s like so many choices, and
+whenever you have choices you have anxiety, because
+it&#226;&#8364;&#8482;s time to research and make right decisions
+and so on.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<p>Although only a few mutation-negative females shared their
+results with physicians, those that did so felt their physician
+showed little interest, did not know what to do with the
+information or doubted the validity.</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I gave a full printout of my results to
+my primary care physician, just for the heck of it. But it really
+didn&#226;&#8364;&#8482;t come up in conversation. I
+didn&#226;&#8364;&#8482;t really talk about it. I
+didn&#226;&#8364;&#8482;t think I was at risk because it confirmed
+like, oh, I&#226;&#8364;&#8482;m not at risk and that was
+that.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I enabled my surgeon and my internist
+both to have access to the information that I received from
+23andMe. But I think essentially their feeling was that it
+wasn&#226;&#8364;&#8482;t really helpful you know that it was
+purely a survey. It didn&#226;&#8364;&#8482;t provide the type of
+genetic information that they would find extremely
+helpful.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I shared the results with my physician
+when I did have the mammogram. She kind of looked at me like
+physicians don&#226;&#8364;&#8482;t know how to handle this
+information because that&#226;&#8364;&#8482;s not part of their
+routine. So I don&#226;&#8364;&#8482;t know if she took it in and
+goes &#226;&#8364;&#8220; okay I don&#226;&#8364;&#8482;t know what
+to do with this, I&#226;&#8364;&#8482;m gonna go with what I know
+[that] is order a mammogram.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;And I was telling my doctor about this.
+And I said I had this analysis and it showed different likelihood
+of this and that. I didn&#226;&#8364;&#8482;t mention the breast
+one because it was never a concern. And he said how much did it
+cost, and I said I think it was $150 a year or something like that.
+And he said &#226;&#8364;&#732;Well, how can they have good results
+for only that much?&#226;&#8364;&#8482; And I said they do. They
+really do a very careful analysis and they&#226;&#8364;&#8482;re
+constantly bringing new results. So he wants to see it sometime, so
+I&#226;&#8364;&#8482;ll have to print it out because
+he&#226;&#8364;&#8482;s open to it&#226;&#8364;.</italic>
+</p>
+</disp-quote>
+</sec>
+<sec>
+<title>Actions taken or planned in response to 
+<italic>BRCA</italic>report</title>
+<p>Mutation-positive participants were asked about the immediate
+next steps they took after learning their results and what they
+were planning to do in the future (
+<xref ref-type="table" rid="table-6">Table&#194;&#160;6</xref>). In
+terms of immediate action, sharing results with family and friends
+was the most common response. The majority of women also sought
+medical advice. Prior to being tested by 23andMe, three women had
+been diagnosed with breast cancer and had undergone mastectomies
+and one had also undergone a prophylactic oophorectomy. There were
+11 mutation-positive women who received this information through
+23andMe for the first time. Among these 11 women the following
+actions were taken or are planned: one prophylactic mastectomy,
+three planned mastectomies, three oophorectomies, and four planned
+oophorectomies (after childbearing). Five said they went to have
+breast exams and breast imaging after getting their results, and
+the seven who neither had nor were planning to have mastectomies
+reported that they would continue to have regular breast cancer
+monitoring (
+<xref ref-type="table" rid="table-6">
+Table&#194;&#160;6</xref>).</p>
+<table-wrap id="table-6">
+<object-id pub-id-type="doi">10.7717/peerj.8/table-6</object-id>
+<label>Table&#194;&#160;6</label>
+<caption>
+<p>Taking Action After Positive 23andMe BRCA Result.</p>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png"
+xlink:href="https://peerj.com/articles/8/table-6.png" />
+<table>
+<colgroup>
+<col align="left" />
+<col align="left" />
+<col align="left" />
+</colgroup>
+<thead>
+<tr>
+<th align="left" />
+<th align="center" colspan="2">Cases (
+<italic>n</italic>&#194;&#160;=&#194;&#160;32)</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">Females</th>
+<th align="left">Males</th>
+</tr>
+<tr>
+<th align="left" />
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+<th align="left">(
+<italic>n</italic>&#194;&#160;=&#194;&#160;16)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="3">What did you do next?</td>
+</tr>
+<tr>
+<td align="left">Talk to family/friends</td>
+<td align="left">7</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td align="left">Consult my primary care doctor</td>
+<td align="left">4</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">Consult a genetic counselor</td>
+<td align="left">3</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Consult a cancer specialist (OB/GYN,
+oncologist)</td>
+<td align="left">6</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Consult a cancer geneticist</td>
+<td align="left">2</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Repeat BRCA testing in a clinical lab</td>
+<td align="left">3</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Had physical breast/ovarian exam and breast
+imaging</td>
+<td align="left">5</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Had risk-reducing mastectomy</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Had risk-reducing oophorectomy (removal of
+ovaries)</td>
+<td align="left">2</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Did online research</td>
+<td align="left">1</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Quit smoking, changed diet</td>
+<td align="left" />
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left" colspan="3">What are you planning to do in the
+future?</td>
+</tr>
+<tr>
+<td align="left">Will have regular breast/prostate cancer
+surveillance screening</td>
+<td align="left">7</td>
+<td align="left">13</td>
+</tr>
+<tr>
+<td align="left">Will have risk-reducing mastectomy</td>
+<td align="left">3</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Will have risk-reducing oophorectomy</td>
+<td align="left">4</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Will make sure my
+mother/sisters/daughters/brothers/sons get tested</td>
+<td align="left">12</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left">Will mention BRCA results to physicians</td>
+<td align="left">2</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Will ask oncologist for prophylactic drug
+treatment</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Will recommit to staying healthy</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+<tr>
+<td align="left">Will stay updated on breast cancer research</td>
+<td align="left">1</td>
+<td align="left" />
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>In general, male carriers did not initially consult a physician;
+several stated that they were familiar with the literature, had
+done online research and/or were working as professionals in the
+field and did not feel they needed medical advice. The majority,
+13/16 (81%), said they would seek or would continue to have regular
+breast and prostate cancer screening.</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;It&#226;&#8364;&#8482;s a little bit
+interesting as a male approaching this, because I
+can&#226;&#8364;&#8482;t quite put myself in the female
+perspective. But the combinations of prophylactic type procedures
+that are available for a female with these results are very, very
+different than what&#226;&#8364;&#8482;s available to me. So, no, I
+don&#226;&#8364;&#8482;t have anything directly planned other than
+just to be aware.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;Breast cancer, yeah, fairly low. I know
+it&#226;&#8364;&#8482;s possible, but it&#226;&#8364;&#8482;s not
+particularly common. I mean, I don&#226;&#8364;&#8482;t know if the
+studies have been linked strongly with prostate cancer, but it
+follows in my family directly. So that&#226;&#8364;&#8482;s the one
+I&#226;&#8364;&#8482;ve been thinking about.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I might start my prostate cancer
+screening earlier, maybe at 45 or 40 even. I might tell my
+physician I have this gene and that it might be a good idea to get
+tested younger than the recommended age.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<p>The present study reveals that for those who received a positive
+
+<italic>BRCA</italic>test result from 23andMe, there was a
+distinctly positive effect of identifying additional family members
+at risk.</p>
+<p>We observed a significant expansion in identification of 
+<italic>BRCA</italic>carriers through testing of relatives of both
+female and male mutation carriers.</p>
+<disp-quote>
+<p>Male carrier: &#226;&#8364;&#339;
+<italic>My mother saw a genetic counselor as a result of my testing
+and my little sister saw a genetic counselor as a result of my
+test.&#226;&#8364;</italic></p>
+</disp-quote>
+<p>At the time of our interviews, 30 secondary (family member) 
+<italic>BRCA</italic>tests had been carried out as a result of the
+initial testing, either through physician channels or through
+23andMe, with 13 positive and 17 negative results. In one of these
+mutation-positive secondary cases, early breast cancer (DCIS) was
+discovered by MRI, a sensitive imaging procedure usually offered as
+a screening test only to mutation-positive women (
+<xref ref-type="bibr" rid="ref-27">Robson &amp; Offit,
+2007</xref>). Several secondary cases with mutation-positive BRCA
+tests also underwent prophylactic mastectomy and oophorectomy and
+others indicated that they were planning to have both risk-reducing
+procedures in the future.</p>
+</sec>
+<sec>
+<title>In retrospect: Perceived benefits outweigh harms</title>
+<p>At the end of the interview, we asked participants whether they
+thought purchasing the PGS
+<sup>&#194;&#174;</sup>was worth it, whether they would do it
+again, and why or why not. 30/32 cases and 30/31 controls said they
+would do it again. The participants found the PGS
+<sup>&#194;&#174;</sup>worthwhile for several reasons; the most
+significant being that some mutation carriers felt it may have
+saved their lives or the lives of relatives who tested 
+<italic>BRCA</italic>positive as a result of the primary
+participant being tested. In addition, participants received health
+information unrelated to BRCA that they found useful for personal
+risk assessments or family planning, or thought the PGS was
+worthwhile because they discovered or confirmed their ancestry, or
+just had their curiosity satisfied.</p>
+</sec>
+<sec>
+<title>Positive impacts</title>
+<p>Female carrier: &#226;&#8364;&#339;
+<italic>While the results were shocking and a little stressful,
+ultimately I think this could potentially change my life, and it
+obviously made a difference for my aunt, who was able to catch
+pre-cancer early. So I think all in all, it&#226;&#8364;&#8482;s a
+positive thing. We would have never known, because there are no
+[affected] first and second-degree relatives. So until somebody
+ended up with breast or ovarian cancer I don&#226;&#8364;&#8482;t
+think we would have known. This way we&#226;&#8364;&#8482;re taking
+care of things prophylacticly.&#226;&#8364;</italic></p>
+<p>Female carrier: &#226;&#8364;&#339;
+<italic>Well, I got information that I could do something about.
+That&#226;&#8364;&#8482;s what I&#226;&#8364;&#8482;m telling
+people. You know, if you get information that you can do something
+about, and I think particularly Ashkenazi Jewish women,
+it&#226;&#8364;&#8482;s certainly worth doing. I mean if someone
+did say to me &#226;&#8364;&#732;I don&#226;&#8364;&#8482;t know
+what I would do with the information if I had that
+information,&#226;&#8364;&#8482; but I&#226;&#8364;&#8482;m a
+proactive person, so it&#226;&#8364;&#8482;s hard to imagine
+someone not doing something.&#226;&#8364;</italic></p>
+<p>Male carrier: &#226;&#8364;&#339;
+<italic>Even after I talked with genetic counselors, they never
+would have recommended me to be tested based on my family history
+that I knew of at the time. I feel like a genetic secret was found
+in my family. I feel like I may have saved my
+sister&#226;&#8364;&#8482;s life. I mean, nobody knows.
+That&#226;&#8364;&#8482;s a hard thing in our family because nobody
+had cancer early, but it makes a difference. You accept it.
+It&#226;&#8364;&#8482;s in your system and I&#226;&#8364;&#8482;m
+lucky enough to know that it&#226;&#8364;&#8482;s there as opposed
+to finding out something too late. It increases your odds
+you&#226;&#8364;&#8482;re going to find something and find it
+earlier.&#226;&#8364;</italic></p>
+<p>Male carrier: &#226;&#8364;&#339;
+<italic>I immediately had my children tested, finding that my
+daughter was predisposed (sic) to BRCA1 and
+she&#226;&#8364;&#8482;s now being treated because of this. In
+other words, 23andMe may very well have saved my
+daughter&#226;&#8364;&#8482;s life. My doctor and we have spoken to
+many, many of our friends to tell them about what we think about
+23andMe. It&#226;&#8364;&#8482;s all positive. I bet
+we&#226;&#8364;&#8482;ve told 150 people.&#226;&#8364;</italic></p>
+<p>Male carrier: &#226;&#8364;&#339;
+<italic>Well, first off, specifically for this issue of the BRCA
+thing, it provided me information. We had cancer in the family. We
+had reason to wonder and it solved it very clearly relating to my
+daughter. I don&#226;&#8364;&#8482;t think that learning that I
+have a few percentile or lower risk of anything is going to change
+my life, but some things are interesting, some things are
+informative and I think it&#226;&#8364;&#8482;s
+important.&#226;&#8364;</italic></p>
+<p>Male carrier: &#226;&#8364;&#339;
+<italic>I think it&#226;&#8364;&#8482;s good to know these things,
+regardless of whether it&#226;&#8364;&#8482;s something you can
+control or do something about. In the case of this particular
+mutation, there&#226;&#8364;&#8482;s only a 50% chance that if we
+had a daughter she would inherit the same gene. And maybe I would
+want &#226;&#8364;&#8220; knowing now that I am a carrier
+&#226;&#8364;&#8220; I would want, if we have a daughter, I would
+want her to get genetic screening. I think it&#226;&#8364;&#8482;s
+a good thing.&#226;&#8364;</italic></p>
+<p>Male carrier: &#226;&#8364;&#339;
+<italic>And as healthcare becomes more and more streamlined and
+more specific, or I don&#226;&#8364;&#8482;t know exactly what the
+word I&#226;&#8364;&#8482;m looking for there is, but as it becomes
+more treatment focused that you need to be aware as possible of
+what your health situation is and what your risks are, because you
+can&#226;&#8364;&#8482;t expect the healthcare provider to have all
+that information. You need to have your information, as much
+information as possible to make good
+decisions.&#226;&#8364;</italic></p>
+</sec>
+<sec>
+<title>Negative impacts</title>
+<p>Only one of the 63 participants reported a negative impact. This
+participant was a mutation-positive man with a family history of
+breast cancer. He reported &#226;&#8364;&#339;emotional
+cost&#226;&#8364; and said he would prefer not to know his mutation
+status.</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I would not do it again, because it is
+really not information I need to know. I don&#226;&#8364;&#8482;t
+think the cost in dollars was important, I think the emotional cost
+is more. The impact of the results to a greater extent was
+negative. It&#226;&#8364;&#8482;s just basically knowing that I
+have it, I might pass it on. And that&#226;&#8364;&#8482;s the main
+thing. Sometimes ignorance is better.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<p>In addition, one other case and one control said they would not
+purchase the 23andMe PGS
+<sup>&#194;&#174;</sup>again. One woman already knew that she was
+positive for the 
+<italic>BRCA</italic>mutation and had had a double mastectomy in
+the past; therefore, she felt that her PGS
+<sup>&#194;&#174;</sup>result did not provide her new information.
+The mutation-negative participant who would not purchase the PGS
+again had received the kit as a gift and reported prior emotional
+instability as a reason for her preferring not to know:</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I guess denial is a pretty powerful
+feeling, and sometimes not knowing something helps you just forage
+through life without having some details that might cloud the way
+you perceive things. And so I guess a little bit of rosy-colored
+glasses would help someone like myself. I guess I
+don&#226;&#8364;&#8482;t want to think negatively. Even if it were
+the truth, I might choose not to know that.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+</sec>
+<sec>
+<title>Impact on male carriers</title>
+<p>Many male carriers expressed strong concern about the risk of
+passing on a 
+<italic>BRCA</italic>mutation to their daughters. Despite the fact
+that female carriers have the same risk of passing on the mutation,
+they did not mention this as a major concern since they were
+primarily focused on their own risk for disease and on making
+decisions about risk-reducing procedures.</p>
+<p>Interview quotes from male carriers:</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I was never concerned for myself, even
+though when I found out, the first thing that came to my mind was:
+will my daughter carry this. So I was extremely concerned but not
+for me, if I answer extremely concerned, it
+wasn&#226;&#8364;&#8482;t for me at all, but if
+you&#226;&#8364;&#8482;re asking what my emotion was it was extreme
+concern, but not over my own situation.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I do see that I have a little chance of
+getting breast cancer even though I&#226;&#8364;&#8482;m a male,
+and it&#226;&#8364;&#8482;s probably increased in males with BRCA1
+compared to normal males, but that is a very low chance. So
+I&#226;&#8364;&#8482;m not worried about myself. I might be a
+little worried if I get married and have children, because it has
+50% chance of passing on, and if the child is a female then she has
+a high risk&#226;&#8364;&#166;. initially my thought was I
+shouldn&#226;&#8364;&#8482;t have children.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;For breast cancer, I guess being a male
+the statistics are not so dramatic about that, what I read on your
+site about it. So as far as my health is concerned, and I can also
+compare to my father and grandfather who must have had the
+mutation, I&#226;&#8364;&#8482;m at some risk to die sometime from
+something but it&#226;&#8364;&#8482;s not really an anxiety factor.
+I would have been alarmed had I learned that my daughter had it,
+but I guess luckily she
+doesn&#226;&#8364;&#8482;t.</italic>&#226;&#8364;</p>
+</disp-quote>
+</sec>
+<sec>
+<title>Comprehension of report</title>
+<p>We scrutinized the interview transcripts for any evidence of
+misunderstanding of the information provided in the online 
+<italic>BRCA</italic>report. One female mutation carrier was under
+the impression that all 23andMe health reports deal solely with
+disease probabilities, and did not appreciate that 
+<italic>BRCA</italic>mutation testing provides a definitive answer
+about carrier status.</p>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;I really read it as what it basically
+is. It&#226;&#8364;&#8482;s not that I necessarily am a carrier.
+I&#226;&#8364;&#8482;m just you know statistically
+it&#226;&#8364;&#8482;s likely that I could
+be.&#226;&#8364;</italic>This participant was also confused about
+the mode of inheritance: 
+<italic>&#226;&#8364;&#339;I have 5 children and 3 of them are
+daughters. Well it doesn&#226;&#8364;&#8482;t matter because
+it&#226;&#8364;&#8482;s gonna be passed through the
+boy.&#226;&#8364;</italic></p>
+</disp-quote>
+<p>She had described her initial response as
+&#226;&#8364;&#339;surprised&#226;&#8364;, because her mother who
+had breast cancer was not Jewish, and her emotional reaction as
+&#226;&#8364;&#339;neutral&#226;&#8364;. She subsequently consulted
+with her physician and received post-test genetic counseling which
+she described as extremely upsetting and which did not alleviate
+her misunderstanding.</p>
+<p>Two mutation-positive participants interpreted the fact that the
+
+<italic>BRCA</italic>report was initially
+&#226;&#8364;&#339;locked&#226;&#8364;, requiring an extra click to
+opt-in to view the report, as indicating a positive result:</p>
+<disp-quote>
+<p>&#226;&#8364;&#339;
+<italic>When you put a locked result on and you say this is locked,
+you don&#226;&#8364;&#8482;t have to open it, well, everybody knows
+what that means. As soon as you say this result is locked and you
+can click here if you want to open it, you know
+it&#226;&#8364;&#8482;s going to say something not
+good.&#226;&#8364;</italic></p>
+</disp-quote>
+<disp-quote>
+<p>
+<italic>&#226;&#8364;&#339;As soon as I saw it was locked, I opened
+it right away &#226;&#8364;&#732;cause I knew what it was. I mean
+there was no reason it was gonna be locked unless it was a
+mutation.&#226;&#8364;</italic>
+</p>
+</disp-quote>
+<p>There was no evidence among the mutation-negative group that any
+of them interpreted their data to suggest a significant reduction
+in breast cancer risk. All but one reported their perception of
+their own risk for breast and ovarian cancer to be unchanged after
+learning about their 
+<italic>BRCA</italic>mutation-negative status.</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>The data reported here clearly demonstrate that providing 
+<italic>BRCA</italic>mutation results directly to consumers
+benefited a large fraction of individuals. A number of women
+without a family history of early onset breast or ovarian cancer
+discovered that they carry a 
+<italic>BRCA1</italic>or 
+<italic>BRCA2</italic>mutation that conveys a high risk. In many
+families, these benefits were extended to relatives of male or
+female mutation-positive study participants who took the initiative
+to be screened after learning of the 23andMe
+customer&#226;&#8364;&#8482;s result and tested positive. Newfound
+awareness of their high risk led the majority of these women to
+seek medical advice and many took or are planning to take
+risk-reducing actions upon the advice of their physicians.</p>
+<p>None of our 32 mutation-carrying study participants reported
+serious emotional disturbance such as feeling extremely upset,
+suicidal or requiring professional psychiatric help after learning
+of their mutation status. Four mutation carriers reported that they
+were moderately upset and nine reported transient anxiety after
+learning their mutation status. Emotional distress shortly after
+learning significant genetic information is not unexpected, but
+decreases over time, as reported in a meta-analysis of women who
+had undergone 
+<italic>BRCA</italic>mutation testing within the healthcare system
+(
+<xref ref-type="bibr" rid="ref-18">Hamilton, Lobel &amp; Moyer,
+2009</xref>). There is greater concern over emotional disturbance
+that is more severe and lasts for weeks, months or years. We did
+not obtain reports of long-term emotional disturbance. Only one of
+32 mutation-positive individuals, a male, regretted obtaining his
+mutation status. In contrast to expectations, half of the
+mutation-positive participants of either gender described their
+emotional response as neutral.</p>
+<p>Our results are comparable to those of a study on the disclosure
+of 
+<italic>APOE</italic>genotypes to adult children of patients with
+Alzheimer disease (AD) that measured symptoms of anxiety,
+depression and test-related distress (
+<xref ref-type="bibr" rid="ref-15">Green et al. REVEAL study,
+2009</xref>). In contrast to our study of DTC customers who
+received unexpected results, the REVEAL study compared disclosure
+and nondisclosure groups of participants (that both were
+pre-screened and underwent extensive pre-test counseling and
+post-test psychological follow up) and failed to find significant
+differences in test-related distress. This is even more remarkable
+given the current lack of preventive measures for AD in contrast to
+the preventive options available to 
+<italic>BRCA1</italic>or 
+<italic>BRCA2</italic>mutation carriers.</p>
+<p>The majority of participants shared their 
+<italic>BRCA</italic>results with family and friends, and all
+female carriers consulted with health care providers and were
+guided to appropriate actions such as more frequent monitoring or
+risk-reducing mastectomy and/or salpingo-oophorectomy. A large
+prospective multi-center cohort study has demonstrated the
+effectiveness of these procedures in BRCA mutation carriers for
+lowering the risk of breast and ovarian cancer and reducing
+cancer-specific mortality and all-cause mortality (
+<xref ref-type="bibr" rid="ref-14">Domchek et al.,
+2010</xref>).</p>
+<p>Female mutation-positive participants with a personal or family
+history of breast/ovarian cancer were more aware of their risk
+prior to 23andMe testing, and five had received BRACAnalysis
+<sup>&#194;&#174;</sup>&#194;&#160;testing previously. In contrast,
+where the primary mutation-positive individual identified through
+23andMe was male or the mutation was transmitted through the male
+line, there usually was no family history of breast/ovarian cancer
+and the identification of a 
+<italic>BRCA</italic>mutation came as a complete surprise. The
+female members of these families were not eligible for 
+<italic>BRCA</italic>testing within the healthcare system and, in
+the absence of population-wide screening for these mutations, they
+would not have known about their increased cancer risk. We do not
+know the final tally of first- and second-degree relatives who were
+tested because of the primary customers&#226;&#8364;&#8482;
+positive 
+<italic>BRCA</italic>test results; 30 were known at the time of the
+interviews. Several of the 13 secondary cases who tested positive
+had undergone or planned to have risk-reducing surgical procedures.
+Major effects on family members were also reported for the single
+case studied by 
+<xref ref-type="bibr" rid="ref-13">Dohany et al. (2012)</xref>. A
+population-based study from Denmark reported on uptake and timing
+of risk-reducing surgery in 306 healthy 
+<italic>BRCA</italic>carriers with no personal history of ovarian
+and breast cancer. The 10-year uptake was 75% for
+salpingo-oophorectomy and 50% for mastectomy (
+<xref ref-type="bibr" rid="ref-32">Skytte et al., 2010</xref>). In
+a prospective study conducted in Washington DC, five years after 
+<italic>BRCA</italic>testing more than 80% of mutation carriers had
+obtained one or both risk-reducing procedures (
+<xref ref-type="bibr" rid="ref-30">Schwartz et al., 2012</xref>).
+It is worth noting that for younger women the discovery of a BRCA
+mutation can lead to difficult decisions about considering
+risk-reducing surgery in the face of uncertainties about the
+effectiveness of screening procedures (MRI versus mammography) and
+can cause considerable anxiety.</p>
+<p>While some mutation-positive female customers crusaded within
+their extended families with missionary zeal, others, most often
+males, felt a considerable burden at having to inform their at-risk
+relatives. One was distressed after being told by a genetic
+counselor that informing relatives was his duty, and another asked
+us for a guidance document that would tell him how best to convey
+that information. In a systematic review of qualitative studies on
+communication of inherited cancer risk to at-risk relatives, 
+<xref ref-type="bibr" rid="ref-8">Chivers et al.
+(2010)</xref>identified themes that facilitate or inhibit such
+interactions, such as tension between the duty to inform and the
+wish not to harm or distress the recipients of the information; for
+
+<italic>BRCA</italic>mutations, specifically, carriers were
+uncertain about whether and how to inform male relatives and they
+desired health professionals&#226;&#8364;&#8482; input. The burden
+of the role of informant has been well illustrated by the
+bioinformatician Manuel Corpas who was managing the 23andMe
+accounts of his extended family (
+<xref ref-type="bibr" rid="ref-9">Corpas, 2011</xref>;&#194;&#160;
+<xref ref-type="bibr" rid="ref-10">Corpas, 2012</xref>).</p>
+<p>While male 
+<italic>BRCA</italic>carriers responded positively by adhering to
+recommended prostate cancer surveillance or starting it at an
+earlier age, the 50% chance of passing on the mutation to their
+children caused many of them considerable emotional distress. In
+current medical practice, children under age 18 are not tested for
+adult-onset genetic diseases that lack preventive treatment options
+during childhood. 23andMe enables the testing of children, with
+parents becoming the custodian of the information. As articulated
+by several study participants, this opportunity to have their
+children tested shifted their burden from anxiety over not knowing
+whether they passed on the mutation to relief if they
+didn&#226;&#8364;&#8482;t, or if they did, to facing the decision
+of when and how to inform their carrier children.</p>
+<p>One indirect way that we assessed the extent of harm to
+participants who chose to view their 
+<italic>BRCA</italic>test results was by asking them if they would
+purchase the service again. Only one female non-carrier, who had
+obtained the PGS
+<sup>&#194;&#174;</sup>as a gift, and one male carrier, stated that
+they would prefer not to know their result. The male cited distress
+about genetic risk for his future daughters as the reason. A
+previous small study of predictive testing for 
+<italic>BRCA</italic>mutations in males from mutation-positive
+breast cancer families reported that concern about transmitting
+increased cancer risk to daughters was the major motivating factor
+for testing. In that study, four of 18 males who tested positive
+had adverse responses, with three refusing to disclose the test
+results to their family and one regretting his participation (
+<xref ref-type="bibr" rid="ref-11">Daly et al., 2003</xref>). In
+another study, none of the parents, including men, found it
+difficult to inform their adult children of their 
+<italic>BRCA</italic>mutation (
+<xref ref-type="bibr" rid="ref-17">Hallowell et al.,
+2005</xref>).</p>
+<p>With respect to misunderstanding 
+<italic>BRCA</italic>test results, we identified one female
+participant who reported confusion about the meaning; she had also
+sought genetic counseling, which had not relieved her confusion
+&#226;&#8364;&#8220; in fact, she described it as having added to
+her distress.</p>
+<p>Remarkably, none of the male mutation carriers interpreted their
+results as having no relevance to their female relatives. The 
+<italic>BRCA</italic>report in the 23andMe PGS clearly states:
+&#226;&#8364;&#339;
+<italic>Their own risk aside, it is important for men to know
+whether they are carriers of BRCA mutations because they have a 50%
+chance of passing the mutation on to their daughters, who would
+then be at increased risk for breast and ovarian cancer. The
+mothers and sisters of men who carry one of these mutations also
+have a 50% chance of being carriers</italic>&#226;&#8364;. In
+contrast, the literature suggests widespread misperception about
+paternal transmission of breast cancer risk. Many women and their
+physicians underestimated the significance of a family history of
+breast cancer on the father&#226;&#8364;&#8482;s side of the family
+(
+<xref ref-type="bibr" rid="ref-22">Metcalfe et al., 2010</xref>).
+In that study, only 34% of 273 women with early-onset breast cancer
+knew that a father can pass an abnormal breast cancer gene to his
+daughter, comparable to 29% of 628 Swiss physicians surveyed by 
+<xref ref-type="bibr" rid="ref-25">Pichert et al. (2003)</xref>.
+23andMe regularly updates its reports in order to maximize the
+chance that customers understand those reports and the concepts
+underlying those reports. Although genetics education is a mission
+of a broad array of stakeholders, DTC personal genomics companies
+are in a unique position to provide such educational materials. In
+our experience, consumers appear more likely to read and learn
+about an unfamiliar topic such as genetics when the information is
+personalized. The responses of physicians to the BRCA DTC results
+were distinctly different for women with positive and negative
+results. Physicians reacted to positive results with appropriate
+referrals to genetic counselors, requesting confirmation of BRCA
+results in another lab (all of those were confirmed) and referrals
+to oncologists for treatment. Few of the BRCA-negative individuals
+shared their BRCA reports with physicians and found them unhelpful;
+their physicians did not know what to do with the reports and did
+not appreciate the value of the information.</p>
+<p>Our study has several limitations. In conducting it, we relied
+on volunteers willing to share their experiences. The emotional
+responses reported by the 16 men and 16 women who are BRCA carriers
+and agreed to be interviewed for this study may differ from those
+experienced by the 61 male and 43 female mutation
+&#226;&#8364;&#8220; positive individuals who did not reply to our
+invitation. Customers of 23andMe are also not entirely
+representative of the overall population, and the participants in
+this study may represent a pro-active more scientifically educated
+group, although no data on educational background were collected as
+part of this study. We cannot exclude that somebody who had a
+traumatic response may not have wished to revisit that experience
+in an interview. However, the initial study participation rate was
+higher within the mutation-positive group than within the
+mutation-negative group. In addition, not a single instance of
+serious adverse reaction has been brought to our attention either
+through this project or other projects. The case reported by 
+<xref ref-type="bibr" rid="ref-13">Dohany et al.
+(2012)</xref>represents a customer who initially experienced
+distress and successfully made use of the post-test genetic
+counseling that is recommended in all 23andMe reports for those who
+may require it. Furthermore, as the time interval between viewing
+their 
+<italic>BRCA</italic>report and the interview varied between two
+years and three months, the accuracy of recollections may have
+differed among participants.</p>
+<p>Current practice guidelines, and insurance reimbursement, limit 
+<italic>BRCA</italic>mutation testing to women with early onset
+breast or ovarian cancer and their first degree female relatives,
+as well as to close relatives of mutation-positive index cases (
+<xref ref-type="bibr" rid="ref-26">Robson, 2003</xref>). This
+policy missed the 
+<italic>BRCA</italic>mutation status of Jill Steinberg, whose
+sister and mother had early onset breast cancer but were 
+<italic>BRCA</italic>mutation negative. Jill discovered her
+mutation through 23andme PGS
+<sup>&#194;&#174;</sup>and found that she had inherited it from her
+father who had prostate cancer (
+<xref ref-type="bibr" rid="ref-29">Saunders, Nazareth &amp;
+Pressman, 2011</xref>; 
+<xref ref-type="bibr" rid="ref-33">Steinberg, 2011</xref>).</p>
+<p>When unselected Jewish women in Canada were screened for these
+three founder mutations, the mutation prevalence was reported as
+0.5% for 
+<italic>BRCA1</italic>and 0.6% for 
+<italic>BRCA2</italic>(
+<xref ref-type="bibr" rid="ref-22">Metcalfe et al., 2010</xref>).
+Within two years after learning of their BRCA mutation, 11.1% of
+women had undergone prophylactic mastectomy and 89.5% prophylactic
+oophorectomy; and those who had these procedures reported reduced
+distress (
+<xref ref-type="bibr" rid="ref-23">Metcalfe et al., 2012</xref>).
+Given the frequency of these three mutations in the Ashkenazi
+Jewish population, a population-wide screening program has been
+proposed (
+<xref ref-type="bibr" rid="ref-23">Metcalfe et al., 2012</xref>).
+When considering the target population for such a screening
+program, it is important to realize that in our study six cases and
+six controls self-identified as non-Jewish, and one control as
+Jewish non-Ashkenazi (Table&#194;&#160;S1). One of the controls was
+adopted with unknown biological parents. The other cases and
+controls who identified as Caucasian non-Jewish reported Eastern
+European ancestry, except for one mutation carrier who
+self-identified as East Indian. His 
+<italic>BRCA1</italic>185delAG mutation has been previously
+identified in breast cancer patients in India (
+<xref ref-type="bibr" rid="ref-34">Vaidyanathan et al.,
+2009</xref>), as well as in breast/ovarian cancer families with
+Sephardic Jewish ancestry in Spain (
+<xref ref-type="bibr" rid="ref-12">D&#195;&#173;ez et al.,
+1999</xref>) and in descendents of early Spanish settlers in
+Colorado (
+<xref ref-type="bibr" rid="ref-24">Mullineaux et al., 2003</xref>).
+Therefore, limitation of testing for these three mutations to
+people who identify as Ashkenazi, could miss 
+<italic>BRCA1</italic>185delAG carriers with Sephardic Jewish
+ancestry. On the other hand, 
+<italic>BRCA1</italic>or 
+<italic>BRCA2</italic>mutations besides the three most common ones
+have also been reported in Ashkenazi Jewish women with
+breast/ovarian cancer although at much lower frequencies (
+<xref ref-type="bibr" rid="ref-19">Kauff et al., 2002</xref>).</p>
+<p>Outcome studies of relatives of 
+<italic>BRCA</italic>mutation carriers provided strong evidence
+that carrier identification is beneficial with high uptake of
+risk-reducing procedures and reduced cancer risk and
+cancer-specific mortality (
+<xref ref-type="bibr" rid="ref-32">Skytte et al., 2010</xref>; 
+<xref ref-type="bibr" rid="ref-14">Domchek et al., 2010</xref>).
+Given the high rates of appropriate medical follow-up for the
+individuals and their family members, the absence of significant
+emotional distress and reports of inappropriate follow-up, and the
+ethnic diversity of the mutation carriers, our data support the
+establishment of population-based screening programs for these
+three relatively common mutations.</p>
+<p>With the frequency of genome/exome sequencing studies increasing
+rapidly, the discussion of how to deal with unexpected medically
+relevant data is currently at the forefront (
+<xref ref-type="bibr" rid="ref-3">Berg, Khoury &amp; Evans,
+2011</xref>; 
+<xref ref-type="bibr" rid="ref-4">Berg et al., 2012</xref>; 
+<xref ref-type="bibr" rid="ref-16">Green et al., 2012</xref>), with
+little published empiric data to guide it (
+<xref ref-type="bibr" rid="ref-35">Wolf et al., 2012</xref>). Most
+of the information that is currently provided by whole genome/exome
+studies involves low-impact variants affecting the risk of common
+diseases or variants of unknown significance. In contrast, BRCA
+mutations represent the group of highly penetrant autosomal
+dominant neoplastic disorders with available management options.
+Incidental discovery of such mutations engenders a different set of
+responsibilites and difficult choices for patients and their
+relatives. In our study, 25 individuals who did not know they were
+carrying a BRCA mutation were given unexpected and potentially
+life-saving information and 30 additional relatives were screened,
+with an added discovery of 13 positive cases.&#194;&#160;Therefore,
+the experiences of these individuals who were faced with unexpected
+genetic information that has personal medical, prognostic and
+family health consequences and their responses to the information,
+how they dealt with it emotionally and practically, and their
+relatives&#226;&#8364;&#8482; willingness to learn about their
+risks, will be useful in informing this discussion.</p>
+</sec>
+<sec sec-type="supplementary-material"
+id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1"
+xlink:href="https://peerj.com/articles/8/Supplementary Table.docx">
+<object-id pub-id-type="doi">10.7717/peerj.8/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>&#194;&#160;</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2"
+xlink:href="https://peerj.com/articles/8/Supplemental Information.docx">
+
+<object-id pub-id-type="doi">10.7717/peerj.8/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Supplemental Data</title>
+<p>From 23andMe BRCA Report: Information for customers to help them
+decide whether or not they wish to see their data</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank Samara Mohammed for assistance with manuscript
+preparation, Deborah Pascoe for insightful comments on the
+manuscript and the customers of 23andMe who donated their time and
+data to this research project. We also thank the employees of
+23andMe who contributed to the development of the infrastructure
+that made this research possible.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn id="conflict-1">
+<p>UF, AKK, NE, BM, JYT and JLM are and CD was employed by 23andMe.
+UF, AKK, NE, BM, JYT and JLM hold stock options in the company. UF
+is an Academic Editor on PeerJ.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn id="contribution-1">
+<p>
+<xref ref-type="contrib" rid="author-1">Uta Francke</xref>conceived
+and designed the experiments, analyzed the data, wrote the
+paper.</p>
+</fn>
+<fn id="contribution-2">
+<p>
+<xref ref-type="contrib" rid="author-2">Cheri
+Dijamco</xref>performed the experiments, analyzed the data.</p>
+</fn>
+<fn id="contribution-3">
+<p>
+<xref ref-type="contrib" rid="author-3">Amy K.
+Kiefer</xref>analyzed the data.</p>
+</fn>
+<fn id="contribution-4">
+<p>
+<xref ref-type="contrib" rid="author-4">Nicholas
+Eriksson</xref>conceived and designed the experiments, contributed
+reagents/materials/analysis tools, database access.</p>
+</fn>
+<fn id="contribution-5">
+<p>
+<xref ref-type="contrib" rid="author-5">Bianca
+Moiseff</xref>analyzed the data, wrote the paper.</p>
+</fn>
+<fn id="contribution-6">
+<p>
+<xref ref-type="contrib" rid="author-6">Joyce Y.
+Tung</xref>conceived and designed the experiments.</p>
+</fn>
+<fn id="contribution-7">
+<p>
+<xref ref-type="contrib" rid="author-7">Joanna L.
+Mountain</xref>conceived and designed the experiments, wrote the
+paper.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Human Ethics</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to ethical
+approvals (i.e. approving body and any reference numbers):</p>
+<p>AAHRPP-accredited Ethical &amp; Independent Review Services
+Institutional Review Board (E&amp;I Review Document
+IRB-1-02.5).</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Annes, Giovanni &amp; Murray (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Annes</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Giovanni</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Murray</surname>
+<given-names>MF</given-names>
+</name>
+</person-group>
+<article-title>Risks of presymptomatic direct-to-consumer genetic
+testing</article-title>
+<source>The New England Journal of Medicine</source>
+<year>2010</year>
+<volume>363</volume>
+<fpage>1100</fpage>
+<lpage>1101</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMp1006029</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>American College of Medical Genetics (2008)</label>
+<element-citation publication-type="other">
+<comment>American College of Medical Genetics. 2008. Statement on
+direct-to-consumer testing. Available at 
+<uri xlink:href="http://www.acmg.net/StaticContent/StaticPages/DTC_Statement.pdf">
+http://www.acmg.net/StaticContent/StaticPages/DTC_Statement.pdf</uri>&#194;&#160;
+(accessed 11 October 2012)</comment>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Berg, Khoury &amp; Evans (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Berg</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Khoury</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Evans</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<article-title>Deploying whole genome
+sequencing&#194;&#160;in&#194;&#160;clinical practice and public
+health: meeting the challenge one bin at a time</article-title>
+<source>Genetics in Medicine</source>
+<year>2011</year>
+<volume>13</volume>
+<fpage>499</fpage>
+<lpage>504</lpage>
+<pub-id pub-id-type="doi">10.1097/GIM.0b013e318220aaba</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Berg et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="other">
+<person-group>
+<name>
+<surname>Berg</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Adams</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Nassar</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Bizon</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Schmitt</surname>
+<given-names>CP</given-names>
+</name>
+<name>
+<surname>Wilhelmsen</surname>
+<given-names>KC</given-names>
+</name>
+<name>
+<surname>Evans</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<comment>2012. An informatics approach to analyzing the
+incidentalome. Genetics in Medicine. [Epub ahead of
+print]</comment>
+<pub-id pub-id-type="doi">10.1038/gim.2012.112</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Berliner &amp; Fay (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Berliner</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Fay</surname>
+<given-names>AM</given-names>
+</name>
+</person-group>
+<article-title>Risk assessment and genetic counseling for
+hereditary breast and ovarian cancer: recommendations of the
+National Society of Genetic Counselors</article-title>
+<source>Journal of Genetic Counseling</source>
+<year>2007</year>
+<volume>16</volume>
+<fpage>241</fpage>
+<lpage>260</lpage>
+<pub-id pub-id-type="doi">10.1007/s10897-007-9090-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Bloss, Schork &amp; Topol (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bloss</surname>
+<given-names>CS</given-names>
+</name>
+<name>
+<surname>Schork</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Topol</surname>
+<given-names>EJ</given-names>
+</name>
+</person-group>
+<article-title>Effect of direct-to-consumer genomewide profiling to
+assess disease risk</article-title>
+<source>The New England Journal of Medicine</source>
+<year>2011</year>
+<volume>364</volume>
+<fpage>524</fpage>
+<lpage>534</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa1011893</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Chen &amp; Parmigiani (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Parmigiani</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Meta-analysis of 
+<italic>BRCA</italic>1 and 
+<italic>BRCA</italic>2 penetrance</article-title>
+<source>Journal of Clinical Oncology</source>
+<year>2007</year>
+<volume>25</volume>
+<fpage>1329</fpage>
+<lpage>1333</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.2006.09.1066</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Chivers et&#194;&#160;al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chivers</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Addington-Hall</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lucassen</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Foster</surname>
+<given-names>CL</given-names>
+</name>
+</person-group>
+<article-title>What facilitates or impedes family communication
+following genetic testing for cancer risk? A systematic review and
+meta-synthesis of primary qualitative research</article-title>
+<source>Journal of Genetic Counseling</source>
+<year>2010</year>
+<volume>19</volume>
+<fpage>330</fpage>
+<lpage>342</lpage>
+<pub-id pub-id-type="doi">10.1007/s10897-010-9296-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Corpas (2011)</label>
+<element-citation publication-type="other">
+<person-group>
+<name>
+<surname>Corpas</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<comment>2011. Personal Genetics: A Family
+Journey&#194;&#160;(Interview). Manuel Corpas&#226;&#8364;&#8482;
+Blog, Available at 
+<uri xlink:href="http://manuelcorpas.com/2011/06/09/personal-genetics-a-family-journey-interview/">
+http://manuelcorpas.com/2011/06/09/personal-genetics-a-family-journey-interview/</uri>.
+Entry of June 9, 2011 (accessed 11 October 2012</comment>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Corpas (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Corpas</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>A family experience of personal
+genomics</article-title>
+<source>Journal of Genetic Counseling</source>
+<year>2012</year>
+<volume>21</volume>
+<fpage>386</fpage>
+<lpage>391</lpage>
+<pub-id pub-id-type="doi">10.1007/s10897-011-9473-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Daly et&#194;&#160;al. (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Daly</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Nolan</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Ormiston</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Cody</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>McDevitt</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>O&#226;&#8364;&#8482;hlci</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Byrne</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>McDermott</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Carney</surname>
+<given-names>DN</given-names>
+</name>
+<name>
+<surname>O&#226;&#8364;&#8482;Higgins</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Barton</surname>
+<given-names>DE</given-names>
+</name>
+</person-group>
+<article-title>Predictive testing for 
+<italic>BRCA</italic>1 and 2 mutations: a male
+contribution</article-title>
+<source>Annals of Oncology</source>
+<year>2003</year>
+<volume>14</volume>
+<fpage>549</fpage>
+<lpage>553</lpage>
+<pub-id pub-id-type="doi">10.1093/annonc/mdg164</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>D&#195;&#173;ez et&#194;&#160;al. (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>D&#195;&#173;ez</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Osorio</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Robledo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Barroso</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Domenech</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Cortes</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Albertos</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sanz</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Brunet</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>SanRoman</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Alonso</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Baiget</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Benitez</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Prevalence of 
+<italic>BRCA</italic>1 and 
+<italic>BRCA</italic>2 Jewish mutations in Spanish breast cancer
+patients</article-title>
+<source>British Journal of Cancer</source>
+<year>1999</year>
+<volume>79</volume>
+<fpage>1302</fpage>
+<lpage>1303</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.bjc.6690208</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Dohany et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dohany</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Gustafson</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ducaine</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Zakalik</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Psychological distress with direct-to-consumer
+genetic testing: a case report of an unexpected BRCA positive test
+result</article-title>
+<source>Journal of Genetic Counseling</source>
+<year>2012</year>
+<volume>21</volume>
+<fpage>399</fpage>
+<lpage>401</lpage>
+<pub-id pub-id-type="doi">10.1007/s10897-011-9475-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Domchek et&#194;&#160;al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Domchek</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Friebel</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Singer</surname>
+<given-names>CF</given-names>
+</name>
+<name>
+<surname>Evans</surname>
+<given-names>DG</given-names>
+</name>
+<name>
+<surname>Lynch</surname>
+<given-names>HT</given-names>
+</name>
+<name>
+<surname>Isaacs</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Garber</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Neuhausen</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Matloff</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Eeles</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Association of risk-reducing surgery in 
+<italic>BRCA</italic>1 or 
+<italic>BRCA</italic>2 mutation carriers with cancer risk and
+mortality</article-title>
+<source>The Journal of the American Medical Association</source>
+<year>2010</year>
+<volume>304</volume>
+<fpage>967</fpage>
+<lpage>975</lpage>
+<pub-id pub-id-type="doi">10.1001/jama.2010.1237</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Green et al. REVEAL study (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Green</surname>
+<given-names>RC</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Cupples</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Relkin</surname>
+<given-names>NR</given-names>
+</name>
+<name>
+<surname>Whitehouse</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Eckert</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Butson</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sadovnick</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Quaid</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Cook-Deegan</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Farrer</surname>
+<given-names>LA</given-names>
+</name>
+<collab>REVEAL&#194;&#160;Study Group</collab>
+</person-group>
+<article-title>Disclosure of APOE genotype for risk of
+Alzheimer&#226;&#8364;&#8482;s disease</article-title>
+<source>New England Journal of Medicine</source>
+<year>2009</year>
+<volume>361</volume>
+<fpage>245</fpage>
+<lpage>254</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa0809578</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Green et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Green</surname>
+<given-names>RC</given-names>
+</name>
+<name>
+<surname>Berg</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Berry</surname>
+<given-names>GT</given-names>
+</name>
+<name>
+<surname>Biesecker</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Dimmock</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>Evans</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Grody</surname>
+<given-names>WW</given-names>
+</name>
+<name>
+<surname>Hegde</surname>
+<given-names>MR</given-names>
+</name>
+<name>
+<surname>Kalia</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Korf</surname>
+<given-names>BR</given-names>
+</name>
+<name>
+<surname>Krantz</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>McGuire</surname>
+<given-names>AL</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>DT</given-names>
+</name>
+<name>
+<surname>Murray</surname>
+<given-names>MF</given-names>
+</name>
+<name>
+<surname>Nussbaum</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Plon</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Rehm</surname>
+<given-names>HL</given-names>
+</name>
+<name>
+<surname>Jacob</surname>
+<given-names>HJ</given-names>
+</name>
+</person-group>
+<article-title>Exploring concordance and discordance for return of
+incidental findings from clinical sequencing</article-title>
+<source>Genetics in Medicine</source>
+<year>2012</year>
+<volume>14</volume>
+<fpage>405</fpage>
+<lpage>410</lpage>
+<pub-id pub-id-type="doi">10.1038/gim.2012.21</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Hallowell et&#194;&#160;al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hallowell</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Ardern-Jones</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Eeles</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Foster</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Lucassen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Moynihan</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Watson</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Communication about genetic testing in families of
+male 
+<italic>BRCA</italic>1/2 carriers and non-carriers: patterns,
+priorities and problems</article-title>
+<source>Clinical Genetics</source>
+<year>2005</year>
+<volume>67</volume>
+<fpage>492</fpage>
+<lpage>502</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1399-0004.2005.00443.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Hamilton, Lobel &amp; Moyer (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hamilton</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Lobel</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Moyer</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Emotional distress following genetic testing for
+hereditary breast and ovarian cancer: a meta-analytic
+review</article-title>
+<source>Health Psychology</source>
+<year>2009</year>
+<volume>28</volume>
+<fpage>510</fpage>
+<lpage>518</lpage>
+<pub-id pub-id-type="doi">10.1037/a0014778</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Kauff et&#194;&#160;al. (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kauff</surname>
+<given-names>ND</given-names>
+</name>
+<name>
+<surname>Perez-Segura</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Robson</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Scheuer</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Siegel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Schluger</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rapaport</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Frank</surname>
+<given-names>TS</given-names>
+</name>
+<name>
+<surname>Nafa</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Ellis</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Parmigiani</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Offit</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Incidence of non-founder 
+<italic>BRCA</italic>1 and 
+<italic>BRCA</italic>2 mutations in high risk Ashkenazi breast and
+ovarian cancer families</article-title>
+<source>Journal of Medical Genetics</source>
+<year>2002</year>
+<volume>39</volume>
+<fpage>611</fpage>
+<lpage>614</lpage>
+<pub-id pub-id-type="doi">10.1136/jmg.39.8.611</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Kaufman et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kaufman</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Bollinger</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Dvoskin</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Scott</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Risky business: risk perception and the use of
+medical services among customers of DTC personal genetic
+testing</article-title>
+<source>Journal of Genetic Counseling</source>
+<year>2012</year>
+<volume>21</volume>
+<fpage>413</fpage>
+<lpage>422</lpage>
+<pub-id pub-id-type="doi">10.1007/s10897-012-9483-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>McGuire &amp; Burke (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McGuire</surname>
+<given-names>AL</given-names>
+</name>
+<name>
+<surname>Burke</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>An unwelcome side effect of direct-to-consumer
+personal genome testing: raiding the medical
+commons</article-title>
+<source>The Journal of the American Medical Association</source>
+<year>2008</year>
+<volume>300</volume>
+<fpage>2669</fpage>
+<lpage>2671</lpage>
+<pub-id pub-id-type="doi">10.1001/jama.2008.803</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Metcalfe et&#194;&#160;al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Metcalfe</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Poll</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Royer</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Llacuachaqui</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Tulman</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Narod</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Screening for founder mutations in 
+<italic>BRCA</italic>1 and 
+<italic>BRCA</italic>2 in unselected Jewish women</article-title>
+<source>Journal of Clinical Oncology</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>387</fpage>
+<lpage>391</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.2009.25.0712</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Metcalfe et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Metcalfe</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Mian</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Enmore</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Poll</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Llacuachaqui</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Nanda</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Narod</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Long-term follow-up of Jewish women with BRCA1 and
+BRCA2 mutation who underwent population genetic
+screening</article-title>
+<source>Breast Cancer Research and Treatment</source>
+<year>2012</year>
+<volume>133</volume>
+<fpage>735</fpage>
+<lpage>740</lpage>
+<pub-id pub-id-type="doi">10.1007/s10549-011-1941-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Mullineaux et&#194;&#160;al. (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mullineaux</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Castellano</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Shaw</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Axell</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Wood</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Diab</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Klein</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Sitarik</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Deffenbaugh</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Graw</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>Identification of germline 185delAG BRCA1 mutations
+in non-Jewish Americans of Spanish ancestry from the San Luis
+Valley, Colorado</article-title>
+<source>Cancer</source>
+<year>2003</year>
+<volume>98</volume>
+<fpage>597</fpage>
+<lpage>602</lpage>
+<pub-id pub-id-type="doi">10.1002/cncr.11533</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Pichert et&#194;&#160;al. (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pichert</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Dietrich</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Moosmann</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zwahlen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Stahel</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Sappino</surname>
+<given-names>A-P</given-names>
+</name>
+</person-group>
+<article-title>Swiss primary care physicians&#226;&#8364;&#8482;
+knowledge, attitudes and perception towards genetic testing for
+hereditary breast cancer</article-title>
+<source>Familial Cancer</source>
+<year>2003</year>
+<volume>2</volume>
+<fpage>153</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">
+10.1023/B:FAME.0000004597.29811.8e</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Robson (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Robson</surname>
+<given-names>ME</given-names>
+</name>
+</person-group>
+<article-title>American Society of Clinical Oncology policy
+statement update: genetic testing for cancer
+susceptibility</article-title>
+<source>Journal of Clinical Oncology</source>
+<year>2003</year>
+<volume>21</volume>
+<fpage>2397</fpage>
+<lpage>2406</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.2003.03.189</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Robson &amp; Offit (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Robson</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Offit</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Clinical practice. Management of an inherited
+predisposition to breast cancer</article-title>
+<source>The New England Journal of Medicine</source>
+<year>2007</year>
+<volume>357</volume>
+<fpage>154</fpage>
+<lpage>162</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMcp071286</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Robson et&#194;&#160;al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Robson</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Storm</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Weitzel</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wollins</surname>
+<given-names>DS</given-names>
+</name>
+<name>
+<surname>Offit</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>American Society of Clinical Oncology policy
+statement update: genetic and genomic testing for cancer
+susceptibility</article-title>
+<source>Journal of Clinical Oncology</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>893</fpage>
+<lpage>901</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.2009.27.0660</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Saunders, Nazareth &amp; Pressman (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Saunders</surname>
+<given-names>KH</given-names>
+</name>
+<name>
+<surname>Nazareth</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pressman</surname>
+<given-names>PI</given-names>
+</name>
+</person-group>
+<article-title>Case report: BRCA in the Ashkenazi population: are
+current testing guidelines too exclusive?</article-title>
+<source>Hereditary Cancer in Clinical Practice</source>
+<year>2011</year>
+<volume>9</volume>
+<fpage>3</fpage>
+<pub-id pub-id-type="doi">10.1186/1897-4287-9-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Schwartz et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schwartz</surname>
+<given-names>MD</given-names>
+</name>
+<name>
+<surname>Isaacs</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Graves</surname>
+<given-names>KD</given-names>
+</name>
+<name>
+<surname>Poggi</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Peshkin</surname>
+<given-names>BN</given-names>
+</name>
+<name>
+<surname>Gell</surname>
+<given-names>Christy</given-names>
+</name>
+<name>
+<surname>Flinch</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Kelly</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Taylor</surname>
+<given-names>KL</given-names>
+</name>
+<name>
+<surname>Perley</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Long-term outcomes of BRCA1/BRCA2 testing: risk
+reduction and surveillance</article-title>
+<source>Cancer</source>
+<year>2012</year>
+<volume>118</volume>
+<fpage>510</fpage>
+<lpage>517</lpage>
+<pub-id pub-id-type="doi">10.1002/cncr.26294</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Skirton et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Skirton</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Goldsmith</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jackson</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>O&#226;&#8364;&#8482;Connor</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Direct to consumer genetic testing: a systematic
+review of position statements, policies and
+recommendations</article-title>
+<source>Clinical Genetics</source>
+<year>2012</year>
+<volume>82</volume>
+<fpage>210</fpage>
+<lpage>218</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1399-0004.2012.01863.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Skytte et&#194;&#160;al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Skytte</surname>
+<given-names>A-B</given-names>
+</name>
+<name>
+<surname>Gerdes</surname>
+<given-names>A-M</given-names>
+</name>
+<name>
+<surname>Andersen</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Sunde</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Brondum-Nielsen</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Waldstrom</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kolvraa</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cruger</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Risk-reducing mastectomy and salpingo-oophorectomy
+in unaffected BRCA mutation carriers: uptake and
+timing</article-title>
+<source>Clinical Genetics</source>
+<year>2010</year>
+<volume>77</volume>
+<fpage>342</fpage>
+<lpage>349</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1399-0004.2009.01329.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Steinberg (2011)</label>
+<element-citation publication-type="other">
+<person-group>
+<name>
+<surname>Steinberg</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<comment>2011. Testing 
+<italic>BRCA</italic>1 Positive: What Happens Next. Huffington
+Post. Available at: 
+<uri xlink:href="http://www.huffingtonpost.com/jill-steinberg/testing-brca1-positive-wh_b_776263.html">
+http://www.huffingtonpost.com/jill-steinberg/testing-brca1-positive-wh_b_776263.html</uri>&#194;&#160;(accessed&#194;&#160;11&#194;&#160;October&#194;&#160;2012)</comment>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Vaidyanathan et&#194;&#160;al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vaidyanathan</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Lakhotia</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ravishankar</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Tabassum</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Mukherjee</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Somasundaram</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>
+<italic>BRCA</italic>1 and 
+<italic>BRCA</italic>2 germline mutation analysis among Indian
+women from south India: identification of four novel mutations and
+high-frequency occurrence of 185delAG mutation</article-title>
+<source>Journal of Biosciences</source>
+<year>2009</year>
+<volume>34</volume>
+<fpage>415</fpage>
+<lpage>422</lpage>
+<pub-id pub-id-type="doi">10.1007/s12038-009-0048-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Wolf et&#194;&#160;al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wolf</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Crock</surname>
+<given-names>BN</given-names>
+</name>
+<name>
+<surname>Van Ness</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Lawrenz</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Kahn</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Beskow</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Cho</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Christman</surname>
+<given-names>MF</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>RC</given-names>
+</name>
+<name>
+<surname>Hall</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Illes</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Keane</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Knoppers</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Koenig</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>Kohane</surname>
+<given-names>IS</given-names>
+</name>
+<name>
+<surname>Leroy</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Maschke</surname>
+<given-names>KJ</given-names>
+</name>
+<name>
+<surname>McGeveran</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Ossorio</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Parker</surname>
+<given-names>LS</given-names>
+</name>
+<name>
+<surname>Petersen</surname>
+<given-names>GM</given-names>
+</name>
+<name>
+<surname>Richardson</surname>
+<given-names>HS</given-names>
+</name>
+<name>
+<surname>Scott</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Terry</surname>
+<given-names>SF</given-names>
+</name>
+<name>
+<surname>Wilfond</surname>
+<given-names>BS</given-names>
+</name>
+<name>
+<surname>Wolf</surname>
+<given-names>WA</given-names>
+</name>
+</person-group>
+<article-title>Managing incidental findings and research results in
+genomic research involving biobanks and archived data
+sets</article-title>
+<source>Genetics in Medicine</source>
+<year>2012</year>
+<volume>14</volume>
+<fpage>361</fpage>
+<lpage>384</lpage>
+<pub-id pub-id-type="doi">10.1038/gim.2012.23</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>
