@@ -1,0 +1,48 @@
+qual-test/example-1.txt:
+ 2: 0.502114
+ 1: 0.497886
+
+qual-test/example-10.txt:
+ 1: 0.566335
+ 2: 0.433665
+
+qual-test/example-11.txt:
+ 2: 0.508561
+ 1: 0.491439
+
+qual-test/example-2.txt:
+ 1: 0.536121
+ 2: 0.463879
+
+qual-test/example-3.txt:
+ 2: 0.510576
+ 1: 0.489424
+
+qual-test/example-4.txt:
+ 2: 0.532022
+ 1: 0.467978
+
+qual-test/example-5.txt:
+ 2: 0.511943
+ 1: 0.488057
+
+qual-test/example-6.txt:
+ 1: 0.541063
+ 2: 0.458937
+
+qual-test/example-7.txt:
+ 1: 0.585794
+ 2: 0.414206
+
+qual-test/example-8.txt:
+ 2: 0.571584
+ 1: 0.428417
+
+qual-test/example-9.txt:
+ 1: 0.505491
+ 2: 0.494509
+
+qual-test/qual-1.txt:
+ 1: 0.557064
+ 2: 0.442936
+

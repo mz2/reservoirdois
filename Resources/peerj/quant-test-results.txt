@@ -1,0 +1,80 @@
+quant-test/7.methods:
+ 1: 0.647980
+ 2: 0.352020
+
+quant-test/70.methods:
+ 1: 0.616231
+ 2: 0.383769
+
+quant-test/71.methods:
+ 1: 0.622304
+ 2: 0.377696
+
+quant-test/72.methods:
+ 1: 0.645952
+ 2: 0.354048
+
+quant-test/73.methods:
+ 1: 0.645902
+ 2: 0.354098
+
+quant-test/74.methods:
+ 1: 0.579817
+ 2: 0.420183
+
+quant-test/75.methods:
+ 1: 0.500000
+ 2: 0.500000
+
+quant-test/76.methods:
+ 1: 0.617557
+ 2: 0.382443
+
+quant-test/77.methods:
+ 1: 0.508684
+ 2: 0.491316
+
+quant-test/78.methods:
+ 2: 0.517782
+ 1: 0.482218
+
+quant-test/79.methods:
+ 1: 0.535844
+ 2: 0.464156
+
+quant-test/81.methods:
+ 1: 0.586393
+ 2: 0.413607
+
+quant-test/82.methods:
+ 1: 0.500000
+ 2: 0.500000
+
+quant-test/83.methods:
+ 1: 0.611079
+ 2: 0.388921
+
+quant-test/84.methods:
+ 1: 0.648802
+ 2: 0.351198
+
+quant-test/85.methods:
+ 1: 0.581082
+ 2: 0.418918
+
+quant-test/86.methods:
+ 1: 0.617668
+ 2: 0.382332
+
+quant-test/87.methods:
+ 2: 0.539511
+ 1: 0.460489
+
+quant-test/88.methods:
+ 1: 0.626798
+ 2: 0.373202
+
+quant-test/89.methods:
+ 1: 0.500000
+ 2: 0.500000
+
