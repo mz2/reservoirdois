@@ -1,1147 +1,1704 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373019059000,&quot;from_str&quot;:&quot;2013-07-05T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500659000,&quot;from_str&quot;:&quot;2013-06-29T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513459000,&quot;from_str&quot;:&quot;2013-06-06T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948659000,&quot;from_str&quot;:&quot;2012-12-31T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,131,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">90</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.90</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Global Health</subject>
+          <subject>HIV</subject>
+          <subject>Infectious Diseases</subject>
+          <subject>Public Health</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Alvarez-Uria</surname>
+            <given-names>Gerardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1"/>
+          <email>gerardouria@gmail.com</email>
+        </contrib>
+        <aff id="aff-1"><institution>Department of Infectious Diseases, Rural Development Trust Hospital</institution>, <addr-line>Bathalapalli, AP</addr-line>, <country>India</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Perez-Acle</surname>
+            <given-names>Tomas</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-06-18">
+        <day>18</day>
+        <month>6</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e90</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-03-29">
+          <day>29</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-29">
+          <day>29</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Alvarez-Uria</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Alvarez-Uria</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/90"/>
+      <abstract>
+        <p>Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated with delayed entry into care stratified by gender in a large cohort study in India. 7701 patients were diagnosed with HIV and 5410 entered into care within three months of HIV diagnosis. Nearly 80% entered into care within a year, but most patients who did not enter into care within a year remained lost to follow up or died. Patient with risk factors related to having a low socio-economic status (poverty, being homeless, belonging to a disadvantaged community and illiteracy) were more likely to enter into care late. In addition, male gender and being asymptomatic at the moment of HIV infection were factors associated with delayed entry into care. Substantial gender differences were found. Younger age was found to be associated with delayed entry in men, but not in women. Widows and unmarried men were more likely to enter into care within three months. Women belonging to disadvantaged communities or living far from a town were more likely to enter into care late. The results of this study highlight the need to improve the linkage between HIV diagnosis and HIV treatment in India. HIV programmes should monitor patients diagnosed with HIV until they engage in HIV medical care, especially those at increased risk of attrition.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>HIV</kwd>
+        <kwd>Developing countries</kwd>
+        <kwd>Mortality</kwd>
+        <kwd>Program evaluation</kwd>
+        <kwd>Rural health</kwd>
+        <kwd>Lost to follow-up</kwd>
+        <kwd>Patient care planning</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>No external funding was received for this work.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>There are approximately 34 million people living with HIV worldwide (<xref ref-type="bibr" rid="ref-31">UNAIDS, 2012</xref>). Despite the impressive roll-out of antiretroviral therapy (ART) programmes worldwide, including in low and middle-income countries, 1.7 million people died of HIV-related pathologies in 2011 (<xref ref-type="bibr" rid="ref-31">UNAIDS, 2012</xref>).</p>
+      <p>People who are diagnosed with HIV are linked to healthcare facilities able to provide ART and, ideally, ART should be started before the development of opportunistic infections. However, the majority of patients enter into care late both in developed and developing countries (<xref ref-type="bibr" rid="ref-1">Adler, Mounier-Jack &amp; Coker, 2009</xref>; <xref ref-type="bibr" rid="ref-2">Althoff et al., 2010</xref>; <xref ref-type="bibr" rid="ref-5">Alvarez-Uria et al., 2012c</xref>; <xref ref-type="bibr" rid="ref-15">Girardi, Sabin &amp; Monforte, 2007</xref>). One of the most important reasons for this late presentation is the poor linkage between healthcare centres performing HIV testing and ART centres (<xref ref-type="bibr" rid="ref-7">Bassett et al., 2010</xref>; <xref ref-type="bibr" rid="ref-19">Kranzer et al., 2010</xref>; <xref ref-type="bibr" rid="ref-20">Larson et al., 2010</xref>; <xref ref-type="bibr" rid="ref-21">Losina et al., 2010</xref>). In ART centres, the measurement of the CD4 lymphocyte count is the first step of the assessment of HIV infected patients. Studies from sub-Saharan Africa have shown that only 72% (95% confidence interval [CI], 60–84%) of patients diagnosed with HIV have a CD4 count measured (<xref ref-type="bibr" rid="ref-22">Mugglin et al., 2012</xref>), and between one-third and two-thirds provide samples for CD4 counts within 2–3 months of the HIV positive test (<xref ref-type="bibr" rid="ref-27">Rosen &amp; Fox, 2011</xref>). However, data from resource-limited settings outside Africa are scarce.</p>
+      <p>With 2.4 million HIV infected people, India has the third largest burden of HIV worldwide (<xref ref-type="bibr" rid="ref-24">National AIDS Control Organisation, 2011</xref>), and two thirds of the patients live in rural areas (<xref ref-type="bibr" rid="ref-32">UNAIDS/WHO, 2010</xref>). In this study, we describe the engagement in care of people diagnosed with HIV in a large HIV cohort study in India. In particular, we aimed to find risk factors associated with delayed entry into HIV care in an Indian rural setting.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Setting</title>
+        <p>The study was performed in Anantapur, a district situated in Andhra Pradesh, India. In Anantapur, 72% of the population live in rural areas (<xref ref-type="bibr" rid="ref-26">Office of The Registrar General &amp; Census Commissioner, India, 2011</xref>), and there is a high prevalence of HIV infection in antenatal clinics (<xref ref-type="bibr" rid="ref-25">National AIDS Control Organisation, 2012</xref>). The HIV epidemic is largely driven by heterosexual transmission and is characterized by poor socio-economic conditions and high levels of illiteracy in the HIV population (<xref ref-type="bibr" rid="ref-6">Alvarez-Uria et al., 2012d</xref>). HIV testing is offered free of cost in any of the 71 governmental integrated and counselling testing centres spread across the district, and it is also available in some private clinics. The Rural Development Trust (RDT) is a non-governmental organization that provides medical care to HIV infected people free of cost, including HIV testing, medicines, consultations or hospital admission charges. RDT has three hospitals in the district, and in one of them (Bathalapalli RDT Hospital) CD4 count enumeration and ART are provided free of cost by the Indian Government under a public-private partnership. The Vicente Ferrer HIV Cohort Study (VFHCS) is an open cohort study of all HIV infected patients who have attended RDT hospitals since June 2006. At enrolment in the cohort, the date of the first positive HIV testing is collected. The characteristics of the cohort have been described in detail elsewhere (<xref ref-type="bibr" rid="ref-6">Alvarez-Uria et al., 2012d</xref>). The cohort is fairly representative of the HIV population in the district as it covers approximately 70% of all HIV infected patients registered in the district (<xref ref-type="bibr" rid="ref-4">Alvarez-Uria et al., 2012b</xref>).</p>
+        <p>For this study, we selected HIV infected adults (&gt;15 years) living in Anantapur and diagnosed with HIV between January 1st 2007 and November 4th 2011 that were included in the VFHCS. The selection of patients from the database was executed on September 14th 2012. Patients who were lost to follow up were actively searched for by at least one phone call and one home visit by outreach workers and for patients who had died, the date of death was collected.</p>
+      </sec>
+      <sec>
+        <title>Design</title>
+        <p>To describe the entry into HIV care, we calculated the time period between the HIV diagnosis and the first determination of the CD4 count. Following recommendations based on studies performed in sub-Saharan Africa (<xref ref-type="bibr" rid="ref-13">Fox, Larson &amp; Rosen, 2012</xref>), delayed entry into care was defined if patients did not have a CD4 count measurement within three months of HIV diagnosis.</p>
+        <p>In the analysis, patients’ communities were classified as “socially disadvantaged” if the patient self-reported living in a scheduled caste or scheduled tribe community. The “socially disadvantaged” designation was based on the fact that scheduled caste communities are marginalized in the traditional Hindu caste hierarchy and, therefore, suffer social and economic exclusion and disadvantage, and scheduled tribe communities are geographically isolated with limited economic and social contact with the rest of the population. These disadvantaged communities are supported by positive discrimination schemes operated by the Government of India (<xref ref-type="bibr" rid="ref-3">Alvarez-Uria, Midde &amp; Naik, 2012a</xref>). Patients were considered to be living near an ART centre if they lived in a mandal with an ART centre or lived next to a mandal (administrative subdivision of districts in Andhra Pradesh; e.g., Anantapur District has 64 mandals) with an ART centre. ART centres are healthcare facilities able to perform CD4 count and provide ART to patients free of cost. During the study period, two mandals had an ART centre. Patients were considered to be living near a town when they lived in any of the six mandals containing a town with a population &gt;100,000 people. Towns have better communications than rural areas. Poverty was defined as living with less than 1000 Indian rupees per month (approximately 18 US dollars in March 2013). In Anantapur, distances between the headquarters of contiguous mandals can range between 10 to 30 km.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.90/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Baseline characteristics and factors associated with entry into care within 3 months of 7701 patients diagnosed with HIV infection from 2007 to 2011 in Anantapur District, Andhra Pradesh, India.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/90/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">Baseline<break/>characteristics</th>
+                  <th align="left">Entry<break/>&lt;3 months</th>
+                  <th align="center" colspan="3">Multivariable analysis of factors associated with entry into care within 3 months</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">(<italic>n</italic> = 7701)</th>
+                  <th align="left"/>
+                  <th align="left">Overall</th>
+                  <th align="left">Males</th>
+                  <th align="left">Females</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">N (%)</th>
+                  <th align="left">N (%)</th>
+                  <th align="left">aRR (95% CI)</th>
+                  <th align="left">aRR (95% CI)</th>
+                  <th align="left">aRR (95% CI)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">
+                    <bold>Age (years)</bold>
+                  </td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">&lt;25</td>
+                  <td align="left">1543 (20.04)</td>
+                  <td align="left">1021 (66.17)</td>
+                  <td align="left">0.97 (0.93–1.01)</td>
+                  <td align="left">0.91<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.84–0.99)</td>
+                  <td align="left">1.00 (0.95–1.06)</td>
+                </tr>
+                <tr>
+                  <td align="left">25–35</td>
+                  <td align="left">3362 (43.66)</td>
+                  <td align="left">2323 (69.1)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                </tr>
+                <tr>
+                  <td align="left">35–45</td>
+                  <td align="left">1897 (24.63)</td>
+                  <td align="left">1383 (72.9)</td>
+                  <td align="left">1.04<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.00–1.08)</td>
+                  <td align="left">1.05<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.01–1.10)</td>
+                  <td align="left">1.02 (0.96–1.07)</td>
+                </tr>
+                <tr>
+                  <td align="left">&gt;45</td>
+                  <td align="left">899 (11.67)</td>
+                  <td align="left">683 (75.97)</td>
+                  <td align="left">1.06<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.02–1.11)</td>
+                  <td align="left">1.08<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.02–1.14)</td>
+                  <td align="left">1.05 (0.98–1.13)</td>
+                </tr>
+                <tr>
+                  <td align="left">Disadvantaged community</td>
+                  <td align="left">2193 (28.48)</td>
+                  <td align="left">1466 (66.85)</td>
+                  <td align="left">0.95<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.92–0.98)</td>
+                  <td align="left">0.97 (0.92–1.01)</td>
+                  <td align="left">0.93<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.88–0.97)</td>
+                </tr>
+                <tr>
+                  <td align="left">Illiteracy</td>
+                  <td align="left">4520 (58.75)</td>
+                  <td align="left">3062 (67.74)</td>
+                  <td align="left">0.91<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.88–0.94)</td>
+                  <td align="left">0.91<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.87–0.94)</td>
+                  <td align="left">0.92<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.88–0.96)</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <bold>Marital status</bold>
+                  </td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Divorced/separated</td>
+                  <td align="left">423 (5.51)</td>
+                  <td align="left">304 (71.87)</td>
+                  <td align="left">1.05 (0.99–1.12)</td>
+                  <td align="left">1.09 (1.00–1.18)</td>
+                  <td align="left">1.03 (0.95–1.12)</td>
+                </tr>
+                <tr>
+                  <td align="left">Married</td>
+                  <td align="left">5558 (72.43)</td>
+                  <td align="left">3840 (69.09)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                </tr>
+                <tr>
+                  <td align="left">Unmarried</td>
+                  <td align="left">431 (5.62)</td>
+                  <td align="left">309 (71.69)</td>
+                  <td align="left">1.05 (0.98–1.12)</td>
+                  <td align="left">1.08<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.00–1.15)</td>
+                  <td align="left">1.00 (0.82–1.23)</td>
+                </tr>
+                <tr>
+                  <td align="left">Widowed</td>
+                  <td align="left">1262 (16.45)</td>
+                  <td align="left">942 (74.64)</td>
+                  <td align="left">1.08<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.04–1.13)</td>
+                  <td align="left">1.00 (0.92–1.08)</td>
+                  <td align="left">1.12<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.07–1.17)</td>
+                </tr>
+                <tr>
+                  <td align="left">Homeless</td>
+                  <td align="left">856 (11.68)</td>
+                  <td align="left">420 (49.07)</td>
+                  <td align="left">0.71<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.67–0.77)</td>
+                  <td align="left">0.68<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.61–0.75)</td>
+                  <td align="left">0.76<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.69–0.85)</td>
+                </tr>
+                <tr>
+                  <td align="left">Living near an ART centre</td>
+                  <td align="left">2481 (32.22)</td>
+                  <td align="left">1789 (72.11)</td>
+                  <td align="left">1.03 (1.00–1.06)</td>
+                  <td align="left">1.03 (0.98–1.07)</td>
+                  <td align="left">1.03 (0.98–1.07)</td>
+                </tr>
+                <tr>
+                  <td align="left">Living near a town</td>
+                  <td align="left">3316 (43.06)</td>
+                  <td align="left">2387 (71.98)</td>
+                  <td align="left">1.03<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.00–1.06)</td>
+                  <td align="left">1.01 (0.97–1.06)</td>
+                  <td align="left">1.05<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.01–1.10)</td>
+                </tr>
+                <tr>
+                  <td align="left">Poverty</td>
+                  <td align="left">2740 (36.8)</td>
+                  <td align="left">1768 (64.53)</td>
+                  <td align="left">0.96<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.92–0.99)</td>
+                  <td align="left">0.93<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.88–0.97)</td>
+                  <td align="left">0.99 (0.95–1.05)</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <bold>Year of HIV diagnosis</bold>
+                  </td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">2007</td>
+                  <td align="left">1715 (22.27)</td>
+                  <td align="left">941 (54.87)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                </tr>
+                <tr>
+                  <td align="left">2008</td>
+                  <td align="left">1640 (21.3)</td>
+                  <td align="left">1057 (64.45)</td>
+                  <td align="left">1.14<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.08–1.21)</td>
+                  <td align="left">1.09<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.01–1.17)</td>
+                  <td align="left">1.22<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.13–1.33)</td>
+                </tr>
+                <tr>
+                  <td align="left">2009</td>
+                  <td align="left">1618 (21.01)</td>
+                  <td align="left">1140 (70.46)</td>
+                  <td align="left">1.25<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.19–1.32)</td>
+                  <td align="left">1.17<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.09–1.26)</td>
+                  <td align="left">1.36<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.26–1.47)</td>
+                </tr>
+                <tr>
+                  <td align="left">2010</td>
+                  <td align="left">1562 (20.28)</td>
+                  <td align="left">1277 (81.75)</td>
+                  <td align="left">1.39<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.33–1.46)</td>
+                  <td align="left">1.31<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.23–1.40)</td>
+                  <td align="left">1.50<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.39–1.62)</td>
+                </tr>
+                <tr>
+                  <td align="left">2011</td>
+                  <td align="left">1166 (15.14)</td>
+                  <td align="left">995 (85.33)</td>
+                  <td align="left">1.42<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.35–1.50)</td>
+                  <td align="left">1.38<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.29–1.48)</td>
+                  <td align="left">1.49<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.38–1.61)</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <bold>Reason for HIV testing</bold>
+                  </td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Symptoms</td>
+                  <td align="left">5006 (65)</td>
+                  <td align="left">3615 (72.21)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                  <td align="left">1 (reference)</td>
+                </tr>
+                <tr>
+                  <td align="left">Pregnancy</td>
+                  <td align="left">371 (4.82)</td>
+                  <td align="left">256 (69)</td>
+                  <td align="left">0.91<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.85–0.99)</td>
+                  <td align="left">–</td>
+                  <td align="left">0.91<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.84–0.98)</td>
+                </tr>
+                <tr>
+                  <td align="left">HIV+partner</td>
+                  <td align="left">1568 (20.36)</td>
+                  <td align="left">1040 (66.33)</td>
+                  <td align="left">0.89<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.85–0.92)</td>
+                  <td align="left">0.85<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.79–0.91)</td>
+                  <td align="left">0.90<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.86–0.95)</td>
+                </tr>
+                <tr>
+                  <td align="left">Others</td>
+                  <td align="left">756 (9.82)</td>
+                  <td align="left">499 (66.01)</td>
+                  <td align="left">0.95 (0.90–1.00)</td>
+                  <td align="left">0.97 (0.91–1.04)</td>
+                  <td align="left">0.91<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (0.84–0.99)</td>
+                </tr>
+                <tr>
+                  <td align="left">Female gender</td>
+                  <td align="left">3397 (44.11)</td>
+                  <td align="left">2417 (71.15)</td>
+                  <td align="left">1.08<xref ref-type="fn" rid="table-1fn1"><sup>*</sup></xref> (1.05–1.12)</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-1fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-1fn1">
+              <label>*</label>
+              <p><italic>P</italic> value &lt;0.05. ART, antiretroviral therapy; aRR, adjusted risk ratio by Poisson regression with robust variance; CI, confidence interval.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Statistical analysis</title>
+        <p>Statistical analysis was performed using Stata Statistical Software (Stata Corporation, Release 11, College Station, Texas, USA). We investigated factors associated with entry into care within three months of HIV diagnosis. All independent variables were included in the multivariable analysis. When variables had more than two groups, the group with the largest sample size was selected to avoid collinearity problems (<xref ref-type="bibr" rid="ref-18">Katz, 2011</xref>). In order to find adjusted risk ratios that exhibit robustness to outliers, a Poisson regression with robust variance was applied (<xref ref-type="bibr" rid="ref-34">Zou, 2004</xref>). All two-way interactions were checked, and we found interactions between gender and other variables. Hence, stratified-by-gender analysis was also performed. Missing values were imputed using multiple imputations by chained equation (<xref ref-type="bibr" rid="ref-28">Royston, 2009</xref>). Cumulative incidence of entry into care and death was estimated using competing-risk regression (stcompet command in Stata) (<xref ref-type="bibr" rid="ref-9">Cleves, Gould &amp; Gutierrez, 2008</xref>; <xref ref-type="bibr" rid="ref-10">Coviello &amp; Boggess, 2004</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>During the study period, 7701 patients were diagnosed with HIV infection, and 5410 (70.3%, 95% CI, 69.2–71.3) entered into care within three months of HIV diagnosis. Baseline characteristics and factors associated with entry into care within three months overall and by gender are presented in <xref ref-type="table" rid="table-1">Table 1</xref>. 64% of patients were &lt;35 years old and 44% were women. 28% belonged to a disadvantaged community, 59% were illiterate, 72% were married and 37% were living with less than 1000 Indian rupees per month. 43% lived near a town and 32% lived near an ART centre. Almost two-thirds of patients were diagnosed because they had symptoms related to HIV.</p>
+      <p>Factors associated with delayed entry into care were homelessness, and illiteracy. A more recent calendar year of HIV diagnosis, being symptomatic at HIV diagnosis, and female gender were factors associated with entry into care within three months. Younger age, poverty, and being diagnosed with HIV due to having an HIV positive partner were associated with delayed entry into care only in men. Women belonging to disadvantaged communities or living far from a town were less likely to engage in HIV care within three months. Widows and unmarried men were more likely to enter into care within three months than married people.</p>
+      <p>The estimated cumulative proportion of patients who entered into care after 1, 2, 3, 4 and 5 years since HIV diagnosis was 77.4% (95% CI, 76.5–78.3), 80.1% (95% CI, 79.2–81), 81.2% (95% CI, 80.4–82.1), 81.9% (95% CI, 81–82.7), and 82.3% (95% CI, 81.3–83.1) respectively. A stacked graph of the proportion of patients who entered into care, died before entering into care and were lost to follow up over time is presented in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>.</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.90/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Stacked graph of the status of 7701 patients diagnosed with HIV infection from 2007 to 2011 in Anantapur District, Andhra Pradesh, India.</title>
+          <p>Entry into care was calculated using the time period between the HIV diagnosis and the first CD4 count determination. Patients were considered lost to follow up until they entered into care.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/90/fig-1.png"/>
+      </fig>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>This study shows that over two-thirds of patients diagnosed with HIV enter into care within three months and almost 80% within a year. However, most patients who do not enter into care within a year of HIV diagnosis are lost to follow up. These patients may die before enrolling in an ART centre and are at higher risk of late ART initiation, which has been related to shorter life expectancy, higher cost of medical care and poorer quality of life (<xref ref-type="bibr" rid="ref-12">Farnham et al., 2013</xref>; <xref ref-type="bibr" rid="ref-17">Johnson et al., 2013</xref>).</p>
+      <p>These results highlight the need to improve the linkage between HIV testing and ART centres in India. All patients diagnosed with HIV should be monitored until they engage in ART centres (<xref ref-type="bibr" rid="ref-30">Thompson et al., 2012</xref>). Both healthcare centres performing HIV testing and ART centres should share responsibility to monitor these patients, and establishing channels of communication is paramount. Rather than passive referrals, healthcare workers from centres where HIV testing is performed should motivate patients diagnosed with HIV by emphasizing the benefits of receiving specialized medical treatment and by offering complete information about the nearest ART centres. In some cases, several counselling sessions may be needed because this strategy has shown positive results in a study conducted in the United States (<xref ref-type="bibr" rid="ref-14">Gardner et al., 2005</xref>). In patients who do not reach ART centres, previous studies have shown that outreach visits might be beneficial (<xref ref-type="bibr" rid="ref-8">Bradford, Coleman &amp; Cunningham, 2007</xref>; <xref ref-type="bibr" rid="ref-23">Naar-King et al., 2007</xref>). However, most of these studies come from developed countries, so further research is needed to investigate new strategies aimed at improving the linkage between HIV diagnosis and HIV treatment in resource-limited settings.</p>
+      <p>This is one of the first studies to describe predictors of delayed entry into HIV medical care in a resource-limited setting outside sub-Saharan Africa. In accordance with a meta-analysis of studies conducted in sub-Saharan Africa (<xref ref-type="bibr" rid="ref-22">Mugglin et al., 2012</xref>), men and patients with low socio-economic status were less likely to enter into care within three months of HIV diagnosis. In a previous study from our cohort, over half of male patients acquired HIV through commercial sex and 21% were not able to reveal their HIV status to their wives (<xref ref-type="bibr" rid="ref-6">Alvarez-Uria et al., 2012d</xref>). In the present study, married men were less likely to enter into care within three months than unmarried men, suggesting that some married men preferred to conceal their HIV status rather than to obtain medical care. Homelessness, poverty, illiteracy and belonging to a disadvantaged community were factors associated with delayed entry into care. Illiteracy has been associated with poorer health-related quality of life in HIV patients living in rural India (<xref ref-type="bibr" rid="ref-33">Vigneshwaran et al., 2013</xref>). It is possible that for people living in very poor socio-economic conditions, searching for HIV medical care is not the first priority if they are able to cope with their usual daily activities (<xref ref-type="bibr" rid="ref-11">Dhillon et al., 2012</xref>).</p>
+      <p>Similar to a South-African study (<xref ref-type="bibr" rid="ref-21">Losina et al., 2010</xref>), patients living far from urban areas and being asymptomatic at the moment of HIV diagnosis were less likely to enter into care, especially women. Patients living in rural areas have more difficulty reaching ART centres and concealing their HIV status than HIV patients living in urban areas, where there are better communications and more anonymity (<xref ref-type="bibr" rid="ref-16">Heckman et al., 1998</xref>). Having symptoms at the time of diagnosis may motivate patients to attend ART centres searching for a cure for their symptoms. On the other hand, patients who do not have symptoms may be more concerned about the stigma and discrimination associated with HIV in India (<xref ref-type="bibr" rid="ref-29">Steward et al., 2013</xref>).</p>
+      <p>The study has some limitations. Although the cohort is fairly representative of the HIV population in the district, we did not have information for all patients diagnosed with HIV in the district, so patients diagnosed in other healthcare facilities who never came to our hospital were not included in the study. Therefore, the proportion of patients diagnosed with HIV that entered into care is likely to be an overestimation. In addition, despite outreach visits and phone calls were performed to re-engage patients lost to follow up, we do not know the proportion of those who enrolled in other ART centres.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In our setting, over two-thirds of the patients diagnosed with HIV enter into care within three months and nearly 80% within a year, but most patients who do not enter into care within a year remain lost to follow up. Male gender, homelessness, illiteracy, poverty, living far from a town and being asymptomatic at the moment of HIV diagnosis were factors associated with delayed entry into care after HIV diagnosis. This information could be used to improve the linkage between healthcare centres performing HIV testing and ART centres in India by offering better support to patients within these risk groups.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank Leann Johnson for her critical review of the manuscript.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The author declares no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Gerardo Alvarez-Uria</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Human Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>The study was approved by the Ethics Committee of the Rural Development Trust Hospital (Reference number OS/003). Written informed consent was given by patients or caretakers for their information to be stored in the study database and used for research.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Adler, Mounier-Jack &amp; Coker (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adler</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mounier-Jack</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Coker</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Late diagnosis of HIV in Europe: definitional and public health challenges</article-title>
+          <source>AIDS Care</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>21</volume>
+          <fpage>284</fpage>
+          <lpage>293</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540120802183537</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Althoff et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Althoff</surname>
+              <given-names>KN</given-names>
+            </name>
+            <name>
+              <surname>Gange</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Brooks</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Hogg</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Bosch</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Horberg</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Saag</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Kitahata</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Justice</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Gebo</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Eron</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Rourke</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Rodriguez</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sterling</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Calzavara</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Deeks</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Rachlis</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Napravnik</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jacobson</surname>
+              <given-names>LP</given-names>
+            </name>
+            <name>
+              <surname>Kirk</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Collier</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Benson</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Silverberg</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Kushel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Goedert</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>McKaig</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Van Rompaey</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RD</given-names>
+            </name>
+          </person-group>
+          <article-title>Late presentation for human immunodeficiency virus care in the United States and Canada</article-title>
+          <source>Clinical Infectious Diseases</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>50</volume>
+          <fpage>1512</fpage>
+          <lpage>1520</lpage>
+          <pub-id pub-id-type="doi">10.1086/652650</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Alvarez-Uria, Midde &amp; Naik (2012a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez-Uria</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Midde</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Naik</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <article-title>Socio-demographic risk factors associated with HIV infection in patients seeking medical advice in a rural hospital of India</article-title>
+          <source>Journal of Public Health Research</source>
+          <year iso-8601-date="2012">2012a</year>
+          <volume>1</volume>
+          <elocation-id>e14</elocation-id>
+          <pub-id pub-id-type="doi">10.4081/jphr.2012.e14</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Alvarez-Uria et al. (2012b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez-Uria</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Midde</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pakam</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bachu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Naik</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of formula feeding and breastfeeding on child growth, infant mortality, and HIV transmission in children born to HIV-infected pregnant women who received triple antiretroviral therapy in a resource-limited setting: data from an HIV cohort study in India</article-title>
+          <source>ISRN Pediatrics</source>
+          <year iso-8601-date="2012">2012b</year>
+          <volume>2012</volume>
+          <comment>9 pages, Article ID 763591</comment>
+          <pub-id pub-id-type="doi">10.5402/2012/763591</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Alvarez-Uria et al. (2012c)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez-Uria</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Midde</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pakam</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kannan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bachu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Naik</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <article-title>Factors associated with late presentation of HIV and estimation of antiretroviral treatment need according to CD4 lymphocyte count in a resource-limited setting: data from an HIV cohort study in India</article-title>
+          <source>Interdisciplinary Perspect Infectious Diseases</source>
+          <year iso-8601-date="2012">2012c</year>
+          <volume>2012</volume>
+          <comment>7 pages, Article ID 293795</comment>
+          <pub-id pub-id-type="doi">10.1155/2012/293795</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Alvarez-Uria et al. (2012d)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez-Uria</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Midde</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pakam</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Naik</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <article-title>Gender differences, routes of transmission, socio-demographic characteristics and prevalence of HIV related infections of adults and children in an HIV cohort from a rural district of India</article-title>
+          <source>Infectious Diseases Reports</source>
+          <year iso-8601-date="2012">2012d</year>
+          <volume>4</volume>
+          <elocation-id>e19</elocation-id>
+          <pub-id pub-id-type="doi">10.4081/idr.2012.e19</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Bassett et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bassett</surname>
+              <given-names>IV</given-names>
+            </name>
+            <name>
+              <surname>Regan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Chetty</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Giddy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Uhler</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Holst</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Katz</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Walensky</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Freedberg</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Losina</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Who starts antiretroviral therapy in Durban, South Africa?... not everyone who should</article-title>
+          <source>AIDS</source>
+          <issue>Suppl 1</issue>
+          <year iso-8601-date="2010">2010</year>
+          <volume>24</volume>
+          <fpage>S37</fpage>
+          <lpage>S44</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.aids.0000366081.91192.1c</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Bradford, Coleman &amp; Cunningham (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bradford</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Coleman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cunningham</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV system navigation: an emerging model to improve HIV care access</article-title>
+          <source>AIDS Patient Care STDS</source>
+          <issue>Suppl 1</issue>
+          <year iso-8601-date="2007">2007</year>
+          <volume>21</volume>
+          <fpage>S49</fpage>
+          <lpage>S58</lpage>
+          <pub-id pub-id-type="doi">10.1089/apc.2007.9987</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Cleves, Gould &amp; Gutierrez (2008)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cleves</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Gould</surname>
+              <given-names>WW</given-names>
+            </name>
+            <name>
+              <surname>Gutierrez</surname>
+              <given-names>RG</given-names>
+            </name>
+          </person-group>
+          <source>An introduction to survival analysis using Stata</source>
+          <year iso-8601-date="2008">2008</year>
+          <publisher-name>Stata Corp</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Coviello &amp; Boggess (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coviello</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Boggess</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Cumulative incidence estimation in the presence of competing risks</article-title>
+          <source>Stata Journal</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>4</volume>
+          <fpage>103</fpage>
+          <lpage>112</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Dhillon et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dhillon</surname>
+              <given-names>PK</given-names>
+            </name>
+            <name>
+              <surname>Jeemon</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Arora</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Mathur</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Maskey</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sukirna</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Prabhakaran</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Status of epidemiology in the WHO South-East Asia region: burden of disease, determinants of health and epidemiological research, workforce and training capacity</article-title>
+          <source>International Journal of Epidemiology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>41</volume>
+          <fpage>847</fpage>
+          <lpage>860</lpage>
+          <pub-id pub-id-type="doi">10.1093/ije/dys046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Farnham et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farnham</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Gopalappa</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sansom</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Hutchinson</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Brooks</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Weidle</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Marconi</surname>
+              <given-names>VC</given-names>
+            </name>
+            <name>
+              <surname>Rimland</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Updates of lifetime costs of care and quality of life estimates for HIV-infected persons in the United States: late versus early diagnosis and entry into care</article-title>
+          <source>Journal of Acquired Immune Deficiency Syndromes</source>
+          <year iso-8601-date="2013">2013</year>
+          <comment>Epub ahead of print April 22 2013.</comment>
+          <pub-id pub-id-type="doi">10.1097/QAI.0b013e3182973966</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Fox, Larson &amp; Rosen (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fox</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Larson</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Defining retention and attrition in pre-antiretroviral HIV care: proposals based on experience in Africa</article-title>
+          <source>Tropical Medicine &amp; International Health</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>17</volume>
+          <fpage>1235</fpage>
+          <lpage>1244</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-3156.2012.03055.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Gardner et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gardner</surname>
+              <given-names>LI</given-names>
+            </name>
+            <name>
+              <surname>Metsch</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Anderson-Mahoney</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Loughlin</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Del Rio</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Strathdee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sansom</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Siegal</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Holmberg</surname>
+              <given-names>SD</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficacy of a brief case management intervention to link recently diagnosed HIV-infected persons to care</article-title>
+          <source>AIDS</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>19</volume>
+          <fpage>423</fpage>
+          <lpage>431</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.aids.0000161772.51900.eb</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Girardi, Sabin &amp; Monforte (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Girardi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sabin</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Monforte</surname>
+              <given-names>AD</given-names>
+            </name>
+          </person-group>
+          <article-title>Late diagnosis of HIV infection: epidemiological features, consequences and strategies to encourage earlier testing</article-title>
+          <source>Journal of Acquired Immune Deficiency Syndromes</source>
+          <issue>Suppl 1</issue>
+          <year iso-8601-date="2007">2007</year>
+          <volume>46</volume>
+          <fpage>S3</fpage>
+          <lpage>S8</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.qai.0000286597.57066.2b</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Heckman et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heckman</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Somlai</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Kalichman</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Franzoi</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Psychosocial differences between urban and rural people living with HIV/AIDS</article-title>
+          <source>Journal of Rural Health</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>14</volume>
+          <fpage>138</fpage>
+          <lpage>145</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1748-0361.1998.tb00615.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Johnson et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Mossong</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dorrington</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Schomaker</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hoffmann</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Keiser</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Prozesky</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Giddy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Garone</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Cornell</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Egger</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Boulle</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Life expectancies of South african adults starting antiretroviral treatment: collaborative analysis of cohort studies</article-title>
+          <source>PLoS Medicine</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>10</volume>
+          <elocation-id>e1001418</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.1001418</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Katz (2011)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>MH</given-names>
+            </name>
+          </person-group>
+          <source>Multivariable analysis: a practical guide for clinicians and public health researchers</source>
+          <year iso-8601-date="2011">2011</year>
+          <publisher-name>Cambridge University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Kranzer et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kranzer</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Zeinecker</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ginsberg</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Orrell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kalawe</surname>
+              <given-names>NN</given-names>
+            </name>
+            <name>
+              <surname>Lawn</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Bekker</surname>
+              <given-names>L-G</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Linkage to HIV care and antiretroviral therapy in Cape Town, South Africa</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>5</volume>
+          <elocation-id>e13801</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0013801</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Larson et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larson</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Brennan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>McNamara</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Long</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sanne</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>MP</given-names>
+            </name>
+          </person-group>
+          <article-title>Lost opportunities to complete CD4 + lymphocyte testing among patients who tested positive for HIV in South Africa</article-title>
+          <source>Bulletin of the World Health Organization</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>88</volume>
+          <fpage>675</fpage>
+          <lpage>680</lpage>
+          <pub-id pub-id-type="doi">10.2471/BLT.09.068981</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Losina et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Losina</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bassett</surname>
+              <given-names>IV</given-names>
+            </name>
+            <name>
+              <surname>Giddy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chetty</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Regan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Walensky</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Scott</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Uhler</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Katz</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Holst</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Freedberg</surname>
+              <given-names>KA</given-names>
+            </name>
+          </person-group>
+          <article-title>The “ART” of linkage: pre-treatment loss to care after HIV diagnosis at two PEPFAR sites in Durban, South Africa</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>5</volume>
+          <elocation-id>e9538</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0009538</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Mugglin et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mugglin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Estill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wandeler</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Egger</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gsponer</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Keiser</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <article-title>Loss to programme between HIV diagnosis and initiation of antiretroviral therapy in sub-Saharan Africa: systematic review and meta-analysis</article-title>
+          <source>Tropical Medicine &amp; International Health</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>17</volume>
+          <fpage>1509</fpage>
+          <lpage>1520</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-3156.2012.03089.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Naar-King et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naar-King</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bradford</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Coleman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Green-Jones</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cabral</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tobias</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Retention in care of persons newly diagnosed with HIV: outcomes of the outreach initiative</article-title>
+          <source>AIDS Patient Care STDS</source>
+          <issue>Suppl 1</issue>
+          <year iso-8601-date="2007">2007</year>
+          <volume>21</volume>
+          <fpage>S40</fpage>
+          <lpage>S48</lpage>
+          <pub-id pub-id-type="doi">10.1089/apc.2007.9988</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>National AIDS Control Organisation (2011)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <collab>
+              <institution>National AIDS Control Organisation</institution>
+            </collab>
+          </person-group>
+          <year iso-8601-date="2011">2011</year>
+          <comment>India HIV Estimates. Technical Report</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>National AIDS Control Organisation (2012)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <collab>
+              <institution>National AIDS Control Organisation</institution>
+            </collab>
+          </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <comment>HIV Sentinel Surveillance 2010-11. A Technical Brief</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Office of The Registrar General &amp; Census Commissioner, India (2011)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <collab>
+              <institution>Office of The Registrar General &amp; Census Commissioner, India</institution>
+            </collab>
+          </person-group>
+          <year iso-8601-date="2011">2011</year>
+          <comment>Census of India</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Rosen &amp; Fox (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>MP</given-names>
+            </name>
+          </person-group>
+          <article-title>Retention in HIV care between testing and treatment in sub-Saharan Africa: a systematic review</article-title>
+          <source>PLoS Medicine</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>8</volume>
+          <elocation-id>e1001056</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.1001056</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Royston (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Royston</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Multiple imputation of missing values: further update of ice, with an emphasis on categorical variables</article-title>
+          <source>Stata Journal</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>9</volume>
+          <fpage>466</fpage>
+          <lpage>477</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Steward et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Steward</surname>
+              <given-names>WT</given-names>
+            </name>
+            <name>
+              <surname>Bharat</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ramakrishna</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Heylen</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ekstrand</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma is associated with delays in seeking care among HIV-infected people in India</article-title>
+          <source>Journal of the International Association of Providers of AIDS Care</source>
+          <issue>2</issue>
+          <year iso-8601-date="2013">2013</year>
+          <volume>12</volume>
+          <fpage>103</fpage>
+          <lpage>109</lpage>
+          <pub-id pub-id-type="doi">10.1177/1545109711432315</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Thompson et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thompson</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Mugavero</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Amico</surname>
+              <given-names>KR</given-names>
+            </name>
+            <name>
+              <surname>Cargill</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>LW</given-names>
+            </name>
+            <name>
+              <surname>Gross</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Orrell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Altice</surname>
+              <given-names>FL</given-names>
+            </name>
+            <name>
+              <surname>Bangsberg</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Bartlett</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Beckwith</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Dowshen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Horn</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Scott</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Stirratt</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Remien</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Simoni</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Nachega</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title>Guidelines for improving entry into and retention in care and antiretroviral adherence for persons with HIV: evidence-based recommendations from an International Association of Physicians in AIDS Care panel</article-title>
+          <source>Annals of Internal Medicine</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>156</volume>
+          <fpage>817</fpage>
+          <lpage>833</lpage>
+          <comment>W–284, W–285, W–286, W–287, W–288, W–289, W–290, W–291, W–292, W–293, W–294</comment>
+          <pub-id pub-id-type="doi">10.7326/0003-4819-156-11-201206050-00419</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>UNAIDS (2012)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <collab>
+              <institution>UNAIDS</institution>
+            </collab>
+          </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <comment>2012 UNAIDS Report on the Global AIDS Epidemic</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>UNAIDS/WHO (2010)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <collab>
+              <institution>UNAIDS/WHO</institution>
+            </collab>
+          </person-group>
+          <year iso-8601-date="2010">2010</year>
+          <comment>Country Progress Report. UNGASS. India, March 2010</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Vigneshwaran et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vigneshwaran</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Padmanabhareddy</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Devanna</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Alvarez Uria</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Gender differences in health related quality of life of people living with HIV/AIDS in the era of highly active antiretroviral therapy</article-title>
+          <source>North American Journal of Medical Sciences</source>
+          <issue>2</issue>
+          <year iso-8601-date="2013">2013</year>
+          <volume>5</volume>
+          <fpage>102</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.4103/1947-2714.107526</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Zou (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zou</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>A modified Poisson regression approach to prospective studies with binary data</article-title>
+          <source>American Journal of Epidemiology</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>159</volume>
+          <fpage>702</fpage>
+          <lpage>706</lpage>
+          <pub-id pub-id-type="doi">10.1093/aje/kwh090</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,1147 +1,1060 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">21</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.21</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Biochemistry</subject>
+          <subject>Marine Biology</subject>
+          <subject>Zoology</subject>
+          <subject>Anatomy and Physiology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Glucose-6-phosphate dehydrogenase regulation in the hepatopancreas of the anoxia-tolerant marine mollusc, <italic>Littorina littorea</italic></article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Lama</surname>
+            <given-names>Judeh L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Bell</surname>
+            <given-names>Ryan A.V.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Storey</surname>
+            <given-names>Kenneth B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Institute of Biochemistry and Department of Biology</institution>, <addr-line>Carleton University</addr-line>, <addr-line>Ottawa, Ontario</addr-line>, <country>Canada K1S 5B6</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Institute of Biochemistry and Departments of Biology and Chemistry</institution>, <addr-line>Carleton University</addr-line>, <addr-line>Ottawa, Ontario</addr-line>, <country>Canada K1S 5B6</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Institute of Biochemistry and Departments and Chemistry</institution>, <addr-line>Carleton University</addr-line>, <addr-line>Ottawa, Ontario</addr-line>, <country>Canada K1S 5B6</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Palomo</surname>
+            <given-names>Jose</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>kenneth_storey@carleton.ca</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e21</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-20">
+          <day>20</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-08">
+          <day>8</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Lama et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Lama et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/21"/>
+      <abstract>
+        <p>Glucose-6-phosphate dehydrogenase (G6PDH) gates flux through the pentose phosphate pathway and is key to cellular antioxidant defense due to its role in producing NADPH. Good antioxidant defenses are crucial for anoxia-tolerant organisms that experience wide variations in oxygen availability. The marine mollusc, <italic>Littorina littorea</italic>, is an intertidal snail that experiences daily bouts of anoxia/hypoxia with the tide cycle and shows multiple metabolic and enzymatic adaptations that support anaerobiosis. This study investigated the kinetic, physical and regulatory properties of G6PDH from hepatopancreas of <italic>L. littorea</italic> to determine if the enzyme is differentially regulated in response to anoxia, thereby providing altered pentose phosphate pathway functionality under oxygen stress conditions. Several kinetic properties of G6PDH differed significantly between aerobic and 24 h anoxic conditions; compared with the aerobic state, anoxic G6PDH (assayed at pH 8) showed a 38% decrease in <italic>K</italic><sub><italic>m</italic></sub> G6P and enhanced inhibition by urea, whereas in pH 6 assays <italic>K</italic><sub><italic>m</italic></sub> NADP and maximal activity changed significantly between the two states. The mechanism underlying anoxia-responsive changes in enzyme properties proved to be a change in the phosphorylation state of G6PDH. This was documented with immunoblotting using an anti-phosphoserine antibody, <italic>in vitro</italic> incubations that stimulated endogenous protein kinases versus protein phosphatases and significantly changed <italic>K</italic><sub><italic>m</italic></sub> G6P, and phosphorylation of the enzyme with <sup>32</sup>P-ATP. All these data indicated that the aerobic and anoxic forms of G6PDH were the high and low phosphate forms, respectively, and that phosphorylation state was modulated in response to selected endogenous protein kinases (PKA or PKG) and protein phosphatases (PP1 or PP2C). Anoxia-induced changes in the phosphorylation state of G6PDH may facilitate sustained or increased production of NADPH to enhance antioxidant defense during long term anaerobiosis and/or during the transition back to aerobic conditions when the reintroduction of oxygen causes a rapid increase in oxidative stress.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Pentose phosphate pathway</kwd>
+        <kwd>Anoxia</kwd>
+        <kwd>Littorina littorea</kwd>
+        <kwd>Reversible protein phosphorylation</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>Natural Sciences and Engineering Research Council of Canada</funding-source>
+          <award-id>OPG 6793</award-id>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>NSERC CGS-M</funding-source>
+        </award-group>
+        <funding-statement>The research was supported by a Discovery grant from the Natural Sciences and Engineering Research Council of Canada (OPG 6793) to KBS and by NSERC CGS-M postgraduate scholarships to JLL and RAVB. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Glucose-6-phosphate dehydrogenase (G6PDH; E.C. 1.1.1.49) catalyzes the rate determining step of the pentose phosphate pathway (PPP) and is the first of two oxidative steps within that pathway: <disp-formula id="eqn-1"><alternatives><graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[\begin{eqnarray*} \displaystyle {\text{D-glucose-6-phosphate + NADP}}^{+}&&\displaystyle \end{eqnarray*}]]></tex-math><mml:math id="mml-eqn-1"><mml:mstyle displaystyle="true"><mml:msup><mml:mrow><mml:mtext>D-glucose-6-phosphate + NADP</mml:mtext></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup></mml:mstyle></mml:math></alternatives></disp-formula>  
+            <disp-formula id="eqn-2"><alternatives><graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/eqn-2.png"/><tex-math id="tex-eqn-2"><![CDATA[\begin{eqnarray*} \displaystyle \rightarrow \text{D-6-phosphoglucono-}\delta {\text{-lactone + NADPH + H}}^{+}.&&\displaystyle \end{eqnarray*}]]></tex-math><mml:math id="mml-eqn-2"><mml:mstyle displaystyle="true"><mml:mo>→</mml:mo><mml:mtext>D-6-phosphoglucono-</mml:mtext><mml:mi>δ</mml:mi><mml:msup><mml:mrow><mml:mtext>-lactone + NADPH + H</mml:mtext></mml:mrow><mml:mrow><mml:mo>+</mml:mo></mml:mrow></mml:msup><mml:mo>.</mml:mo></mml:mstyle></mml:math></alternatives></disp-formula> The pentose phosphate pathway has several important functions in cells including providing sugars for the synthesis of aromatic amino acids and nucleotides and producing NADPH reducing equivalents that are used in biosynthesis and antioxidant defense. With respect to antioxidant defense the NADPH generated by the pentose phosphate pathway is the main source of cellular reducing equivalents that are used to regenerate the reduced forms of glutathione and thioredoxin after they have been oxidized in antioxidant reactions (<xref ref-type="bibr" rid="ref-19">Riganti et al., 2012</xref>).</p>
+      <p>Protection against oxidative damage is important in organisms that experience wide fluctuations in environmental oxygen content, particularly to deal with transitions from low to high oxygen because a rapid increase in oxygen availability and/or consumption is paralleled by a comparable increase in reactive oxygen species (ROS) generation (<xref ref-type="bibr" rid="ref-9">Hermes-Lima, Storey &amp; Storey, 1998</xref>). In addition, many organisms that naturally endure prolonged episodes of hypoxia/anoxia do so because they use a strategy of metabolic rate depression. By regulating a strong suppression of metabolism (often to less than 10% of normoxic rate), they gain a comparable extension (e.g. 10-fold) of the time that they can survive using endogenous fuels and fermentative pathways (glycolysis) to produce energy (<xref ref-type="bibr" rid="ref-2">Brooks &amp; Storey, 1997</xref>; <xref ref-type="bibr" rid="ref-12">Larade &amp; Storey, 2009</xref>). However, when oxygen becomes available again, oxgen availability, oxygen consumption and ROS production all rise rapidly.</p>
+      <p>Cycles of high versus low oxygen availablity are a characteristic of life in the marine intertidal zone. For example, for gill-breathing snails such as the common periwinkle, <italic>Littorina littorea</italic>, oxygen is plentiful when snails are immersed in water but falls when snails are out of water at low tide. Oxygen can also vary widely for animals trapped in tide pools at low tide and in winter the snails living on northern seashores also undergo freeze/thaw cycles and while frozen there is no delivery of oxygen to tissues (<xref ref-type="bibr" rid="ref-12">Larade &amp; Storey, 2009</xref>). Furthermore, environmental conditions, such as predation, high salinity, or high levels of toxins can force snails to close their shell opening enforcing extended periods of hypoxia/anoixa (<xref ref-type="bibr" rid="ref-21">Truchot &amp; Duhamel-Jouve, 1980</xref>; <xref ref-type="bibr" rid="ref-4">de Zwaan &amp; Putzer, 1985</xref>).</p>
+      <p>With this background, we proposed that G6PDH, with its key role in NADPH generation for antioxidant defense, may be differentially regulated between aerobic and anoxic states to adjust for changing circumstances that may include (a) a net suppression of pentose phosphate flux as a part of overall metabolic rate depression, (b) a probable shift in the types of pathways requiring NADPH to de-emphasize ATP-expensive biosynthesis (e.g. lipogenesis) as compared with other uses for NADPH such as antioxidant defense. The present study examines the physical and kinetic characteristics of G6PDH from hepatopancreas of <italic>L. littorea</italic> exposed to aerobic versus anoxic conditions, and evaluates reversible protein phosphorylation as a regulatory mechanism that may provide differential control of G6PDH in the two states.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Animals</title>
+        <p>Common periwinkles (<italic>Littorina littorea</italic>) were purchased from the Kowloon Market, Ottawa. The snails were placed in a 30 L tub of aerated, full strength seawater (1000 mOsmol/L made using Instant Ocean Sea Salt; salinity confirmed with a buoyancy meter) at 9 °C in an incubator with constant darkness. No food was provided but the water was changed periodically and any dead snails were removed. Experiments to gather aerobic control (sampled directly from the seawater) and 24 h anoxia-exposed snails were commenced after 7 days of acclimation.</p>
+        <p>For anoxia exposure, 25 snails were placed in each of several sealed jars that were fitted with two gas ports. The containers were held on ice and contained a small amount of deoxygenated seawater (1 cm deep) which had been bubbled previously with <named-content content-type="chemical-compound">N<sub>2</sub>
+               </named-content> gas for 30 min before addition to the jars. The lids were tightened and sealed with parafilm and then a gas line was connected to one of the ports whereas the other port was opened to vent the gas. <named-content content-type="chemical-compound">N<sub>2</sub>
+               </named-content> gas was continuously bubbled into the water in the jars for a further 20 min. Then the <named-content content-type="chemical-compound">N<sub>2</sub>
+               </named-content> line was removed, the ports were closed and the containers were returned to the 9 °C incubator for a 24 h anoxia exposure.</p>
+        <p>For sampling of anoxic snails, a container of snails was removed from the incubator, placed on ice and nitrogen gassing was reinstated. Snails were sampled from the jar, quickly dissected, and hepatopancreas samples were immediately frozen in liquid nitrogen. Tissues were stored at −80 °C until use.</p>
+      </sec>
+      <sec>
+        <title>Sample preparation</title>
+        <p>Frozen samples of hepatopancreas were homogenized 1:5 w:v in ice-cold homogenization buffer containing 50 mM Tris-HCl, pH 7.5, 10% v:v glycerol, 10 mM 2-mercaptoethanol, 25 mM NaF, 2.5 mM EDTA and 2.5 mM EGTA. The latter three buffer components provide inhibition of protein phosphatases and protein kinases to ensure that the phosphorylaion state of the enzyme does not change prior to assay. A few crystals of phenylmethylsulfonyl fluoride (PMSF), a protease inhibitor, were also added at the time of homogenization. Homogenates were centrifuged at 13,500 g for 30 min at 4 °C and the supernatant was decanted and held on ice.</p>
+      </sec>
+      <sec>
+        <title>Sephadex G-50 filtration of crude extracts</title>
+        <p>To properly assess G6PDH properties, low molecular weight metabolites and ions were removed from the enzyme preparation by Sephadex G-50 gel filtration. A 5 cm column of Sephadex G-50 in a syringe barrel was equilibrated in homogenization buffer and centrifuged at 500 g in a bench-top centrifuge for 2 min to remove excess buffer which was discarded. Then a 500 µL aliquot of supernatant was layered on top, the column was centrifuged again and the protein-containing eluant was removed and stored on ice.</p>
+      </sec>
+      <sec>
+        <title>G6PDH assays</title>
+        <p>G6PDH activity was measured spectrophotometrically by monitoring the production of NADPH (extinction coefficient of 6220 M<sup>−1</sup> cm<sup>−1</sup>) at 340 nm using a Thermo Labsystems Multiskan Spectrum Microplate Spectrophotometer. Optimal assay conditions were 4 mM G6P, 1.0 mM <named-content content-type="chemical-compound">NADP<sup>+</sup>
+               </named-content>, 50 mM Tris-HCl buffer, pH 8.0. Reactions were initiated by adding 5 µl of enzyme extract (10 µlfor incubation studies or 50 µl for assaying column fractions) to a 200 µL total reaction volume. Microplate Analysis (MPA) and Kinetics 3.51 computer programs were used to analyze data and obtain kinetic parameters (<xref ref-type="bibr" rid="ref-1">Brooks, 1994</xref>). One unit of G6PDH activity is defined as the amount of enzyme that produces 1 µmol 6-phosphogluconolactone per min at 22 °C and activities were expressed as mU/mg soluble protein. Soluble protein content was quantified using the Coomassie blue dye binding method and the Bio-Rad prepared reagent with a standard curve for bovine serum albumin.</p>
+      </sec>
+      <sec>
+        <title>pH studies</title>
+        <p>A pH profile of G6PDH activity was conducted by measuring activity under optimal conditions at 22 °C for pH values ranging from 6.0 to 10.5. A 50 mM Bis-Tris Propane buffer was used for pH 6.0–9.0 and CAPS buffer was used for pH 9.5–10.5. Standard kinetic parameters were determined at pH 6.0 and pH 8.0 for hepatopancreas preparations from both aerobic control and 24 h anoxic conditions. For pH 6.0 assays, MES buffer was used for both homogenization and assay (with the same components as in the standard Tris homogenization and assay buffers).</p>
+      </sec>
+      <sec>
+        <title>Urea denaturation</title>
+        <p>Hepatopancreas homogenates were prepared as previously described and G6PDH susceptibility to urea denaturation was assessed by incubating samples of crude hepatopancreas extract from control and anoxic snails with different concentrations of urea (0–1 M) in homogenization buffer, pH 8.0 for 24 h at 22 °C. After incubation, aliquots of sample were used to measure remaining G6PDH activity under standard assay conditions.</p>
+      </sec>
+      <sec>
+        <title>Effect of ions and other metabolites on G6PDH activity</title>
+        <p>Sephadex G-50 filtered soluble protein extracts of hepatopancreas from aerobic and anoxic snails were used to assess the effects of NaCl, KCl, and <named-content content-type="chemical-compound">NH<sub>4</sub>Cl</named-content> on G6PDH activity at concentrations up to 2 M. Comparable effects of selected metabolites were assessed in both pH 6 and pH 8 assays; metabolites tested included L-alanine, L-aspartic acid, phosphoenolpyruvate (PEP), AMP and succinate (0–10 mM concentration range for each metabolite). Assays were performed at suboptimal susbtrate concentrations (0.15 mM <named-content content-type="chemical-compound">NADP<sup>+</sup>
+               </named-content>, 0.1 mM G6P, at pH 8).</p>
+      </sec>
+      <sec>
+        <title>Temperature studies</title>
+        <p>Maximum G6PDH velocity was measured at ∼5 °C intervals between 5 °C and 30 °C. Arrhenius plots were constructed and the energy of activation (<italic>E</italic><sub><italic>A</italic></sub>) was calculated. To alter reaction temperature, the microplate reader was placed in a Precision Low Temperature Incubator 815 and temperature was adjusted to the desired values. Filled microplates were placed into the spectrophotometer and allowed to equilibrate to the desired temperature for several minutes before the assay was commenced by addition of enzyme. A telethermometer was used to measure microplate well temperature before and after assay.</p>
+      </sec>
+      <sec>
+        <title>DEAE-sephadex elution profiles</title>
+        <p>DEAE-Sephadex columns (5 cm × 1 cm) were equilibrated in column buffer (25 mM Tris-HCl, 5% v:v glycerol, 5 mM 2-mercaptoethanol, 12.5 mM NaF, 1.25 mM EDTA, 1.25 mM EGTA, pH 7.0). A 300 µl aliquot of supernatant was added to each column, followed by washing with 10 mL of the same buffer to remove unbound proteins. The column was eluted with a linear gradient of 0–0.5 M KCl in 20 mL of column buffer. Hepatopancreas extracts from aerobic control and 24 h anoxia-exposed snails were run separately and fractions were collected with a Gilson FC203B fraction collector. G6PDH activity was assayed under optimal assay conditions using 50 µl from each fraction.</p>
+      </sec>
+      <sec>
+        <title>Western blot analysis of G6PDH phosphorylation state</title>
+        <p>G6PDH was partially purified using affinity chromatography. A 1 mL aliquot of crude hepatopancreas extract was added to a blue-agarose column (3 cm × 1 cm,h × d) equilibrated in column buffer. G6PDH was then eluted with a 0–1 M KCl gradient. The fraction with the highest activity was selected and mixed 1:1 (v:v) with SDS loading buffer (100 mM Tris buffer, pH 6.8, 4% w:v SDS, 20% v:v glycerol, 0.2% w:v bromophenol blue and 10% v:v 2-mercaptoethanol) , boiled for 5 min, cooled on ice and frozen at −20 °C until use.</p>
+        <p>SDS resolving gels (8% v/v acrylamide, 400 mM Tris, pH 8.8, 0.1% w/v SDS, 0.2% w/v ammonium persulfate [APS], 0.04% v/v TEMED) were prepared with a 5% stacking gel (5% acrylamide, 190 mM Tris, pH 6.8, 0.1% w/v SDS, 0.15% w/v APS, 0.1% v/v TEMED). Partially purified G6PDH samples were loaded onto these gels and separated electrophoretically in SDS-PAGE running buffer (25 mM Tris-base, 190 mM glycine, and 0.1% w/v SDS) at 180 V for 45 min. A 3 µL aliquot of Spectra™ Multicolor Broad Range Protein Ladder was added to one lane of every gel. Following electrophoresis, proteins were electroblotted onto polyvinylidienedifluoride (PVDF) membranes (Millipore) by wet transfer. Electroblotting was perfomed at room temperature for 1.5 h at 160 mA in transfer buffer (25 mM Tris, pH 8.5, 192 mM glycine, and 20% v/v methanol).</p>
+        <p>Following protein transfer, PVDF membranes were incubated overnight at 4 °C with a phospho-serine primary antibody (Calbiochem) diluted at 1:1000 in Tris-buffered saline with Tween-20 (TBST; 20 mM Tris-base, 140 mM NaCl, 0.05% Tween-20) with a small amount of sodium azide added. Subsequently, membranes were washed with TBST three times for 5 min each, followed by incubation with anti-rabbit secondary antibody conjugated with horseradish peroxidase (Bioshop Canada) at a dilution of 1:4000 in TBST. Membranes were incubated at room temperature for 30 min and then washed three times for 5 min each with <named-content content-type="chemical-compound">ddH<sub>2</sub>O</named-content>. Bands were then detected using enzymatic chemiluminescence (ECL), initiated by the addition of 600 µL of hydrogen peroxide and 600 µL of luminol reagent to the membrane’s surface for several seconds followed by visualization using a ChemiGenius Bioimaging System (Syngene, MD, USA). Membranes were then stained with Coomassie blue (0.25% w/v Coomassie Brilliant Blue R in 50% methanol, 7.5% acetic acid) and destained with destaining solution (60% v/v methanol, 20% v/v acetic acid in <named-content content-type="chemical-compound">ddH<sub>2</sub>O</named-content>) until bands were clearly seen. Band densities were analyzed using Bioimaging software, and were standardized against the corresponding Coomassie blue stained bands. The G6PDH band on the phospho-serine Western blot was determined through a seperate Western blot which used an anti-G6PDH antibody (StressGen).</p>
+      </sec>
+      <sec>
+        <title>In vitro incubations to stimulate endogenous protein kinases and phosphatases</title>
+        <p>The effects of endogenous protein kinases and phosphatases on G6PDH were analyzed by incubating hepatopancreas extracts from control and anoxic snails under conditions that stimulated the activities of specific endogenous protein kinases or protein phosphatases. Tissue extracts were prepared in standard homogenization buffer (denoted STOP). After centrifugation, 150 µl aliquots of soluble protein extract were incubated in <named-content content-type="chemical-compound">300 µl</named-content> of the specific incubation solutions for 4 h at 4 °C. After incubation, samples were subjected to Sephadex G-50 gel filtration to remove metabolites that could interfere with the enzyme assay. <italic>K</italic><sub><italic>m</italic></sub> G6P values were determined under standard conditions at pH 8.0 useing 10 µl of incubation mixture for assay. The specific incubation solutions used were as follows:</p>
+        <p>STOP: standard homogenization buffer</p>
+        <p>Base Buffer: 50 mM Tris-HCl, pH 7.5, 10% glycerol, 10 mM 2-mercaptoethanol</p>
+        <p>
+          <underline>To stimulate protein kinases:</underline>
+        </p>
+        <p>Protein kinase A (PKA): base buffer  + 1 mM cAMP +5 mM <named-content content-type="chemical-compound">Mg<sup>.</sup>
+               </named-content>ATP +10 mM <named-content content-type="chemical-compound">MgCl<sub>2</sub>
+               </named-content> +30 mM NaF +5 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content>
+            </p>
+        <p>Protein kinase G (PKG): base buffer +1 mM cGMP +5 mM <named-content content-type="chemical-compound">Mg<sup>.</sup>
+               </named-content>ATP +10 mM <named-content content-type="chemical-compound">MgCl<sub>2</sub>
+               </named-content> +30 mM NaF +5 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content>
+            </p>
+        <p>Protein kinase C (PKC): base buffer +1.3 mM <named-content content-type="chemical-compound">CaCl<sub>2</sub>
+               </named-content> +7 ug/mL PMA (phorbol 12-myristate 13-acetate) +5 mM <named-content content-type="chemical-compound">Mg<sup>.</sup>ATP</named-content> +5 mM <named-content content-type="chemical-compound">MgCl<sub>2</sub>
+               </named-content> +30 mM NaF +5 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content>
+            </p>
+        <p>Total Kinase: base buffer +1 mM cAMP +5 mM <named-content content-type="chemical-compound">Mg<sup>.</sup>ATP</named-content> +1 mM cGMP +1.3 mM <named-content content-type="chemical-compound">CaCl<sub>2</sub>
+               </named-content> +7 ug/mL PMA (phorbol 12-myristate 13-acetate) +1 mM AMP +1 U of calmodulin (CaM) activity/incubation tube +10 mM <named-content content-type="chemical-compound">MgCl<sub>2</sub>
+               </named-content> +30 mM NaF +5 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content>
+            </p>
+        <p>
+          <underline>To stimulate protein phosphatases</underline>
+        </p>
+        <p>Protein phosphatase 1 (PP1): base buffer +no ions (therefore no PP2B or PP2C activity) +2.5 nM okadaic acid (inhibits PP2A) +5 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content>, 2 mM EDTA and 2 mM EGTA.</p>
+        <p>Protein phosphatases 1 +2A (PP1 +PP2A): base buffer +no ions (halts PP2B/PP2C activity) +30 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content> +2 mM EDTA +2 mM EGTA.</p>
+        <p>Protein phosphatase 2B (PP2B): base buffer +5 mM <named-content content-type="chemical-compound">CaCl<sub>2</sub>
+               </named-content> +2 mM EDTA (chelates <named-content content-type="chemical-compound">Mg<sup>2+</sup>
+               </named-content>, inhibits PP2C) +1 µM okadaic acid (inhibits PP1/PP2A) +5 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content>
+            </p>
+        <p>Protein phosphatase 2C (PP2C): base buffer +5 mM <named-content content-type="chemical-compound">MgCl<sub>2</sub>
+               </named-content> +2 mM EGTA (chelates <named-content content-type="chemical-compound">Ca<sup>2+</sup>
+               </named-content>, inhibits PP2B) +1 µM okadaic acid (inhibits PP1/PP2A) +5 mM <named-content content-type="chemical-compound">Na<sub>3</sub>V</named-content>
+               <named-content content-type="chemical-compound">O<sub>4</sub>
+               </named-content> +1 nM cypermethrin (inhibits PP2B).</p>
+        <p>Total Phosphatase: base buffer +5 mM <named-content content-type="chemical-compound">MgCl<sub>2</sub>
+               </named-content> +5 mM <named-content content-type="chemical-compound">CaCl<sub>2</sub>
+               </named-content>
+            </p>
+      </sec>
+      <sec>
+        <title>Immunoprecipitation of radiolabelled phosphorylated G6PDH</title>
+        <p>To confirm that incubations that stimulated protein kinases actually transfered phosphate groups onto G6PDH, these incubations were repeated in the presence of <sup>32</sup>P-ATP. Then the radiolabelled phospho-G6PDH was immunoprecipitated using an anti-G6PDH antibody.</p>
+        <p>For optimal detection of phosphorylation, studies began with the dephosphorylated enzyme. Tissue extracts were prepared and low molecular weight solutes were removed via Sephadex G-50 filtration. Extracts were then incubated for 4 h under conditions that promoted Total Phosphatase action, as described above. Aliquots of dephosphorylated enzyme were then incubated under either STOP or Total Kinase incubation conditions (as above) with the inclusion of <named-content content-type="chemical-compound">5 µCi</named-content> γ-<sup>32</sup>P-ATP in a 300 µl incubation volume, in addition to the regular amount of nonradioactive ATP. Following a 24 h incubation at 5 °C, 60 µl of insoluble Protein A (IPA; Sigma) suspension was added and further incubated overnight at 5 °C. Following this, samples were then centrifuged at 800 g in a Biofuge for 10 min to remove proteins that bound nonspecifically to Protein A and the supernatants were removed. Supernatant samples were then incubated with 1 µg G6PDH primary antibody (Sigma) for 1 h at 5 °C and then 60 µl of IPA was added and incubated overnight, again at 5 °C. Along with the G6PDH antibody, 50% polyethylene glycol-8000 was also added to the incubation tube to give a final PEG concentration of 5%. Following incubation, samples were centrifuged at 800 g for 10 min. Supernatants were decanted and the pellets were resuspended in 100 µl of 50 mM Tris buffer, pH 7.5. Pellet washing was repeated 7 times and after the final wash, 5 µl of each sample was spotted on P81 paper and exposed to a phosphorscreen for 1 h. Quantification of radioactivity was done using a Personal Molecular Imager<sup>®</sup>-FX (BioRad).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>G6PDH kinetic characterization</title>
+        <p>To determine the optimal conditions for G6PDH activity, the enzyme was assayed over a wide range of pH. <xref ref-type="fig" rid="fig-1">Figure 1</xref> shows pH curves for hepatopancreas G6PDH from aerobic control and anoxic snails. Maximal activity occurred between pH 7.5 and 9 and therefore, standard assays were performed at pH 8.0 throughout the study, unless otherwise indicated.</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.21/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Effect of pH on the activity of hepatopancreas G6PDH from control and anoxic <italic>L. littorea.</italic></title>
+            <p>A 50 mM Bis-Tris Propane buffer was used for pH 6.0–9.0 and CAPS buffer was used for pH 9.5–10.5. Assays were run at 23 °C with the optimal substrate concentrations determined at pH 8. Data are relative values compared with activity at pH 8, means ± SEM, <italic>n</italic> = 4 independent determinations on separate tissue preparations.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/fig-1.png"/>
+        </fig>
+        <p><xref ref-type="table" rid="table-1">Table 1</xref> shows kinetic parameters for hepatopancreas G6PDH from aerobic control and anoxia-exposed snails and highlights several differences between the two enzyme forms. G6PDH showed Michaelis-Menten kinetics with hyperbolic velocity versus substrate concentration relationships for both G6P and NADPH. At pH 8.0 the Michaelis-Menten constant (<italic>K</italic><sub><italic>m</italic></sub>) for G6P was significantly lower for the anoxic enzyme form, 38% lower than the corresponding value for the aerboic control enzyme. However, the <italic>K</italic><sub><italic>m</italic></sub> NADP and enzyme maximal velocity (<italic>V</italic><sub>max</sub>) did not differ between the two enzyme forms. When assayed at pH 6.0, however, <italic>K</italic><sub><italic>m</italic></sub> G6P did not differ between aerobic and anoxic states but <italic>K</italic><sub><italic>m</italic></sub> NADP of anoxic G6PDH was 38% lower than the aerobic value whereas Vmax was 28% higher. An analysis of the effects of pH change on these parameters also revealed significant changes (<xref ref-type="table" rid="table-1">Table 1</xref>). Analysis at the suboptimal pH of 6.0 resulted in strong significant increases in the <italic>K</italic><sub><italic>m</italic></sub> G6P of 4.2 and 7.8 fold and decreases in <italic>V</italic><sub>max</sub> to 66 and 84% for control and anoxic G6PDH, respectively, as well as a 1.6 fold increase in <italic>K</italic><sub><italic>m</italic></sub> NADP of control G6PDH.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.21/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Kinetic parameters for hepatopancreas G6PDH from control and 24 h anoxic <italic>L. littorea</italic> analyzed at pH 8.0 and pH 6.0.</title>
+            <p>Assays were performed at 22 °C and data are means ± SEM, <italic>n</italic> = 4 preparations from different animals. Kinetic constants were determined at optimal concentrations of ions or cosubstrates.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">Control</th>
+                  <th align="left">24 h Anoxic</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Analysis at pH 8.0</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left"><italic>K</italic><sub><italic>m</italic></sub> G6P (mM)</td>
+                  <td align="left">0.097 ± 0.006</td>
+                  <td align="left">0.060 ± 0.003<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>
+                           </td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>K</italic><sub><italic>m</italic></sub><named-content content-type="chemical-compound">NADP<sup>+</sup>
+                              </named-content> (mM)</td>
+                  <td align="left">0.117 ± 0.006</td>
+                  <td align="left">0.115 ± 0.008</td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>V</italic><sub>max</sub> (mU/mg)</td>
+                  <td align="left">30.0 ± 1.0</td>
+                  <td align="left">29.7 ± 0.8</td>
+                </tr>
+                <tr>
+                  <td align="left">Activation Energy, <italic>E</italic><sub><italic>A</italic></sub> (KJ/mol)</td>
+                  <td align="left">27 ± 3</td>
+                  <td align="left">22 ± 3</td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>I</italic><sub>50</sub> Urea (mM)</td>
+                  <td align="left">90 ± 10</td>
+                  <td align="left">56 ± 3<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>
+                           </td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>I</italic><sub>50</sub> NaCl (M)</td>
+                  <td align="left">0.99 ± 0.05</td>
+                  <td align="left">1.20 ± 0.10</td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>I</italic><sub>50</sub> KCl (M)</td>
+                  <td align="left">1.32 ± 0.09</td>
+                  <td align="left">1.20 ± 0.20</td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>I</italic><sub>50</sub><named-content content-type="chemical-compound">NH<sub>4</sub>Cl</named-content> (M)</td>
+                  <td align="left">0.9 ± 0.1</td>
+                  <td align="left">1.0 ± 0.1</td>
+                </tr>
+                <tr>
+                  <td align="left">Analysis at pH 6.0</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Km G6P (mM)</td>
+                  <td align="left">0.41 ± 0.04<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref>
+                           </td>
+                  <td align="left">0.47 ± 0.02<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref>
+                           </td>
+                </tr>
+                <tr>
+                  <td align="left">Km NADP (mM)</td>
+                  <td align="left">0.19 ± 0.02<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref>
+                           </td>
+                  <td align="left">0.118 ± 0.008<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>
+                           </td>
+                </tr>
+                <tr>
+                  <td align="left">Vmax (mU/mg)</td>
+                  <td align="left">19.8 ± 0.6<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref>
+                           </td>
+                  <td align="left">24.9 ± 1.3<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>
+                              <sup>,</sup>
+                              <xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref>
+                           </td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-1fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-1fn1">
+              <label>a</label>
+              <p>Significantly different from the control value using the Student’s t-test, <italic>p</italic> &lt; 0.05.</p>
+            </fn>
+            <fn id="table-1fn2">
+              <label>b</label>
+              <p>Significantly different from the corresponding value at pH 8.0, <italic>p</italic> &lt; 0.025.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Effects of urea, salts and metabolites on G6PDH activity</title>
+        <p>To assess potential urea denaturation of G6PDH, extracts of control and anoxic hepatopancreas were incubated for 24 h at 22 °C at multiple concentrations of urea ranging from 0–1 M. Subsequent assay of G6PDH activity allowed calculation of <italic>I</italic><sub>50</sub> values (inhibitor concentration that reduces activity by 50%). <xref ref-type="table" rid="table-1">Table 1</xref> shows that the anoxic form of G6PDH was more susceptible to urea denaturation than the aerobic control enzyme, with an <italic>I</italic><sub>50</sub> that was 38% lower than the control.</p>
+        <p>The effects of increasing NaCl, KCl or <named-content content-type="chemical-compound">NH<sub>4</sub>Cl</named-content> concentrations on G6PDH activity were also investigated. <italic>I</italic><sub>50</sub> values for all three salts were high (0.9–1.3 M) and no significant differences were seen between control and anoxic states (<xref ref-type="table" rid="table-1">Table 1</xref>). A survey of the effects of selected metabolites (chosen because of their involvement in anaerobic metabolism in <italic>L. littorea</italic>) on hepatopancreas G6PDH from control and 24 h anoxic snails was also performed at pH 6 and 8. However, none of the metabolites tested (AMP, L-alanine, L-aspartic acid, succinate, phosphoenolpyruvate) had either positive or negative effects on enzyme activity (data not shown).</p>
+      </sec>
+      <sec>
+        <title>Temperature studies</title>
+        <p>Activation energies for G6PDH were determined from Arrhenius plots for enzyme activities measured between 5 and 30 °C. The Arrhenius relationship was linear over the range of temperatures tested for the enzyme from both aerobic and anoxic states. The calculated activation energy, <italic>E</italic><sub><italic>A</italic></sub>, for G6PDH from control hepatopancreas was 27 ± 3 kJ/mol which was not significantly different from the value for the enzyme from anoxic tissue, 22 ± 3 kJ/mol (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+      </sec>
+      <sec>
+        <title>Ion exchange chromatography of G6PDH</title>
+        <p>Hepatopancreas extracts were subjected to DEAE-Sephadex ion exchange chromatography (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Development of the column with a 0–0.5 M salt gradient resulted in differential elution of G6PDH from aerobic and anoxic snails. The aerobic enzyme form eluted at a lower salt concentration (peak at fraction 16) whereas the anoxic enzyme showed peak elution at fraction 30. Aerobic extracts showed a substantial “tail” of activity from fractions 22–33 which may suggest that these fractions may contain a small percentage of the anoxic enzyme form.</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.21/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>DEAE-Sephadex elution profiles for <italic>L. littorea</italic> hepatopancreas G6PDH activity from control and 24 h anoxic snails.</title>
+            <p>Profiles are representative of three independent determinations for each condition. Activities are expressed relative to the highest activity fraction. G6PDH was eluted with a 0–0.5 M KCl gradient in buffer at pH 7.0.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/fig-2.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>G6PDH phosphorylation state</title>
+        <p>To examine the phosphorylation state of G6PDH the level of phosphorylated serine residues on G6PDH was determined via Western blotting on partially purified samples (the peak fraction from the blue-agarose column). This analysis found that phosphoserine band intensity was about 2.5 fold greater for aerobic G6PDH compared with the anoxic form (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). A separate Western blot was conducted using an anti-G6PDH antibody (StressGen) to dictate the location of the G6PDH subunits.</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.21/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>The serine phosphorylation state of hepatopancreas G6PDH from control and 24 h anoxic <italic>L. littorea</italic> as determined by Western blotting.</title>
+            <p>Data are means ± SEM, <italic>n</italic> = 4 independent determinations. Bands beneath the bars are representative of typical of bands seen on Western blots. *- Significantly different from the control via the Student’s t-test, <italic>p</italic> &lt; 0.05.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/fig-3.png"/>
+        </fig>
+        <p>To assess the consequence of phosphorylation on G6PDH kinetics, aliquots of crude extracts of hepatopancreas from control and anoxic snails were incubated for 4 h at 4 °C under conditions that stimulated the activities of endogenous protein kinases or protein phosphatases and the effects on <italic>K</italic><sub><italic>m</italic></sub> G6P were determined. <xref ref-type="fig" rid="fig-4">Figure 4A</xref> shows the effects of incubations that promote the actions of specific protein kinase on the <italic>K</italic><sub><italic>m</italic></sub> G6P. When incubated under conditions which stimulated PKA or PKG the anoxic form of G6PDH showed significant increases in <italic>K</italic><sub><italic>m</italic></sub> G6P, as compared to the corresponding <italic>K</italic><sub><italic>m</italic></sub> G6P when protein kinases were inhibited (STOP condition). However, treatments that stimulated kinase activities did not have any effect on the <italic>K</italic><sub><italic>m</italic></sub> G6P for G6PDH from aerobic control snails.</p>
+        <p>Conversely, when the effect of specific protein phosphatases on <italic>K</italic><sub><italic>m</italic></sub> G6P was investigated, <italic>K</italic><sub><italic>m</italic></sub> G6P for G6PDH in preparations from anoxic snails was not affected by any of the incubation treatments that stimulated endogenous protein phosphatase activities (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). However, stimulation of the activities of PP1, PP1 + PP2A, or PP2C all resulted in significant decreases in the <italic>K</italic><sub><italic>m</italic></sub> G6P of the aerobic control enzyme. <italic>K</italic><sub><italic>m</italic></sub> values decreased by approximately 30%, 40% and 30%, respectively, reducing these to values comparable to those of the anoxic enzyme under STOP conditions (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). Overall, these data from kinase and phosphatase incubations are consistent with the aerobic and anoxic G6PDH being the high and low phosphate forms of the enzyme, respectively.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.21/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Effects of <italic>in vitro</italic> incubations to stimulate the activities of (A) protein kinases or (B) protein phosphatases on the <italic>K</italic><sub><italic>m</italic></sub> G6P of G6PDH from <italic>L. littorea</italic> hepatopancreas.</title>
+            <p>Crude extracts were incubated for 4 h at 4 °C with different combinations of additives (as defined in the Materials and Methods) before assay at room temperature. Data are means + SEM, <italic>n</italic> = 3. a - Significantly different from the corresponding control value using the Student’s t-test, <italic>P</italic> &lt; 0.05. b - Significantly different from the corresponding STOP value using ANOVA followed by the post-hoc Dunnett’s test, <italic>P</italic> &lt; 0.05.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/fig-4.png"/>
+        </fig>
+        <p>To confirm that the above kinase incubations transfered phosphate groups onto G6PDH, the kinase incubations were repeated in the presence of γ-<sup>32</sup>P-ATP. The radiolabelled phospho-G6PDH was subsequently immunoprecipitated using insoluble protein A and a G6PDH antibody. Hepatopancreas extracts from aerobic control snails were first dephosphorylated by treatment under the Total Phosphatase conditions described in the Materials and Methods. Subsequently, the extracts were incubated with γ-<sup>32</sup>P-ATP under two conditions: STOP conditions that inhibit both kinases and phosphatases and Total Kinase conditions that promote the activity of several protein kinases (PKA, PKG, PKC, AMP-activated kinase, and Ca-calmodulin kinase). <xref ref-type="fig" rid="fig-5">Figure 5</xref> shows an approximately 30% increase in radioactivity incorporated onto G6PDH under Total Kinase conditions as compared with the respective STOP condition.</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.21/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Radioactive immunoprecipitation of hepatopancreas G6PDH following <italic>in vitro</italic> incubations of the control enzyme to stimulate the activities of protein kinases.</title>
+            <p>Data are means ± SEM, <italic>n</italic> = 3. * - significantly different from the corresponding STOP value using the Student’s t-test, <italic>P</italic> &lt; 0.05.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/fig-5.png"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Intertidal molluscs are excellent facultative anaerobes and display multiple metabolic adaptations for anoxia survival including strong metabolic rate depression, large stores of fermentable fuels, and altered routes of anaerobic metabolism that generate more ATP than is possible from glycolysis alone (<xref ref-type="bibr" rid="ref-2">Brooks &amp; Storey, 1997</xref>). They also display well developed antioxidant defenses that are both constitutive and stress-inducible (<xref ref-type="bibr" rid="ref-8">Freire et al., 2011</xref>). For example, antioxidant metabolites, such as pools of reduced glutathione, were elevated by 2–3 fold under anoxic conditions in <italic>L. littorea</italic> tissues to help protect cells (<xref ref-type="bibr" rid="ref-16">Pannunzio &amp; Storey, 1998</xref>). Anoxia-induced enhancement of antioxidant defenses appears to result from the need to cope with a rapid, large increase in ROS formation associated with arousal from hypometabolism and the return to oxygen-based metabolism (<xref ref-type="bibr" rid="ref-9">Hermes-Lima, Storey &amp; Storey, 1998</xref>) but a second reason may also be involved. More recent work suggests that well-developed antioxidant defenses are also important for long term protection of macromolecules during anaerobsis because the potential for degradation and resynthesis of oxidatively-damaged proteins is much reduced in the hypometabolic state (<xref ref-type="bibr" rid="ref-20">Storey &amp; Storey, 2012</xref>).</p>
+      <p>The present study demonstrates that several enzymatic properties of hepatopancreas G6PDH differed significantly between control and anoxic states. For instance, assayed at the optimal pH 8.0, the <italic>K</italic><sub><italic>m</italic></sub> G6P was significantly lower for anoxic G6PDH as compared with the aerobic control enzyme (<xref ref-type="table" rid="table-1">Table 1</xref>). A similar decrease in <italic>K</italic><sub><italic>m</italic></sub> G6P in response to anoxia was seen in hepatopancreas of the freshwater crayfish, <italic>Orconectes virilis</italic> (<xref ref-type="bibr" rid="ref-11">Lant &amp; Storey, 2011</xref>) and <italic>K</italic><sub><italic>m</italic></sub> G6P of hepatopancreas G6PDH also decreased by about one-half when terrestrial snails, <italic>Otala lactea</italic>, entered estivation, a state of aerobic hypometabolism (<xref ref-type="bibr" rid="ref-18">Ramnanan &amp; Storey, 2006</xref>). Hence, an increase in G6P substrate affinity (decreased <italic>K</italic><sub><italic>m</italic></sub>) by hepatopancreas G6PDH seems to accompany a transition into the hypometabolic state in multiple invertebrate species and, therefore, may be important in adjusting enzyme function for an altered role during anaerobiosis, such as a greater involvement in antioxidant defense.</p>
+      <p>Sensitivity to urea denaturation (lower <italic>I</italic><sub>50</sub> value) was also greater for anoxic G6PDH from <italic>L. littorea</italic>. Assayed at pH 6.0, the <italic>K</italic><sub><italic>m</italic></sub> NADP and the <italic>V</italic><sub>max</sub> activity also differed significantly between the aerobic to anoxic states. However, the enzyme from aerobic versus anoxic hepatopancreas did not differ in other parameters including sensitivity to salts and activation energy (<xref ref-type="table" rid="table-1">Table 1</xref>). In addition, the pH curves for both enzymes were generally quite similar (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). When the effect of pH on enzyme parameters was considered, both aerobic control and anoxic G6PDH showed a large decrease in affinity (<italic>K</italic><sub><italic>m</italic></sub> increased 4.2–7.8 fold) when assayed at pH 6 as compared with pH 8. Since physiological pH decreases over time when anaerobiosis is prolonged due to accumulation of acidic end products (<xref ref-type="bibr" rid="ref-6">Ellington, 1983a</xref>; <xref ref-type="bibr" rid="ref-7">Ellington, 1983b</xref>; <xref ref-type="bibr" rid="ref-17">Pörtner, Grieshaber &amp; Heisler, 1984</xref>), this could argue for reduced functionality of G6PDH under anoxic conditions. However, <italic>K</italic><sub><italic>m</italic></sub> NADPH of anoxic G6PDH was unaltered between pH 8 and 6 whereas low pH elevated this parameter of the control form and also decreased <italic>V</italic><sub>max</sub> more strongly than occurred for the anoxic enzyme. On balance, it appears that the anoxic enzyme form has kinetic properties that are better suited for function under the more acidic cellular conditions experienced in the anoxic state and this could aid continued enzyme function in the production of NADPH for use in antioxidant defense.</p>
+      <p>The stable changes in kinetic parameters that distinguish the aerobic control versus anoxic enzyme forms of <italic>L. littorea</italic> G6PDH suggested that there are physical/structural differences between the two. This was further supported by the very different elution patterns of the two enzyme forms off DEAE-Sephadex (anoxic G6PDH eluting at a much higher salt concentration) (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>); this indicated that the two enzyme forms possess different surface charges. The differing sensitivity to urea denaturation by the two enzyme forms (<xref ref-type="table" rid="table-1">Table 1</xref>) also supports a structural difference between the enzymes. The greater sensitivity of the anoxic form to urea suggests a more flexible structure than that of the aerobic control enzyme.</p>
+      <p>The significant stable differences in some of the kinetic and physical properties of hepatopancreas G6PDH between control and anoxic states suggested a potential difference in the covalent modification of the enzyme between the two states. To investigate this we first analyzed the serine phosphorylation state of G6PDH from control and anoxic hepatopancreas and found that control GDH contained a 2.5-fold greater amount of bound phosphate compared with anoxic G6PDH (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Serine phosphorylation of G6PDH has been reported in mammalian systems (<xref ref-type="bibr" rid="ref-14">Napier et al., 1987</xref>; <xref ref-type="bibr" rid="ref-22">Xu, Osborne &amp; Stanton, 2005</xref>; <xref ref-type="bibr" rid="ref-15">Pan et al., 2009</xref>) and reversible phosphorylation of G6PDH has also recently been associated with stress-induced hypometabolism in both vertebrate and invertebrate systems (<xref ref-type="bibr" rid="ref-18">Ramnanan &amp; Storey, 2006</xref>; <xref ref-type="bibr" rid="ref-5">Dieni &amp; Storey, 2010</xref>; <xref ref-type="bibr" rid="ref-11">Lant &amp; Storey, 2011</xref>).</p>
+      <p>To further explore <italic>L. littorea</italic> G6PDH phosphorylation, we used <italic>in vitro</italic> incubations that stimulated the activities of endogenous protein kinases (PKA, PKC, PKG) and protein phosphatases (PP1, PP1 + PP2A, PP2B and PP2C) in crude tissue extracts and then evaluated the effects of incubations of <italic>K</italic><sub><italic>m</italic></sub> G6P. Incubations that stimulated the activities of PKA and PKG caused a significant increase in <italic>K</italic><sub><italic>m</italic></sub> G6P of anoxic G6PDH to a value similar to that seen for the aerobic control enzyme (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Conversely, incubations that stimulated PP1, PP1 + PP2A or PP2C caused significant decreases in <italic>K</italic><sub><italic>m</italic></sub> G6P of aerobic control G6PDH to values similar to those of anoxic G6PDH (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). <xref ref-type="fig" rid="fig-6">Figure 6</xref> shows a schematic of this reversible phosphorylation control of G6PDH between normoxia and anoxia. Several previous studies have identified PKA-mediated phosphorylation of G6PDH including the muscle enzyme from a freshwater bivalve mollusc, <italic>Anodonta cygnea</italic> (<xref ref-type="bibr" rid="ref-10">Kuznetsova &amp; Plesneva, 2001</xref>). PKA-mediated phosphorylation also inhibits G6PDH activity from various mammalian sources (<xref ref-type="bibr" rid="ref-3">Costa Rosa et al., 1995</xref>; <xref ref-type="bibr" rid="ref-23">Zhang et al., 2000</xref>; <xref ref-type="bibr" rid="ref-22">Xu, Osborne &amp; Stanton, 2005</xref>). <italic>In vitro</italic> incubations also implicated both PKA and PKG in the phosphorylation of hepatopancreas G6PDH in response to anoxia in crayfish or estivation in a terrestrial snail (<xref ref-type="bibr" rid="ref-18">Ramnanan &amp; Storey, 2006</xref>; <xref ref-type="bibr" rid="ref-11">Lant &amp; Storey, 2011</xref>) although additional studies suggested that PKG was the most likely candidate <italic>in vivo</italic> in the snail. Interestingly, in the marine snail, tissue PKA activity increased during aerobic recovery from anoxia (<xref ref-type="bibr" rid="ref-13">MacDonald &amp; Storey, 1999</xref>), which would fit with a potential role for PKA in phosphorylating anoxic G6PDH when <italic>L. littorea</italic> transitions back to aerobic conditions. PKA and PP1 are often paired in their effects and therefore these might be the primary kinase and phosphatase involved in regulating <italic>L. littorea</italic> hepatopancreas G6PDH <italic>in vivo</italic> in response to aerobic/anoxic conditions.</p>
+      <fig id="fig-6">
+        <object-id pub-id-type="doi">10.7717/peerj.21/fig-6</object-id>
+        <label>Figure 6</label>
+        <caption>
+          <title>Schematic representation of <italic>L. littorea</italic> hepatopancreas G6PDH control by reversible phosphorylation between normoxic and anoxic conditions.</title>
+          <p>Under normoxic (control) conditions G6PDH is in a more highly phosphorylated form. As this marine snail becomes anoxic, G6PDH becomes dephosphorylated (possibly by PP1, PP2A or PP2C) and this lowers the Km G6P. Upon re-exposure to an oxygen rich environment, G6PDH becomes phosphorylated (possibly by PKA or PKG) and this increases Km G6P.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/21/fig-6.png"/>
+      </fig>
+      <p>To confirm that the incubation experiments were indeed responsible for transfering phosphate moieties onto G6PDH, a total kinase incubation was performed in the presence of γ-<sup>32</sup>P-ATP using G6PDH from aerobic control hepatopancreas that was first treated to dephosphorylate the enzyme. Radiolabelled phospho-G6PDH was then immunoprecipitated using a G6PDH antibody and insoluble protein A. These experiments demonstrated that G6PDH incorporated high amounts of <sup>32</sup>P when incubated under conditions that stimulated protein kinases as compared with incubation under STOP conditions when kinases were inhibited (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). These results validate the results from the <italic>in vitro</italic> incubations and demonstrate that periwinkle G6PDH can be phosphorylated, which further confirms that G6PDH is regulated by reversible protein phosphorylation in the hepatopancreas of <italic>L. littorea</italic>.</p>
+      <p>In summary, the present study shows that G6PDH from <italic>L. littorea</italic> hepatopancreas is a phosphoprotein and that entry into the hypometabolic state of anoxia results in the dephosphorylation of G6PDH. The low phosphate, anoxic form of G6PDH is consistent with a more active enzyme which may favour enhanced carbon flow through the pentose phosphate cycle during anoxia to sustain NADPH production for antioxidant defense. The data provides one of the first demonstrations of coordinated regulation of the pentose phosphate cycle between active and hypometabolic states and implicates specific protein kinases (PKA, PKG) and protein phosphatases (PP1, PP2A, PP2C) as responsible for G6PDH regulation.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>Thanks to J.M. Storey for editorial review of this manuscript.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>K.B. Storey is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Judeh L. Lama</xref> and <xref ref-type="contrib" rid="author-2">Ryan A.V. Bell</xref> performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-3">Kenneth B. Storey</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, edited the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Brooks (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brooks</surname>
+              <given-names>SPJ</given-names>
+            </name>
+          </person-group>
+          <article-title>A program for analyzing enzyme rate data obtained from a microplate reader</article-title>
+          <source>BioTechniques</source>
+          <year>1994</year>
+          <volume>17</volume>
+          <fpage>1155</fpage>
+          <lpage>1161</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Brooks &amp; Storey (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brooks</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>KB</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycolytic controls in estivation and anoxia: a comparison of metabolic arrest in land and marine molluscs</article-title>
+          <source>Comparative Biochemistry and Physiology A</source>
+          <year>1997</year>
+          <volume>118</volume>
+          <fpage>1103</fpage>
+          <lpage>1114</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0300-9629(97)00237-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Costa Rosa et al. (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Costa Rosa</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Curi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Newsholme</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of adrenaline and phorbol myristate acetate or bacterial lipopolysaccharide on stimulation of pathways of macrophage glucose, glutamine and <named-content content-type="chemical-compound">O<sub>2</sub>
+                  </named-content> metabolism. Evidence for cyclic AMP-dependent protein kinase mediated inhibition of glucose-6-phosphate dehydrogenase and activation of NADP+-dependent ‘malic’ enzyme</article-title>
+          <source>Biochemical Journal</source>
+          <year>1995</year>
+          <volume>310</volume>
+          <fpage>709</fpage>
+          <lpage>714</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>de Zwaan &amp; Putzer (1985)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Zwaan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Putzer</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Metabolic adaptations of intertidal invertebrates to environmental hypoxia (a comparison of environmental anoxia to exercise anoxia)</article-title>
+          <source>Symposia of the Society of Experimental Biology</source>
+          <year>1985</year>
+          <volume>39</volume>
+          <fpage>33</fpage>
+          <lpage>62</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Dieni &amp; Storey (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dieni</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>KB</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of glucose-6-phosphate dehydrogenase by reversible phosphorylation in liver of a freeze tolerant frog</article-title>
+          <source>Journal of Comparative Physiology B</source>
+          <year>2010</year>
+          <volume>180</volume>
+          <fpage>1133</fpage>
+          <lpage>1142</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00360-010-0487-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Ellington (1983a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ellington</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Phosphorus nuclear magnetic resonance studies of energy metabolism in molluscan tissues</article-title>
+          <source>Journal of Comparative Physiology</source>
+          <year>1983a</year>
+          <volume>137</volume>
+          <fpage>165</fpage>
+          <lpage>171</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Ellington (1983b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ellington</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>The extent of intracellular acidification during anoxia in the catch muscles of two bivalve molluscs</article-title>
+          <source>Journal of Experimental Zoology</source>
+          <year>1983b</year>
+          <volume>227</volume>
+          <fpage>313</fpage>
+          <lpage>317</lpage>
+          <pub-id pub-id-type="doi">10.1002/jez.1402270215</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Freire et al. (2011)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Freire</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Welker</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>KB</given-names>
+            </name>
+            <name>
+              <surname>Hermes-Lima</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Abele</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Vázquez-Medina</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Zenteno-Savin</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxidative stress in estuarine and intertidal environments (temperate and tropical)</article-title>
+          <source>Oxidative stress in aquatic ecosystems</source>
+          <year>2011</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <fpage>41</fpage>
+          <lpage>57</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Hermes-Lima, Storey &amp; Storey (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hermes-Lima</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>KB</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant defenses and metabolic depression. The hypothesis of preparation for oxidative stress in land snails</article-title>
+          <source>Comparative Biochemistry and Physiology B</source>
+          <year>1998</year>
+          <volume>120</volume>
+          <fpage>437</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0305-0491(98)10053-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Kuznetsova &amp; Plesneva (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuznetsova</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Plesneva</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of biogenic amines and polypeptide hormones on protein kinase A and adenylyl cyclase activities in muscles of the mollusc Anodonta cygnea</article-title>
+          <source>Journal of Evolutionary Biochemistry and Physiology</source>
+          <year>2001</year>
+          <volume>37</volume>
+          <fpage>520</fpage>
+          <lpage>527</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1014030513092</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Lant &amp; Storey (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lant</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>KB</given-names>
+            </name>
+          </person-group>
+          <article-title>Glucose-6-phosphate dehydrogenase regulation in anoxia tolerance of the freshwater crayfish <italic>Orconectes virilis</italic></article-title>
+          <source>Enzyme Research</source>
+          <year>2011</year>
+          <volume>2011</volume>
+          <comment>524906</comment>
+          <pub-id pub-id-type="doi">10.4061/2011/524906</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Larade &amp; Storey (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larade</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>KB</given-names>
+            </name>
+          </person-group>
+          <article-title>Living without oxygen: anoxia-responsive gene expression and regulation</article-title>
+          <source>Current Genomics</source>
+          <year>2009</year>
+          <volume>10</volume>
+          <fpage>76</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.2174/138920209787847032</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>MacDonald &amp; Storey (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MacDonald</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of ground squirrel <named-content content-type="chemical-compound">Na<sup>+</sup>K<sup>+</sup>
+                  </named-content>-ATPase activity by reversible phosphorylation during hibernation</article-title>
+          <source>Biochemical and Biophysical Research Communications</source>
+          <year>1999</year>
+          <volume>254</volume>
+          <fpage>424</fpage>
+          <lpage>429</lpage>
+          <pub-id pub-id-type="doi">10.1006/bbrc.1998.9960</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Napier et al. (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Napier</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Lipari</surname>
+              <given-names>MT</given-names>
+            </name>
+            <name>
+              <surname>Courter</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidermal growth factor receptor tyrosine kinase phosphorylation of glucose-6-phosphate dehydrogenase <italic>in vitro</italic></article-title>
+          <source>Archive of Biochemistry and Biophysics</source>
+          <year>1987</year>
+          <volume>259</volume>
+          <fpage>296</fpage>
+          <lpage>304</lpage>
+          <pub-id pub-id-type="doi">10.1016/0003-9861(87)90496-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Pan et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>World</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Kovacs</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Berk</surname>
+              <given-names>BC</given-names>
+            </name>
+          </person-group>
+          <article-title>Glucose-6-phosphate dehydrogenase is regulated through c-Src-mediated tyrosine phosphorylation in endothelial cells</article-title>
+          <source>Arteriosclerosis, Thrombosis and Vascular Biology</source>
+          <year>2009</year>
+          <volume>29</volume>
+          <fpage>895</fpage>
+          <lpage>901</lpage>
+          <pub-id pub-id-type="doi">10.1161/ATVBAHA.109.184812</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Pannunzio &amp; Storey (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pannunzio</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Antioxidant defenses and lipid peroxidation during anoxia stress and aerobic recovery in the marine gastropod Littorina littorea</article-title>
+          <source>Journal of Experimental Marine Biology and Ecology</source>
+          <issue>2</issue>
+          <year>1998</year>
+          <volume>221</volume>
+          <fpage>277</fpage>
+          <lpage>292</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-0981(97)00132-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Pörtner, Grieshaber &amp; Heisler (1984)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pörtner</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Grieshaber</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Heisler</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Anaerobiosis and acid-base status in marine invertebrates: effect of environmental hypoxia on extracellular and intercellular pH in <italic>Sipunculus nudus</italic></article-title>
+          <source>Journal of Comparative Physiology</source>
+          <year>1984</year>
+          <volume>155</volume>
+          <fpage>13</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00610926</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Ramnanan &amp; Storey (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramnanan</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Glucose-6-phosphate dehydrogenase regulation during hypometabolism</article-title>
+          <source>Biochemical and Biophysical Research Communications</source>
+          <year>2006</year>
+          <volume>339</volume>
+          <fpage>7</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbrc.2005.10.036</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Riganti et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Riganti</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gazzano</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Polimeni</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Aldieri</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ghigo</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>The pentose phosphate pathway: an antioxidant defense and a crossroad in tumor cell fate</article-title>
+          <source>Free Radicals in Biology and Medicine</source>
+          <year>2012</year>
+          <volume>53</volume>
+          <fpage>421</fpage>
+          <lpage>436</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.freeradbiomed.2012.05.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Storey &amp; Storey (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Storey</surname>
+              <given-names>KB</given-names>
+            </name>
+            <name>
+              <surname>Storey</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Aestivation: signaling and hypometabolism</article-title>
+          <source>Journal of Experimental Biology</source>
+          <year>2012</year>
+          <volume>215</volume>
+          <fpage>1425</fpage>
+          <lpage>1433</lpage>
+          <pub-id pub-id-type="doi">10.1242/jeb.054403</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Truchot &amp; Duhamel-Jouve (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Truchot</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Duhamel-Jouve</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxygen and carbon dioxide in the marine intertidal environment: diurnal and tidal changes in rockpools</article-title>
+          <source>Respiratory Physiology</source>
+          <issue>3</issue>
+          <year>1980</year>
+          <volume>39</volume>
+          <fpage>241</fpage>
+          <lpage>254</lpage>
+          <pub-id pub-id-type="doi">10.1016/0034-5687(80)90056-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Xu, Osborne &amp; Stanton (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Osborne</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Stanton</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Diabetes causes inhibition of glucose-6-phosphate dehydrogenase via activation of PKA, which contributes to oxidative stress in rat kidney cortex</article-title>
+          <source>American Journal of Renal Physiology</source>
+          <issue>5</issue>
+          <year>2005</year>
+          <volume>289</volume>
+          <fpage>1040</fpage>
+          <lpage>1047</lpage>
+          <pub-id pub-id-type="doi">10.1152/ajprenal.00076.2005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Zhang et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Apse</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Pang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Stanton</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>High glucose inhibits glucose-6-phosphate dehydrogenase via cAMP in aortic endothelial cells</article-title>
+          <source>Journal of Biological Chemisry</source>
+          <issue>51</issue>
+          <year>2000</year>
+          <volume>275</volume>
+          <fpage>40042</fpage>
+          <lpage>40047</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M007505200</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

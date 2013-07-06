@@ -1,1147 +1,1479 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018989000,&quot;from_str&quot;:&quot;2013-07-05T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500589000,&quot;from_str&quot;:&quot;2013-06-29T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513389000,&quot;from_str&quot;:&quot;2013-06-06T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948589000,&quot;from_str&quot;:&quot;2012-12-31T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,353,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">79</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.79</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Emergency and Critical Care</subject>
+          <subject>Epidemiology</subject>
+          <subject>Infectious Diseases</subject>
+          <subject>Pediatrics</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>National estimates of emergency department visits for pediatric severe sepsis in the United States</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Singhal</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Allen</surname>
+            <given-names>Mathias W.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>McAnnally</surname>
+            <given-names>John-Ryan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Smith</surname>
+            <given-names>Kenneth S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-4">4</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Donnelly</surname>
+            <given-names>John P.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-5">5</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Henry E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-6">6</xref>
+          <email>hwang@uabmc.edu</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Emergency Medicine, University of Kentucky</institution>, <addr-line>Lexington, Kentucky</addr-line>, <country>USA</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Emergency Medicine, Wake Forest School of Medicine</institution>, <addr-line>Winston-Salem, North Carolina</addr-line>, <country>USA</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Emergency Medicine, University of Tennessee College of Medicine</institution>, <addr-line>Chattanooga, Tennessee</addr-line>, <country>USA</country></aff>
+        <aff id="aff-4"><label>4</label><institution>University of Alabama, School of Medicine</institution>, <country>USA</country></aff>
+        <aff id="aff-5"><label>5</label><institution>Department of Epidemiology, University of Alabama at Birmingham</institution>, <country>USA</country></aff>
+        <aff id="aff-6"><label>6</label><institution>Department of Emergency Medicine, University of Alabama School of Medicine</institution>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Jones</surname>
+            <given-names>Philip</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-05-21">
+        <day>21</day>
+        <month>5</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e79</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-03-27">
+          <day>27</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-02">
+          <day>2</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Singhal et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Singhal et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/79"/>
+      <abstract>
+        <p><bold>Objective.</bold> We sought to determine the characteristics of children presenting to United States (US) Emergency Departments (ED) with severe sepsis.</p>
+        <p><bold>Study design.</bold> Cross-sectional analysis using data from the National Hospital Ambulatory Medical Care Survey (NHAMCS). Using triage vital signs and ED diagnoses (defined by the International Classification of Diseases, Ninth Revision codes), we identified children &lt;18 years old presenting with both infection (triage fever or ICD-9 infection) and organ dysfunction (triage hypotension or ICD-9 organ dysfunction).</p>
+        <p><bold>Results.</bold> Of 28.2 million pediatric patients presenting to US EDs each year, severe sepsis was present in 95,055 (0.34%; 95% CI: 0.29–0.39%). Fever and respiratory infection were the most common indicators of an infection. Hypotension and respiratory failure were the most common indicators of organ dysfunction. Most severe sepsis occurred in children ages 31 days–1 year old (32.1%). Most visits for pediatric severe sepsis occurred during winter months (37.4%), and only 11.1% of patients arrived at the ED by ambulance. Over half of severe sepsis cases were self-pay or insured by Medicaid. A large portion (44.1%) of pediatric severe sepsis ED visits occurred in the South census region. ED length of stay was over 3 h, and 16.5% were admitted to the hospital.</p>
+        <p><bold>Conclusion.</bold> Nearly 100,000 children annually present to US EDs with severe sepsis. The findings of this study highlight the unique characteristics of children treated in the ED for severe sepsis.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Sepsis</kwd>
+        <kwd>Emergency department</kwd>
+        <kwd>Pediatrics</kwd>
+        <kwd>Epidemiology</kwd>
+        <kwd>Cross-sectional</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>The authors have no external funding sources to disclose.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Severe sepsis is the syndrome of systemic inflammatory response to microbial infection complicated by organ dysfunction. In adults, severe sepsis poses a major public health burden, resulting in over 750,000 hospitalizations, 500,000 Emergency Department (ED) visits, and over 200,000 deaths in the United States (US) annually (<xref ref-type="bibr" rid="ref-1">Angus et al., 2001</xref>; <xref ref-type="bibr" rid="ref-20">Wang et al., 2007</xref>). The estimated cost of adult severe sepsis in the US is over $16 billion annually (<xref ref-type="bibr" rid="ref-1">Angus et al., 2001</xref>). Severe sepsis is also a prominent condition among children in the US. Watson et al. estimated that there are over 42,000 annual pediatric hospital admissions for severe sepsis in the US, with a mortality rate of 10.2% (<xref ref-type="bibr" rid="ref-22">Watson &amp; Carcillo, 2005</xref>). Children admitted with severe sepsis had an average length of stay of 31 days at a cost of over $40,000, translating to an estimated annual US cost of $1.7 billion (<xref ref-type="bibr" rid="ref-23">Watson et al., 2003</xref>).</p>
+      <p>As in adults, early aggressive therapy of severe sepsis is associated with improved outcomes in children (<xref ref-type="bibr" rid="ref-2">Carcillo, Davis &amp; Zaritsky, 1991</xref>; <xref ref-type="bibr" rid="ref-4">de Oliveira, 2010</xref>). In children with septic shock, Han et al. observed increases in mortality odds with delays in fluid and inotrope delivery (<xref ref-type="bibr" rid="ref-8">Han et al., 2003</xref>). The ED is an important component of pediatric sepsis care, presenting one of the earliest opportunities for recognition and treatment of the condition. However, the limited information regarding children receiving care for severe sepsis in US EDs presents a major gap in current sepsis knowledge. Data regarding number and types of patients, their characteristics, the therapies provided, and their outcomes could help to characterize the national burden of pediatric severe sepsis to US EDs and could inform strategies to optimize the delivery of pediatric severe sepsis care nationally.</p>
+      <p>In this study we sought to determine the characteristics of ED visits by children for severe sepsis in the US.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Study design</title>
+        <p>Written approval from the University of Alabama at Birmingham Institutional Review Board was obtained for this study. This study was a cross-sectional analysis using the National Hospital Ambulatory Medical Care Survey (NHAMCS).</p>
+      </sec>
+      <sec>
+        <title>Data source</title>
+        <p>Operated by the National Center for Health Statistics, NHAMCS is a national probability sample characterizing ED visits at hospitals across the US (NCHS). Standard sampling methods have been utilized by NHAMCS since its inception in 1973. Briefly, the study uses a four-stage probability design, sampling geographically defined areas, hospitals within these areas, emergency service areas within the emergency departments of the hospitals, and patient visits to the emergency services areas. For selected ED facilities, NHAMCS systematically selects records for approximately 100 ED visits in an assigned four-week period. The National Center for Health Statistics (NCHS) works with each hospital to abstract clinical data from selected charts. Each observation in NHAMCS reflects an individual ED visit; the data do not identify individual persons. The NHAMCS data collected in this manner have been used in over 500 publications (<xref ref-type="bibr" rid="ref-12">McCaig &amp; Burt, 2012</xref>). For this study, we used NHAMCS public-use data for the nine-year period 2001–2009.</p>
+      </sec>
+      <sec>
+        <title>Outcomes</title>
+        <p>The primary outcome was severe sepsis, defined as presentation to the ED with both (1) infection and (2) evidence of organ dysfunction (<xref ref-type="bibr" rid="ref-6">Goldstein, Giroir &amp; Randolph, 2005</xref>). This approach has been widely used in a range of studies characterizing sepsis epidemiology (<xref ref-type="bibr" rid="ref-1">Angus et al., 2001</xref>; <xref ref-type="bibr" rid="ref-20">Wang et al., 2007</xref>; <xref ref-type="bibr" rid="ref-24">Weycker et al., 2003</xref>). We used a combination of triage vital signs and ED diagnoses as indicators of an infection and/or organ dysfunction. For each ED visit, NHAMCS reported up to three ED diagnoses using the <italic>International Classification of Diseases, Ninth Revision</italic> (ICD-9). We did not use blood culture results to define sepsis.</p>
+        <p>As described in prior studies, we identified infections using a taxonomy of ICD-9 codes developed by Angus et al. (<xref ref-type="bibr" rid="ref-1">Angus et al., 2001</xref>; <xref ref-type="bibr" rid="ref-20">Wang et al., 2007</xref>). However, because NHAMCS reported only three ED diagnoses, there was potential for under-reporting of infections. Therefore, consistent with prior efforts involving adult ED patients, we also defined the presence of fever or hypothermia (temperature &lt; 36°C or ≥ 38°C) as indicators of an infection (<xref ref-type="bibr" rid="ref-6">Goldstein, Giroir &amp; Randolph, 2005</xref>). The temperature was based upon initial measurement at triage; repeat measurements were not available. NHAMCS did not report the route of temperature measurement.</p>
+        <p>To identify organ dysfunction, we similarly followed the ICD-9 taxonomy of Angus et al. but added additional criteria (<xref ref-type="bibr" rid="ref-1">Angus et al., 2001</xref>). Additional ICD-9 codes representing organ dysfunction included 518.8 (respiratory failure), 786.03 (apnea), 799.1 (respiratory arrest), 990.90 (systemic inflammatory response syndrome/SIRS-not otherwise specified) and 995.92 (SIRS-infection with organ dysfunction) (<xref ref-type="bibr" rid="ref-1">Angus et al., 2001</xref>; <xref ref-type="bibr" rid="ref-20">Wang et al., 2007</xref>). We added ED endotracheal intubation as a form of organ dysfunction (respiratory failure). We also included ED triage hypotension an indicator of organ dysfunction (circulatory system failure), using international age-specific definitions for hypotension (<xref ref-type="bibr" rid="ref-5">Gebara, 2005</xref>; <xref ref-type="bibr" rid="ref-6">Goldstein, Giroir &amp; Randolph, 2005</xref>) (<xref ref-type="supplementary-material" rid="supp-2">Appendix S1</xref>). We opted not to use organ dysfunction definitions proposed by Goldstein et al. because of the unavailability of laboratory test values and physiologic measures in the NHAMCS data set (<xref ref-type="bibr" rid="ref-6">Goldstein, Giroir &amp; Randolph, 2005</xref>).</p>
+      </sec>
+      <sec>
+        <title>Covariates</title>
+        <p>Demographic characteristics included age, sex, race, ethnicity, hospital geographic region and population setting, month of visit and mode and time of arrival. Sex, race and ethnicity information was missing for some of the study population (0.86% missing sex information, 12.4% missing race and 17.5% missing ethnicity). Therefore, these characteristics were assessed using imputed variables provided by NHAMCS (NCHS). Geographic regions were based upon US Census Regions (Northeast, Midwest, West and South). Population setting consisted of hospitals in Metropolitan Statistical Areas (MSA) and non-MSAs. Month of visit was categorized as fall (September/October/November), winter (December/January/February), spring (March/April/May) or summer (June/July/August). Mode of arrival was categorized as arrival by ambulance vs. other. We divided time of arrival into 8-h intervals: 7 am–3 pm, 3 pm–11 pm, and 11 pm–7 am. We also examined length of ED stay, admission to the hospital, admission destination and hospital discharge status. Initial ED vital signs were also examined, including heart rate (beats/min), systolic blood pressure (mmHg), and temperature (degrees Fahrenheit).</p>
+      </sec>
+      <sec>
+        <title>Data analysis</title>
+        <p>Using descriptive statistics, we determined the annual number and characteristics of pediatric severe sepsis cases. We divided the patient cohort into five age subgroups to reflect definitions for neonates (0–30 days), infants (31 days–1 year), toddler and preschool (2–5 years), school age children (6–12 years), and adolescents (13–18 years) (<xref ref-type="bibr" rid="ref-6">Goldstein, Giroir &amp; Randolph, 2005</xref>). We incorporated sampling design and weight variables to calculate nationally weighted estimates and their corresponding 95% confidence intervals. Performing the analysis in this manner allowed for valid estimation of all statistics and variances, accounting for the complex survey design.</p>
+        <p>The NCHS considers estimates based upon fewer than 30 raw observations (or those with greater than 30% relative standard error) to be unreliable. Therefore, we collapsed subcategories to ensure that table cells contained a sufficient number of raw observations. For example, we combined hematological, neurologic, hepatic and other organ dysfunctions into a single category. We used ultimate cluster design (single stage sampling) in variance and 95% confidence interval calculations, utilizing “masked” stratum and primary sampling unit identifiers provided with the NHAMCS public-use data set (NCHS). Prior efforts have demonstrated that variance estimates using these methods are conservative (<xref ref-type="bibr" rid="ref-9">Hing et al., 2003</xref>). We conducted all analyses using Stata v.12 (Stata, College Station, TX).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>An estimated 1.05 billion ED visits occurred in the U.S. during the nine-year study period (2001–2009), of which 253.4 million (24.1%) involved children &lt;18 years of age, translating to approximately 28.2 million pediatric emergency visits annually (<xref ref-type="table" rid="table-1">Table 1</xref>). One in three (34.3%) pediatric ED visits involved children with signs of infection, and approximately 1% involved organ dysfunction. The presence of a fever and an ED diagnosis for respiratory infection were the most common indicators of infection (<xref ref-type="table" rid="table-2">Table 2</xref>). Hypotension and respiratory failure were the most common indicators of organ dysfunction.</p>
+      <table-wrap id="table-1">
+        <object-id pub-id-type="doi">10.7717/peerj.79/table-1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Emergency department (ED) visits by pediatric patients for severe sepsis.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/79/table-1.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Variable</th>
+                <th align="left">No. of raw observations</th>
+                <th align="left">Total ED visits 2001–2009 (estimated 1000s)</th>
+                <th align="left">Annual ED visits (estimated 1000s)</th>
+                <th align="left">Percentage of pediatric ED visits (95% CI)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Total ED visits</td>
+                <td align="left">322,745</td>
+                <td align="left">1,052,914</td>
+                <td align="left">116,990</td>
+                <td align="left">NA</td>
+              </tr>
+              <tr>
+                <td align="left">Pediatric (age &lt;18 years) ED visits 2001–2009</td>
+                <td align="left">76,444</td>
+                <td align="left">253,417</td>
+                <td align="left">28,157</td>
+                <td align="left">NA</td>
+              </tr>
+              <tr>
+                <td align="left">ED visits with “Infection”</td>
+                <td align="left">26,059</td>
+                <td align="left">86,906</td>
+                <td align="left">9,656</td>
+                <td align="left">34.3 (33.5–35.1)</td>
+              </tr>
+              <tr>
+                <td align="left">ED visits with “Organ Dysfunction”</td>
+                <td align="left">794</td>
+                <td align="left">2,640</td>
+                <td align="left">293</td>
+                <td align="left">1.04 (0.94–1.15)</td>
+              </tr>
+              <tr>
+                <td align="left">ED visits with severe sepsis (“Infection” + “Organ Dysfunction”)</td>
+                <td align="left">266</td>
+                <td align="left">855</td>
+                <td align="left">95</td>
+                <td align="left">0.34 (0.29–0.39)</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-1fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-1fn1" fn-type="other">
+            <p>CI = Confidence Interval; NA = Not applicable. “Infection” was defined as the presence of fever or hypothermia (<italic>T</italic> &lt; 36 or ≥ 38°C), or an ICD-9 diagnosis code for infection. “Organ Dysfunction” was defined as the presence of hypotension (based upon age-appropriate ED systolic blood pressure), provision of endotracheal intubation, or an ICD-9 diagnosis code for organ dysfunction.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="table-2">
+        <object-id pub-id-type="doi">10.7717/peerj.79/table-2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <title>Underlying infections and organ dysfunctions of Emergency Department visits by pediatric patients with suspected severe sepsis (age &lt;18 yrs).</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/79/table-2.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Variable</th>
+                <th align="left">Number of raw observations</th>
+                <th align="left">Total number of ED severe sepsis 2001–2009 (estimated 1000s)</th>
+                <th align="left">Annual number of ED severe sepsis (estimated 1000s)</th>
+                <th align="left">Percentage of ED severe sepsis (95% CI)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"><italic>N</italic> = 855, 493</td>
+                <td align="left"><italic>N</italic> = 95, 055</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">“Infection”</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Fever (&lt;96.8 or ≥100.4 F) on ED triage</td>
+                <td align="left">154</td>
+                <td align="left">489</td>
+                <td align="left">54</td>
+                <td align="left">58.4 (50.6–65.8)</td>
+              </tr>
+              <tr>
+                <td align="left">ED ICD-9 defined infection of respiratory system</td>
+                <td align="left">109</td>
+                <td align="left">356</td>
+                <td align="left">40</td>
+                <td align="left">41.6 (33.5–50.2)</td>
+              </tr>
+              <tr>
+                <td align="left">ED ICD-9 defined infection of genitourinary, digestive, nervous, musculoskeletal, or circulatory systems or other infections (parasitic, skin, or associated with pregnancy)</td>
+                <td align="left">50</td>
+                <td align="left">183</td>
+                <td align="left">20</td>
+                <td align="left">21.4 (15.4–28.8)</td>
+              </tr>
+              <tr>
+                <td align="left">“Organ Dysfunction”</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Hypotension on ED triage</td>
+                <td align="left">201</td>
+                <td align="left">632</td>
+                <td align="left">70</td>
+                <td align="left">73.8 (65.9–80.5)</td>
+              </tr>
+              <tr>
+                <td align="left">ED ICD-9 defined respiratory dysfunction</td>
+                <td align="left">55</td>
+                <td align="left">187</td>
+                <td align="left">21</td>
+                <td align="left">21.9 (15.8–29.4)</td>
+              </tr>
+              <tr>
+                <td align="left">ED cardiovascular, hematological, neurologic, hepatic, or other organ dysfunction</td>
+                <td align="left">16<xref ref-type="fn" rid="table-2fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">56<xref ref-type="fn" rid="table-2fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">6<xref ref-type="fn" rid="table-2fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">6.6 (3.2–13.1)<xref ref-type="fn" rid="table-2fn2"><sup>a</sup></xref>
+                        </td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-2fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-2fn1" fn-type="other">
+            <p>CI = confidence interval; SBP = systolic blood pressure. “Infection” was defined as the presence of fever or hypothermia (<italic>T</italic> &lt; 36 or ≥ 38°C), or an ICD-9 diagnosis code for infection. “Organ Dysfunction” was defined as the presence of hypotension (based upon age-appropriate ED systolic blood pressure), provision of endotracheal intubation, or an ICD-9 diagnosis code for organ dysfunction.</p>
+          </fn>
+          <fn id="table-2fn2">
+            <label>a</label>
+            <p>Estimate based upon &lt;30 raw observations, considered unreliable by the National Center for Health Statistics.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="table-3">
+        <object-id pub-id-type="doi">10.7717/peerj.79/table-3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <title>Characteristics of Emergency Department pediatric patients presenting with severe sepsis.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/79/table-3.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Variable</th>
+                <th align="left">Number of raw observations</th>
+                <th align="left">Total number of ED severe sepsis (2001–2009) (estimated 1000s)</th>
+                <th align="left">Annual number of ED severe sepsis (estimated 1000s)</th>
+                <th align="left">Percentage of ED severe sepsis (95% CI)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"><italic>N</italic> = 855, 493</td>
+                <td align="left"><italic>N</italic> = 95, 055</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Age</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">0–30 Days</td>
+                <td align="left">16<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">63<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">7<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">7.3 (4.1–12.7)<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+              </tr>
+              <tr>
+                <td align="left">31 Days–1 Year</td>
+                <td align="left">79</td>
+                <td align="left">274</td>
+                <td align="left">30</td>
+                <td align="left">32.1 (25.0–40.0)</td>
+              </tr>
+              <tr>
+                <td align="left">2–5 Years</td>
+                <td align="left">46</td>
+                <td align="left">133</td>
+                <td align="left">15</td>
+                <td align="left">15.5 (10.8–21.7)</td>
+              </tr>
+              <tr>
+                <td align="left">6–12 Years</td>
+                <td align="left">65</td>
+                <td align="left">180</td>
+                <td align="left">20</td>
+                <td align="left">21.0 (16.3–26.6)</td>
+              </tr>
+              <tr>
+                <td align="left">13–18 Years</td>
+                <td align="left">60</td>
+                <td align="left">207</td>
+                <td align="left">23</td>
+                <td align="left">24.2 (18.3–31.3)</td>
+              </tr>
+              <tr>
+                <td align="left">Sex</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Male</td>
+                <td align="left">120</td>
+                <td align="left">374</td>
+                <td align="left">42</td>
+                <td align="left">43.7 (36.2–51.5)</td>
+              </tr>
+              <tr>
+                <td align="left">Female</td>
+                <td align="left">146</td>
+                <td align="left">481</td>
+                <td align="left">53</td>
+                <td align="left">56.3 (48.5–63.8)</td>
+              </tr>
+              <tr>
+                <td align="left">Race</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">White</td>
+                <td align="left">189</td>
+                <td align="left">576</td>
+                <td align="left">64</td>
+                <td align="left">67.3 (59.3–74.5)</td>
+              </tr>
+              <tr>
+                <td align="left">Black</td>
+                <td align="left">61</td>
+                <td align="left">231</td>
+                <td align="left">26</td>
+                <td align="left">27.0 (20.5–34.6)</td>
+              </tr>
+              <tr>
+                <td align="left">Other</td>
+                <td align="left">16<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">49<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">5<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">5.7 (3.0–10.8)<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+              </tr>
+              <tr>
+                <td align="left">Ethnicity<xref ref-type="fn" rid="table-3fn3"><sup>b</sup></xref>
+                        </td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Hispanic</td>
+                <td align="left">52</td>
+                <td align="left">155</td>
+                <td align="left">17</td>
+                <td align="left">23.8 (17.1–32.2)</td>
+              </tr>
+              <tr>
+                <td align="left">Not Hispanic</td>
+                <td align="left">148</td>
+                <td align="left">494</td>
+                <td align="left">55</td>
+                <td align="left">76.2 (67.8–82.9)</td>
+              </tr>
+              <tr>
+                <td align="left">Season</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Fall (Sept, Oct, Nov)</td>
+                <td align="left">65</td>
+                <td align="left">204</td>
+                <td align="left">23</td>
+                <td align="left">23.9 (17.9–31.1)</td>
+              </tr>
+              <tr>
+                <td align="left">Winter (Dec, Jan, Feb)</td>
+                <td align="left">91</td>
+                <td align="left">320</td>
+                <td align="left">36</td>
+                <td align="left">37.4 (29.6–46.0)</td>
+              </tr>
+              <tr>
+                <td align="left">Spring (Mar, Apr, May)</td>
+                <td align="left">61</td>
+                <td align="left">199</td>
+                <td align="left">22</td>
+                <td align="left">23.2 (16.7–31.3)</td>
+              </tr>
+              <tr>
+                <td align="left">Summer (Jun, Jul, Aug)</td>
+                <td align="left">49</td>
+                <td align="left">133</td>
+                <td align="left">15</td>
+                <td align="left">15.5 (10.5–22.4)</td>
+              </tr>
+              <tr>
+                <td align="left">Arrival Time</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">7:00AM–2:59PM</td>
+                <td align="left">100</td>
+                <td align="left">312</td>
+                <td align="left">35</td>
+                <td align="left">36.5 (29.2–44.5)</td>
+              </tr>
+              <tr>
+                <td align="left">3:00PM–10:59PM</td>
+                <td align="left">116</td>
+                <td align="left">390</td>
+                <td align="left">43</td>
+                <td align="left">45.7 (38.6–53.0)</td>
+              </tr>
+              <tr>
+                <td align="left">11:00PM–6:59AM</td>
+                <td align="left">49</td>
+                <td align="left">152</td>
+                <td align="left">17</td>
+                <td align="left">17.8 (12.4–24.8)</td>
+              </tr>
+              <tr>
+                <td align="left">Arrival By Ambulance<xref ref-type="fn" rid="table-3fn3"><sup>b</sup></xref>
+                        </td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Yes</td>
+                <td align="left">22<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">66<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">7<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">11.1 (6.6–18.0)<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+              </tr>
+              <tr>
+                <td align="left">No</td>
+                <td align="left">164</td>
+                <td align="left">529</td>
+                <td align="left">59</td>
+                <td align="left">88.9 (82.0–93.4)</td>
+              </tr>
+              <tr>
+                <td align="left">Region</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Northeast</td>
+                <td align="left">62</td>
+                <td align="left">142</td>
+                <td align="left">16</td>
+                <td align="left">16.6 (12.0–22.5)</td>
+              </tr>
+              <tr>
+                <td align="left">Midwest</td>
+                <td align="left">50</td>
+                <td align="left">162</td>
+                <td align="left">18</td>
+                <td align="left">18.9 (13.2–26.4)</td>
+              </tr>
+              <tr>
+                <td align="left">South</td>
+                <td align="left">96</td>
+                <td align="left">377</td>
+                <td align="left">42</td>
+                <td align="left">44.1 (35.7–52.9)</td>
+              </tr>
+              <tr>
+                <td align="left">West</td>
+                <td align="left">58</td>
+                <td align="left">174</td>
+                <td align="left">19</td>
+                <td align="left">20.3 (14.1–28.4)</td>
+              </tr>
+              <tr>
+                <td align="left">Hospital Population Setting</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Metropolitan Statistical Area (MSA)</td>
+                <td align="left">223</td>
+                <td align="left">651</td>
+                <td align="left">72</td>
+                <td align="left">76.1 (64.6–84.7)</td>
+              </tr>
+              <tr>
+                <td align="left">Non-MSA</td>
+                <td align="left">43</td>
+                <td align="left">205</td>
+                <td align="left">23</td>
+                <td align="left">23.9 (15.3–35.4)</td>
+              </tr>
+              <tr>
+                <td align="left">Payor Type</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Private Insurance</td>
+                <td align="left">94</td>
+                <td align="left">274</td>
+                <td align="left">30</td>
+                <td align="left">32.2 (25.9–39.2)</td>
+              </tr>
+              <tr>
+                <td align="left">Medicaid</td>
+                <td align="left">133</td>
+                <td align="left">443</td>
+                <td align="left">49</td>
+                <td align="left">51.9 (44.0–59.8)</td>
+              </tr>
+              <tr>
+                <td align="left">Self-Pay</td>
+                <td align="left">17<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">45<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">5<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">5.3 (3.1–9.0)<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+              </tr>
+              <tr>
+                <td align="left">Other</td>
+                <td align="left">20<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">90<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">10<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">10.6 (6.3–17.3)<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+              </tr>
+              <tr>
+                <td align="left">Admitted to Hospital</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Yes</td>
+                <td align="left">50</td>
+                <td align="left">141</td>
+                <td align="left">16</td>
+                <td align="left">16.5 (11.3–23.5)</td>
+              </tr>
+              <tr>
+                <td align="left">No</td>
+                <td align="left">216</td>
+                <td align="left">715</td>
+                <td align="left">79</td>
+                <td align="left">83.5 (76.5–88.8)</td>
+              </tr>
+              <tr>
+                <td align="left">Admitted to Critical Care Unit</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Yes</td>
+                <td align="left">13<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">27<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">3<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+                <td align="left">3.1 (1.4–6.8)<xref ref-type="fn" rid="table-3fn2"><sup>a</sup></xref>
+                        </td>
+              </tr>
+              <tr>
+                <td align="left">No</td>
+                <td align="left">253</td>
+                <td align="left">829</td>
+                <td align="left">92</td>
+                <td align="left">96.9 (93.2–98.6)</td>
+              </tr>
+              <tr>
+                <td align="left">Length of ED Stay (Hours) (95% CI)</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left">3.3 (2.6–4.0)</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-3fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-3fn1" fn-type="other">
+            <p>ED = emergency department, CI = confidence interval.</p>
+          </fn>
+          <fn id="table-3fn2">
+            <label>a</label>
+            <p>Estimate based on &lt;30 raw observations, considered unreliable by the National Center for Health Statistics.</p>
+          </fn>
+          <fn id="table-3fn3">
+            <label>b</label>
+            <p>Data available for 2003–2009 only.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Severe sepsis was present in 95,055 cases annually, representing 0.34% (95% CI: 0.29–0.39%) of all ED visits by children. The annual number of ED visits for pediatric severe sepsis declined slightly during 2001–2009 (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.79/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Number of pediatric severe sepsis Emergency Department visits by three-year interval, United States, 2001–2009.</title>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/79/fig-1.png"/>
+      </fig>
+      <p>Children between ages 31 days–1 year comprised the largest proportion of severe sepsis cases (<xref ref-type="table" rid="table-3">Table 3</xref>). Most patients were white and non-Hispanic. Most pediatric severe sepsis ED visits occurred during winter months (37.4%). Almost half (45%) of pediatric severe sepsis patients arrived between 3:00 PM and 10:59 PM. Only 11.1% arrived by ambulance. Most pediatric severe sepsis visits occurred at hospitals in Metropolitan Service Areas. While most severe sepsis ED visits occurred in the South census region (40%), the proportions of severe sepsis in each region were similar (<italic>p</italic> = 0.40). Over half of pediatric severe sepsis cases were self-pay or insured by Medicaid. Pediatric severe sepsis patients spent over three hours in the ED. In the NHAMCS data set, 16.5% of pediatric severe sepsis ED visits resulted in hospital admission, and 3.1% were admitted to a critical care unit.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Our study suggests that there are almost 100,000 ED visits for pediatric severe sepsis each year in the US. Severe sepsis is associated with significant morbidity and mortality, and early aggressive therapy may help to improve outcomes from this condition (<xref ref-type="bibr" rid="ref-19">Rivers et al., 2001</xref>). Our study illustrates the potential magnitude of ED pediatric severe sepsis population in the United States. While there are limitations inherent to the NHAMCS data set, our observations offer the best available and most current cross-sectional perspectives of pediatric severe sepsis in the US.</p>
+      <p>Our findings shed light on the characteristics of children requiring severe sepsis care in the ED. The age distribution of severe sepsis was bimodal, with most cases occurring in children ages 31 days–1 year and 13–18 years. Only 11.1% arrived by EMS, indicating opportunities to expand the involvement of EMS in the care and transportation of these children (<xref ref-type="bibr" rid="ref-21">Wang et al., 2010</xref>). The insurance payor for over half of severe sepsis cases was Medicaid or self-pay, highlighting the prevalence of this condition among those with lower socioeconomic status. While not indicated by these data, barriers to timely primary or preventive care may have amplified the number of ED visits by this subgroup.</p>
+      <p>Using 1995 hospital discharge data from seven states, Watson et al. estimated that there were 42,364 annual hospitalizations for pediatric severe sepsis in the US (<xref ref-type="bibr" rid="ref-22">Watson &amp; Carcillo, 2005</xref>). Our contrasting study focuses on children presenting to the ED, which is often the location for initial detection and management of sepsis. In contrast to the Watson study, we observed only 16,000 annual pediatric severe sepsis hospital admissions from the ED as well as low rates of critical care unit admission. We urge caution when making inferences from these unexpected observations, which are clearly discordant with Watson’s prior work. There are many potential explanations for the disagreement between Watson’s and our study. Watson’s study included low birth weight neonates in neonatal intensive care units, which is not representative of the general ED population. The majority of cases in the Watson series may reflect children who developed severe sepsis during later points of hospitalization. Many pediatric patients in our series may have received successful initial treatment with sufficient recovery for discharge home from the ED. The data from the Watson study are also almost 18 years old, and may not represent current patient characteristics or clinical practices.</p>
+      <p>However, another potential explanation is that NHAMCS coding or data abstraction errors unique to the data set or this population may have resulted in underestimates of the number of admissions. Recent studies highlight concerns with NHAMCS data pertaining to hospital admission status or destination; these factors clearly apply to our analysis (<xref ref-type="bibr" rid="ref-3">Cooper, 2012</xref>; <xref ref-type="bibr" rid="ref-7">Green, 2013</xref>; <xref ref-type="bibr" rid="ref-12">McCaig &amp; Burt, 2012</xref>). We note that we did not perform an independent validation of the NHAMCS dataset for this particular analysis. However, a proper validation study would be logistically challenging, requiring manual review of medical records from multiple EDs. We emphasize that these inconsistencies related to ED disposition should not distract from the main premise of our study – that the annual number of US ED visits for severe sepsis is large and diverse. Our study is intended to be hypothesis generating and to provide foundation knowledge for characterizing the collective burden of pediatric severe sepsis upon the US emergency care system.</p>
+      <p>The findings of our study highlight important issues in pediatric sepsis care. The care of the pediatric severe sepsis patient is often complex, involving early recognition and aggressive resuscitative care. Outcomes for complex medical conditions are often better at centers that care for high volumes of patients; for example, trauma centers that care for larger volumes of injured patients report improved survival (<xref ref-type="bibr" rid="ref-13">Nathens et al., 2001</xref>). The National Emergency Department Inventory (NEDI-USA) estimated that there were 4,874 EDs in the US in 2007 (NEDI-USA). Based upon this figure and our finding of approximately 100,000 annual ED visits for pediatric severe sepsis, one would expect a typical ED to care for approximately 20 pediatric severe sepsis cases each year. If additional studies were to confirm a minimum experience threshold, clinicians and policymakers might entertain alternate pediatric sepsis care strategies. For example, providers might triage pediatric severe sepsis cases to specialized pediatric EDs with expertise in sepsis resuscitation. Clinicians may also devise ways to improve severe sepsis recognition, such as through the use of point-of-care lactate measurements (<xref ref-type="bibr" rid="ref-10">Levy et al., 2010</xref>; <xref ref-type="bibr" rid="ref-18">Perel, 2008</xref>; <xref ref-type="bibr" rid="ref-19">Rivers et al., 2001</xref>). We emphasize that our study does not indicate the effectiveness of such approaches. Rather, our study highlights the sizable pediatric population that could benefit from optimized severe sepsis detection and management.</p>
+    </sec>
+    <sec>
+      <title>Limitations</title>
+      <p>NHAMCS is retrospective in nature and uses a probability sample design. However, the methodology of the NHAMCS study is rigorous, and the data set has been widely used in similar analyses for over 15 years. Due to the absence of individual identifiers, we could not estimate rates of ED re-visits. Because NHAMCS collects only three diagnoses per patient, we may have missed additional relevant conditions that were not reported by data abstractors. Abstractors may have also varied in the selection of ED diagnoses; it is unclear whether this bias would have resulted in under- or over-estimates of the number of severe sepsis cases. Our focus on children resulted in a relatively modest sample size, limiting inferences for smaller subgroups. Most notably, while representing an important sepsis subset, our ability to characterize neonates was limited. We note that given the current data we could not correct ages for those born prematurely.</p>
+      <p>As discussed previously, the identification of severe sepsis using diagnostic codes and vital signs has not been prospectively validated with the current data set, an effort that would be logistically complex. However, the strategy has been widely used by other studies, including those using NHAMCS (<xref ref-type="bibr" rid="ref-20">Wang et al., 2007</xref>). While Martin, et al. proposed a set of ICD-9 codes corresponding to sepsis, we focused on severe sepsis (encompassing the combination of infection and organ dysfunction codes) in this study because of the unclear coding practices for children (<xref ref-type="bibr" rid="ref-11">Martin et al., 2003</xref>). We note that the definition of sepsis is controversial, and the standards used in this study reflect common practice used in a range of prior studies (<xref ref-type="bibr" rid="ref-1">Angus et al., 2001</xref>; <xref ref-type="bibr" rid="ref-20">Wang et al., 2007</xref>).</p>
+      <p>Our analysis was based upon initial vital signs and did not preclude those receiving prior treatment (for example, administrative of antipyretics prior to ED arrival) or those decompensating at later time points in the ED. We were unable to disentangle infectious from non-infectious causes for fever or hypotension in the current data set. We also focused on children presenting to the ED with severe sepsis, not children developing sepsis as a result of hospitalization for other medical conditions. We could not identify conditions such as malignancies or congenital deficiencies that often predispose children to sepsis (<xref ref-type="bibr" rid="ref-17">Orange, 2005</xref>). Because of the small relative number of raw observations, we could not provide detailed insights on ED interventions or hospital outcome. Our ability to describe secular trends in sepsis was also limited.</p>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>Nearly 100,000 children annually present to US EDs with severe sepsis. The findings of this study highlight the unique characteristics of children treated in the ED for severe sepsis.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="zip" xlink:href="https://peerj.com/articles/79/NHAMCS 2001-09 Ped Sepsis Short 3_26_13.zip">
+        <object-id pub-id-type="doi">10.7717/peerj.79/supp-1</object-id>
+        <label>Supplemental Information 1</label>
+        <caption>
+          <title>NHAMCS 2001–09 Ped Sepsis Short</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/79/Ped_Sepsis_Appendix_1_REVISED_Apr_15_2013_FINAL_PeerJ.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.79/supp-2</object-id>
+        <label>Appendix S1</label>
+        <caption>
+          <title>Age-specific values for hypotension. (Goldstein et al. 2005)</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>Dr. Henry Wang is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Sara Singhal</xref> conceived and designed the experiments, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Mathias W. Allen</xref> conceived and designed the experiments, performed the experiments, analyzed the data.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">John-Ryan McAnnally</xref> performed the experiments, analyzed the data.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Kenneth S. Smith</xref> wrote the paper.</p>
+        </fn>
+        <fn id="contribution-5" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-5">John P. Donnelly</xref> performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-6" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-6">Henry E. Wang</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Human Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>The Institutional Review Board of the University of Alabama at Birmingham approved this study: UAB IRB Protocol N090512004.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Angus et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Angus</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Linde-Zwirble</surname>
+              <given-names>WT</given-names>
+            </name>
+            <name>
+              <surname>Lidicker</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Clermont</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Carcillo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pinsky</surname>
+              <given-names>MR</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care</article-title>
+          <source>Critical Care Medicine</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>29</volume>
+          <fpage>1303</fpage>
+          <lpage>1310</lpage>
+          <pub-id pub-id-type="doi">10.1097/00003246-200107000-00002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Carcillo, Davis &amp; Zaritsky (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carcillo</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Zaritsky</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of early fluid resuscitation in pediatric septic shock</article-title>
+          <source>Journal of the American Medical Association</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>266</volume>
+          <fpage>1242</fpage>
+          <lpage>1245</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.1991.03470090076035</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Cooper (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cooper</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>NHAMCS: does it hold up to scrutiny?</article-title>
+          <source>Annals of Emergency Medicine</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>60</volume>
+          <fpage>722</fpage>
+          <lpage>725</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.annemergmed.2012.10.013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>de Oliveira (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Oliveira</surname>
+              <given-names>CF</given-names>
+            </name>
+          </person-group>
+          <article-title>Early goal-directed therapy in treatment of pediatric septic shock</article-title>
+          <source>Shock</source>
+          <issue>Suppl 1</issue>
+          <year iso-8601-date="2010">2010</year>
+          <volume>34</volume>
+          <fpage>44</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.1097/SHK.0b013e3181e7e6d5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Gebara (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gebara</surname>
+              <given-names>BM</given-names>
+            </name>
+          </person-group>
+          <article-title>Values for systolic blood pressure</article-title>
+          <source>Pediatric Critical Care Medicine</source>
+          <issue>500</issue>
+          <year iso-8601-date="2005">2005</year>
+          <volume>6</volume>
+          <fpage>500</fpage>
+          <lpage>501</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.PCC.0000164344.07588.83</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Goldstein, Giroir &amp; Randolph (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goldstein</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Giroir</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Randolph</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>International pediatric sepsis consensus conference: definitions for sepsis and organ dysfunction in pediatrics</article-title>
+          <source>Pediatric Critical Care Medicine</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>6</volume>
+          <fpage>2</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.PCC.0000149131.72248.E6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Green (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Green</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Congruence of disposition after emergency department intubation in the national hospital ambulatory medical care survey</article-title>
+          <source>Annals of Emergency Medicine</source>
+          <issue>4</issue>
+          <year iso-8601-date="2013">2013</year>
+          <volume>61</volume>
+          <fpage>423</fpage>
+          <lpage>426</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.annemergmed.2012.09.010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Han et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>YY</given-names>
+            </name>
+            <name>
+              <surname>Carcillo</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Dragotta</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Bills</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Westerman</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Orr</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Early reversal of pediatric-neonatal septic shock by community physicians is associated with improved outcome</article-title>
+          <source>Pediatrics</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>112</volume>
+          <fpage>793</fpage>
+          <lpage>799</lpage>
+          <pub-id pub-id-type="doi">10.1542/peds.112.4.793</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Hing et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hing</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Gousen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Burt</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Guide to using masked design variables to estimate standard errors in public use files of the National Ambulatory Medical Care Survey and the National Hospital Ambulatory Medical Care Survey</article-title>
+          <source>Inquiry</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>40</volume>
+          <fpage>401</fpage>
+          <lpage>415</lpage>
+          <pub-id pub-id-type="doi">10.5034/inquiryjrnl_40.4.401</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Levy et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levy</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Perez</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gibot</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gerard</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Increased muscle-to-serum lactate gradient predicts progression towards septic shock in septic patients</article-title>
+          <source>Intensive Care Medicine</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>36</volume>
+          <fpage>1703</fpage>
+          <lpage>1709</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00134-010-1938-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Martin et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Mannino</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Eaton</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Moss</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The epidemiology of sepsis in the United States from 1979 through 2000</article-title>
+          <source>New England Journal of Medicine</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>348</volume>
+          <fpage>1546</fpage>
+          <lpage>1554</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa022139</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>McCaig &amp; Burt (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCaig</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Burt</surname>
+              <given-names>CW</given-names>
+            </name>
+          </person-group>
+          <article-title>Understanding and interpreting the national hospital ambulatory medical care survey: key questions and answers</article-title>
+          <source>Annals of Emergency Medicine</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>60</volume>
+          <fpage>716</fpage>
+          <lpage>721</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.annemergmed.2012.07.010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Nathens et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nathens</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Jurkovich</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Maier</surname>
+              <given-names>RV</given-names>
+            </name>
+            <name>
+              <surname>Grossman</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>MacKenzie</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rivara</surname>
+              <given-names>FP</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationship between trauma center volume and outcomes</article-title>
+          <source>Journal of the American Medical Association</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>285</volume>
+          <fpage>1164</fpage>
+          <lpage>1171</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.285.9.1164</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>NCHS (0000)</label>
+        <element-citation publication-type="other">
+          <comment><bold>NCHS.</bold> National Center for Health Statistics, Centers for Disease Control and Prevention, NHAMCS estimation procedures. <italic>Available at <uri xlink:href="http://www.cdc.gov/nchs/ahcd/ahcd_estimation_procedures.htm#nhamcs_procedures">http://www.cdc.gov/nchs/ahcd/ahcd_estimation_procedures.htm#nhamcs_procedures</uri></italic> (accessed 31 May 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>NCHS (0000)</label>
+        <element-citation publication-type="other">
+          <comment><bold>NCHS.</bold> National Center for Health Statistics, Centers for Disease Control and Prevention. Dataset documentation: National Hospital Ambulatory Medical Care Survey. <italic>Available at <uri xlink:href="ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHAMCS/">ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHAMCS/</uri></italic> (accessed 31 May 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>NCHS (0000)</label>
+        <element-citation publication-type="other">
+          <comment><bold>NEDI-USA.</bold> National Emergency Department Inventories (NEDI) database, EMNet. Emergency Medicine Network. Massachusetts General Hospital. Boston, MA. <italic>Available at <uri xlink:href="http://www.emnet-usa.org/nedi/nedi_usa.htm">http://www.emnet-usa.org/nedi/nedi_usa.htm</uri></italic> (accessed 8 June 2011)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Orange (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Orange</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Congenital immunodeficiencies and sepsis</article-title>
+          <source>Pediatric Critical Care Medicine</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>6</volume>
+          <fpage>S99</fpage>
+          <lpage>S107</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.PCC.0000164488.19810.DB</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Perel (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perel</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Bench-to-bedside review: the initial hemodynamic resuscitation of the septic patient according to Surviving Sepsis Campaign guidelines–does one size fit all?</article-title>
+          <source>Critical Care</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>12</volume>
+          <fpage>223</fpage>
+          <pub-id pub-id-type="doi">10.1186/cc6979</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Rivers et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rivers</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Havstad</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ressler</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Muzzin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Knoblich</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Peterson</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tomlanovich</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Early goal-directed therapy in the treatment of severe sepsis and septic shock</article-title>
+          <source>New England Journal of Medicine</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>345</volume>
+          <fpage>1368</fpage>
+          <lpage>1377</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa010307</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Wang et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>NI</given-names>
+            </name>
+            <name>
+              <surname>Angus</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Yealy</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>National estimates of severe sepsis in United States emergency departments</article-title>
+          <source>Critical Care Medicine</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>35</volume>
+          <fpage>1928</fpage>
+          <lpage>1936</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.CCM.0000277043.85378.C1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Wang et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Weaver</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>NI</given-names>
+            </name>
+            <name>
+              <surname>Yealy</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>Opportunities for Emergency Medical Services care of sepsis</article-title>
+          <source>Resuscitation</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>81</volume>
+          <fpage>193</fpage>
+          <lpage>197</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.resuscitation.2009.11.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Watson &amp; Carcillo (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Watson</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Carcillo</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Scope and epidemiology of pediatric sepsis</article-title>
+          <source>Pediatric Critical Care Medicine</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>6</volume>
+          <fpage>S3</fpage>
+          <lpage>S5</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.PCC.0000161289.22464.C3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Watson et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Watson</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Carcillo</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Linde-Zwirble</surname>
+              <given-names>WT</given-names>
+            </name>
+            <name>
+              <surname>Clermont</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lidicker</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Angus</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <article-title>The epidemiology of severe sepsis in children in the United States</article-title>
+          <source>American Journal of Respiratory Critical Care Medicine</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>167</volume>
+          <fpage>695</fpage>
+          <lpage>701</lpage>
+          <pub-id pub-id-type="doi">10.1164/rccm.200207-682OC</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Weycker et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weycker</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Akhras</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Edelsberg</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Angus</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Oster</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term mortality and medical care charges in patients with severe sepsis</article-title>
+          <source>Critical Care Medicine</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>31</volume>
+          <fpage>2316</fpage>
+          <lpage>2323</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.CCM.0000085178.80226.0B</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

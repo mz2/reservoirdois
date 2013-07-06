@@ -1,1147 +1,1026 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018989000,&quot;from_str&quot;:&quot;2013-07-05T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500589000,&quot;from_str&quot;:&quot;2013-06-29T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513389000,&quot;from_str&quot;:&quot;2013-06-06T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948589000,&quot;from_str&quot;:&quot;2012-12-31T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,353,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">80</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.80</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Biochemistry</subject>
+          <subject>Biophysics</subject>
+          <subject>Computational Biology</subject>
+          <subject>Computational Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>PeptideBuilder: A simple Python library to generate model peptides</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Tien</surname>
+            <given-names>Matthew Z.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Sydykova</surname>
+            <given-names>Dariya K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Meyer</surname>
+            <given-names>Austin G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wilke</surname>
+            <given-names>Claus O.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <email>wilke@austin.utexas.edu</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Biochemistry &amp; Molecular Biology, The University of Chicago</institution>, <addr-line>Chicago, IL</addr-line>, <country>USA</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Section of Integrative Biology, Institute for Cellular and Molecular Biology, and Center for Computational Biology and Bioinformatics, The University of Texas at Austin</institution>, <addr-line>Austin, TX</addr-line>, <country>USA</country></aff>
+        <aff id="aff-3"><label>3</label><institution>School of Medicine, Texas Tech University Health Sciences Center</institution>, <addr-line>Lubbock, TX</addr-line>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Paci</surname>
+            <given-names>Emanuele</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-05-21">
+        <day>21</day>
+        <month>5</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e80</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-03-20">
+          <day>20</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-06">
+          <day>6</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Tien et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Tien et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/80"/>
+      <abstract>
+        <p>We present a simple Python library to construct models of polypeptides from scratch. The intended use case is the generation of peptide models with pre-specified backbone angles. For example, using our library, one can generate a model of a set of amino acids in a specific conformation using just a few lines of python code. We do not provide any tools for energy minimization or rotamer packing, since powerful tools are available for these purposes. Instead, we provide a simple Python interface that enables one to add residues to a peptide chain in any desired conformation. Bond angles and bond lengths can be manipulated if so desired, and reasonable values are used by default.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Protein structure</kwd>
+        <kwd>Molecular modeling</kwd>
+        <kwd>Computational biology</kwd>
+        <kwd>Model peptides</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>NIH</funding-source>
+          <award-id>R01 GM088344</award-id>
+        </award-group>
+        <funding-statement>This work was supported by NIH grant R01 GM088344 to COW. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Researchers working in structural biology and related fields frequently have to create, manipulate, or analyze protein crystal structures. To aid this work, many different software tools have been developed. Examples include visualization (<xref ref-type="bibr" rid="ref-10">Schrödinger, 2013</xref>), mutagenesis (<xref ref-type="bibr" rid="ref-10">Schrödinger, 2013</xref>; <xref ref-type="bibr" rid="ref-8">Leaver-Fay et al., 2011</xref>), high-throughput computational analysis (<xref ref-type="bibr" rid="ref-7">Hamelryck &amp; Manderick, 2003</xref>; <xref ref-type="bibr" rid="ref-4">Grant et al., 2006</xref>), ab-initio protein folding and protein design (<xref ref-type="bibr" rid="ref-8">Leaver-Fay et al., 2011</xref>), and homology modeling and threading (<xref ref-type="bibr" rid="ref-3">Eswar et al., 2006</xref>; <xref ref-type="bibr" rid="ref-14">Zhang, 2008</xref>). In comparison, a relatively simple task, the ab-initio creation of a protein structure in a desired conformation, has received little attention. It is possible to perform this task in PyRosetta (<xref ref-type="bibr" rid="ref-1">Chaudhury, Lyskov &amp; Gray, 2010</xref>; <xref ref-type="bibr" rid="ref-5">Gray et al., 2013</xref>), but that approach incurs the overhead of the entire Rosetta protein modeling package (<xref ref-type="bibr" rid="ref-8">Leaver-Fay et al., 2011</xref>). One can also construct peptides manually in some graphical molecular modeling packages, such as Swiss-PdbViewer (<xref ref-type="bibr" rid="ref-6">Guex &amp; Peitsch, 1997</xref>). Finally, the Rose lab has developed Ribosome (<xref ref-type="bibr" rid="ref-12">Srinivasan, 2013</xref>), a small program with the express purpose of creating model peptides. However, Ribosome is implemented in Fortran, an outdated programming language that integrates poorly with modern bioinformatics pipelines.</p>
+      <p>For a recent analysis by our group, we wanted to systematically enumerate GLY-X-GLY tripeptides in all allowed conformations (<xref ref-type="bibr" rid="ref-13">Tien et al., 2012</xref>). After review of the available software packages, we determined that there was a need for a lightweight library, implemented in a modern programming language, that would allow us to construct arbitrary peptides in any desired conformation. We decided to write this library in the language Python (<xref ref-type="bibr" rid="ref-9">Python Sofware Foundation, 2013</xref>), as this language is widely used in scientific computing. Specifically, many tools suitable for computational biology and bioinformatics are available (<xref ref-type="bibr" rid="ref-2">Cock et al., 2009</xref>), including tools to read, manipulate, and write PDB (Protein Data Bank) files (<xref ref-type="bibr" rid="ref-7">Hamelryck &amp; Manderick, 2003</xref>). This effort resulted in the Python library <monospace>PeptideBuilder</monospace>, which we describe here. The library consists of two Python files comprising a total of approximately 2000 lines of code. Both files are provided as <xref ref-type="supplementary-material" rid="supp-1">Supplemental Information 1</xref>. The entire PeptideBuilder package is also available online at <uri xlink:href="https://github.com/mtien/PeptideBuilder">https://github.com/mtien/PeptideBuilder</uri>.</p>
+    </sec>
+    <sec>
+      <title>Conceptual overview</title>
+      <p>The key function our library provides is to add a residue at the C terminus of an existing polypeptide model, using arbitrary backbone angles. Our library also allows a user to generate an individual amino acid residue and place it into an otherwise empty model. In combination, these two functions enable the construction of arbitrary polypeptide chains. The generated models are stored as structure objects using the PDB module of Biopython (<monospace>Bio.PDB</monospace>, <xref ref-type="bibr" rid="ref-7">Hamelryck &amp; Manderick 2003</xref>). The seemless integration with Biopython’s PDB module means that we can leverage a wide range of existing functionality, such as writing structures to PDB files or measuring distances between atoms.</p>
+      <p>Adding a residue to an existing polypeptide chain involves two separate steps. First, we have to establish the desired geometric arrangement of all atoms in the residue to be added. This means we have to determine all bond lengths and angles. In practice, we will usually want to specify the dihedral backbone angles ϕ and ψ, and possibly the rotamers, whereas all other bond lengths and angles should be set to reasonable defaults for the amino acid under consideration. Once we have determined the desired geometry, we have to calculate the actual position of all atoms in 3-space and then add the atoms to the structure object. The exact calculations required to convert bond lengths and angles into 3D atom coordinates are given in the supporting text of <xref ref-type="bibr" rid="ref-13">Tien et al. (2012)</xref>. Our library places all heavy atoms for each residue, but it does not place hydrogens.</p>
+      <p>We obtained default values for bond lengths and angles by measuring these quantities in a large collection of published crystal structures and recording the average for each quantity, as described (<xref ref-type="bibr" rid="ref-13">Tien et al., 2012</xref>). We set the default for the backbone dihedral angles to the extended conformation (ϕ = −120<sup>∘</sup>, ψ = 140<sup>∘</sup>, ω = 180<sup>∘</sup>). We based the default rotamer angles of each individual amino acid on the rotamer library of <xref ref-type="bibr" rid="ref-11">Shapovalov &amp; Dunbrack (2011)</xref>. For each amino acid, the rotamer library provided the frequency of each combination of rotamer angles given the backbone conformation. We analyzed this library at the extended backbone conformation (ϕ = −120<sup>∘</sup>, ψ = 140<sup>∘</sup>) and used the most likely rotamer conformation at that backbone conformation as default. For amino acids with multiple χ<sub>1</sub> or χ<sub>2</sub> angles (such as Ile or Leu) we used the most likely and the second most likely angles from the rotamer library.</p>
+    </sec>
+    <sec>
+      <title>Evaluation</title>
+      <p>We did extensive testing on our library to verify that we were placing atoms at the correct locations given the bond lengths and angles we specified. First, we collected tri-peptides from published PDB structures, extracted all bond lengths and angles, reconstructed the tri-peptides using our library, and verified that the original tri-peptide and the reconstructed one aligned with an RMSD of zero. Next, we wanted to know how our library would fare in reconstructing longer peptides, in particular when using the default parameter values we used for bond lengths and angles. For this analysis, we focused on the peptide backbone, since the evaluation of tripeptides had shown that our library was capable of placing side-chains correctly if it was given the correct bond lengths and angles.</p>
+      <p>We selected ten proteins with solved crystal structure. The proteins were chosen to represent a diverse group of common folds. For each protein, we then attempted to reconstruct the backbone of either the first 50 residues in the structure, the first 150 residues in the structure, or the entire structure. In all cases, we extracted backbone bond lengths and angles at each residue, and then reconstructed the protein using four different methods. When placing each residue, we either (i) adjusted only the extracted ϕ and ψ dihedral angles, (ii) adjusted ϕ, ψ, and ω dihedral angles, (iii) adjusted all dihedral and planar bond angles, or (iv) adjusted all bond lengths and angles exactly to the values measured in the structure we were reconstructing. In each case, any remaining parameters were left at their default values.</p>
+      <p>As expected, when we set all bond lengths and angles to exactly the values observed in the reference crystal structure, we could reconstruct the entire backbone with an RMSD close to zero. We did see an accumulation of rounding errors in longer proteins, but these rounding errors amounted to an RMSD of less than 0.01 Å even for a protein of over 600 residues. Hence they are negligible in practice. By contrast, reconstructions relying on just backbone dihedral angles performed poorly. We found that we had to adjust all backbone bond angles, inlcuding planar angles, to obtain accurate reconstructions. Bond lengths, on the other hand, could be left at their default values. <xref ref-type="table" rid="table-1">Table 1</xref> summarizes our findings for all 10 structures, and <xref ref-type="fig" rid="fig-1">Fig. 1</xref> shows the results of the four different methods of reconstruction for one example structure. The python script to generate these reconstructions is provided as part of <xref ref-type="supplementary-material" rid="supp-1">Supplemental Information 1</xref>.</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.80/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Reconstruction of protein backbone using varying degrees of modeling accuracy.</title>
+          <p>The gray backbone corresponds to chain A of crystal structure 1gfl (green fluorescent protein), and the rainbow-colored backbone corresponds to the reconstructed version thereof. (A) Only ϕ and ψ dihedral angles are adjusted to match those in the reference structure. (B) All dihedral backbone angles (ϕ, ψ, and ω) are adjusted to match those in the reference structure. (C) All backbone bond angles are adjusted to match those in the reference structure. (D) All backbone bond lengths and angles are adjusted to match those in the reference structure. RMSD values are given in <xref ref-type="table" rid="table-1">Table 1</xref>. Part (D) shows perfect overlap between the reference and the reconstructed backbone.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/fig-1.png"/>
+      </fig>
+      <table-wrap id="table-1">
+        <object-id pub-id-type="doi">10.7717/peerj.80/table-1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Root mean square deviation (RMSD) between reference crystal structures and reconstructions of these structures using varying amounts of modeling detail. Reconstructions using just dihedral backbone angles tend to deviate substantially from the reference structures, whereas reconstructions using all bond angles tend to perform well, even if bond lengths are kept at default values.</p>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/table-1.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">PDB<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>
+                        </th>
+                <th align="left">Length<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref>
+                        </th>
+                <th align="center" colspan="3">ϕ, ψ<xref ref-type="fn" rid="table-1fn3"><sup>c</sup></xref>
+                        </th>
+                <th align="center" colspan="3">ϕ, ψ, ω<xref ref-type="fn" rid="table-1fn4"><sup>d</sup></xref>
+                        </th>
+                <th align="center" colspan="3">All bond angles</th>
+                <th align="center" colspan="3">All bond lengths and angles</th>
+              </tr>
+              <tr>
+                <th align="left"/>
+                <th align="left"/>
+                <th align="left">50<xref ref-type="fn" rid="table-1fn5"><sup>e</sup></xref>
+                        </th>
+                <th align="left">150<xref ref-type="fn" rid="table-1fn6"><sup>f</sup></xref>
+                        </th>
+                <th align="left">full<xref ref-type="fn" rid="table-1fn7"><sup>g</sup></xref>
+                        </th>
+                <th align="left">50<xref ref-type="fn" rid="table-1fn5"><sup>e</sup></xref>
+                        </th>
+                <th align="left">150<xref ref-type="fn" rid="table-1fn6"><sup>f</sup></xref>
+                        </th>
+                <th align="left">full<xref ref-type="fn" rid="table-1fn7"><sup>g</sup></xref>
+                        </th>
+                <th align="left">50<xref ref-type="fn" rid="table-1fn5"><sup>e</sup></xref>
+                        </th>
+                <th align="left">150<xref ref-type="fn" rid="table-1fn6"><sup>f</sup></xref>
+                        </th>
+                <th align="left">full<xref ref-type="fn" rid="table-1fn7"><sup>g</sup></xref>
+                        </th>
+                <th align="left">50<xref ref-type="fn" rid="table-1fn5"><sup>e</sup></xref>
+                        </th>
+                <th align="left">150<xref ref-type="fn" rid="table-1fn6"><sup>f</sup></xref>
+                        </th>
+                <th align="left">full<xref ref-type="fn" rid="table-1fn7"><sup>g</sup></xref>
+                        </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">1aq7</td>
+                <td align="left">223</td>
+                <td align="left">5.8</td>
+                <td align="left">10.4</td>
+                <td align="left">11.6</td>
+                <td align="left">5.0</td>
+                <td align="left">8.9</td>
+                <td align="left">10.1</td>
+                <td align="left">0.0</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">1gfl</td>
+                <td align="left">230</td>
+                <td align="left">3.9</td>
+                <td align="left">21.3</td>
+                <td align="left">22.4</td>
+                <td align="left">4.0</td>
+                <td align="left">7.4</td>
+                <td align="left">9.0</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">1nbw</td>
+                <td align="left">606</td>
+                <td align="left">4.9</td>
+                <td align="left">8.5</td>
+                <td align="left">29.1</td>
+                <td align="left">4.3</td>
+                <td align="left">7.4</td>
+                <td align="left">25.6</td>
+                <td align="left">0.0</td>
+                <td align="left">0.1</td>
+                <td align="left">0.2</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">1vca</td>
+                <td align="left">199</td>
+                <td align="left">6.2</td>
+                <td align="left">20.1</td>
+                <td align="left">23.9</td>
+                <td align="left">2.8</td>
+                <td align="left">8.7</td>
+                <td align="left">11.7</td>
+                <td align="left">0.1</td>
+                <td align="left">0.2</td>
+                <td align="left">0.2</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">2o6r</td>
+                <td align="left">177</td>
+                <td align="left">3.6</td>
+                <td align="left">12.7</td>
+                <td align="left">14.9</td>
+                <td align="left">3.0</td>
+                <td align="left">10.4</td>
+                <td align="left">12.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">2r83</td>
+                <td align="left">279</td>
+                <td align="left">7.1</td>
+                <td align="left">14.4</td>
+                <td align="left">17.1</td>
+                <td align="left">5.6</td>
+                <td align="left">11.7</td>
+                <td align="left">15.9</td>
+                <td align="left">0.0</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">3cap</td>
+                <td align="left">326</td>
+                <td align="left">3.9</td>
+                <td align="left">7.6</td>
+                <td align="left">10.6</td>
+                <td align="left">2.0</td>
+                <td align="left">6.1</td>
+                <td align="left">9.4</td>
+                <td align="left">0.0</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">3cuq</td>
+                <td align="left">219</td>
+                <td align="left">5.2</td>
+                <td align="left">9.9</td>
+                <td align="left">9.3</td>
+                <td align="left">3.2</td>
+                <td align="left">5.2</td>
+                <td align="left">5.2</td>
+                <td align="left">0.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.2</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">3vni</td>
+                <td align="left">289</td>
+                <td align="left">5.0</td>
+                <td align="left">12.7</td>
+                <td align="left">16.7</td>
+                <td align="left">3.2</td>
+                <td align="left">6.6</td>
+                <td align="left">7.1</td>
+                <td align="left">0.1</td>
+                <td align="left">0.2</td>
+                <td align="left">0.2</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+              <tr>
+                <td align="left">7tim</td>
+                <td align="left">247</td>
+                <td align="left">5.3</td>
+                <td align="left">6.7</td>
+                <td align="left">10.3</td>
+                <td align="left">4.8</td>
+                <td align="left">6.2</td>
+                <td align="left">7.6</td>
+                <td align="left">0.1</td>
+                <td align="left">0.2</td>
+                <td align="left">0.3</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+                <td align="left">0.0</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-1fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-1fn1">
+            <label>a</label>
+            <p>PDB ID of the reference structure. In all cases, chain A of the structure was used.</p>
+          </fn>
+          <fn id="table-1fn2">
+            <label>b</label>
+            <p>Length of reference structure, in amino acids.</p>
+          </fn>
+          <fn id="table-1fn3">
+            <label>c</label>
+            <p>Only dihedral backbone angles ϕ and ψ have been adjusted to match the reference structure.</p>
+          </fn>
+          <fn id="table-1fn4">
+            <label>d</label>
+            <p>Only dihedral backbone angles ϕ, ψ, and ω have been adjusted to match the reference structure.</p>
+          </fn>
+          <fn id="table-1fn5">
+            <label>e</label>
+            <p>RMSD (in Å) over the first 50 residues.</p>
+          </fn>
+          <fn id="table-1fn6">
+            <label>f</label>
+            <p>RMSD (in Å) over the first 150 residues.</p>
+          </fn>
+          <fn id="table-1fn7">
+            <label>g</label>
+            <p>RMSD (in Å) over the entire structure.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Our results show that the <monospace>PeptideBuilder</monospace> software correctly places all atoms at the desired locations. However, they also demonstrate that one needs to be careful when constructing longer peptides. It is not possible to construct an entire protein structure just from backbone dihedral angles and expect the structure to look approximately correct. In particular in tight turns and unstructured loops, small deviations in backbone bond angles can have a major impact on where in 3D space downstream secondary structure elements are located. Hence these angles cannot be neglected when reconstructing backbones.</p>
+    </sec>
+    <sec>
+      <title>Usage</title>
+      <p>The <monospace>PeptideBuilder</monospace> software consists of two libraries, <monospace>Geometry</monospace> and <monospace>PeptideBuilder</monospace>. The <monospace>Geometry</monospace> library contains functions that can set up the proper three-dimensional geometry of all 20 amino acids. The <monospace>PeptideBuilder</monospace> library contains functions that use this geometry information to construct actual peptides.</p>
+      <p><monospace>PeptideBuilder</monospace> has one dependency beyond a default python installation, the Biopython package (<xref ref-type="bibr" rid="ref-2">Cock et al. 2009</xref>, <uri xlink:href="http://biopython.org/">http://biopython.org/</uri>), which provides the module <monospace>Bio</monospace>.</p>
+      <sec>
+        <title>Basic construction of peptides</title>
+        <p>Let us consider a simple program that places 5 glycines into an extended conformation. First, we need to generate the glycine geometry, which we do using the function <monospace>Geometry.geometry()</monospace>. This function takes as argument a single character indicating the desired amino acid. Using the resulting geometry, we can then intialize a structure object with this amino acid, using the function <monospace>PeptideBuilder.initialize_res()</monospace>. The complete code to perform these functions looks like this: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-1.png" position="anchor"/>We now add four more glycines using the function <monospace>PeptideBuilder.add_residue()</monospace>. The default geometry object specifies an extended conformation (ϕ = −120<sup>∘</sup>, ψ = 140<sup>∘</sup>). If this is the conformation we want to generate, we can simply reuse the previously generated geometry object and write: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-2.png" position="anchor"/>Because <monospace>PeptideBuilder</monospace> stores the generated peptides in the format of <monospace>Bio.PDB</monospace> structure objects, we can use existing <monospace>Bio.PDB</monospace> functionality to write the resulting structure into a PDB file: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-3.png" position="anchor"/>
+            </p>
+        <p>If we want to generate a peptide that is not in the extended conformation, we have to adjust the backbone dihedral angles accordingly. For example, we could place the five glycines into an alpha helix by setting ϕ = −60<sup>∘</sup> and ψ = −40<sup>∘</sup>. We do this by manipulating the <monospace>phi</monospace> and <monospace>psi_im1</monospace> members of the geometry object. (We are not actually specifying the ψ angle of the residue to be added, but the corresponding angle of the previous residue, ψ<sub><italic>i</italic>−1</sub>. Hence the member name <monospace>psi_im1</monospace>. See the Detailed adjustment of residue geometry Section for details.) The code example looks as follows: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-4.png" position="anchor"/>
+            </p>
+        <p>Several convenience functions exist that simplify common tasks. For example, if we simply want to add a residue at specific backbone angles, we can use an overloaded version of the function <monospace>add_residue()</monospace> that takes as arguments the structure to which the residue should be added, the amino acid in single-character code, and the ϕ and ψ<sub><italic>i</italic>−1</sub> angles: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-5.png" position="anchor"/>
+            </p>
+        <p>If we want to place an arbitrary sequence of amino acids into an extended structure, we can use the function <monospace>make_extended_structure()</monospace>, which takes as its sole argument a string holding the desired amino-acid sequence: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-6.png" position="anchor"/>
+            </p>
+        <p><xref ref-type="table" rid="table-2">Table 2</xref> summarizes all functions provided by PeptideBuilder. All these functions are documented in the source code using standard Python self-documentation methods.</p>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.80/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Overview of functions provided by PeptideBuilder.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Function name</th>
+                  <th align="left">Description</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">
+                    <monospace>add_residue</monospace>
+                  </td>
+                  <td align="left">Adds a single residue to a structure.</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <monospace>initialize_res</monospace>
+                  </td>
+                  <td align="left">Creates a new structure containing a single amino acid.</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <monospace>make_structure</monospace>
+                  </td>
+                  <td align="left">Builds an entire peptide with specified amino acid sequence and backbone angles.</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <monospace>make_extended_structure</monospace>
+                  </td>
+                  <td align="left">Builds an entire peptide in the extended conformation.</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <monospace>make_structure_from_geos</monospace>
+                  </td>
+                  <td align="left">Builds an entire peptide from a list of geometry objects.</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Detailed adjustment of residue geometry</title>
+        <p>Geometry objects contain all the bond lengths, bond angles, and dihedral angles necessary to specify a given amino acid. These parameters are stored as member variables, and can be changed by assignment (as in <monospace>geo.phi=-60</monospace>). We use a uniform naming scheme across all amino acids. Member variables storing bond lengths end in <monospace>_length</monospace>, those storing bond angles end in <monospace>_angle</monospace>, and those storing dihedral angles end in <monospace>_diangle</monospace>. For example, <monospace>CA_N_length</monospace> specifies the bond length between the α carbon and the backbone nitrogen, and <monospace>CA_C_O_angle</monospace> specifies the planar bond angle between the α carbon, the carbonyl carbon, and the carbonyl oxygen. All bond lengths are specified in units of Å, and all angles are specified in degrees.</p>
+        <p>Four backbone geometry parameters deviate from the uniform naming scheme: the three backbone dihedral angles ϕ (<monospace>phi</monospace>), ψ<sub><italic>i</italic>−1</sub> (<monospace>psi_im1</monospace>), and ω (<monospace>omega</monospace>) and the length of the peptide bond (<monospace>peptide_bond</monospace>). <xref ref-type="fig" rid="fig-2">Figure 2</xref> visualizes the location of the backbone dihedral angles in the peptide chain. The parameter <monospace>phi</monospace> places the carbonyl carbon of the residue to be added relative to the previous amino acid in the peptide chain, so it corresponds to the ϕ angle of the residue being placed (ϕ<sub><italic>i</italic></sub>). The parameter <monospace>psi_im1</monospace> places the nitrogen atom of the residue to be added, and hence corresponds to the ψ angle of the preceding residue in the chain (ψ<sub><italic>i</italic>−1</sub>). The parameter <monospace>omega</monospace> places the α carbon relative to the preceding residue and hence corresponds to the ω angle of the residue to be added (ω<sub><italic>i</italic></sub>). The peptide bond length is specified relative to the previous residue in the peptide chain.</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.80/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Illustration of backbone dihedral angles.</title>
+            <p>When placing the atoms for residue <italic>i</italic>, we have to specify the ϕ and ω dihedral angles for that residue (ϕ<sub><italic>i</italic></sub> and ω<sub><italic>i</italic></sub>) and the ψ angle for the previous residue (ψ<sub><italic>i</italic>−1</sub>). The ψ angle for residue <italic>i</italic> involves the nitrogen atom of residue <italic>i</italic> + 1 and thus remains undefined until residue <italic>i</italic> + 1 is added.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/fig-2.png"/>
+        </fig>
+        <p>A geometry object stores the minimum set of bond lengths, bond angles, and dihedral angles required to uniquely position every heavy atom in the residue. Additional bond angles remain that are not used in our code; these bond angles are defined implicitly. The simplest way to determine which bond lengths and angles are defined for a given amino acid is to print the corresponding geometry object. For example, entering the command <monospace>print Geometry.geometry("G")</monospace> on the python command line produces the following output: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-7.png" position="anchor"/>The following code prints out the default geometries for all amino acids: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-8.png" position="anchor"/>
+            </p>
+        <p>We can construct modified geometries simply by assigning new values to the appropriate member variables. For example, the following code constructs a Gly for which some bond lengths and angles deviate slightly from the default values: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-9.png" position="anchor"/>
+            </p>
+        <p>For amino acids whose side chains require specification of rotamer conformations, there are two ways to specify them. First, we can set rotamers by directly assigning the appropriate values to the correct dihedral angles: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-10.png" position="anchor"/>Second, we can set all rotamer angles at once, using the member function <monospace>inputRotamers()</monospace>: <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/80/inlinefig-11.png" position="anchor"/>In this function call, the angles are listed in order of standard biochemical convention, χ<sub>1</sub>, χ<sub>2</sub>, χ<sub>3</sub>, and so on, for however many χ angles the amino-acid side chain has.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>We have developed a Python library to construct model peptides. Our design goals were to make the library simple, lightweight, and easy-to-use. Using our library, one can construct model peptides in only a few lines of Python code, as long as default bond lengths and angles are acceptable. At the same time, all bond-length and bond-angle parameters are user-accessible and can be modified if so desired. We have verified that our library places atoms correctly. As part of this verification effort, we have found that with increasing peptide length it becomes increasingly important to adjust bond angles appropriately to reconstruct biophysically accurate protein structures.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="zip" xlink:href="https://peerj.com/articles/80/PeptideBuilder.zip">
+        <object-id pub-id-type="doi">10.7717/peerj.80/supp-1</object-id>
+        <label>Supplemental Information 1</label>
+        <caption>
+          <title>Source code of PeptideBuilder library</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Jeffrey Gray for helpful comments on this work.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors declare no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Matthew Z. Tien</xref> and <xref ref-type="contrib" rid="author-4">Claus O. Wilke</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Dariya K. Sydykova</xref> and <xref ref-type="contrib" rid="author-3">Austin G. Meyer</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Chaudhury, Lyskov &amp; Gray (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chaudhury</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lyskov</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>PyRosetta: a script-based interface for implementing molecular modeling algorithms using Rosetta</article-title>
+          <source>Bioinformatics</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>26</volume>
+          <fpage>689</fpage>
+          <lpage>691</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btq007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Cock et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cock</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Antao</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Chapman</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Cox</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Dalke</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Friedberg</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Hamelryck</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kauff</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Wilczynski</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>de Hoon</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Biopython: freely available Python tools for computational molecular biology and bioinformatics</article-title>
+          <source>Bioinformatics</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>25</volume>
+          <fpage>1422</fpage>
+          <lpage>1423</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btp163</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Eswar et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eswar</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Marti-Renom</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Webb</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Madhusudhan</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Eramian</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pieper</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Sali</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative protein structure modeling with MODELLER</article-title>
+          <source>Current Protocols in Bioinformatics</source>
+          <issue>Supplement</issue>
+          <year iso-8601-date="2006">2006</year>
+          <volume>15</volume>
+          <fpage>5.6.1</fpage>
+          <lpage>5.6.30</lpage>
+          <pub-id pub-id-type="doi">10.1002/0471250953.bi0506s15</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Grant et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grant</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Rodrigues</surname>
+              <given-names>APC</given-names>
+            </name>
+            <name>
+              <surname>ElSawy</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>McCammon</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Caves</surname>
+              <given-names>LSD</given-names>
+            </name>
+          </person-group>
+          <article-title>Bio3D: An R package for the comparative analysis of protein structures</article-title>
+          <source>Bioinformatics</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>22</volume>
+          <fpage>2695</fpage>
+          <lpage>2696</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btl461</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Gray et al. (2013)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gray</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Chaudhury</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lyskov</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Labonte</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <source>The PyRosetta interactive platform for protein structure prediction and design: a set of educational modules</source>
+          <edition>2nd edition</edition>
+          <year iso-8601-date="2013">2013</year>
+          <publisher-loc>Baltimore</publisher-loc>
+          <publisher-name>CreateSpace Independent Publishing Platform</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Guex &amp; Peitsch (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guex</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Peitsch</surname>
+              <given-names>MC</given-names>
+            </name>
+          </person-group>
+          <article-title>SWISS-MODEL and the Swiss-PdbViewer: an environment for comparative protein modeling</article-title>
+          <source>Electrophoresis</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>18</volume>
+          <fpage>2714</fpage>
+          <lpage>2723</lpage>
+          <pub-id pub-id-type="doi">10.1002/elps.1150181505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Hamelryck &amp; Manderick (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamelryck</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Manderick</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>PDB file parser and structure class implemented in Python</article-title>
+          <source>Bioinformatics</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>19</volume>
+          <fpage>2308</fpage>
+          <lpage>2310</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btg299</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Leaver-Fay et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leaver-Fay</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tyka</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Lange</surname>
+              <given-names>OF</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jacak</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kaufman</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Renfrew</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Sheffler</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>IW</given-names>
+            </name>
+            <name>
+              <surname>Cooper</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Treuille</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mandell</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ban</surname>
+              <given-names>YEA</given-names>
+            </name>
+            <name>
+              <surname>Fleishman</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Corn</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Lyskov</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Berrondo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mentzer</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Popović</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Havranek</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Karanicolas</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Meiler</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kortemme</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Kuhlman</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>ROSETTA3: an object-oriented software suite for the simulation and design of macromolecules</article-title>
+          <source>Methods in Enzymology</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>487</volume>
+          <fpage>545</fpage>
+          <lpage>574</lpage>
+          <pub-id pub-id-type="doi">10.1016/B978-0-12-381270-4.00019-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Python Sofware Foundation (2013)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Python Sofware Foundation</surname>
+              <given-names/>
+            </name>
+          </person-group>
+          <comment><italic>Available at <uri xlink:href="http://www.python.org">http://www.python.org</uri></italic> (accessed 19 March 2013)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Schrödinger (2013)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Schrödinger</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <comment>The pymol molecular graphics system. <italic>Available at <uri xlink:href="http://www.pymol.org/">http://www.pymol.org/</uri></italic> (accessed 19 March 2013)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Shapovalov &amp; Dunbrack (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shapovalov</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>Dunbrack</surname>
+              <given-names>RL</given-names>
+            </name>
+          </person-group>
+          <article-title>A smoothed backbone-dependent rotamer library for proteins derived from adaptive kernel density estimates and regressions</article-title>
+          <source>Structure</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>19</volume>
+          <fpage>844</fpage>
+          <lpage>858</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.str.2011.03.019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Srinivasan (2013)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Srinivasan</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <comment>Ribosome – program to build coordinates for peptides from sequence. <italic>Available at <uri xlink:href="http://roselab.jhu.edu/~raj/Manuals/ribosome.html">http://roselab.jhu.edu/~raj/Manuals/ribosome.html</uri></italic> (accessed 19 March 2013)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Tien et al. (2012)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Tien</surname>
+              <given-names>MZ</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Spielman</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Wilke</surname>
+              <given-names>CO</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <comment>Maximum allowed solvent accessibilites of residues in proteins. arXiv preprint <uri xlink:href="http://arxiv.org/abs/1211.4251">arXiv:1211.4251</uri> [q-bio.BM]</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Zhang (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>I-TASSER server for protein 3D structure prediction</article-title>
+          <source>BMC Bioinformatics</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>9</volume>
+          <fpage>40</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2105-9-40</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

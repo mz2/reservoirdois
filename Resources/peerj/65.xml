@@ -1,1147 +1,1198 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018989000,&quot;from_str&quot;:&quot;2013-07-05T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500589000,&quot;from_str&quot;:&quot;2013-06-29T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513389000,&quot;from_str&quot;:&quot;2013-06-06T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948589000,&quot;from_str&quot;:&quot;2012-12-31T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,353,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">65</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.65</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Anatomy and Physiology</subject>
+          <subject>Clinical Trials</subject>
+          <subject>Nutrition</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Transcranial Doppler ultrasound to assess cerebrovascular reactivity: reliability, reproducibility and effect of posture</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>McDonnell</surname>
+            <given-names>Michelle N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <email>michelle.mcdonnell@unisa.edu.au</email>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Berry</surname>
+            <given-names>Narelle M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Cutting</surname>
+            <given-names>Mark A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Keage</surname>
+            <given-names>Hannah A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Buckley</surname>
+            <given-names>Jonathan D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author">
+          <name>
+            <surname>Howe</surname>
+            <given-names>Peter R.C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>School of Health Sciences, University of South Australia</institution>, <country>Australia</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Nutritional Physiology Research Centre, University of South Australia</institution>, <country>Australia</country></aff>
+        <aff id="aff-3"><label>3</label><institution>School of Psychology, Social Work and Social Policy, University of South Australia</institution>, <country>Australia</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Jones</surname>
+            <given-names>Philip</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-04-09">
+        <day>9</day>
+        <month>4</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e65</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-02-19">
+          <day>19</day>
+          <month>2</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-03-20">
+          <day>20</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 McDonnell et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>McDonnell et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/65"/>
+      <abstract>
+        <p>Transcranial Doppler ultrasound (TCD) allows measurement of blood flow velocities in the intracranial vessels, and can be used to assess cerebral vasodilator responses to a hypercapnic stimulus. The reliability of this technique has not been established, nor is there agreement about whether the technique should be performed in sitting or lying postures. We tested the intra- and inter-rater reliability of measures of cerebrovascular reactivity (CVR) in 10 healthy adults, in sitting and lying postures. Participants underwent triplicate bilateral ultrasound assessment of flow velocities in the middle cerebral arteries whilst sitting and lying supine prior to and during inhalation of Carbogen (5% CO<sub>2</sub>, 95% O<sub>2</sub>) for 2 min. This procedure was performed twice by each of two raters for a total of four sessions. CVR was calculated as the difference between baseline and the peak blood flow velocity attained during CO<sub>2</sub> inhalation. Intraclass correlation coefficients (ICCs) for intra-rater reliability were greater sitting than lying for both raters (e.g. Rater 1 ICC sitting = 0.822, lying = 0.734), and inter-rater reliability was also greater in sitting (e.g. sitting ICC = 0.504, lying = 0.081). These results suggest that assessment of CVR using TCD should be performed with participants sitting in order to maximise CVR measurement reliability.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Reliability</kwd>
+        <kwd>Reproducibility</kwd>
+        <kwd>Cerebrovascular reactivity</kwd>
+        <kwd>Posture</kwd>
+        <kwd>Doppler ultrasound</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Dr. MN McDonnell and Dr. HA Keage are supported by Australian National Health and Medical Research Council Research Training Fellowships. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Transcranial Doppler (TCD) sonography allows real time measurement of blood flow velocity in intracranial arteries with high temporal resolution and has been used for over two decades to assess cerebral haemodynamics in healthy adults and in disease states. TCD can also be utilised to assess cerebrovascular reactivity (CVR), i.e. the vasodilation of cerebral arterioles in response to a physiological stimulus such as an increase in the partial pressure of arterial CO<sub>2</sub> (hypercapnia) (<xref ref-type="bibr" rid="ref-2">Ainslie &amp; Duffin, 2009</xref>; <xref ref-type="bibr" rid="ref-27">Willie et al., 2011</xref>). Several reports suggest that the cerebral vasodilator response to hypercapnia depends on the integrity of the vascular endothelium (<xref ref-type="bibr" rid="ref-24">Silvestrini et al., 2000</xref>; <xref ref-type="bibr" rid="ref-12">Krainik et al., 2005</xref>; <xref ref-type="bibr" rid="ref-13">Lavi et al., 2003</xref>) such that CO<sub>2</sub> induced CVR could serve as a surrogate marker of endothelial function in cerebral arteries (<xref ref-type="bibr" rid="ref-14">Lavi et al., 2006</xref>). However, the reliability of the CVR method, particularly under differing postural conditions (i.e. lying vs sitting) has not been fully investigated.</p>
+      <p>Differing methods can be used to induce a cerebral arteriolar vasodilatory response, such as hypercapnia (using steady state breathing during 5% CO<sub>2</sub> exposure or breath holding techniques) or medications such as acetazolamide (<xref ref-type="bibr" rid="ref-4">Dahl et al., 1995</xref>). Regardless of the stimulus, CVR is taken as the resultant change in mean blood flow velocity from a pre-stimulus baseline (<xref ref-type="bibr" rid="ref-11">Kernan et al., 2000</xref>; <xref ref-type="bibr" rid="ref-27">Willie et al., 2011</xref>). Mean blood flow velocity is typically measured in a conduit vessel such as the middle cerebral artery (MCA) which supplies a large proportion of brain tissue but will itself dilate minimally in response to the stimulus (<xref ref-type="bibr" rid="ref-21">Serrador et al., 2000</xref>). Thus changes of blood flow velocity in the MCA reflect changes in resistance to flow in the distal vasculature, i.e. arterioles in brain regions supplied by the MCA.</p>
+      <p>Repeatability of TCD measurements of MCA blood flow velocities was established nearly two decades ago. Demolis and colleagues confirmed that both intra-rater reproducibility and inter-rater reliability were satisfactory with strong correlations (<italic>r</italic> ≥ 0.9 in both cases) (<xref ref-type="bibr" rid="ref-5">Demolis, Chalon &amp; Giudicelli, 1993</xref>). This study also established that mean velocities in the MCA vary with time of day, with significantly lower velocities recorded at 11am compared with 8am, and these variations in flow velocity follow a similar time course to diurnal variations in mean arterial pressure. This highlights the importance of conducting repeat experiments at the same time of day.</p>
+      <p>Reliability of CVR measures has previously been reported with the aim of comparing different methods of inducing hypercapnia. Intra-rater reliability of CVR measures was superior when induced by inhalation of 5% CO<sub>2</sub> but this study did not address the reliability of different raters or different postures (<xref ref-type="bibr" rid="ref-25">Totaro et al., 1999</xref>). Others have compared measurements of CVR in lying and sitting postures and found that baseline and peak cerebral blood flow velocity (CBV) were lower in sitting compared to lying, but reproducibility of the method in sitting was not investigated (<xref ref-type="bibr" rid="ref-17">Mayberg et al., 1996</xref>).</p>
+      <p>This study aimed to determine the intra- and inter-rater reliability of measures of CVR in bilateral MCAs of healthy adult participants in sitting versus lying positions. Investigation of posture was performed due to the availability of ultrasound probes attached to a headband, allowing this technique to be performed sitting and lying supine. Sitting may be preferable for some participants, particularly the elderly who may find lying supine whilst holding a breathing tube and mouthpiece uncomfortable.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Participants</title>
+        <p>Ten adult participants (aged 20–64, mean age 33.8 ± 13.4 years [mean ± SD]) were recruited from staff and students of the host institution after giving their written informed consent. The study was approved by the institutional Human Research Ethics Committee. Participants were excluded if they had cardiovascular or renal disease, a history of diabetes, stroke and/or neurological conditions, were smokers or on nicotine replacement therapy, or were taking anticholinergic or psychotropic medications. Participants refrained from eating two hours prior to testing and caffeine four hours prior to testing.</p>
+      </sec>
+      <sec>
+        <title>Apparatus</title>
+        <p>Bilateral MCA blood flow velocities were measured with a Multigon TOC2M Neurovision TCD system (Multigon Industries Inc., New York, USA) using two 2-MHz transducer probes securely mounted on an adjustable headband. Time-averaged mean blood flow velocity measures (cm/s) were obtained every second (i.e. 1 Hz sampling rate) and stored for off-line analysis.</p>
+      </sec>
+      <sec>
+        <title>Procedure</title>
+        <p>Participants attended an air-conditioned laboratory on four separate occasions at the same time of day, with each visit separated by one week. Assessments in both the lying and sitting positions were conducted on two occasions by Rater 1 (MMcD) and on two occasions by Rater 2 (MAC); both raters had recently performed at least 25 assessments. The order of assessments, either sitting or lying supine, was randomised between raters and sessions. On arrival, the headband that holds the two 2.0 MHz transducers was placed over the head and adjusted for a comfortably firm fit. The 2-MHz transducers were then centred on the temple, adjusted until maximal amplitude signals were obtained bilaterally, at which time they were secured in the headband to ensure stability of the signals for the duration of the experiment. The precise positioning and recording of mean flow velocity in each MCA was performed as previously described (<xref ref-type="bibr" rid="ref-1">Aaslid, Markwalder &amp; Nornes, 1982</xref>) through the trans-temporal windows, above the zygomatic arch. Participants breathed room air through a 2-way non-rebreathing valve and mouth piece with a nose-clip attached and were either seated comfortably in a chair with arm-rests, feet flat on the floor, or lying supine with one pillow for at least 10 min prior to commencing the testing. Participants were advised to perform “relaxed breathing, in and out through the mouth”.</p>
+        <p>After at least 10 min of breathing room air through the mouthpiece, measurement of CVR was performed during hypercapnia induced by breathing a mixture of 5% CO<sub>2</sub>–95% O<sub>2</sub> (Carbogen) from a spirometer. This method was used in preference to breath holding or controlled hypoventilation to avoid concomitant hypoxia which can influence the ventilatory response (<xref ref-type="bibr" rid="ref-2">Ainslie &amp; Duffin, 2009</xref>) and it has been shown to be more reproducible than other methods when performed by the one rater (<xref ref-type="bibr" rid="ref-25">Totaro et al., 1999</xref>). Beat-to-beat changes in mean CBV were measured bilaterally during a 30-s baseline period, then breathing the Carbogen mixture for 2 min. Each test was then followed by a 2 min rest period breathing room air again. This procedure was repeated three times both sitting and lying (counterbalanced) separated by a 10 min rest period after changing positions. Participants returned the following week at the same time of day to repeat the study with the same rater, then on two subsequent occasions with the other rater (counterbalanced).</p>
+      </sec>
+      <sec>
+        <title>Data analysis and statistics</title>
+        <p>The sample size of 10 participants was chosen in accordance with other reliability studies involving TCD (<xref ref-type="bibr" rid="ref-10">Harrer et al., 2011</xref>; <xref ref-type="bibr" rid="ref-3">Brodie et al., 2009</xref>). Recordings of bilateral CBV waveforms were averaged over the 30s baseline period in each of the triplicate assessments in each position (for each of the four separate testing sessions). The CBV waveforms obtained during the 2 min periods of hypercapnia were plotted against time and a spline curve was fitted (20% smoothing, LOESS filter) to aid determination of the peak blood flow velocity (Table Curve 2D, Systat Software Inc., CA, USA) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Calculation of CVR involves comparing beat to beat changes in CBV to a pre-stimulus baseline (<xref ref-type="bibr" rid="ref-27">Willie et al., 2011</xref>; <xref ref-type="bibr" rid="ref-26">Wijnhoud, Koudstaal &amp; Dippel, 2006</xref>) and is calculated: <disp-formula id="eqn-1"><alternatives><graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/65/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[\begin{eqnarray*} \% \text{CVR}=100\times (\text{peak CBV}-\text{baseline CBV})/\text{baseline CBV}. \end{eqnarray*}]]></tex-math><mml:math id="mml-eqn-1"><mml:mstyle displaystyle="true"><mml:mo>%</mml:mo><mml:mtext>CVR</mml:mtext><mml:mo>=</mml:mo><mml:mn>100</mml:mn><mml:mo>×</mml:mo><mml:mo>(</mml:mo><mml:mtext>peak CBV</mml:mtext><mml:mo>−</mml:mo><mml:mtext>baseline CBV</mml:mtext><mml:mo>)</mml:mo><mml:mo>/</mml:mo><mml:mtext>baseline CBV</mml:mtext><mml:mo>.</mml:mo></mml:mstyle></mml:math></alternatives></disp-formula>
+            </p>
+        <p>This was calculated separately for each of the three measurements in each position on each visit and the average of the three values was used for further analysis.</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.65/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Application of curve fitting to CBV data.</title>
+            <p>Beat-to-beat cerebral blood flow velocities (CBV) obtained during the 2-min period of hypercapnia were plotted and fitted with a spline curve, enabling the peak of the curve to be identified as peak CBV.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/65/fig-1.png"/>
+        </fig>
+        <p>All data were analysed using SPSS software (PASW Statistics 18.0) and graphs were created in Sigmaplot 12 (Systat Software, Inc.). Paired t-tests were used to verify differences between left and right sides and between sitting and lying CVR measures. Inter- and intra-rater reliability was established using intra-class correlation coefficients (ICC). As only two raters were used to score an average rating of CVR which is analysed in a two-way ANOVA model, this is evaluated using a Case 3, average rating or (3,1) ICC model, In accordance with <xref ref-type="bibr" rid="ref-23">Shrout &amp; Fleiss (1979)</xref>. Results were considered significant at <italic>P</italic> &lt; 0.05.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>10 participants were enrolled in the study with 8 participants completing all four sessions. Two participants (authors MMcD and MAC) attended only two sessions, both with the same rater; thus intra-rater reliability data was obtained from 9 participants by each rater and inter-rater reliability was assessed for 8 participants.</p>
+      <p>Data were collected bilaterally at each session and values for left and right MCAs were compared. Depth of insonation was similar for left and right sides and between postures (e.g. 50.3 ± 4.1 mm in lying, 50.2 ± 4.1 mm in sitting). There were no differences between hemispheres when data from both testing sessions for both raters were combined (sitting <italic>P</italic> = 0.27, lying <italic>P</italic> = 0.46), allowing this data to be combined for further analysis (i.e. left and right MCA velocities were collapsed for all subsequent analyses).</p>
+      <sec>
+        <title>Differences between lying and sitting</title>
+        <p>Individual CVR data from each test performed by both raters at both sessions were collapsed relative to sitting or lying. Differences in variability between the two positions were explored using Coefficients of Variation (CV) to quantify whether there was greater variation if measures were taken sitting rather than lying supine. CVs were calculated separately for sitting and lying measures obtained from each participant on each test occasion. There were no differences in variability of CVR measures obtained sitting versus lying (sitting average CV = 35.2 ± 6.6%; lying average CV = 36.7 ± 8.1%; paired t-test <italic>P</italic> = 0.5).</p>
+      </sec>
+      <sec>
+        <title>Intra-rater reliability</title>
+        <p>Measures obtained sitting and lying at two testing sessions by Rater 1 and Rater 2 were analysed using intraclass correlation coefficients to compare CVR measurements between sessions. Results for Rater 1 (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) illustrate superior reproducibility between sessions when measured sitting (ICC(3,1) = 0.822; <italic>P</italic> &lt; 0.001) compared with lying (ICC(3,1) = 0.734; <italic>P</italic> &lt; 0.05).</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.65/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Intra-rater reliability correlations in sitting and lying, Rater 1.</title>
+            <p>Correlations between %CVR measures taken on two occasions by Rater 1 in sitting (left, ICC (3,1) = 0.822) and lying (right, ICC(3,1) = 0.734). Simple linear regression lines are shown, using the least squares method (Sigmaplot 12).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/65/fig-2.png"/>
+        </fig>
+        <p>Measures for Rater 2 were comparable, as shown in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>, with greater reproducibility in sitting (ICC(3,1) = 0.463; <italic>P</italic> = 0.12) compared with lying, although the correlations were non-significant (ICC(3,1) = 0.015; <italic>P</italic> = 0.49).</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.65/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Intra-rater reliability correlations in sitting and lying, Rater 2.</title>
+            <p>Correlations between %CVR measures taken on two occasions by Rater 2 in sitting (left, ICC (3,1) = 0.463) and lying (right, ICC(3,1) = 0.015). Simple linear regression lines are shown, using the least squares method (Sigmaplot 12).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/65/fig-3.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Inter-rater reliability</title>
+        <p>To demonstrate inter-rater reliability for both sitting and lying postures, data for each side (left and right) and each session (Session 1 and 2) were combined so that CVR values obtained by Rater 1 and Rater 2 could be compared as in <xref ref-type="fig" rid="fig-4">Fig. 4</xref>. Intraclass correlation coefficients were determined and were significant for sitting (ICC(3,1) = 0.504; <italic>P</italic> = 0.028) but not lying (ICC(3,1) = 0.081; <italic>P</italic> = 0.41).</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.65/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Inter-rater reliability comparisons showing superior reliability in sitting.</title>
+            <p>Correlations between %CVR measures obtained across both sessions by Rater 1 compared with Rater 2 for sitting (left, ICC(3,1) = 0.504) and lying (right, ICC(3,1) = 0.081). Simple linear regression lines are shown, using the least squares method (Sigmaplot 12).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/65/fig-4.png"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Assessment of CVR in healthy adults can be achieved with bilateral recording of CBV in the MCA with acceptable reproducibility and inter-rater reliability. This is the first study to demonstrate that measures of CVR obtained sitting were more reproducible than whilst lying. The reproducibility measures obtained were superior to those obtained by Totaro and colleagues (<xref ref-type="bibr" rid="ref-25">Totaro et al., 1999</xref>) (ICC = 0.43 when measures were repeated by a single investigator after 24 h). Reproducibility measures for both raters were greater in sitting compared with lying (ICC(3,1) = 0.822 and 0.463 in sitting respectively for both raters) which shows a strong agreement between sessions. Intra-rater reliability was greater for the more recently experienced sonographer, Rater 1, confirming previous reports (<xref ref-type="bibr" rid="ref-16">Martin, Thomas &amp; Caron, 1993</xref>; <xref ref-type="bibr" rid="ref-22">Shen et al., 1999</xref>). Inter-rater reliability was only fair, indicating that the same rater should be used where possible for measurements in research trials and clinical settings. It is important to note that these values for reliability and reproducibility are valid for measurement of hypercapnia at 5% CO<sub>2</sub> and 95% O<sub>2</sub>, providing a strong vasodilatory stimulus but we acknowledge that for near maximal vasodilation to occur, 10% CO<sub>2</sub> may be required (<xref ref-type="bibr" rid="ref-9">Goode et al., 2009</xref>).</p>
+      <p>We have recently shown (<xref ref-type="bibr" rid="ref-28">Wong et al., 2013</xref>) that regular dietary supplementation with a wild green oat extract can enhance systemic endothelial function assessed by the technique flow mediated dilatation of the brachial artery and cerebral endothelial function assessed in the MCA by CVR to hypercapnia. Even though these responses were of similar magnitude (∼40% increase in both cases) they were not correlated within individuals, indicating the likely independence of underlying mechanisms and pathophysiological changes in endothelial function between systemic and cerebral arteries. Thus, while the technique of flow mediated dilatation of the brachial artery is well established, TCD has the potential to determine the efficacy of therapeutic treatments to improve vascular health. The present study provides evidence of good intra-rater reliability, particularly with an experienced sonographer, but only acceptable inter-rater reliability using Carbogen as the hypercapnic stimulus to measure changes in CVR within-individuals in response to therapeutic interventions. The results of this study suggest that performing the test in sitting is preferable to lying to assess changes in cerebral endothelial vasodilator function which may be appropriate for elderly or disabled populations who may be involved in research investigating dietary or behavioural interventions to improve cerebrovascular function.</p>
+      <p>The technique of TCD to assess changes in cerebral blood flow velocity, although widely used, does have a known limitation, in that we cannot prove that the diameter of the MCA does not change during the period of hypercapnia. The method used here and by others assumes that the MCA diameter was constant during hypercapnia (<xref ref-type="bibr" rid="ref-21">Serrador et al., 2000</xref>). A number of studies have demonstrated that the diameter of the MCA does not change significantly during craniotomy (<xref ref-type="bibr" rid="ref-8">Giller et al., 1993</xref>), after the release of thigh cuffs to assess cerebral autoregulation (<xref ref-type="bibr" rid="ref-18">Newell et al., 1994</xref>) or a similar TCD technique using the Doppler power signal to measure MCA diameter (<xref ref-type="bibr" rid="ref-19">Poulin, Liang &amp; Robbins, 1996</xref>). However, there have been reports in animal and human studies that small changes in vessel diameter are possible, particularly during hypocapnia (<xref ref-type="bibr" rid="ref-7">Du Boulay &amp; Symon, 1971</xref>; <xref ref-type="bibr" rid="ref-6">Du Boulay et al., 1972</xref>).</p>
+      <p>There are several limitations to our study. We only used two raters and additional raters may provide more accurate measures of ICCs. Further, we did not measure blood pressure of these healthy individuals, nor did we relate our measurement of CVR to end-tidal CO<sub>2</sub> by performing gas analysis on expired air during the experiments. Our results, therefore, are limited to relative changes in CBV in the MCA in response to 5% CO<sub>2</sub>, rather than relative increase in CBV per kiloPascal rise in end-tidal CO<sub>2</sub> (<xref ref-type="bibr" rid="ref-26">Wijnhoud, Koudstaal &amp; Dippel, 2006</xref>). The important metric to record when assessing CVR is the beat-to-beat change in CBV from a pre-stimulus baseline (<xref ref-type="bibr" rid="ref-27">Willie et al., 2011</xref>) and the method we have used for this and other clinical studies satisfies this requirement and avoids the subject discomfort which can occur with administration of ≥ 8% CO<sub>2</sub> (<xref ref-type="bibr" rid="ref-2">Ainslie &amp; Duffin, 2009</xref>). This method has been used by others to assess cerebrovascular endothelial function (<xref ref-type="bibr" rid="ref-26">Wijnhoud, Koudstaal &amp; Dippel, 2006</xref>; <xref ref-type="bibr" rid="ref-20">Schwertfeger et al., 2006</xref>) and has been shown to be preferable to normalizing to absolute increase in end-tidal CO<sub>2</sub> in predicting stroke and TIA risk in patients with carotid artery stenosis and occlusion (<xref ref-type="bibr" rid="ref-15">Markus &amp; Cullinane, 2001</xref>).</p>
+      <p>The data from this study indicates that the assessment of CVR using TCD provides more reliable values when performed sitting compared with lying, particularly with a more experienced sonographer. Future studies should be performed with participants in the sitting position rather than lying to maximise CVR responses and to optimise inter- and intra-rater reliability.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>We have no competing interests to disclose.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Michelle N. McDonnell</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Narelle M. Berry</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Mark A. Cutting</xref> performed the experiments, analyzed the data.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Hannah A. Keage</xref> contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-5" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-5">Jonathan D. Buckley</xref> conceived and designed the experiments, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-6" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-6">Peter R.C. Howe</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Human Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>University of South Australia Human Research Ethics Committee.</p>
+          <p>Approval for this study, application number 0000022568 was granted in June 2011.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Aaslid, Markwalder &amp; Nornes (1982)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aaslid</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Markwalder</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Nornes</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Noninvasive transcranial Doppler ultrasound recording of flow velocity in basal cerebral arteries</article-title>
+          <source>Journal of Neurosurgery</source>
+          <year iso-8601-date="1982">1982</year>
+          <volume>57</volume>
+          <fpage>769</fpage>
+          <lpage>774</lpage>
+          <pub-id pub-id-type="doi">10.3171/jns.1982.57.6.0769</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Ainslie &amp; Duffin (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ainslie</surname>
+              <given-names>PN</given-names>
+            </name>
+            <name>
+              <surname>Duffin</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Integration of cerebrovascular CO<sub>2</sub> reactivity and chemoreflex control of breathing: mechanisms of regulation, measurement, and interpretation</article-title>
+          <source>American Journal of Physiology - Regulatory, Integrative and Comparative Physiology</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>296</volume>
+          <fpage>R1473</fpage>
+          <lpage>R1495</lpage>
+          <pub-id pub-id-type="doi">10.1152/ajpregu.91008.2008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Brodie et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brodie</surname>
+              <given-names>FG</given-names>
+            </name>
+            <name>
+              <surname>Atkins</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Panerai</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title>Reliability of dynamic cerebral autoregulation measurement using spontaneous fluctuations in blood pressure</article-title>
+          <source>Clinical Science (London)</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>116</volume>
+          <fpage>513</fpage>
+          <lpage>520</lpage>
+          <pub-id pub-id-type="doi">10.1042/CS20080236</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Dahl et al. (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dahl</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Rootwelt</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nyberg-Hansen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kerty</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Cerebral vasoreactivity assessed with transcranial Doppler and regional cerebral blood flow measurements. Dose, serum concentration, and time course of the response to acetazolamide</article-title>
+          <source>Stroke</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>26</volume>
+          <fpage>2302</fpage>
+          <lpage>2306</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.STR.26.12.2302</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Demolis, Chalon &amp; Giudicelli (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demolis</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Chalon</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Giudicelli</surname>
+              <given-names>JF</given-names>
+            </name>
+          </person-group>
+          <article-title>Repeatability of transcranial Doppler measurements of arterial blood flow velocities in healthy subjects</article-title>
+          <source>Clinical Science (London)</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>84</volume>
+          <fpage>599</fpage>
+          <lpage>604</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Du Boulay et al. (1972)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Du Boulay</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Symon</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dorsch</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ackerman</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Cerebral arterial reactivity and spasm after subarachnoid haemorrhage</article-title>
+          <source>Proceedings of the Royal Society of Medicine</source>
+          <year iso-8601-date="1972">1972</year>
+          <volume>65</volume>
+          <fpage>80</fpage>
+          <lpage>82</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Du Boulay &amp; Symon (1971)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Du Boulay</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Symon</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The anaesthetist’s effect upon the cerebral arteries</article-title>
+          <source>Proceedings of the Royal Society of Medicine</source>
+          <year iso-8601-date="1971">1971</year>
+          <volume>64</volume>
+          <fpage>77</fpage>
+          <lpage>80</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Giller et al. (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giller</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Bowman</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Dyer</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mootz</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Krippner</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Cerebral arterial diameters during changes in blood pressure and carbon dioxide during craniotomy</article-title>
+          <source>Neurosurgery</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>32</volume>
+          <fpage>737</fpage>
+          <lpage>741</lpage>
+          <comment>(discussion 741-2)</comment>
+          <pub-id pub-id-type="doi">10.1227/00006123-199305000-00006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Goode et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goode</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Krishan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Alexakis</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Mahajan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Auer</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Precision of cerebrovascular reactivity assessment with use of different quantification methods for hypercapnia functional MR imaging</article-title>
+          <source>AJNR</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>30</volume>
+          <fpage>972</fpage>
+          <lpage>977</lpage>
+          <pub-id pub-id-type="doi">10.3174/ajnr.A1496</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Harrer et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harrer</surname>
+              <given-names>JU</given-names>
+            </name>
+            <name>
+              <surname>Valaikiene</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Koch</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Knorr</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Horn</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ickenstein</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bogdahn</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Schlachetzki</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcranial perfusion sonography using a low mechanical index and pulse inversion harmonic imaging: reliability, inter-/intraobserver variability</article-title>
+          <source>Ultraschall in der Medizin</source>
+          <issue>Suppl 1</issue>
+          <year iso-8601-date="2011">2011</year>
+          <volume>32</volume>
+          <fpage>S95</fpage>
+          <lpage>S101</lpage>
+          <pub-id pub-id-type="doi">10.1055/s-0029-1245369</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Kernan et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kernan</surname>
+              <given-names>WN</given-names>
+            </name>
+            <name>
+              <surname>Viscoli</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Brass</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Makuch</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Sarrel</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Gent</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rothwell</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Sacco</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Boden-Albala</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Horwitz</surname>
+              <given-names>RI</given-names>
+            </name>
+          </person-group>
+          <article-title>The stroke prognosis instrument II (SPI-II): a clinical prediction instrument for patients with transient ischemia and nondisabling ischemic stroke</article-title>
+          <source>Stroke</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>31</volume>
+          <fpage>456</fpage>
+          <lpage>462</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.STR.31.2.456</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Krainik et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krainik</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hund-Georgiadis</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zysset</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>von Cramon</surname>
+              <given-names>DY</given-names>
+            </name>
+          </person-group>
+          <article-title>Regional impairment of cerebrovascular reactivity and BOLD signal in adults after stroke</article-title>
+          <source>Stroke</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>36</volume>
+          <fpage>1146</fpage>
+          <lpage>1152</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.STR.0000166178.40973.a7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Lavi et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lavi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Egbarya</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lavi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of nitric oxide in the regulation of cerebral blood flow in humans: chemoregulation versus mechanoregulation</article-title>
+          <source>Circulation</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>107</volume>
+          <fpage>1901</fpage>
+          <lpage>1905</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.0000057973.99140.5A</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Lavi et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lavi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gaitini</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Milloul</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Impaired cerebral CO<sub>2</sub> vasoreactivity: association with endothelial dysfunction</article-title>
+          <source>American Journal of Physiology - Heart and Circulatory Physiology</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>291</volume>
+          <fpage>H1856</fpage>
+          <lpage>H1861</lpage>
+          <pub-id pub-id-type="doi">10.1152/ajpheart.00014.2006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Markus &amp; Cullinane (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Markus</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Cullinane</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Severely impaired cerebrovascular reactivity predicts stroke and TIA risk in patients with carotid artery stenosis and occlusion</article-title>
+          <source>Brain</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>124</volume>
+          <fpage>457</fpage>
+          <lpage>467</lpage>
+          <pub-id pub-id-type="doi">10.1093/brain/124.3.457</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Martin, Thomas &amp; Caron (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Caron</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcranial Doppler–techniques, application, and instrumentation</article-title>
+          <source>Neurosurgery</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>33</volume>
+          <fpage>761</fpage>
+          <lpage>764</lpage>
+          <pub-id pub-id-type="doi">10.1227/00006123-199310000-00033</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Mayberg et al. (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mayberg</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Lam</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Matta</surname>
+              <given-names>BF</given-names>
+            </name>
+            <name>
+              <surname>Visco</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>The variability of cerebrovascular reactivity with posture and time</article-title>
+          <source>Journal of Neurosurgical Anesthesiology</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>8</volume>
+          <fpage>268</fpage>
+          <lpage>272</lpage>
+          <pub-id pub-id-type="doi">10.1097/00008506-199610000-00002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Newell et al. (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Newell</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Aaslid</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lam</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mayberg</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Winn</surname>
+              <given-names>HR</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of flow and velocity during dynamic autoregulation testing in humans</article-title>
+          <source>Stroke</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>25</volume>
+          <fpage>793</fpage>
+          <lpage>797</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.STR.25.4.793</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Poulin, Liang &amp; Robbins (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poulin</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Liang</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Robbins</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>Dynamics of the cerebral blood flow response to step changes in end-tidal PCO<sub>2</sub> and PO<sub>2</sub> in humans</article-title>
+          <source>Journal of Applied Physiology</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>81</volume>
+          <fpage>1084</fpage>
+          <lpage>1095</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Schwertfeger et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schwertfeger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Neu</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schlattmann</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lemke</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Heuser</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Bajbouj</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Cerebrovascular reactivity over time course in healthy subjects</article-title>
+          <source>Journal of the Neurological Sciences</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>249</volume>
+          <fpage>135</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jns.2006.06.009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Serrador et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Serrador</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Picot</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Rutt</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Shoemaker</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Bondar</surname>
+              <given-names>RL</given-names>
+            </name>
+          </person-group>
+          <article-title>MRI measures of middle cerebral artery diameter in conscious humans during simulated orthostasis</article-title>
+          <source>Stroke</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>31</volume>
+          <fpage>1672</fpage>
+          <lpage>1678</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.STR.31.7.1672</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Shen et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shen</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Stuart</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Venkatesh</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wallace</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lipman</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Inter observer variability of the transcranial Doppler ultrasound technique: impact of lack of practice on the accuracy of measurement</article-title>
+          <source>Journal of Clinical Monitoring</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>15</volume>
+          <fpage>179</fpage>
+          <lpage>184</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1009925811965</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Shrout &amp; Fleiss (1979)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shrout</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Fleiss</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>Intraclass correlations: uses in assessing rater reliability</article-title>
+          <source>Psychological Bulletin</source>
+          <year iso-8601-date="1979">1979</year>
+          <volume>86</volume>
+          <fpage>420</fpage>
+          <lpage>428</lpage>
+          <pub-id pub-id-type="doi">10.1037/0033-2909.86.2.420</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Silvestrini et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silvestrini</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vernieri</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Pasqualetti</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Matteis</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Passarelli</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Troisi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Caltagirone</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Impaired cerebral vasoreactivity and risk of stroke in patients with asymptomatic carotid artery stenosis</article-title>
+          <source>JAMA</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>283</volume>
+          <fpage>2122</fpage>
+          <lpage>2127</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.283.16.2122</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Totaro et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Totaro</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Marini</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Baldassarre</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Carolei</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Cerebrovascular reactivity evaluated by transcranial Doppler: reproducibility of different methods</article-title>
+          <source>Cerebrovascular Diseases</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>9</volume>
+          <fpage>142</fpage>
+          <lpage>145</lpage>
+          <pub-id pub-id-type="doi">10.1159/000015943</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Wijnhoud, Koudstaal &amp; Dippel (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wijnhoud</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Koudstaal</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Dippel</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationships of transcranial blood flow Doppler parameters with major vascular risk factors: TCD study in patients with a recent TIA or nondisabling ischemic stroke</article-title>
+          <source>Journal of Clinical Ultrasound</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>34</volume>
+          <fpage>70</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1002/jcu.20193</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Willie et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Willie</surname>
+              <given-names>CK</given-names>
+            </name>
+            <name>
+              <surname>Colino</surname>
+              <given-names>FL</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Tzeng</surname>
+              <given-names>YC</given-names>
+            </name>
+            <name>
+              <surname>Binsted</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>LW</given-names>
+            </name>
+            <name>
+              <surname>Haykowsky</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Bellapart</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ogoh</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Smirl</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Day</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Lucas</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Eller</surname>
+              <given-names>LK</given-names>
+            </name>
+            <name>
+              <surname>Ainslie</surname>
+              <given-names>PN</given-names>
+            </name>
+          </person-group>
+          <article-title>Utility of transcranial doppler ultrasound for the integrative assessment of cerebrovascular function</article-title>
+          <source>Journal of Neuroscience Methods</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>196</volume>
+          <fpage>221</fpage>
+          <lpage>237</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jneumeth.2011.01.011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Wong et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wong</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Howe</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Coates</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Buckley</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Berry</surname>
+              <given-names>NM</given-names>
+            </name>
+          </person-group>
+          <article-title>Chronic consumption of a wild green oat extract (Neuravena) improves brachial flow-mediated dilatation and cerebrovascular responsiveness in older adults</article-title>
+          <source>Journal of Hypertension</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>31</volume>
+          <fpage>192</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1097/HJH.0b013e32835b04d4</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

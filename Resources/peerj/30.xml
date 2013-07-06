@@ -1,1147 +1,1054 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">30</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.30</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Biophysics</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A practical implementation of de-Pake-ing via weighted Fourier transformation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Sani</surname>
+            <given-names>Marc-Antoine</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Weber</surname>
+            <given-names>Daniel K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Delaglio</surname>
+            <given-names>Frank</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Separovic</surname>
+            <given-names>Frances</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Gehman</surname>
+            <given-names>John D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>School of Chemistry, Bio21 Institute</institution>, <addr-line>University of Melbourne</addr-line>, <country>Australia</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Laboratory of Chemical Physics</institution>, <addr-line>National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health</addr-line>, <addr-line>Bethesda</addr-line>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Polenova</surname>
+            <given-names>Tatyana</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>jgehman@unimelb.edu.au</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e30</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-28">
+          <day>28</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-15">
+          <day>15</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Sani et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Sani et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/30"/>
+      <abstract>
+        <p>We provide an NMRPipe macro to meet an increasing need in membrane biophysics for facile de-Pake-ing of axially symmetric deuterium, and to an extent phosphorous, static lineshapes. The macro implements the development of <xref ref-type="bibr" rid="ref-11">McCabe &amp; Wassall (1997)</xref>, and is run as a simple replacement for the usual Fourier transform step in an NMRPipe processing procedure.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>dePake</kwd>
+        <kwd>NMRPipe</kwd>
+        <kwd>Membrane perturbation</kwd>
+        <kwd>Lipid biophysics</kwd>
+        <kwd>Deuterium NMR</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>Australian Research Council</funding-source>
+          <award-id>FT0991558</award-id>
+        </award-group>
+        <funding-statement>JD Gehman is funded under an Australian Research Council Future Fellowship. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>There has been a resurgence of interest in solid-state <named-content content-type="chemical-compound"><sup>2</sup>H</named-content> and <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> NMR, particularly in the burgeoning area of antimicrobial peptides (<xref ref-type="bibr" rid="ref-15">Pinheiro &amp; Watts, 1994</xref>; <xref ref-type="bibr" rid="ref-24">Tremouilhac et al., 2006</xref>; <xref ref-type="bibr" rid="ref-12">Ouellet et al., 2007</xref>; <xref ref-type="bibr" rid="ref-28">Wi &amp; Kim, 2008</xref>; <xref ref-type="bibr" rid="ref-8">Gehman et al., 2008a</xref>; <xref ref-type="bibr" rid="ref-13">Pabst et al., 2008</xref>; <xref ref-type="bibr" rid="ref-7">Fernandez, Gehman &amp; Separovic, 2009</xref>; <xref ref-type="bibr" rid="ref-3">Cheng et al., 2009</xref>), but also in many other research programs for which membrane-protein/peptide interactions are integral (e.g. <xref ref-type="bibr" rid="ref-6">Dufourc, Bonmatin &amp; Dufourcq, 1989</xref>; <xref ref-type="bibr" rid="ref-9">Gehman et al., 2008b</xref>; <xref ref-type="bibr" rid="ref-25">van den Brink-van der Laan, Killian &amp; de Kruijff, 2004</xref>; <xref ref-type="bibr" rid="ref-26">Vogel et al., 2007</xref>). Unoriented lipid vesicles are typically the most convenient sample systems used in these studies, for which broad static lineshapes are analyzed to assess perturbation by peptide. Static <named-content content-type="chemical-compound"><sup>2</sup>H</named-content> NMR of enriched fluid phase acyl chain and/or head group <named-content content-type="chemical-compound">CH<sub><italic>n</italic></sub>
+         </named-content> sites produce the canonical Pake pattern (<xref ref-type="bibr" rid="ref-14">Pake, 1948</xref>), where reduction or increases in the quadrupole splitting corresponds to an increase or decrease in fluctuation in the frequency regime of <named-content content-type="chemical-compound">10<sup>5</sup> Hz</named-content> (<xref ref-type="bibr" rid="ref-22">Seelig &amp; Seelig, 1974</xref>). Similarly, reduction or increases in the width of the <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> chemical shift anisotropy corresponds to an increase or decrease, respectively, in orientational order in the <named-content content-type="chemical-compound">10<sup>3</sup> Hz</named-content> regime and/or changes in the average orientation of the phospholipid headgroup (<xref ref-type="bibr" rid="ref-10">Kohler &amp; Klein, 1977</xref>; <xref ref-type="bibr" rid="ref-9">Gehman et al., 2008b</xref>).</p>
+    <p>De-Pake-ing is one method which aids in the analysis of these static spectra, for fluid phase membranes. The procedure is a numerical transform which converts the unoriented axially symmetric static spectrum into a 0°-oriented spectrum. The de-Paked spectrum mimics that which would have been obtained if the lipids had been uniformly oriented in an aligned bilayer with the surface perpendicular to the static magnetic field (i.e. with the membrane normal oriented parallel to the static magnetic field), rather than in spherical (or spheroidal <xref ref-type="bibr" rid="ref-20">Schäfer, Mädler &amp; Sternin, 1998</xref>) lipid vesicles. De-Pake-ing was introduced first as a computationally intensive iterative procedure (<xref ref-type="bibr" rid="ref-2">Bloom, Davis &amp; Mackay, 1981</xref>; <xref ref-type="bibr" rid="ref-23">Sternin, Bloom &amp; Mackay, 1983</xref>), then treated as an “ill-posed problem” using inverse theory (<xref ref-type="bibr" rid="ref-27">Whittall et al., 1989</xref>), and regularization (<xref ref-type="bibr" rid="ref-21">Schäfer, Mädler &amp; Volke, 1995</xref>) and finally using Fourier transform (FT) of modified signal (<xref ref-type="bibr" rid="ref-11">McCabe &amp; Wassall, 1997</xref>).</p>
+    <p>In our experience, de-Pake-ing is something of a black art within individual laboratories, including our own, owing in part to the difficulty in propagating the expertise required to control the nuanced behaviors of the procedure with freely available documentation alone. To address this problem, we offer here a simple NMRPipe (<xref ref-type="bibr" rid="ref-5">Delaglio et al., 1995</xref>) macro that can be substituted for the Fourier transform step in an otherwise identical NMRPipe script, which implements the method of de-Pake-ing by <xref ref-type="bibr" rid="ref-11">McCabe &amp; Wassall (1997)</xref>. The procedure is therefore easy to implement, and should share the same future stability as NMRPipe itself.</p>
+    <p>The theory behind “de-Paking” of axially symmetric powder patterns using weighted FT culminates in the expression (<xref ref-type="bibr" rid="ref-11">McCabe &amp; Wassall, 1997</xref>) <disp-formula id="eqn-1"><label>(1)</label><alternatives><graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/30/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[\begin{eqnarray} {F}_{0}(-2 \nu )\propto \sqrt{\vert \nu \vert }(1\pm i)\text{FT}\{ g(t)\sqrt{t}\} . \end{eqnarray}]]></tex-math><mml:math id="mml-eqn-1"><mml:mstyle displaystyle="true"><mml:msub><mml:mrow><mml:mi>F</mml:mi></mml:mrow><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo>(</mml:mo><mml:mo>−</mml:mo><mml:mn>2</mml:mn><mml:mi>ν</mml:mi><mml:mo>)</mml:mo><mml:mo>∝</mml:mo><mml:msqrt><mml:mrow><mml:mo>|</mml:mo><mml:mi>ν</mml:mi><mml:mo>|</mml:mo></mml:mrow></mml:msqrt><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>±</mml:mo><mml:mi>i</mml:mi><mml:mo>)</mml:mo><mml:mtext>FT</mml:mtext><mml:mo>{</mml:mo><mml:mi>g</mml:mi><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo><mml:msqrt><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msqrt><mml:mo>}</mml:mo><mml:mo>.</mml:mo></mml:mstyle></mml:math></alternatives></disp-formula> This relates the intensity of the frequency in the oriented spectrum (<italic>F</italic><sub>0</sub>) to the intensity of the Fourier transform of a weighted time domain signal at half the frequency on the opposite side of the spectrum. The apodization is simply multiplication by the square root of time <italic>t</italic>. This windowing function, unfortunately, decreases signal-to-noise in the de-Paked spectrum relative to the unoriented spectrum. The ± refers to positive and negative frequencies, i.e. the left and right halves of the spectrum, respectively. The (1 ± <italic>i</italic>) means the left and right halves of the spectrum come out 90° out of phase with each other. Thus the time domain can be converted to a purely absorptive de-Paked <italic>F</italic><sub>0</sub> spectrum by resetting spectral width and referencing parameters, reversing the spectrum, exchanging the real and inverse-imaginary channels in the right half of the spectrum, and zero-order phase correcting by −45°. The new NMRPipe macro listed and described in <xref ref-type="fig" rid="fig-1">Fig. 1</xref> accomplishes these steps in a straightforward fashion, and should be invoked where one would normally invoke the Fourier transform, for example:</p>
+    <table-wrap>
+      <table frame="void" rules="none" cellpadding="0" cellspacing="0">
+        <colgroup>
+          <col align="left"/>
+          <col align="center"/>
+        </colgroup>
+        <tbody>
+          <tr>
+            <td align="left">
+              <monospace>nmrPipe -in test.fid</monospace>
+            </td>
+            <td align="center">∖</td>
+          </tr>
+          <tr>
+            <td align="left">
+              <monospace>| nmrPipe -fn LS -ls 6 -sw</monospace>
+            </td>
+            <td align="center">∖</td>
+          </tr>
+          <tr>
+            <td align="left">
+              <monospace>| nmrPipe -fn GM -g2 200.0 -c 0.5</monospace>
+            </td>
+            <td align="center">∖</td>
+          </tr>
+          <tr>
+            <td align="left">
+              <monospace>| nmrPipe -fn MAC -macro $NMRTXT/dePakeFT.M -all</monospace>
+            </td>
+            <td align="center">∖</td>
+          </tr>
+          <tr>
+            <td align="left">
+              <monospace>| nmrPipe -fn PS -p0 259.0 -p1 0.0 -di</monospace>
+            </td>
+            <td align="center">∖</td>
+          </tr>
+          <tr>
+            <td align="left">
+              <monospace>| nmrPipe -ov -out depake.ft</monospace>
+            </td>
+            <td align="center"/>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <p>where <monospace>LS</monospace> compensates for having begun acquisition prior to the top of the solid echo, and effectively discards the early points which suffer from probe coil and (especially analog) audio filter ringing; <monospace>GM</monospace> is a usual apodization function; and <monospace>PS</monospace> applies the same frequency-independent (<monospace>-p0</monospace>) phase shift as required by the regular, unoriented FT spectrum. Note that the <monospace>LS</monospace> step requires an integral number of left-shifts, and it is too difficult to reliably adjust the frequency-dependent (<monospace>-p1</monospace>) phase correction in the <monospace>PS</monospace> step. Both of these constraints require careful optimization of the preacquisition delay in the solid echo pulse sequence (<xref ref-type="bibr" rid="ref-4">Davis, 1983</xref>).</p>
+    <p><xref ref-type="fig" rid="fig-2">Figure 2</xref> shows the Pake pattern of a regular Fourier transform, and a de-Paked spectrum using the macro in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>, for data simulated using Simpson (<xref ref-type="bibr" rid="ref-1">Bak, Rasmussen &amp; Nielsen, 2000</xref>). The NMRPipe macro works as expected: oriented spectral intensity appears in <named-content content-type="chemical-compound"><sup>2</sup>H</named-content> spectra at positions corresponding to the 0° frequencies for the simulated lineshape, consistent with a splitting of 3/2 × the 10 kHz quadrupole coupling constant used for simulation, and in <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> spectra at the δ = 28 ppm chemical shift anisotropy value used for simulation (equivalent to the 0° edge, and corresponding to more typically quoted Δδ = −42 ppm).</p>
+    <fig id="fig-1">
+      <object-id pub-id-type="doi">10.7717/peerj.30/fig-1</object-id>
+      <label>Figure 1</label>
+      <caption>
+        <p>The dePakeFT macro. The first block (lines 1–12) reads the acquisition spectral width from the data header, sets a collection of constants, and resets necessary header parameters. The loop in lines 22–26 performs the <inline-formula><alternatives><inline-graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/30/ieqn-14.png"/><tex-math id="tex-ieqn-14"><![CDATA[$\sqrt{t}$]]></tex-math><mml:math id="mml-ieqn-14"><mml:msqrt><mml:mrow><mml:mi>t</mml:mi></mml:mrow></mml:msqrt></mml:math></alternatives></inline-formula> apodization, followed by the Fourier transformation in line 28. Lines 32–44 apply the frequency-dependent intensity scaling and differential phase corrections, followed by the uniform phase correction (line 46).</p>
+      </caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/30/fig-1.png"/>
+    </fig>
+    <fig id="fig-2">
+      <object-id pub-id-type="doi">10.7717/peerj.30/fig-2</object-id>
+      <label>Figure 2</label>
+      <caption>
+        <p>De-Pake-ing of data representative of a single <named-content content-type="chemical-compound">CD<sub><italic>n</italic></sub>
+               </named-content> site from phospholipid bilayers, and simulated with Simpson (<xref ref-type="bibr" rid="ref-1">Bak, Rasmussen &amp; Nielsen, 2000</xref>). Regular FT static lineshapes are shown in gray, and de-Paked spectra are shown as black curves. Isotropic chemical shifts were set to zero, and the zcw4180 crystal file was used. (Left) A quadrupole splitting of 10 kHz was used in a solid echo pulse sequence simulation for <named-content content-type="chemical-compound"><sup>2</sup>H</named-content>, and (Right) a chemical shift anisotropy (δ under the Haeberlen convention) of 28 ppm (Δδ = −42 ppm) was used in a simple Bloch decay simulation for <named-content content-type="chemical-compound"><sup>31</sup>P</named-content>.</p>
+      </caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/30/fig-2.png"/>
+    </fig>
+    <p>An artifact appears with weak intensity on the opposite side of the peak intensity in the de-Paked spectrum. This has been noted previously (<xref ref-type="bibr" rid="ref-11">McCabe &amp; Wassall, 1997</xref>), and is a consequence of using an approximation of the asymptotic value of the underlying integral. The infinite signal-to-noise of <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> simulations in <xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref> indicate that the artifacts are attenuated approximations of the full static lineshape of each component, shifted and scaled along the frequency axis such that it spans from the center of the spectrum to ∼ 2  × δ, with opposite sign to the peak de-Paked intensity.</p>
+    <p>One of the tedious aspects of most of the de-Pake-ing methods is the need to center the first moment of the static spectrum within the spectral window, at a point with frequency of exactly zero. This requirement is less stringent for the FT method. If the carrier frequency is not centered at the isotropic chemical shift, the negation and doubling of the frequency axis involved in the de-Paking means that the oriented intensity for each side will appear at −2 × the offset compared to where it would have appeared if the carrier frequency had been centered in the Pake pattern. For example, in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>, the de-Paked (oriented) <named-content content-type="chemical-compound"><sup>2</sup>H</named-content> intensity appears at ± 7.5 kHz, but the carrier offset of <named-content content-type="chemical-compound">+3 kHz</named-content> in <xref ref-type="fig" rid="fig-3">Fig. 3</xref> causes the de-Paked peaks to shift <named-content content-type="chemical-compound">−6 kHz</named-content> to 1.5 and <named-content content-type="chemical-compound">−13.5 kHz</named-content>. The scaling of intensities proportional to the square root of distance from the center of the spectrum (<xref ref-type="fig" rid="fig-1">Fig. 1</xref> lines 36–45) also causes an imbalance between the two theoretically symmetric halves of the doublet. While the frequency axis can be adjusted to center the lineshape, this is unnecessary for small shifts as the quadrupole splitting is the same with or without the offset. This is of particular benefit, as the lipid acyl CD<sub>2</sub> and CD<sub>3</sub> isotropic chemical shifts are slightly different. Larger offsets are, of course, a more serious concern, from an experimental set-up perspective, due to finite excitation profiles that would likely impact upon ideally uniform excitation of the very broad line.</p>
+    <fig id="fig-3">
+      <object-id pub-id-type="doi">10.7717/peerj.30/fig-3</object-id>
+      <label>Figure 3</label>
+      <caption>
+        <p>De-Pake-ing of data simulated with Simpson, using non-zero isotropic offsets. Simulations and display parameters are used as in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>, except (Left) An isotropic shift offset of 3000 Hz was used for <named-content content-type="chemical-compound"><sup>2</sup>H</named-content>, and (Right) two <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> components are included, as may be seen under some circumstances, e.g. for a mixed phospholipid bilayer, one with a chemical shift anisotropy δ = 30 ppm (Δδ = −45 ppm) and isotropic frequency offset δ<sub>0</sub> = 4 ppm, and another with δ = 10 ppm (Δδ = −15 ppm) and isotropic shift offset of δ<sub>0</sub> = −2 ppm.</p>
+      </caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/30/fig-3.png"/>
+    </fig>
+    <p>The same rule applies for the position of <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> oriented intensity when the carrier is not placed exactly on the isotropic frequency of a given phospholipid species. This is beneficial, insofar as spectra with multiple components that may differ in isotropic chemical shift can still be de-Paked. However, interpretation in this case will be more difficult, particularly for the more complicated mixtures being used to better approximate natural bilayer environments (<xref ref-type="bibr" rid="ref-15">Pinheiro &amp; Watts, 1994</xref>; <xref ref-type="bibr" rid="ref-18">Sani, Dufourc &amp; Gröbner, 2009</xref>). For the sake of illustration, two clearly distinct <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> species are shown in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>, as seen in some cases (<xref ref-type="bibr" rid="ref-16">Pukala et al., 2007</xref>). Where isotropic shift offsets are different for each species, no one frequency axis shift will satisfy all species. Consequently, some form of deconvolution is necessary to interpret the relationship between the positions of oriented intensities and the chemical shift parameters of each component line. While this may be possible, in practice, de-Paked <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> spectra may not always give sufficient resolution (e.g. <xref ref-type="fig" rid="fig-4">Fig. 4</xref>). We find the maximum entropy-based analysis of slow-spinning MAS spectra (<xref ref-type="bibr" rid="ref-19">Sani, Separovic &amp; Gehman, 2011</xref>) to be a more general solution to this problem.</p>
+    <fig id="fig-4">
+      <object-id pub-id-type="doi">10.7717/peerj.30/fig-4</object-id>
+      <label>Figure 4</label>
+      <caption>
+        <p>FT and de-Paked spectra of d<sub>54</sub>-dimyristoylphosphatidylcholine (dDMPC) multilamellar vesicles at 30 °C for: (Left) a <named-content content-type="chemical-compound"><sup>2</sup>H</named-content> solid-echo pulse sequence, and (Right) Hahn-echo pulse sequence using EXORCYCLE phase cycling (<xref ref-type="bibr" rid="ref-17">Rance &amp; Byrd, 1983</xref>).</p>
+      </caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/30/fig-4.png"/>
+    </fig>
+    <p>Processing of real data (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>) indicates that the NMRPipe macro works well, and is as comparable to the Single Value Decomposition (SVD) in our experience as initially reported (<xref ref-type="bibr" rid="ref-11">McCabe &amp; Wassall, 1997</xref>). In contrast to the SVD approach, as well as a nonlinear-least squares approach (<xref ref-type="bibr" rid="ref-27">Whittall et al., 1989</xref>), which often took an hour or two of processing and iterative optimization of parameters, processing with this macro is essentially instantaneous. For existing NMRPipe installations, the macro uses numeric parameter codes, and can be downloaded from the Gehman webpage at <uri xlink:href="http://www.chemistry.unimelb.edu.au">http://www.chemistry.unimelb.edu.au</uri>, or as a <xref ref-type="supplementary-material" rid="supplemental-information">Supplementary File</xref> to this note, and placed in $NMRTXT. NMRPipe distributions of version 6.1 or greater use parameter names as in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>, and include the dePakeFT.M macro by default.</p>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="text" mime-subtype="plain" xlink:href="https://peerj.com/articles/30/DEPAKEFT_PRE61.TXT">
+        <object-id pub-id-type="doi">10.7717/peerj.30/supp-1</object-id>
+        <label>Supplementary Information 1</label>
+        <caption>
+          <title>Supplementary file with source code for macro</title>
+          <p>This macro applies to many current versions of NMRPipe in circulation. It should be edited to output a reference to this article, if it is accepted.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>Frances Separovic is an Academic Editor for PeerJ. There are no other competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Marc-Antoine Sani</xref> performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-2">Daniel K. Weber</xref> performed the experiments, analyzed the data.</p>
+        </fn>
+        <fn id="contribution-3">
+          <p><xref ref-type="contrib" rid="author-3">Frank Delaglio</xref> contributed reagents/materials/analysis tools, wrote the paper, expertise with NMRPipe internals.</p>
+        </fn>
+        <fn id="contribution-4">
+          <p><xref ref-type="contrib" rid="author-4">Frances Separovic</xref> contributed reagents/materials/analysis tools, Manuscript advice.</p>
+        </fn>
+        <fn id="contribution-5">
+          <p><xref ref-type="contrib" rid="author-5">John D. Gehman</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Bak, Rasmussen &amp; Nielsen (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bak</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rasmussen</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>NC</given-names>
+            </name>
+          </person-group>
+          <article-title>SIMPSON: a general simulation program for solid-state NMR spectroscopy</article-title>
+          <source>Journal of Magnetic Resonance</source>
+          <year>2000</year>
+          <volume>147</volume>
+          <fpage>296</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="doi">10.1006/jmre.2000.2179</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Bloom, Davis &amp; Mackay (1981)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bloom</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Mackay</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Direct determination of the oriented sample NMR spectrum from the powder spectrum for systems with local axial symmetry</article-title>
+          <source>Chemical Physics Letters</source>
+          <year>1981</year>
+          <volume>80</volume>
+          <fpage>198</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="doi">10.1016/0009-2614(81)80089-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Cheng et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hale</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Elliot</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hancock</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Straus</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of membrane composition on antimicrobial peptides aurein 2.2 and 2.3 from Australian southern bell frogs</article-title>
+          <source>Biophysical Journal</source>
+          <year>2009</year>
+          <volume>96</volume>
+          <fpage>552</fpage>
+          <lpage>565</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bpj.2008.10.012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Davis (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davis</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>The description of membrane lipid conformation, order and dynamics by <named-content content-type="chemical-compound"><sup>2</sup>H</named-content>-NMR</article-title>
+          <source>Biochimica et Biophysica Acta</source>
+          <year>1983</year>
+          <volume>737</volume>
+          <fpage>117</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="doi">10.1016/0304-4157(83)90015-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Delaglio et al. (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Delaglio</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Grzesiek</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vuister</surname>
+              <given-names>GW</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pfeifer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bax</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>NMRPipe: a multidimensional spectral processing system based on UNIX pipes</article-title>
+          <source>Journal of Biomolecular NMR</source>
+          <year>1995</year>
+          <volume>6</volume>
+          <fpage>277</fpage>
+          <lpage>293</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00197809</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Dufourc, Bonmatin &amp; Dufourcq (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dufourc</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bonmatin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Dufourcq</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Membrane structure and dynamics by 2H- and 31P-NMR. Effects of amphipatic peptidic toxins on phospholipid and biological membranes</article-title>
+          <source>Biochimie</source>
+          <year>1989</year>
+          <volume>71</volume>
+          <fpage>117</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1016/0300-9084(89)90141-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Fernandez, Gehman &amp; Separovic (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fernandez</surname>
+              <given-names>DI</given-names>
+            </name>
+            <name>
+              <surname>Gehman</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Separovic</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Membrane interactions of antimicrobial peptides from Australian frogs</article-title>
+          <source>Biochimica et Biophysica Acta</source>
+          <year>2009</year>
+          <volume>1788</volume>
+          <fpage>1630</fpage>
+          <lpage>1638</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbamem.2008.10.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Gehman et al. (2008a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gehman</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Luc</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>T-H</given-names>
+            </name>
+            <name>
+              <surname>Boland</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Pukala</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Bowie</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>M-I</given-names>
+            </name>
+            <name>
+              <surname>Separovic</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of antimicrobial peptides from Australian tree frogs on anionic phospholipid membranes</article-title>
+          <source>Biochemistry</source>
+          <year>2008a</year>
+          <volume>47</volume>
+          <fpage>8557</fpage>
+          <lpage>8565</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi800320v</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Gehman et al. (2008b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gehman</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>O’Brien</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Shabanpoor</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Wade</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Separovic</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Metal effects on the membrane interactions of amyloid-β peptides</article-title>
+          <source>European Biophysics Journal</source>
+          <year>2008b</year>
+          <volume>37</volume>
+          <fpage>333</fpage>
+          <lpage>344</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00249-007-0251-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Kohler &amp; Klein (1977)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kohler</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>MP</given-names>
+            </name>
+          </person-group>
+          <article-title>Orientation and dynamics of phospholipid head groups in bilayers and membranes determined from <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> nuclear magnetic resonance chemical shielding tensors</article-title>
+          <source>Biochemistry</source>
+          <year>1977</year>
+          <volume>16</volume>
+          <fpage>519</fpage>
+          <lpage>526</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi00622a028</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>McCabe &amp; Wassall (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCabe</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Wassall</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid deconvolution of NMR powder spectra by weighted fast Fourier tranformation</article-title>
+          <source>Solid State Nuclear Magnetic Resonance</source>
+          <year>1997</year>
+          <volume>10</volume>
+          <fpage>63</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0926-2040(97)00024-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Ouellet et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ouellet</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Doucet</surname>
+              <given-names>J-D</given-names>
+            </name>
+            <name>
+              <surname>Voyer</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Auger</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Membrane topology of a 14-mer model amphipathic peptide: a solid-state NMR spectroscopy study</article-title>
+          <source>Biochemistry</source>
+          <year>2007</year>
+          <volume>46</volume>
+          <fpage>6597</fpage>
+          <lpage>6606</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi0620151</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Pabst et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pabst</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Grage</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Danner-Pongratz</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jing</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Ulrich</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Watts</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lohner</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hickel</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Membrane thickening by the antimicrobial peptide PGLa</article-title>
+          <source>Biophysical Journal</source>
+          <year>2008</year>
+          <volume>95</volume>
+          <fpage>5779</fpage>
+          <lpage>5788</lpage>
+          <pub-id pub-id-type="doi">10.1529/biophysj.108.141630</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Pake (1948)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pake</surname>
+              <given-names>GE</given-names>
+            </name>
+          </person-group>
+          <article-title>Nuclear resonance absorption in hydrated crystals: fine structure of the proton line</article-title>
+          <source>Journal of Chemical Physics</source>
+          <year>1948</year>
+          <volume>16</volume>
+          <fpage>327</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="doi">10.1063/1.1746878</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Pinheiro &amp; Watts (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pinheiro</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Watts</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Resolution of individual lipids in mixed phospholipid membranes and specific lipid-cytochrome c interactions by magic-angle spinning solid-state phosphorus-31 NMR</article-title>
+          <source>Biochemistry</source>
+          <year>1994</year>
+          <volume>33</volume>
+          <fpage>2459</fpage>
+          <lpage>2467</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi00175a014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Pukala et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pukala</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Boland</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Gehman</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Kuhn-Nentwig</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Separovic</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Bowie</surname>
+              <given-names>JH</given-names>
+            </name>
+          </person-group>
+          <article-title>Solution structure and interaction of Cupiennin 1a, a spider venom peptide with phospholipid bilayers</article-title>
+          <source>Biochemistry</source>
+          <year>2007</year>
+          <volume>46</volume>
+          <fpage>3576</fpage>
+          <lpage>3585</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi062306+</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Rance &amp; Byrd (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rance</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Byrd</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Obtaining high-fidelity spin-1/2 powder spectra in anisotropic media: phase-cycled Hahn echo spectroscopy</article-title>
+          <source>Journal of Magnetic Resonance</source>
+          <year>1983</year>
+          <volume>52</volume>
+          <fpage>221</fpage>
+          <lpage>240</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Sani, Dufourc &amp; Gröbner (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dufourc</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Gröbner</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>How does the Bax-α1 targeting sequence interact with mitochondrial membranes? The role of cardiolipin</article-title>
+          <source>Biochimica et Biophysica Acta</source>
+          <year>2009</year>
+          <volume>1788</volume>
+          <fpage>623</fpage>
+          <lpage>631</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbamem.2008.12.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Sani, Separovic &amp; Gehman (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sani</surname>
+              <given-names>M-A</given-names>
+            </name>
+            <name>
+              <surname>Separovic</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Gehman</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>Disentanglement of heterogenous dynamics in mixed lipid systems</article-title>
+          <source>Biophysical Journal</source>
+          <year>2011</year>
+          <volume>100</volume>
+          <fpage>L40</fpage>
+          <lpage>L42</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bpj.2011.03.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Schäfer, Mädler &amp; Sternin (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schäfer</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mädler</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sternin</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of orientational order parameters from <named-content content-type="chemical-compound"><sup>2</sup>H</named-content> NMR spectra of magnetically partially oriented lipid bilayers</article-title>
+          <source>Biophyical Journal</source>
+          <year>1998</year>
+          <volume>74</volume>
+          <fpage>1007</fpage>
+          <lpage>1014</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-3495(98)74025-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Schäfer, Mädler &amp; Volke (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schäfer</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mädler</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Volke</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>De-Pake-ing of NMR powder spectra by nonnegative least-squares analysis with Tikhonov regularization</article-title>
+          <source>Journal of Magnetic Resonance A</source>
+          <year>1995</year>
+          <volume>116</volume>
+          <fpage>145</fpage>
+          <lpage>149</lpage>
+          <pub-id pub-id-type="doi">10.1006/jmra.1995.0002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Seelig &amp; Seelig (1974)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seelig</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Seelig</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>The dynamic structure of fatty acyl chains in a phospholipid bilayer measured by deuterium magnetic resonance</article-title>
+          <source>Biochemistry</source>
+          <year>1974</year>
+          <volume>13</volume>
+          <fpage>4839</fpage>
+          <lpage>4845</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi00720a024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Sternin, Bloom &amp; Mackay (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sternin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bloom</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mackay</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>De-Pake-ing of NMR-spectra</article-title>
+          <source>Journal of Magnetic Resonance</source>
+          <year>1983</year>
+          <volume>55</volume>
+          <fpage>274</fpage>
+          <lpage>282</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Tremouilhac et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tremouilhac</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Strandberg</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wadhwani</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ulrich</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Synergistic transmembrane alignment of the antimicrobial heterodimer pgla/magainin</article-title>
+          <source>Journal of Biological Chemistry</source>
+          <year>2006</year>
+          <volume>281</volume>
+          <fpage>32089</fpage>
+          <lpage>94</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M604759200</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>van den Brink-van der Laan, Killian &amp; de Kruijff (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van den Brink-van der Laan</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Killian</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>de Kruijff</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Nonbilayer lipids affect peripheral and integral membrane proteins via changes in the lateral pressure profile</article-title>
+          <source>Biochimica et Biophysica Acta</source>
+          <year>2004</year>
+          <volume>1666</volume>
+          <fpage>275</fpage>
+          <lpage>288</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbamem.2004.06.010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Vogel et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>K-T</given-names>
+            </name>
+            <name>
+              <surname>Waldmann</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Feller</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>MF</given-names>
+            </name>
+          </person-group>
+          <article-title>Flexibility of ras lipid modifications studied by <sup>2</sup>H solid state NMR and molecular dynamics simulations</article-title>
+          <source>Biophysical Journal</source>
+          <year>2007</year>
+          <volume>93</volume>
+          <fpage>2697</fpage>
+          <lpage>2712</lpage>
+          <pub-id pub-id-type="doi">10.1529/biophysj.107.104562</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Whittall et al. (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whittall</surname>
+              <given-names>KP</given-names>
+            </name>
+            <name>
+              <surname>Sternin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bloom</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mackay</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title>Time- and frequency-domain “dePakeing” using inverse theory</article-title>
+          <source>Journal of Magnetic Resonance</source>
+          <year>1989</year>
+          <volume>84</volume>
+          <fpage>64</fpage>
+          <lpage>71</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Wi &amp; Kim (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Pore structure, thinning effect, and lateral diffusive dynamics of oriented lipid membranes interacting with antimicrobial peptide protegrin-1: <named-content content-type="chemical-compound"><sup>31</sup>P</named-content> and <named-content content-type="chemical-compound"><sup>2</sup>H</named-content> solid-state NMR study</article-title>
+          <source>Journal of Physical Chemistry B</source>
+          <year>2008</year>
+          <volume>112</volume>
+          <fpage>11402</fpage>
+          <lpage>11414</lpage>
+          <pub-id pub-id-type="doi">10.1021/jp801825k</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

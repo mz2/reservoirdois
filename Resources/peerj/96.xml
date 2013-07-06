@@ -1,1147 +1,1133 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373019059000,&quot;from_str&quot;:&quot;2013-07-05T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500659000,&quot;from_str&quot;:&quot;2013-06-29T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513459000,&quot;from_str&quot;:&quot;2013-06-06T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948659000,&quot;from_str&quot;:&quot;2012-12-31T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,131,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">96</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.96</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Animal Behavior</subject>
+          <subject>Aquaculture, Fisheries and Fish Science</subject>
+          <subject>Ecology</subject>
+          <subject>Ecosystem Science</subject>
+          <subject>Marine Biology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Willis</surname>
+            <given-names>Jay</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1"/>
+          <email>jkwillis@gmail.com</email>
+        </contrib>
+        <aff id="aff-1"><institution>Turnpenny Horsfield Associates</institution>, <addr-line>Southampton</addr-line>, <country>UK</country></aff>
+        <aff id="aff-2"><institution>Southampton University, International Centre for Ecohydraulics</institution>, <country>UK</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Stanford</surname>
+            <given-names>Jack</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-06-25">
+        <day>25</day>
+        <month>6</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e96</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-04-12">
+          <day>12</day>
+          <month>4</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-06-07">
+          <day>7</day>
+          <month>6</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Willis</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Willis</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/96"/>
+      <abstract>
+        <p>There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure. I suggest that high turbulence caused by some very large aggregations of small animals has an important impact via a more direct ecosystem feedback process than overall ocean circulation. In the model presented here, large schools exhibit cooperative behavior and act like giant sieves grading zooplankton through individual swimmer’s wakes, which focus the best prey in predictable positions. Following schoolers exploit these patterns. Then schools leave, in their wakes, chaotic turbulence enhancing growth of the smaller zooplankton and phytoplankton which has been graded out by the school. The result is a different community structure of plankton than would exist without such biomixing. Changes to plankton abundance and community structure on oceanic scales over the past century are correlated to overfishing and are consistent with this concept.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Wake sorting</kwd>
+        <kwd>Ecosystem engineering</kwd>
+        <kwd>Ocean turbulence</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>No funding was received for this study.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p><xref ref-type="bibr" rid="ref-5">Darwin (1882)</xref> outlined a theory of ecosystem engineering on a continental scale by examination of the movement of soil by earthworms. Ecosystem engineering relates to the physical alteration of a habitat by an animal which, directly or indirectly, changes the composition of the wider environment and ecosystem, with beavers being the archetypal terrestrial example. The original suggestion for a similar biogenic mechanism in the oceans, where swimming fish and other animals move sufficient water with their bodies to significantly change the mixing of the oceans, was put forward nearly 50 years ago (<xref ref-type="bibr" rid="ref-21">Munk, 1966</xref>). The idea was ignored until <xref ref-type="bibr" rid="ref-11">Huntley &amp; Zhou (2004)</xref> found that kinetic energy production by 11 species of schooling animals is comparable to the turbulent energy dissipation from major storms and may be 3–4 times greater than the background average rate of turbulent energy. Turbulent energy dissipation alone is not enough to characterize the impacts of turbulence on ocean structure (<xref ref-type="bibr" rid="ref-33">Visser, 2007</xref>). Mixing efficiency is also a measure of turbulence and it depends on the length scales of turbulent motion with respect to the size of the body of liquid. Winds and tides operate at comparatively large length scales, and although their net average energy dissipation may be several times less than typical swimming animal schools, their impact on the structure of the ocean will be orders of magnitude greater (<xref ref-type="bibr" rid="ref-33">Visser, 2007</xref>). Several attempts have been made to resurrect the theory of biogenic mixing, based on viscous mixing (another of Darwin’s ideas) (<xref ref-type="bibr" rid="ref-14">Katija &amp; Dabiri, 2009</xref>) or emergent properties of schools (<xref ref-type="bibr" rid="ref-26">Saintillan &amp; Shelley, 2011</xref>), as ways to suggest how swimming animals may cause significant mixing through turbulence of longer length scales. Each attempt to show biogenic mixing influencing ocean structure however looks doomed by physics (<xref ref-type="bibr" rid="ref-8">Gregg &amp; Horne, 2009</xref>). Here I explore an alternative possible reason for the high levels of turbulent energy dissipation by schools of fish and suggest that it may be evidence of a more direct ecosystem feedback process.</p>
+      <p>If schooling animal’s behavior is an ecosystem feedback cycle, it will share characteristics with other such cases. Herbivores maintain grassland through three basic mechanisms: <list id="list-1" list-type="order"><list-item><label>1.</label><p>Selective grazing, eating the slower growing life stages or parts.</p></list-item><list-item><label>2.</label><p>Targeted feedback of nutrients, including energy through mechanical disruption of soil, and distribution of seeds within defecation, and</p></list-item><list-item><label>3.</label><p>Protective behavior such as eating tree saplings (<xref ref-type="bibr" rid="ref-32">Vera, 2000</xref>).</p></list-item></list> The presence of grass eating herbivores in an appropriate landscape results in more grass, rather than less. As a marine example: baleen whales maintained a high abundance of krill (<xref ref-type="bibr" rid="ref-38">Willis, 2007</xref>; <xref ref-type="bibr" rid="ref-22">Nicol et al., 2010</xref>) through a mix of fear and fertilization. Prey selection, targeted feedback of nutrients and protective behavior may each reinforce links of mature ecosystem feedback cycles. Fish predation structures zoo-plankton communities (<xref ref-type="bibr" rid="ref-12">Huse &amp; Fiksen, 2010</xref>), and so it follows that fish and other animals that feed in large schools have evolved to optimize the abundance of their prey. Intuitive understanding of this ecological processes has, I think, led to the attractiveness of biogenic mixing as ecosystem engineering (<xref ref-type="bibr" rid="ref-33">Visser, 2007</xref>).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.96/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Fish wakes.</title>
+          <p>Comparison of wakes formed behind a stationary cylinder (A) and those produced by a swimming fish (B). The pattern formed by the cylinder is called a von Kármán street and consequently that of a swimming fish is called a reverse von Kármán street (<xref ref-type="bibr" rid="ref-6">Drucker &amp; Lauder, 2002</xref>; <xref ref-type="bibr" rid="ref-18">Liao, 2007</xref>).</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/96/fig-1.png"/>
+      </fig>
+      <p>Here I suggest that intense turbulence caused by small fish which feed in large schools is part of a stronger and more more direct ecosystem feedback process than that involving general ocean circulation. Swimming fish often make a reverse von Kármán street wake pattern (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) (<xref ref-type="bibr" rid="ref-37">Weihs, 1973</xref>; <xref ref-type="bibr" rid="ref-6">Drucker &amp; Lauder, 2002</xref>). (A normal von Kármán street is a predictable pattern of eddies that is formed behind a stationary object in a moving fluid at certain current speeds as a stage between laminar flow and full chaotic turbulence.) The few observations which have been made of the interactions between forage fish (for instance of the family <italic>Clupeidae</italic>) and their prey (subclass <italic>Copepoda</italic>, referred to as copepods in this paper) (<xref ref-type="bibr" rid="ref-16">Kils, 1992</xref>) show that herring (<italic>Clupeidae</italic>) swim with a particular s-shaped gait when hunting which may enhance or shape the turbulent wake (<xref ref-type="bibr" rid="ref-17">Kils, 2005</xref>). Turbulence with eddies of similar sizes to these small fish wakes aggregates neutrally buoyant particles which are similar in size and density to adult copepods (<xref ref-type="bibr" rid="ref-23">Ott &amp; Mann, 2000</xref>). Aggregation is enhanced if there are small differences in density between the particles and surrounding water, as is the case for adult copepods (<xref ref-type="bibr" rid="ref-29">Squires &amp; Yamazaki, 1995</xref>; <xref ref-type="bibr" rid="ref-25">Reigada et al., 2003</xref>). In some cases particles can be swept into ‘streaming zones’ with up to 50 times the average density (<xref ref-type="bibr" rid="ref-36">Wang &amp; Maxey, 1993</xref>). In general, larger heavier plankton are pushed to the edge of eddies (<xref ref-type="bibr" rid="ref-29">Squires &amp; Yamazaki, 1995</xref>) while smaller lighter zooplankton and phytoplankton are drawn to the center (<xref ref-type="bibr" rid="ref-25">Reigada et al., 2003</xref>) (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Copepods span a critical hydrodynamic range during their life. As larvae their movements are dominated by viscous forces while as adults they are more impacted by inertial forces (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>).</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.96/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Particle paths and copepod dynamics.</title>
+          <p>Trajectories of particles in a vortex depend on whether viscous forces (particle moves into vortex centre - c) or inertial forces dominate (particle spins out - e) if neither dominates the particle follows the water (d) (A). Reynolds numbers (Re) roughly characterize a situation through a ratio of inertial and viscous forces. Re is proportional to size (length scale) and speed and inversely proportional to kinematic viscosity of the fluid. Swimming copepods span a critical range dependent on their age (B), with the larva and smaller adult lives dominated by viscous forces (to left of thick black line) whereas later in life inertial forces are more important (right end of thick black line). The duck and dragonfly are in air and the others in sea water. Concept from <xref ref-type="bibr" rid="ref-31">Tidelman (2002)</xref>.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/96/fig-2.png"/>
+      </fig>
+    </sec>
+    <sec>
+      <title>Methods and Materials</title>
+      <p>I set up a simple hydrodynamic simulation of a reverse von Kármán street, by specifying a staggered chain of left handed and right handed eddies in a unidirectional flow field (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). This pattern decayed through time, in the model run, as the eddies were advected across the domain and individually decayed through viscous drag. I used Fluidica (<xref ref-type="bibr" rid="ref-3">Colonius, Taira &amp; Merfield, 2007</xref>) to model the flow field on a domain 524 × 128 square elements. Fluidica is an open-source graphical user interface (GUI) to an immersed-boundary Navier-Stokes solver (<xref ref-type="bibr" rid="ref-4">Colonius, 2008</xref>). The immersed-boundary method is designed to solve flows around complex-shaped and moving bodies in an incompressible fluid (<xref ref-type="bibr" rid="ref-30">Taira &amp; Colonius, 2007</xref>), however, in this case I used a simple flow field to generate the pattern of a swimming fish directly. The initialized Reynolds number was 500. The model was run over 1000 time steps (approximate individual time step 0.0022 s, and domain 0.2 m × 1 m, leading to a base current ∼0.3 m s<sup>- 1</sup> and eddy current +/−0.3 m s<sup>- 1</sup>). The Reynolds number initialization parameter in the Fluidica software relates approximately to grid based length scale, but the model was not sensitive to this parameter between a value of 100 and 1000. To this flow field I then added groups of 20,000 Lagrangian particles in randomly chosen positions within a release zone that contained about 50% of the flow field in two counter-rotating eddies. These particles were pushed by the flow field by linearly interpolating the velocity at any point in the domain. I employed four schemes to model different sets of particles with different viscous or inertial properties. The simplest method of directly applying the interpolated velocity to each particle is called ‘Forward Eulerian’ (FE). This method tends to drive particles toward the edge of eddies, as it is equivalent to setting them on the trajectory of a tangent to the circular track of the water. In effect it gives the particles inertia. The standard method to overcome this artificial inertia is to use Runge-Kutta 4th order integration (RK4). RK4 involves interpolating the velocity of the particle at four points, the present position, half way to the first (FE) projected position, half way to the next projected position, and so forth. The balance of the exponents of the vector summation which follows is used to model neutrally inertial particles, the standard RK4 exponents (1/6, 1/3, 1/3, 1/6) were chosen empirically but have proven effective in field and modelling studies (<xref ref-type="bibr" rid="ref-39">Willis, 2011</xref>, and references therein). So I modelled neutral particles using standard RK4, and mildly inertial particles using Forward Eulerian interpolation. I modelled viscous particles by adjusting the exponents of the RK4 to drive the particles more toward the center of eddies (1/12, 1/6, 1/3, 5/12) and strongly inertial particles by using FE interpolation and carrying over 50% of velocity from previous step in FE calculation. So, for very inertial particles the velocity vector interpolated at a point was summed with the previous velocity vector with a magnitude reduced by 50% and then the particle was moved by this velocity – as such it is a kind of correlated random walk (<xref ref-type="bibr" rid="ref-39">Willis, 2011</xref>). No provision was made for turbulence below the spatial resolution of the model, as this level of dispersion was dimensionally smaller than the other biases that had been introduced by, for instance, the approximation of inertial properties or the initialization positions.</p>
+      <fig id="fig-3">
+        <object-id pub-id-type="doi">10.7717/peerj.96/fig-3</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Model results.</title>
+          <p>A shows the first time step of simple hydrodynamic model of reverse von Kármán street similar to that produced by a swimming fish. (The fish is only shown to illustrate approximate implied position and size.) Colors indicate speed (velocity vector magnitude), with blue close to zero and deep red close to 2 (velocity units are approximately 0.3 m s<sup>-1</sup>), background current of one velocity unit from left to right. 20,000 particles were released in the left hand box for 100 time steps. B shows the positions of neutrally buoyant particles at 20 step intervals, starting at step 10, as they progress left to right in the model. C shows the positions of sets of 20,000 particles of different characteristics at time step 50; green are most impacted by viscous forces, blue are neutral, red are more influenced by inertial forces with black the most dependent on inertial forces. Copepods of different life stages would be similarly sorted into a spectrum based on age in a swimming fish wake. The box on the right is the target for analysis (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>) and represents a potential position of the head of a following fish in a school.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/96/fig-3.png"/>
+      </fig>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>The particles were sorted highly effectively due to their different inertial properties (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). Particles with higher inertia were swept toward the center of the eddy chain, and less inertial ones where retained in the eddies (<xref ref-type="fig" rid="fig-3">Figs. 3B</xref> and <xref ref-type="fig" rid="fig-3">3C</xref>). After a time and length scale equivalent to two eddy revolutions the particles were sorted to the level of roughly 2:1. It is clear that a fish which positioned its mouth in the area directly behind another and about 1.5 lengths back would be provided with a higher concentration of higher inertial prey, and a lower concentration of lower inertial prey than if it positioned its head elsewhere.</p>
+      <fig id="fig-4">
+        <object-id pub-id-type="doi">10.7717/peerj.96/fig-4</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title>Results graph.</title>
+          <p>Average (over 5 time steps) number of particles in the target box (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>) for the 100 time steps of the model. The graph shows that the particles are sorted, with many more of the inertial force dominated particles than the viscous force dominated in the target zone. Copepods would be similarly sorted in a fish wake with larger adult stages preferentially sorted into the target box and smaller life stages and other smaller items such as phytoplankton sorted out of the target zone.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/96/fig-4.png"/>
+      </fig>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>This study illustrates that reverse von Kármán streets are particularly well suited to selectively sort particles of different inertial properties in zones that would form immediately behind the animal producing the turbulent pattern. It uses a simple ‘toy’ model which is not calibrated, but nevertheless, the circumstantial evidence is strong for this being a real effect. If fish exploit the hydrodynamics in this way, then copepod prey would be sorted in zones behind the fish according to the inertial properties of the prey. Animals following in the school will have the opportunity to position themselves to receive pulses, or streams, of various sized prey at a frequency determined by the size and tail beat frequency of the fish in front. This simple understanding leads to a fundamental shift in several basic concepts around marine ecology. For instance, it would imply that the functionality of very large schools of forage fish is based around hunting efficiency rather than only the notion of safety in numbers; fish in large predator schools might have access to a different class or quantity of prey than when alone or in small schools (this type of ‘prey switch’ is quite typical of terrestrial predators which hunt in groups); shape of schools and individuals’ position within schools would take on different implications; and it would mean that prey (copepods) would have evolved to thrive in an environment where their vulnerability increases with inertia (which runs counter to the usual implication in marine ecosystems (<xref ref-type="bibr" rid="ref-24">Pauly et al., 1998</xref>)). Furthermore, the periodic introduction of turbulence impacts other participants of ocean ecosystems in important ways. Several of these implications are briefly discussed here, but they are each so fundamental that this type of model warrants further analysis. Another implication is that any devices (such as turbines, pilings or other fixed objects in strong currents) which produce a predictable turbulent eddy field may be attractive to small fish, which can take advantage of the sorting of prey at these size classes. We should expect that schooling fish wakes have been evolved to be particularly effective in this respect, nevertheless, the environmental impact of such structures should be determined by reference to the sorting and grading potential of the wakes they produce. This effect has been identified for natural structures (some living and some physically built by animals) in currents – mainly in freshwater situations (<xref ref-type="bibr" rid="ref-34">Vogel, 1994</xref>) but the implications in the open ocean appears to have been largely ignored.</p>
+      <p>With respect to the key ecosystem feedback factor of prey selection: usually copepod (e.g. <italic>Calanus</italic> sp.) growth varies with developmental stage, strongly peaking at stages CIII and CIV, when lipid stores are being built, and tailing off at stages CIV and CV (<xref ref-type="bibr" rid="ref-10">Harris et al., 2000</xref>). Since all copepod adult stages target the same prey and phytoplankton (<xref ref-type="bibr" rid="ref-10">Harris et al., 2000</xref>), and cannibalism may be an important factor (<xref ref-type="bibr" rid="ref-7">Eaine et al., 2002</xref>), removing the later stages will release competitive and predatory pressure on the earlier. Indeed, fish cause the average size of plankton to reduce in marine and freshwater (<xref ref-type="bibr" rid="ref-7">Eaine et al., 2002</xref>; <xref ref-type="bibr" rid="ref-12">Huse &amp; Fiksen, 2010</xref>) and wake sorting, described here, is likely to facilitate such selective feeding.</p>
+      <p>There are many unresolved questions: How does the escape behavior of copepods (<xref ref-type="bibr" rid="ref-35">Waggett &amp; Buskey, 2008</xref>) mitigate against grading? How long before a copepod tires or gets disorientated or damaged (<xref ref-type="bibr" rid="ref-13">Jimenez, 1997</xref>)? And, do larger schools reinforce the turbulent effect, or dissipate it, and so where in a school is the optimal position? The shape of prey species may confound the results described here. Shape and surface roughness dictate hydrodynamic drag, and drag is increasingly important as the situation moves toward the more viscous dominated end of the Reynolds number spectrum. So copepods and other prey species may have developed physiological or behavioral adaptations to avoid being graded in a fish school through wake sorting described here. Adults may avoid being advected into the target zone by increasing their own hydrodynamic drag. When escaping a predator copepods adopt a ballistic profile; they alter their shape to reduce drag and improve inertial movement (<xref ref-type="bibr" rid="ref-35">Waggett &amp; Buskey, 2008</xref>), whereas, when feeding they have feeding and swimming appendages deployed, which increase drag. There may be a balance for a relatively larger adult copepod under attack from a large school of predators between the benefits of either swimming in a ballistic mode and thus moving quickly but perhaps being sorted effectively or increasing drag by changing shape and thus moving slower but avoiding being sorted effectively. Perhaps the high mortality in boat wakes (<xref ref-type="bibr" rid="ref-1">Bickel, Malloy Hammond &amp; Tang, 2011</xref>) is exacerbated by an inappropriate behavioral response to extreme turbulence.</p>
+      <p>Turbulence increases the growth rate of plankton and in general controls the plankton community structure as much the availability of nutrients, and more than environmental factors such as salinity and temperature, or external energy such as light (<xref ref-type="bibr" rid="ref-19">Margalef, 1978</xref>). Phytoplankton and zooplankton can be aggregated and dispersed by turbulence which can impact their future population dynamics (<xref ref-type="bibr" rid="ref-23">Ott &amp; Mann, 2000</xref>; <xref ref-type="bibr" rid="ref-25">Reigada et al., 2003</xref>). In particular, turbulence is a critical factor in the growth and population dynamics of copepods (<xref ref-type="bibr" rid="ref-27">Saiz &amp; Alcaraz, 1991</xref>; <xref ref-type="bibr" rid="ref-28">Schmitt &amp; Seuront, 2008</xref>). Turbulent energy dissipation rates due to a swimming animal school can be 100-fold greater than the typical average background dissipation, and a few large schools of fish can account for up to half the total dissipation energy over a tidal cycle over a multi-km range (<xref ref-type="bibr" rid="ref-8">Gregg &amp; Horne, 2009</xref>). The characteristic length scales of this additional turbulence are in the mm to 15 cm range, much less than is responsible for oceanic mixing on the scale of winds or tides. However, the alternative is also true in that the background dissipation energy from winds and tides leaves turbulence which has much longer characteristic length scales (2–10,000 m). Thus mixing efficiency of schools of fish at scales which are relevant to plankton is orders of magnitude more important than background dissipation energy and the intensities of turbulence found in animal schools are very rare in other circumstances (<xref ref-type="bibr" rid="ref-13">Jimenez, 1997</xref>). Thus a large school may first act like a sieve to grade out adult copepods, as explained above, and then leave the more numerous, much smaller, but faster growing life stages with the majority of the phytoplankton, with the added benefit of otherwise rare levels of turbulence (<xref ref-type="bibr" rid="ref-27">Saiz &amp; Alcaraz, 1991</xref>). If the schooling animals defecate or exude nutrients that are of value to growing phytoplankton, these will also be added to the mix.</p>
+      <p>Turbulence may provide protection for certain prey classes. Turbulence kills adult copepods at very high intensity (caused by motorboat wakes for instance) (<xref ref-type="bibr" rid="ref-1">Bickel, Malloy Hammond &amp; Tang, 2011</xref>), and it is possible that similar levels of turbulent intensity are present within the wakes of schooling fish (<xref ref-type="bibr" rid="ref-8">Gregg &amp; Horne, 2009</xref>; <xref ref-type="bibr" rid="ref-1">Bickel, Malloy Hammond &amp; Tang, 2011</xref>) which would serve to enhance the sorting effect described above. Those animals which hunt using entrapment in long filaments, such as ctenophores or Medusa, can be damaged by even mild turbulence. Cydippid ctenophores (<italic>Callianira antarctica</italic>) avoid schooling krill (<italic>Euphasia superba</italic>) for this reason, but attack loners (<xref ref-type="bibr" rid="ref-9">Hamner &amp; Hamner, 2000</xref>). Any animal which creates its own current to capture prey, such as larger adult copepods, will be disadvantaged temporarily while impacted by school turbulence. Thus the introduction of unusually intense and otherwise rare turbulence may provide protection from competition.</p>
+      <p>Finally, it is worth considering the scale over which these effects may impact actual oceans. Rough calculations based on the average packing density, swimming speed and school size suggest that the entire spawning stock of herring in the North Sea during 1963 could sweep an area of 2000 km<sup>2</sup> in 10 h to a depth of 80 m (<xref ref-type="bibr" rid="ref-11">Huntley &amp; Zhou, 2004</xref>; <xref ref-type="bibr" rid="ref-8">Gregg &amp; Horne, 2009</xref>; <xref ref-type="bibr" rid="ref-15">Kenny et al., 2009</xref>). Therefore, all North Sea herring fishing grounds could have been swept on average, from once a day, to once a week, by the standing stock of herring. Zooplankton community structure has changed over the past 100 years, during which time many fish populations have declined significantly due to overfishing, while others may have increased (<xref ref-type="bibr" rid="ref-24">Pauly et al., 1998</xref>; <xref ref-type="bibr" rid="ref-2">Boyce et al., 2010</xref>). There is some argument over this, but on coastal areas, which used to be the best fishing ground for schooling pelagic fish, all agree the change is most acute (<xref ref-type="bibr" rid="ref-20">McQuatters-Gallop et al., 2011</xref>). Correlations between signals of regime change suggest that the fish/plankton connectivity has been replaced by environment/plankton connectivity (<xref ref-type="bibr" rid="ref-15">Kenny et al., 2009</xref>) which confirms, with much other evidence (<xref ref-type="bibr" rid="ref-12">Huse &amp; Fiksen, 2010</xref>), that pelagic fish impact plankton community structure on an oceanic scale.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="text" mime-subtype="plain" xlink:href="https://peerj.com/articles/96/exp.txt">
+        <object-id pub-id-type="doi">10.7717/peerj.96/supp-1</object-id>
+        <label>Supplemental Information 1</label>
+        <caption>
+          <title>Model output dataset</title>
+          <p>x,y positions of particles.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>My thanks to the editors and referees for their helpful contributions and advice. Thanks to Mark Lorang for sharing interesting ideas.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>I work for Turnpenny Horsfield Associates as a consultant scientist.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Jay Willis</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Bickel, Malloy Hammond &amp; Tang (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bickel</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Malloy Hammond</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>KW</given-names>
+            </name>
+          </person-group>
+          <article-title>Boat-generated turbulence as a potential source of mortality among copepods</article-title>
+          <source>Journal of Experimental Marine Biology and Ecology</source>
+          <issue>1–2</issue>
+          <year iso-8601-date="2011">2011</year>
+          <volume>401</volume>
+          <fpage>105</fpage>
+          <lpage>109</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jembe.2011.02.038</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Boyce et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boyce</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Worm</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Global phytoplankton decline over the past century</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>466</volume>
+          <fpage>591</fpage>
+          <lpage>596</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature09268</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Colonius, Taira &amp; Merfield (2007)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Colonius</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Taira</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Merfield</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2007">2007</year>
+          <comment><italic>Fluidica</italic>. California Institute of Technology <uri xlink:href="http://colonius.caltech.edu/">http://colonius.caltech.edu/</uri></comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Colonius (2008)</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colonius</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Fluidica CFD software for fluids instruction</article-title>
+          <source>61st annual meeting of the APS division of fluid dynamics</source>
+          <year iso-8601-date="2008">2008</year>
+          <conf-date>November 23–25, 2008</conf-date>
+          <publisher-name>American Physical Society</publisher-name>
+          <comment>Abstract #AW.004. <italic>Available at <uri xlink:href="http://adsabs.harvard.edu/abs/2008APS..DFD.AW004C">http://adsabs.harvard.edu/abs/2008APS..DFD.AW004C</uri></italic> (accessed 31 May 2013)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Darwin (1882)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darwin</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <source>The formation of vegetable mould, through the action of worms, with observations on their habits</source>
+          <year iso-8601-date="1882">1882</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>J. Murray</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Drucker &amp; Lauder (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Drucker</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>Lauder</surname>
+              <given-names>GV</given-names>
+            </name>
+          </person-group>
+          <article-title>Experimental hydrodynamics of fish locomotion: functional insights from wake visualization</article-title>
+          <source>Integrative and Comparative Biology</source>
+          <issue>2</issue>
+          <year iso-8601-date="2002">2002</year>
+          <volume>42</volume>
+          <fpage>243</fpage>
+          <lpage>257</lpage>
+          <pub-id pub-id-type="doi">10.1093/icb/42.2.243</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Eaine et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eaine</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Aksnes</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Ohman</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Martinussen</surname>
+              <given-names>MB</given-names>
+            </name>
+          </person-group>
+          <article-title>Stage-specific mortality of Calanus spp. under different predation regimes</article-title>
+          <source>Limnology and Oceanography</source>
+          <issue>3</issue>
+          <year iso-8601-date="2002">2002</year>
+          <volume>47</volume>
+          <fpage>636</fpage>
+          <lpage>645</lpage>
+          <pub-id pub-id-type="doi">10.4319/lo.2002.47.3.0636</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Gregg &amp; Horne (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gregg</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Horne</surname>
+              <given-names>JK</given-names>
+            </name>
+          </person-group>
+          <article-title>Turbulence, acoustic backscatter and pelagic nekton in Monterey Bay</article-title>
+          <source>Journal of Physical Oceanography</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>39</volume>
+          <fpage>1097</fpage>
+          <lpage>1114</lpage>
+          <pub-id pub-id-type="doi">10.1175/2008JPO4033.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Hamner &amp; Hamner (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamner</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hamner</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Behavior of Antarctic krill (Euphausia superba): schooling, foraging, and antipredatory behavior</article-title>
+          <source>Canadian Journal of Fisheries and Aquatic Sciences</source>
+          <issue>suppl. 3</issue>
+          <year iso-8601-date="2000">2000</year>
+          <volume>57</volume>
+          <fpage>192</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="doi">10.1139/f00-195</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Harris et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harris</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Irigoien</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Head</surname>
+              <given-names>RN</given-names>
+            </name>
+            <name>
+              <surname>Rey</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hygum</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Hansen</surname>
+              <given-names>BW</given-names>
+            </name>
+            <name>
+              <surname>Niehoff</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Meyer-Harms</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Carlotti</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Feeding, growth, and reproduction in the genus Calanus</article-title>
+          <source>ICES Journal of Marine Science</source>
+          <issue>6</issue>
+          <year iso-8601-date="2000">2000</year>
+          <volume>57</volume>
+          <fpage>1708</fpage>
+          <lpage>1726</lpage>
+          <pub-id pub-id-type="doi">10.1006/jmsc.2000.0959</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Huntley &amp; Zhou (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huntley</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of animals on turbulence in the sea</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>273</volume>
+          <fpage>65</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps273065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Huse &amp; Fiksen (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huse</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Fiksen</surname>
+              <given-names>Ø</given-names>
+            </name>
+          </person-group>
+          <article-title>Modelling encounter rates and distribution of mobile predators and prey</article-title>
+          <source>Progress In Oceanography</source>
+          <issue>1–2</issue>
+          <year iso-8601-date="2010">2010</year>
+          <volume>84</volume>
+          <fpage>93</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pocean.2009.09.011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Jimenez (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jimenez</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Oceanic turbulence at millimeter scales</article-title>
+          <source>Scientia Marina</source>
+          <issue>suppl. 1</issue>
+          <year iso-8601-date="1997">1997</year>
+          <volume>61</volume>
+          <fpage>47</fpage>
+          <lpage>56</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Katija &amp; Dabiri (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katija</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Dabiri</surname>
+              <given-names>JO</given-names>
+            </name>
+          </person-group>
+          <article-title>A viscosity-enhanced mechanism for biogenic ocean mixing</article-title>
+          <source>Nature</source>
+          <issue>7255</issue>
+          <year iso-8601-date="2009">2009</year>
+          <volume>460</volume>
+          <fpage>624</fpage>
+          <lpage>626</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature08207</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Kenny et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kenny</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Skjoldal</surname>
+              <given-names>HR</given-names>
+            </name>
+            <name>
+              <surname>Engelhard</surname>
+              <given-names>GH</given-names>
+            </name>
+            <name>
+              <surname>Kershaw</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Reid</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title>An integrated approach for assessing the relative significance of human pressures and environmental forcing on the status of Large Marine Ecosystems</article-title>
+          <source>Progress in Oceanography</source>
+          <issue>1–4</issue>
+          <year iso-8601-date="2009">2009</year>
+          <volume>81</volume>
+          <fpage>132</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pocean.2009.04.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Kils (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kils</surname>
+              <given-names>U</given-names>
+            </name>
+          </person-group>
+          <article-title>The ecoSCOPE and dynIMAGE: microscale tools for in situ studies of predator-prey interactions</article-title>
+          <source>Ergebnisse der Limnologie</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>36</volume>
+          <fpage>83</fpage>
+          <lpage>96</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Kils (2005)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Kils</surname>
+              <given-names>U</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2005">2005</year>
+          <comment>Photograph of hunting herring. <italic>Available at <uri xlink:href="http://en.wikipedia.org/wiki/File:Herringramkils.jpg">http://en.wikipedia.org/wiki/File:Herringramkils.jpg</uri></italic> (accessed 8 April 2013)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Liao (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liao</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>A review of fish swimming mechanics and behaviour in altered flows</article-title>
+          <source>Philosophical Transactions of the Royal Society of London - Series B: Biological Sciences</source>
+          <issue>1487</issue>
+          <year iso-8601-date="2007">2007</year>
+          <volume>362</volume>
+          <fpage>1973</fpage>
+          <lpage>1993</lpage>
+          <pub-id pub-id-type="doi">10.1098/rstb.2007.2082</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Margalef (1978)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Margalef</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Life-forms of phytoplankton as survival alternatives in an unstable environment</article-title>
+          <source>Oceanologica Acta</source>
+          <issue>4</issue>
+          <year iso-8601-date="1978">1978</year>
+          <volume>1</volume>
+          <fpage>493</fpage>
+          <lpage>509</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>McQuatters-Gallop et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McQuatters-Gallop</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Reid</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Burkill</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Castellani</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Batten</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gieskes</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Beare</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bidigare</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Head</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kahru</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Koslow</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Pena</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Is there a decline in marine phytoplankton?</article-title>
+          <source>Nature</source>
+          <issue>7342</issue>
+          <year iso-8601-date="2011">2011</year>
+          <volume>472</volume>
+          <fpage>E6</fpage>
+          <lpage>E7</lpage>
+          <comment>Discussion E8-E9</comment>
+          <pub-id pub-id-type="doi">10.1038/nature09950</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Munk (1966)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Munk</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Abyssal recipes</article-title>
+          <source>Deep-sea Research</source>
+          <year iso-8601-date="1966">1966</year>
+          <volume>13</volume>
+          <fpage>707</fpage>
+          <lpage>730</lpage>
+          <pub-id pub-id-type="doi">10.1016/0011-7471(66)90602-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Nicol et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nicol</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bowie</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jarman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lannuzel</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Meiners</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Van Der Merwe</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Southern Ocean iron fertilization by baleen whales and Antarctic krill</article-title>
+          <source>Fish and Fisheries</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>11</volume>
+          <fpage>203</fpage>
+          <lpage>209</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1467-2979.2010.00356.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Ott &amp; Mann (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ott</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>An experimental investigation of the relative diffusion of particle pairs in three dimensional turbulent flow</article-title>
+          <source>Journal of Fluid Mechanics</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>422</volume>
+          <fpage>207</fpage>
+          <lpage>223</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0022112000001658</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Pauly et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pauly</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Christensen</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Dalsgaard</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Froese</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Torres</surname>
+              <given-names>F</given-names>
+              <suffix>Jr</suffix>
+            </name>
+          </person-group>
+          <article-title>Fishing down marine food webs</article-title>
+          <source>Science</source>
+          <issue>5352</issue>
+          <year iso-8601-date="1998">1998</year>
+          <volume>279</volume>
+          <fpage>860</fpage>
+          <lpage>863</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.279.5352.860</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Reigada et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reigada</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hillary</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Bees</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Sancho</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Sagues</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Plankton blooms induced by turbulent flows</article-title>
+          <source>Proceedings of the Royal Society B: Biological Sciences</source>
+          <issue>1517</issue>
+          <year iso-8601-date="2003">2003</year>
+          <volume>270</volume>
+          <fpage>875</fpage>
+          <lpage>880</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.2002.2298</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Saintillan &amp; Shelley (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saintillan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Shelley</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Emergence of coherent structures and large-scale flows in motile suspensions</article-title>
+          <source>Journal of the Royal Society Interface</source>
+          <issue>68</issue>
+          <year iso-8601-date="2011">2011</year>
+          <volume>9</volume>
+          <fpage>571</fpage>
+          <lpage>585</lpage>
+          <pub-id pub-id-type="doi">10.1098/rsif.2011.0355</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Saiz &amp; Alcaraz (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saiz</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Alcaraz</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of small-scale turbulence on development time and growth of Acartia grani (Copepoda: Calanoida)</article-title>
+          <source>Journal of Plankton Research</source>
+          <issue>4</issue>
+          <year iso-8601-date="1991">1991</year>
+          <volume>13</volume>
+          <fpage>873</fpage>
+          <lpage>883</lpage>
+          <pub-id pub-id-type="doi">10.1093/plankt/13.4.873</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Schmitt &amp; Seuront (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmitt</surname>
+              <given-names>FG</given-names>
+            </name>
+            <name>
+              <surname>Seuront</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Intermittent turbulence and copepod dynamics: increase in encounter rates through preferential concentration</article-title>
+          <source>Journal of Marine Systems</source>
+          <issue>3–4</issue>
+          <year iso-8601-date="2008">2008</year>
+          <volume>70</volume>
+          <fpage>263</fpage>
+          <lpage>272</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jmarsys.2007.01.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Squires &amp; Yamazaki (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Squires</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Yamazaki</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Preferential concentration of marine particles in isotropic turbulence</article-title>
+          <source>Deep-sea Research I</source>
+          <issue>11–12</issue>
+          <year iso-8601-date="1995">1995</year>
+          <volume>42</volume>
+          <fpage>1989</fpage>
+          <lpage>2004</lpage>
+          <pub-id pub-id-type="doi">10.1016/0967-0637(95)00079-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Taira &amp; Colonius (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taira</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Colonius</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>The immersed boundary method: a projection approach</article-title>
+          <source>Journal of Computational Physics</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>225</volume>
+          <fpage>2118</fpage>
+          <lpage>2137</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jcp.2007.03.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Tidelman (2002)</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tidelman</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>To move or not to move? Zooplankton strategies for food encounter and predator avoidance</article-title>
+          <source>Doctoral thesis</source>
+          <year iso-8601-date="2002">2002</year>
+          <institution>University of Gothenburg</institution>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Vera (2000)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vera</surname>
+              <given-names>FWM</given-names>
+            </name>
+          </person-group>
+          <source>Grazing ecology and forest history</source>
+          <year iso-8601-date="2000">2000</year>
+          <publisher-loc>Wallingford</publisher-loc>
+          <publisher-name>CABI Publishing</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Visser (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Visser</surname>
+              <given-names>AW</given-names>
+            </name>
+          </person-group>
+          <article-title>Biomixing of the Oceans?</article-title>
+          <source>Science</source>
+          <issue>5826</issue>
+          <year iso-8601-date="2007">2007</year>
+          <volume>316</volume>
+          <fpage>838</fpage>
+          <lpage>839</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1141272</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Vogel (1994)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <source>Life in moving fluids</source>
+          <year iso-8601-date="1994">1994</year>
+          <publisher-loc>Princeton</publisher-loc>
+          <publisher-name>Princeton University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Waggett &amp; Buskey (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Waggett</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Buskey</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Escape reaction performance of myelinated and non-myelinated calanoid copepods</article-title>
+          <source>Journal of Experimental Marine Biology and Ecology</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>361</volume>
+          <fpage>111</fpage>
+          <lpage>118</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jembe.2008.05.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Wang &amp; Maxey (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>LP</given-names>
+            </name>
+            <name>
+              <surname>Maxey</surname>
+              <given-names>MR</given-names>
+            </name>
+          </person-group>
+          <article-title>Settling velocity and concentration distribution of heavy particles in homogeneous isotropic turbulence</article-title>
+          <source>Journal of Fluid Mechanics</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>256</volume>
+          <fpage>27</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0022112093002708</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Weihs (1973)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weihs</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydromechanics of fish schooling</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="1973">1973</year>
+          <volume>241</volume>
+          <fpage>290</fpage>
+          <lpage>291</lpage>
+          <pub-id pub-id-type="doi">10.1038/241290a0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Willis (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Willis</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Could whales have maintained a high abundance of krill?</article-title>
+          <source>Evolutionary Ecology Research</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>9</volume>
+          <fpage>651</fpage>
+          <lpage>662</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Willis (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Willis</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Modelling swimming aquatic animals in hydrodynamic models</article-title>
+          <source>Ecological Modelling</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>222</volume>
+          <fpage>3869</fpage>
+          <lpage>3887</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2011.10.004</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

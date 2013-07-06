@@ -1,1147 +1,1227 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">25</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.25</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Clinical Trials</subject>
+          <subject>Gynecology and Obstetrics</subject>
+          <subject>Nursing</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Repeated hands-and-knees positioning during labour: a randomized pilot study</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Hodnett</surname>
+            <given-names>Ellen D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Stremler</surname>
+            <given-names>Robyn</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Halpern</surname>
+            <given-names>Stephen H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+          <xref ref-type="aff" rid="aff-4">4</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Weston</surname>
+            <given-names>Julie</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Windrim</surname>
+            <given-names>Rory</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-5">5</xref>
+          <xref ref-type="aff" rid="aff-6">6</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Lawrence S. Bloomberg Faculty of Nursing</institution>, <addr-line>University of Toronto</addr-line>, <addr-line>Toronto</addr-line>, <country>Canada</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Research Institute</institution>, <addr-line>The Hospital for Sick Children</addr-line>, <addr-line>Toronto</addr-line>, <country>Canada</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Anaesthesia, Faculty of Medicine</institution>, <addr-line>University of Toronto</addr-line>, <addr-line>Toronto</addr-line>, <country>Canada</country></aff>
+        <aff id="aff-4"><label>4</label><institution>Department of Anaesthesia</institution>, <addr-line>Sunnybrook Health Sciences Centre</addr-line>, <addr-line>Toronto</addr-line>, <country>Canada</country></aff>
+        <aff id="aff-5"><label>5</label><institution>Department of Obstetrics and Gynaecology</institution>, <addr-line>Mount Sinai Hospital</addr-line>, <addr-line>Toronto</addr-line>, <country>Canada</country></aff>
+        <aff id="aff-6"><label>6</label><institution>Department of Obstetrics and Gynaecology, Faculty of Medicine</institution>, <addr-line>University of Toronto</addr-line>, <country>Canada</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Van Dyke</surname>
+            <given-names>Thomas</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>ellen.hodnett@utoronto.ca</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e25</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-12-20">
+          <day>20</day>
+          <month>12</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-10">
+          <day>10</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Hodnett et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Hodnett et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/25"/>
+      <abstract>
+        <p><bold>Background.</bold> Caesarean birth rates in North America continue to rise, in the absence of benefit for mothers and babies. One reason may be that hospitalized labouring women spend most of their labours in recumbent or semi-recumbent positions. Although hands-and-knees position has theoretical advantages, efforts to encourage its adoption in practice are severely hampered by the lack of compelling evidence that it is beneficial. Before a definitive, large scale trial, with spontaneous vaginal birth as the primary outcome, could be justified in terms of time, effort, and expense, several feasibility and acceptability questions had to be addressed. We aimed to enrol 60 women in a pilot study to assess feasibility and acceptability of the trial protocol, and to obtain estimates of treatment effects on method of birth and persistent back pain.</p>
+        <p><bold>Methods.</bold> We conducted a pilot study at two North American hospitals. In ten months of recruitment, 30 nulliparous women in labour at term were randomly allocated to either usual care (use of any position during labour except hands-and-knees) or to try hands-and-knees for 15 min every hour during labour. Data were collected about compliance, acceptability, persistent back pain, intrapartum interventions, and women’s views of their experiences.</p>
+        <p><bold>Results.</bold> Although mean length of time from randomization to delivery was over 12 hours, only 9 of the 16 women allocated to repeated hands-and-knees used it more than twice. Two of the 14 in the usual care group used hands-and-knees once. Twenty-seven women had regional analgesia (15 in the hands-and-knees group and 12 in the usual care group). Eleven in the hands-and-knees group and 14 in the usual care group had spontaneous vaginal births. One woman (in the hands-and-knees group) had a vacuum extraction. Four women in the hands-and-knees group and none in the usual care group gave birth by caesarean section. Hourly back pain ratings were highly variable in both groups, covering the full range of possible scores. Given the low compliance with the hands-and-knees position, it was not possible to explore relationships between use of the position and persistent back pain scores. When asked to rate their overall satisfaction with their birth experiences, the hands-and-knees group’s ratings tended to be lower than those in the usual care group, although 11 in the hands-and-knees group and 8 in the usual care group stated they would probably or definitely try the position in a subsequent labour.</p>
+        <p><bold>Conclusion.</bold> We concluded that we could not justify the time and expense associated with a definitive trial. However such a trial could be feasible with modifications to eligibility criteria and careful selection of suitable settings.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Randomized controlled trial</kwd>
+        <kwd>Spontaneous delivery</kwd>
+        <kwd>Persistent back pain</kwd>
+        <kwd>Pilot study</kwd>
+        <kwd>Labour</kwd>
+        <kwd>Hands-and-knees position</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>Institute of Gender &amp; Health, the Canadian Institutes of Health Research</funding-source>
+          <award-id>Grant No. IGO-103690</award-id>
+        </award-group>
+        <funding-statement>Funding for the study was obtained from the Institute of Gender &amp; Health, the Canadian Institutes of Health Research, Grant No. IGO-103690. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Despite widespread and varied efforts to reduce Caesarean delivery rates during the past two decades, rates continue to rise. In 2009 in the 34 countries in the Organization for Economic Co-operation and Development, the mean rate was 26% (<xref ref-type="bibr" rid="ref-12">OECD, 2012</xref>). Caesarean delivery carries a two-to-threefold risk of maternal mortality (<xref ref-type="bibr" rid="ref-17">Villar et al., 2007</xref>; <xref ref-type="bibr" rid="ref-5">Deneux-Tharaux et al., 2006</xref>) and an increased risk of maternal and perinatal morbidity (<xref ref-type="bibr" rid="ref-17">Villar et al., 2007</xref>). There is a need for simple, low cost interventions to increase the likelihood of normal vaginal birth.</p>
+      <p>Two large North American trials and two national USA surveys found that labouring women in North American hospitals have high rates of medical intervention; between 77%–94% of women had continuous electronic fetal heart rate monitoring, 63%–85% had regional analgesia, and 62%–84% had intravenous oxytocin (<xref ref-type="bibr" rid="ref-3">Declercq et al., 2002</xref>; <xref ref-type="bibr" rid="ref-4">Declercq et al., 2006</xref>; <xref ref-type="bibr" rid="ref-7">Hodnett et al., 2002</xref>; <xref ref-type="bibr" rid="ref-8">Hodnett et al., 2008</xref>). Given the restrictions on movement posed by these interventions, it is not surprising that hospitalized women in labour spend nearly all of their time in passive positions, such as semi-sitting, sitting, semi-recumbent, and side-lying. Recumbent positions (supine or semi-sitting) can result in poor alignment of the presenting part with the pelvic canal (<xref ref-type="bibr" rid="ref-1">Andrews &amp; Andrews, 2004</xref>). However, while non-recumbent positions have theoretical advantages, there is scant good quality evidence of effectiveness (<xref ref-type="bibr" rid="ref-9">Hunter, Hofmeyr &amp; Kulier, 2007</xref>). The labour position with the best evidence of benefit is hands-and-knees (<xref ref-type="bibr" rid="ref-16">Stremler et al., 2005</xref>). Hands-and-knees position involves the labouring woman “on all fours”, i.e. like a baby who is crawling, so that her abdomen is suspended and her hips are at right angles to the floor or bed. The position can be assumed by a woman without leaving her labour bed, by women who have had low dose regional analgesia, and by those who are connected to electronic fetal monitors and intravenous lines.</p>
+      <p>Mechanisms whereby hands-and-knees position during labour can increase the likelihood of spontaneous vaginal birth include pain/stress reduction, improved uterine blood flow, and enhanced fetopelvic relationships (<xref ref-type="bibr" rid="ref-16">Stremler et al., 2005</xref>; <xref ref-type="bibr" rid="ref-1">Andrews &amp; Andrews, 2004</xref>; <xref ref-type="bibr" rid="ref-2">Biancuzzo, 1993</xref>; <xref ref-type="bibr" rid="ref-6">Fenwick &amp; Simkin, 1987</xref>). Our first pilot trial of hands-and-knees position (LPT1, <italic>n</italic> = 147) provided evidence of benefit for women labouring with a fetus in the occipitoposterior (OP) position (<xref ref-type="bibr" rid="ref-16">Stremler et al., 2005</xref>). Women randomized to the experimental group were in hands-and-knees position for a minimum of 30 min within a one-hour intervention period. LPT1 showed that hands-and-knees reduced persistent back pain, it was acceptable to labouring women, and it is a position that can be assumed in bed, in women with low dose epidural analgesia, continuous electronic fetal heart rate monitoring, and intravenous infusions. The pilot trial demonstrated that even a short intervention was highly suggestive of benefit in rotating from OP to occipitoanterior (OA) position (<named-content content-type="chemical-compound">RR = 2.4</named-content>, 95% confidence interval 0.88, 6.62, number needed to treat = 11).</p>
+      <p>LPT1 involved only labouring women with a fetus in the OP position, but fetal position is an unstable phenomenon during labour, and the majority of OP positions at birth are not OP earlier in labour (<xref ref-type="bibr" rid="ref-13">Peregrine, O’Brien &amp; Jauniaux, 2007</xref>; <xref ref-type="bibr" rid="ref-10">Lieberman et al., 2005</xref>; <xref ref-type="bibr" rid="ref-11">Melzack, Belanger &amp; Lacroix, 1991</xref>; <xref ref-type="bibr" rid="ref-14">Simkin, 1995</xref>). An important clinical question is whether hands-and-knees position should be recommended to all low-risk women during labour, regardless of fetal head position at trial entry. If so, the position would need to be tried repeatedly during labour, since fetal position is unstable.</p>
+      <p>Before a definitive, large scale trial, with spontaneous vaginal birth as the primary outcome, could be justified in terms of time, effort, and expense, several feasibility and acceptability questions had to be addressed. The objectives of our second pilot trial (“LPT2”) were: 1) to provide an estimate of enrolment rates; 2) to assess compliance with the study protocol by participants and care providers; 3) to obtain women’s views about their experiences using the hands-and-knees position; and 4) to provide estimates of treatment effects to inform the sample size calculation for a large trial. The protocol was registered at <uri xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</uri>, registration number NCT01720004.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <p>The settings for LPT2 were two North American hospitals, one in Toronto, Canada and one in Fort Worth, Texas. The study was approved by the research ethics boards at the University and the participating hospitals. Prior to beginning enrolment at a trial site, the principal investigator and trial coordinator gave presentations to the obstetrical and nursing staff, to ensure everyone understood the protocol. The hospital research nurse followed up with training sessions with the nursing staff, to ensure that all nurses: 1) understood trial procedures (in particular that women in the usual care group were not to be offered hands-and-knees position, and women in the hands-and-knees group were to be encouraged to try hands-and-knees repeatedly during labour); 2) were comfortable with assisting women into hands-and-knees position; and 3) understood the trial enrolment procedure, including accessing the trial website for randomization.</p>
+      <p>The goal was to enrol 60 women, at hospitals in which the regional analgesia used for labour was sufficiently low dose that women could move their legs and safely assume the hands-and-knees position. Eligible women were: nulliparous; ≥37 weeks gestation; in established early labour; anticipating a vaginal delivery of a single fetus in the cephalic position; and competent to give informed consent.</p>
+      <p>Women were excluded if delivery was anticipated within 3 h (and thus there would be little opportunity for repeated hands and knees positioning), if they had a medical contraindication or physical limitation such that hands-and-knees position was contraindicated, or if they had a doula or midwife who encouraged the use of hands-and-knees position.</p>
+      <p>Eligible women were identified, informed about the study, and informed consent was obtained from those who were willing to participate. If the woman did not have regional (i.e. epidural or spinal-epidural analgesia) in situ, she was asked if she thought she would want one within the next hour, and if so, enrolment was delayed until after the regional analgesia had been administered. With a 1:1 allocation ratio, randomization was centrally controlled and concealed, using <uri xlink:href="http://www.randomize.net">www.randomize.net</uri>. After collection of baseline data, the nurse accessed the study website to obtain the woman’s group assignment.</p>
+      <sec>
+        <title>The interventions</title>
+        <sec>
+          <title>Usual care</title>
+          <p>Most of labour occurs in bed, usually in semi-recumbent, sitting, or side-lying positions, although women were permitted/encouraged to be ambulatory if they wished. While women were aware of their options for positioning in labour, they agreed to avoid the hands-and-knees position, or positions that approximate it, such as kneeling in bed and using the head of the bed for support.</p>
+        </sec>
+        <sec>
+          <title>Hands-and-knees</title>
+          <p>Immediately after randomization, the woman was assisted into the position and asked to maintain it for a total of at least 15 min within a one-hour period. The woman was told she was free to break the 15 min into shorter periods, but to aim for at least 15 min in total during the first hour. Offering the position in this manner allowed for interruptions for care in the labour setting (e.g. changes of patient gown, recording of vital signs) as well as position changes. Her support person(s) were taught how to assist her into the position. Paper “clocks” were provided to assist them with estimating the amount of time spent in hands-and-knees. The nurse demonstrated various ways to get into the position in the hospital bed and on the floor, using a birthing ball, pillows, or the head of the bed for upper body support. On an hourly basis, at the time of the nurse’s regular visit to the labour room, the woman was asked to consider trying hands-and-knees and assisted into it as needed. She was encouraged to maintain the position for as long as it was comfortable. If the woman found it to be uncomfortable, she was free to get out of the position but encouraged to try it again later in labour. A support person or nurse had to be in attendance while the woman was in the position. Hands-and-knees was to be discontinued if it had a negative impact on the fetal heart rate pattern or maternal blood pressure. Position for delivery was determined by the woman and her care providers and was not dictated by the trial protocol.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Measures</title>
+        <sec>
+          <title>Measuring compliance</title>
+          <p>Prior to the trial onset, we operationally defined compliance with positioning as follows: Women in the hands-and-knees group would try the position at least three times during the hourly intervals between randomization and delivery, and women in the usual care group would not try hands-and-knees position. At hourly visits, a nurse checked the paper “clocks” and inquired if the participant had used the hands-and-knees position during the previous hour.</p>
+        </sec>
+        <sec>
+          <title>Persistent back pain</title>
+          <p>At trial entry and on an hourly basis, each participant was asked to rate her level of persistent back pain on a numeric rating scale, ranging from 0 (“no pain”) to 10 (“worst pain imaginable”), and to indicate whether, compared to one hour ago, the persistent back pain was a lot better, a little better, about the same, a little worse, or much worse.</p>
+        </sec>
+        <sec>
+          <title>Participants’ views</title>
+          <p>After delivery, each participant was asked to complete a self-administered questionnaire about her experiences. Questionnaire items had been developed and tested in previous trials (<xref ref-type="bibr" rid="ref-7">Hodnett et al., 2002</xref>; <xref ref-type="bibr" rid="ref-8">Hodnett et al., 2008</xref>), and included items which compared their expectations to their experiences, and their willingness to participate in the trial if they had it to do over. Those in the hands-and-knees group were also asked to rate the perceived helpfulness of the position.</p>
+          <p>Data about labour, birth, neonatal, and postpartum outcomes were obtained by the hospital research nurses from the participants’ medical records.</p>
+        </sec>
+        <sec>
+          <title>Data analyses</title>
+          <p>Because it was a small pilot trial and not powered to detect differences in outcomes, results were analyzed descriptively.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>Recruitment at the Toronto hospital began in October 2010 and ended in February 2011 after only 11 women were enrolled. Recruitment at the Texas hospital began in October 2011 and ended February 2012, when only 19 women had been enrolled, for a total of 30 women, rather than the desired sample size of 60. <xref ref-type="fig" rid="fig-1">Figure 1</xref> shows the flow of participants through the trial. Sixteen women were randomly allocated to the hands-and-knees group and 14 to the usual care group.</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.25/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Trial Schema.</title>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/25/fig-1.png"/>
+      </fig>
+      <sec>
+        <title>Baseline data</title>
+        <p>Baseline data are presented in <xref ref-type="table" rid="table-1">Table 1</xref>. Labour onset was induced for 16 women, all of whom were receiving intravenous oxytocin on trial entry. Eighteen had ruptured membranes. Five had epidural analgesia in situ on trial entry. Cervical status was unknown for 11 women. Of the remaining 19, 15 were less than 4 cm dilated upon enrolment (9 in the hands-and-knees group and 6 in the usual care group).</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.25/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Baseline characteristics of the sample.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/25/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Characteristic</th>
+                  <th align="left">Hands-and-knees</th>
+                  <th align="left">Usual care</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left"><italic>n</italic> = 16</th>
+                  <th align="left"><italic>n</italic> = 14</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Age (Median, IQR)</td>
+                  <td align="left">31 (26.5, 31.0)</td>
+                  <td align="left">25.0 (21.0, 27.0)</td>
+                </tr>
+                <tr>
+                  <td align="left">Education</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  Post-secondary</td>
+                  <td align="left">10</td>
+                  <td align="left">5</td>
+                </tr>
+                <tr>
+                  <td align="left">  High school diploma</td>
+                  <td align="left">4</td>
+                  <td align="left">7</td>
+                </tr>
+                <tr>
+                  <td align="left">  &lt; High school</td>
+                  <td align="left">1</td>
+                  <td align="left">1</td>
+                </tr>
+                <tr>
+                  <td align="left">Married/stable relationship</td>
+                  <td align="left">15</td>
+                  <td align="left">13</td>
+                </tr>
+                <tr>
+                  <td align="left">Ethnicity</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  Caucasian</td>
+                  <td align="left">12</td>
+                  <td align="left">8</td>
+                </tr>
+                <tr>
+                  <td align="left">  Asian</td>
+                  <td align="left">1</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">  African-American/Canadian</td>
+                  <td align="left">1</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">  Multiracial</td>
+                  <td align="left">2</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">Attended childbirth education classes</td>
+                  <td align="left">16</td>
+                  <td align="left">14</td>
+                </tr>
+                <tr>
+                  <td align="left">Support person present</td>
+                  <td align="left">15</td>
+                  <td align="left">13</td>
+                </tr>
+                <tr>
+                  <td align="left">Spontaneous onset of labour</td>
+                  <td align="left">6</td>
+                  <td align="left">8</td>
+                </tr>
+                <tr>
+                  <td align="left">Ruptured membranes</td>
+                  <td align="left">11</td>
+                  <td align="left">7</td>
+                </tr>
+                <tr>
+                  <td align="left">Cervical dilatation within 1 h of entry</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  &lt; 4 cm</td>
+                  <td align="left">9</td>
+                  <td align="left">6</td>
+                </tr>
+                <tr>
+                  <td align="left">  ≥ 4 cm</td>
+                  <td align="left">3</td>
+                  <td align="left">1</td>
+                </tr>
+                <tr>
+                  <td align="left">  unknown</td>
+                  <td align="left">4</td>
+                  <td align="left">7</td>
+                </tr>
+                <tr>
+                  <td align="left">Epidural analgesia in situ</td>
+                  <td align="left">3</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">Intravenous oxytocin infusion</td>
+                  <td align="left">11</td>
+                  <td align="left">5</td>
+                </tr>
+                <tr>
+                  <td align="left">Median (IQR) persistent back pain score</td>
+                  <td align="left">0 (0, 3)</td>
+                  <td align="left">3 (0, 5)</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Compliance</title>
+        <p>Hands-and-knees position was used 3 or more times by 9 of the 16 women in the hands-and-knees group (<xref ref-type="table" rid="table-2">Table 2</xref>). Two in the usual care group reported they used hands and knees position once during labour.</p>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.25/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Compliance: frequency of usage of hands-and-knees position.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/25/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Number of times used</th>
+                  <th align="left">Hands-and-knees</th>
+                  <th align="left">Usual Care</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left"><italic>n</italic> = 16</th>
+                  <th align="left"><italic>n</italic> = 14</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">None</td>
+                  <td align="left">3</td>
+                  <td align="left">12</td>
+                </tr>
+                <tr>
+                  <td align="left">1</td>
+                  <td align="left">1</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">2</td>
+                  <td align="left">3</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">&gt;2</td>
+                  <td align="left">9</td>
+                  <td align="left">0</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>When asked the reason(s) for the time they spent in hands and knees, a variety of responses were provided. Two women in the hands-and-knees group reported that the hands and knees position was uncomfortable, 1 woman reported experiencing a problem for herself or her baby, and 4 reported other problems which made it impossible to use the position. Three women in the hands-and-knees group and 1 in the usual care group reported that the position was comfortable or decreased their pain, 2 women in the hands-and-knees group and 1 in the usual care group believed their labour progressed better when they were in the position. Six women in the hands-and-knees group reported the reason for the amount of time they used hands-and-knees was that their caregiver suggested they do so. None reported being advised not to use it. Only 2 women, both in the hands-and-knees group, used hands and knees while pushing in second stage labour.</p>
+        <sec>
+          <title>Other positions</title>
+          <p>When asked about other positions used during labour, 9 women in each group reported sitting, while 4 in the hands-and-knees and 6 in the usual care group reported standing/walking. Twenty-three women (11 hands-and-knees position and 12 usual care) reported side-lying, and 9 in the hands-and-knees group and 11 in the usual care group reported lying flat on their backs.</p>
+        </sec>
+        <sec>
+          <title>Persistent back pain</title>
+          <p>A total of 299 hourly ratings of persistent back pain were obtained from the 30 participants. No discernable pattern was evident in participants’ hourly ratings of persistent back pain or its intensity relative to the previous hourly rating. Ratings were highly variable, covering the full range of possible scores. Given the low compliance in the hands-and-knees group, it was not possible to explore relationships between use of the position and persistent back pain scores.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Labour and birth outcomes</title>
+        <p>Labour and birth outcomes are presented in <xref ref-type="table" rid="table-3">Table 3</xref>. All but 4 women (2 in each group) had intravenous oxytocin (for either induction or augmentation) during first and/or second stage labour. Twenty-seven of the 30 women had regional analgesia, and no woman laboured or gave birth without some form of pharmacologic analgesia. Mean length of time from randomization to delivery was 12.34 h (<named-content content-type="chemical-compound">SD = 6.40</named-content>) in the hands-and-knees group and 9.65 (<named-content content-type="chemical-compound">SD = 5.62</named-content>) in the usual care group. Eleven of the 16 women in the hands-and-knees group and 12 of the 14 women in the usual care group had spontaneous vaginal births.</p>
+        <table-wrap id="table-3">
+          <object-id pub-id-type="doi">10.7717/peerj.25/table-3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Labour and birth outcomes.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/25/table-3.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Outcome</th>
+                  <th align="left">Hands-and-knees</th>
+                  <th align="left">Usual care</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left"><italic>n</italic> = 16</th>
+                  <th align="left"><italic>n</italic> = 14</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Intravenous oxytocin during labour</td>
+                  <td align="left">14</td>
+                  <td align="left">12</td>
+                </tr>
+                <tr>
+                  <td align="left">Intrapartum analgesia/anesthesia</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  None</td>
+                  <td align="left">0</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">  Regional analgesia</td>
+                  <td align="left">15</td>
+                  <td align="left">12</td>
+                </tr>
+                <tr>
+                  <td align="left">  Intramuscular opioids</td>
+                  <td align="left">2</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">Dislodged epidural/spinal catheter</td>
+                  <td align="left">3</td>
+                  <td align="left">1</td>
+                </tr>
+                <tr>
+                  <td align="left">Fell when using hands-and-knees position</td>
+                  <td align="left">0</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">Mean (SD) labour length from randomization to delivery</td>
+                  <td align="left">12.34 (6.40)</td>
+                  <td align="left">9.65 (5.62)</td>
+                </tr>
+                <tr>
+                  <td align="left">Method of delivery</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  Spontaneous vaginal</td>
+                  <td align="left">11</td>
+                  <td align="left">12</td>
+                </tr>
+                <tr>
+                  <td align="left">  Vacuum extraction</td>
+                  <td align="left">1</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">  Caesarean</td>
+                  <td align="left">4</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">Perineal trauma</td>
+                  <td align="left">9</td>
+                  <td align="left">9</td>
+                </tr>
+                <tr>
+                  <td align="left">  3rd or 4th degree laceration</td>
+                  <td align="left">(0)</td>
+                  <td align="left">(2)</td>
+                </tr>
+                <tr>
+                  <td align="left">Postpartum hemorrhage or blood transfusion</td>
+                  <td align="left">0</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">1-Minute Apgar Score &lt;7</td>
+                  <td align="left">2</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">5-Minute Apgar Score &lt;7</td>
+                  <td align="left">0</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">Neonatal respiratory problems</td>
+                  <td align="left">2</td>
+                  <td align="left">3</td>
+                </tr>
+                <tr>
+                  <td align="left">Transfer to Neonatal Intensive Care Unit</td>
+                  <td align="left">0</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">Median (IQR) length of postpartum hospital stay</td>
+                  <td align="left">47.48 (36.41, 60.05)</td>
+                  <td align="left">47.19 (36.45, 54.62)</td>
+                </tr>
+                <tr>
+                  <td align="left">Median (IQR) length of neonatal hospital stay</td>
+                  <td align="left">51.18 (36.41, 60.05)</td>
+                  <td align="left">48.48 (36.45, 56.77)</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>Neonatal outcomes are presented in <xref ref-type="table" rid="table-3">Table 3</xref>. All babies were vertex and alive at birth. No babies had life threatening congenital anomalies, none had major birth trauma, and there were no deaths.</p>
+      </sec>
+      <sec>
+        <title>Participants’ evaluations</title>
+        <p>All 16 women in the hands-and-knees group and 13 of the 14 in the usual care group completed questionnaires evaluating their labour and birth experiences (<xref ref-type="table" rid="table-4">Table 4</xref>). When asked to compare their experiences with their expectations, responses in both groups were mixed. Responses in both groups were generally positive in regard to intentions to use hands-and-knees position in a future labour. However, when asked how likely they would be to participate in the study again, if they had it to do over, the hands-and-knees group’s responses were more mixed. When asked to rate their overall satisfaction with their birth experiences on a scale of 1–10, ratings ranged from 5 to 10. The hands-and-knees group’s ratings tended to be lower than those in the usual care group. For example, 5 in the hands-and-knees group and none in the usual care group rated their experience as a “5”, while 7 in the hands-and-knees group and 10 in the usual care group rated their experience as a “10”.</p>
+        <table-wrap id="table-4">
+          <object-id pub-id-type="doi">10.7717/peerj.25/table-4</object-id>
+          <label>Table 4</label>
+          <caption>
+            <title>Women’s views of their experiences.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/25/table-4.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Question</th>
+                  <th align="left">Hands-and-knees</th>
+                  <th align="left">Usual care</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left"><italic>n</italic> = 16</th>
+                  <th align="left"><italic>n</italic> = 13<xref ref-type="fn" rid="table-4fn1"><sup>a</sup></xref></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">My childbirth experience was…</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  Much worse or somewhat worse than I expected</td>
+                  <td align="left">8</td>
+                  <td align="left">3</td>
+                </tr>
+                <tr>
+                  <td align="left">  Both better and worse than I expected</td>
+                  <td align="left">3</td>
+                  <td align="left">7</td>
+                </tr>
+                <tr>
+                  <td align="left">  About what I expected</td>
+                  <td align="left">1</td>
+                  <td align="left">1</td>
+                </tr>
+                <tr>
+                  <td align="left">  Much better than I expected</td>
+                  <td align="left">4</td>
+                  <td align="left">2</td>
+                </tr>
+                <tr>
+                  <td align="left">Plans to try hands-and-knees in a future labour</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  Definitely/probably not</td>
+                  <td align="left">3</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">  Unsure</td>
+                  <td align="left">2</td>
+                  <td align="left">5</td>
+                </tr>
+                <tr>
+                  <td align="left">  Definitely/probably yes</td>
+                  <td align="left">11</td>
+                  <td align="left">8</td>
+                </tr>
+                <tr>
+                  <td align="left">Willingness to participate in the study if time went backwards and I had it to do over again</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">  Definitely/probably not</td>
+                  <td align="left">6</td>
+                  <td align="left">0</td>
+                </tr>
+                <tr>
+                  <td align="left">  Unsure</td>
+                  <td align="left">0</td>
+                  <td align="left">3</td>
+                </tr>
+                <tr>
+                  <td align="left">  Definitely/probably yes</td>
+                  <td align="left">10</td>
+                  <td align="left">10</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-4fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-4fn1">
+              <label>a</label>
+              <p>1 woman did not complete a questionnaire.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>The low recruitment rate was unexpected. We selected two large hospitals in which the nursing staff seemed to be very enthusiastic about the trial. One was local, permitting us to have close, ongoing contact, and one was the most successful recruiter in a previous multi-centre trial. However, despite the use of all of the measures which had demonstrated success in our previous large, multi-centre trials, recruitment of participants was extremely slow and fell well below the targets.</p>
+      <p>Compliance was sub-optimum. Although mean length of time from randomization to delivery was over 12 h, and according to the study protocol hands-and-knees position was to be tried hourly, only 9 participants in the hands-and-knees group achieved our pre-set level of compliance, i.e. at least three attempts in the position. Two in the usual care group violated the protocol and used hands-and-knees position. More than one factor probably contributed to the low compliance. There were constraints on participants’ mobility during labour, as evidenced by the high rates of epidural analgesia, intravenous infusions for oxytocin or other reasons, and routine continuous electronic fetal monitoring. Although women were shown how to achieve hands-and-knees position in bed and under these conditions, doing so took levels of energy and commitment which they (and their care providers) may not have had. In contrast to the current pilot trial, in our previous trial of hands-and-knees position, women had an identified problem – a fetus in the OP position – which served as a motivator for trying hands-and-knees position as a potential solution to the problem. Furthermore in our LPT1 trial, women were only asked to use hands-and-knees position within the first hour after randomization, and thus the time and energy commitment was much less than in the present trial.</p>
+      <p>While the purpose was not to detect differences in labour and birth outcomes, and the pilot trial was far too small to do so, there was no evidence of benefit on birth outcomes, from a policy of encouraging frequent use of hands-and-knees position during labour.</p>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>Because of the very slow enrolment rates, poor compliance in the hands-and-knees group, mixed responses about the perceived helpfulness of the position, and lack of suggestion of a beneficial effect on birth outcomes, we concluded that a definitive trial of hands-and-knees was not feasible, e.g. could not be justified in terms of the time and expense required to conduct it, in hospitals with similar characteristics to the ones in our current and prior (<xref ref-type="bibr" rid="ref-7">Hodnett et al., 2002</xref>; <xref ref-type="bibr" rid="ref-8">Hodnett et al., 2008</xref>) labour trials. However a definitive trial of repeated hands-and-knees positioning may be feasible and desirable, with modifications to the eligibility criteria and careful selection of settings. For example, the problems of poor compliance and lack of perceived helpfulness may be overcome by enrolling only women with a defined problem, such as suspected OP position or persistent back pain. In addition, the problem of poor compliance may be lessened in settings in which non-recumbent positions are common during labour.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/25/LPT2CONSORTchecklist.doc">
+        <object-id pub-id-type="doi">10.7717/peerj.25/supp-1</object-id>
+        <label>Supplemental Information 1</label>
+        <caption>
+          <title>CONSORT Checklist</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/25/LPT2protocol.pdf">
+        <object-id pub-id-type="doi">10.7717/peerj.25/supp-2</object-id>
+        <label>Supplemental Information 2</label>
+        <caption>
+          <title>Trial Protocol</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/25/consentform.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.25/supp-3</object-id>
+        <label>Supplemental Information 3</label>
+        <caption>
+          <title>Consent Form</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/25/CONSORT.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.25/supp-4</object-id>
+        <label>Supplemental Information 4</label>
+        <caption>
+          <title>Trial Schema</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank the hospital Research Nurses, Katherine Braybrook and Karen Langston, the trial participants, the nurses, and the physicians who assisted us with the study.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>Ellen Hodnett is an Academic Editor on the PeerJ Editorial Board.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Ellen D. Hodnett</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-2">Robyn Stremler</xref> conceived and designed the experiments, performed the experiments, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3">
+          <p><xref ref-type="contrib" rid="author-3">Stephen H. Halpern</xref> and <xref ref-type="contrib" rid="author-5">Rory Windrim</xref> conceived and designed the experiments, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-4">
+          <p><xref ref-type="contrib" rid="author-4">Julie Weston</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper, Trial Coordinator.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Clinical Trial Ethics</title>
+        <fn id="addinfo-1">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>Office of Research Ethics, University of Toronto.</p>
+          <p>Reference Number 25742.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Clinical Trial Registration</title>
+        <fn id="addinfo-2">
+          <p>The following information was supplied regarding Clinical Trial registration:</p>
+          <p><uri xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</uri>. Registration Number: NCT01720004.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Andrews &amp; Andrews (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andrews</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Andrews</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <article-title>Physical theory as the basis for successful rotation of fetal malpositions and conversion of fetal malpresentations</article-title>
+          <source>Biological Research for Nursing</source>
+          <year>2004</year>
+          <volume>6</volume>
+          <fpage>126</fpage>
+          <lpage>140</lpage>
+          <pub-id pub-id-type="doi">10.1177/1099800404268318</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Biancuzzo (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Biancuzzo</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Six myths of maternal posture during labor</article-title>
+          <source>MCN: The American Journal of Maternal Child Nursing</source>
+          <year>1993</year>
+          <volume>18</volume>
+          <fpage>264</fpage>
+          <lpage>269</lpage>
+          <pub-id pub-id-type="doi">10.1097/00005721-199309000-00009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Declercq et al. (2002)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Declercq</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Sakala</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Corry</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Applebaum</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Risher</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <comment>2002. Listening to mothers: report of the first national US survey of women’s childbearing experiences. <italic>Available at</italic> <uri xlink:href="http://www.childbirthconnection.org/article.asp?ClickedLink=205%26ck=10068%26area=2">http://www.childbirthconnection.org/article.asp?ClickedLink=205&amp;ck=10068&amp;area=2</uri> (accessed 13 November 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Declercq et al. (2006)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Declercq</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Sakala</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Corry</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Applebaum</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <comment>2006. Listening to mothers II: report of the second national US survey of women’s childbearing experiences. <italic>Available at</italic> <uri xlink:href="http://www.childbirthconnection.org/article.asp?ClickedLink=205%26ck=10068%26area=2">http://www.childbirthconnection.org/article.asp?ClickedLink=205&amp;ck=10068&amp;area=2</uri> (accessed 13 November 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Deneux-Tharaux et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deneux-Tharaux</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Carmona</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bouvier-Colle</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bréart</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Postpartum maternal mortality and cesarean delivery</article-title>
+          <source>Obstetrics &amp; Gynecology</source>
+          <year>2006</year>
+          <volume>108</volume>
+          <fpage>541</fpage>
+          <lpage>548</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.AOG.0000233154.62729.24</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Fenwick &amp; Simkin (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fenwick</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Simkin</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Maternal positioning to prevent or alleviate dystocia in labor</article-title>
+          <source>Clinical Obstetrics &amp; Gynecology</source>
+          <year>1987</year>
+          <volume>30</volume>
+          <fpage>83</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.1097/00003081-198703000-00012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Hodnett et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hodnett</surname>
+              <given-names>ED</given-names>
+            </name>
+            <name>
+              <surname>Lowe</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Hannah</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Willan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Weston</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Stremler</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effectiveness of nurses as providers of birth labor support in North American hospitals</article-title>
+          <source>Journal of the American Medical Association</source>
+          <year>2002</year>
+          <volume>288</volume>
+          <fpage>1373</fpage>
+          <lpage>1381</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.288.11.1373</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Hodnett et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hodnett</surname>
+              <given-names>ED</given-names>
+            </name>
+            <name>
+              <surname>Stremler</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Willan</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Weston</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Lowe</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Simpson</surname>
+              <given-names>KR</given-names>
+            </name>
+            <name>
+              <surname>Fraser</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Gafni</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect on birth outcomes of a formalized approach to care in early labour assessments: an international, randomised controlled trial</article-title>
+          <source>British Medical Journal</source>
+          <year>2008</year>
+          <volume>337</volume>
+          <fpage>618</fpage>
+          <lpage>625</lpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.a1021</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Hunter, Hofmeyr &amp; Kulier (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hunter</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hofmeyr</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Kulier</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Hands and knees posture in late pregnancy or labour for fetal malposition (lateral or posterior)</article-title>
+          <source>Cochrane Database of Systematic Reviews</source>
+          <year>2007</year>
+          <volume>4</volume>
+          <comment>Art. No.: CD001063.</comment>
+          <pub-id pub-id-type="doi">10.1002/14651858.CD001063.pub3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Lieberman et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lieberman</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Davidson</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Lee-Parritz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Shearer</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Changes in fetal position during labor and their association with epidural analgesia</article-title>
+          <source>Obstetrics &amp; Gynecology</source>
+          <year>2005</year>
+          <volume>105</volume>
+          <fpage>974</fpage>
+          <lpage>982</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.AOG.0000158861.43593.49</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Melzack, Belanger &amp; Lacroix (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melzack</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Belanger</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lacroix</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Labor pain: Effects of maternal position on front and back pain</article-title>
+          <source>Journal of Pain and Symptom Management</source>
+          <year>1991</year>
+          <volume>6</volume>
+          <fpage>476</fpage>
+          <lpage>480</lpage>
+          <pub-id pub-id-type="doi">10.1016/0885-3924(91)90003-M</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>OECD (2012)</label>
+        <element-citation publication-type="other">
+          <comment>OECD iLibrary. 2012. Caesarean sections: Surgical procedures per 1000 live births. <italic>Available at</italic> <uri xlink:href="http://www.oecd-ilibrary.org/sites/caesar-section-table-2012-1-en/index.html?contentType=/ns/Table,/ns/KeyTableEdition,/ns/StatisticalPublication%26itemId=/content/table/caesar-section-table-2012-1-en%26containerItemId=/content/table/caesar-section-table-en%26accessItemIds=/content/tablecollection/20758480%26mimeType=text/html">http://www.oecd-ilibrary.org/sites/caesar-section-table-2012-1-en/index.html?contentType=/ns/Table,/ns/KeyTableEdition,/ns/StatisticalPublication&amp;itemId=/content/table/caesar-section-table-2012-1-en&amp;containerItemId=/content/table/caesar-section-table-en&amp;accessItemIds=/content/tablecollection/20758480&amp;mimeType=text/html</uri> (accessed 13 November 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Peregrine, O’Brien &amp; Jauniaux (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peregrine</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>O’Brien</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Jauniaux</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact on delivery outcome of ultrasonic fetal head position prior to induction of labor</article-title>
+          <source>Obstetrics &amp; Gynecology</source>
+          <year>2007</year>
+          <volume>109</volume>
+          <fpage>618</fpage>
+          <lpage>625</lpage>
+          <pub-id pub-id-type="doi">10.1097/01.AOG.0000255972.48257.83</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Simkin (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simkin</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Reducing pain and enhancing progress in labor: a guide to nonpharmacologic methods for maternity caregivers</article-title>
+          <source>Birth</source>
+          <year>1995</year>
+          <volume>22</volume>
+          <fpage>161</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1523-536X.1995.tb00693.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Stremler et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stremler</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Halpern</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Weston</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yee</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hodnett</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Hands and knees positioning during labor with epidural analgesia</article-title>
+          <source>Journal of Obstetric, Gynecologic, &amp; Neonatal Nursing</source>
+          <year>2009</year>
+          <volume>38</volume>
+          <fpage>391</fpage>
+          <lpage>398</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1552-6909.2009.01038.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Stremler et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stremler</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hodnett</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Petryshen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Weston</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Willan</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Randomized trial of hands-and-knees position for occipitoposterior position in labor</article-title>
+          <source>Birth</source>
+          <year>2005</year>
+          <volume>32</volume>
+          <fpage>243</fpage>
+          <lpage>251</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.0730-7659.2005.00382.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Villar et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Villar</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Carroli</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zaveleta</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Donner</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wojdyla</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Faundes</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Maternal and neonatal individual risks and benefits associated with caesarean delivery: multicentre prospective study</article-title>
+          <source>British Medical Journal</source>
+          <year>2007</year>
+          <volume>335</volume>
+          <fpage>1025</fpage>
+          <lpage>1035</lpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.39363.706956.55</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

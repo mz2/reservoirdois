@@ -1,1147 +1,533 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">19</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.19</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Neuroscience</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Perceptual elements in Penn &amp; Teller’s “Cups and Balls” magic trick</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Rieiro</surname>
+            <given-names>Hector</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Martinez-Conde</surname>
+            <given-names>Susana</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Macknik</surname>
+            <given-names>Stephen L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Neurosurgery</institution>, <addr-line>Barrow Neurological Institute</addr-line>, <country>United States</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Neurobiology</institution>, <addr-line>Barrow Neurological Institute</addr-line>, <country>United States</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Signal Theory and Communications</institution>, <addr-line>University of Vigo</addr-line>, <country>Spain</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Reser</surname>
+            <given-names>David</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>macknik@neuralcorrelate.com</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e19</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-12-01">
+          <day>1</day>
+          <month>12</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-05">
+          <day>5</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Rieiro et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Rieiro et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/19"/>
+      <abstract>
+        <p>Magic illusions provide the perceptual and cognitive scientist with a toolbox of experimental manipulations and testable hypotheses about the building blocks of conscious experience. Here we studied several sleight-of-hand manipulations in the performance of the classic “Cups and Balls” magic trick (where balls appear and disappear inside upside-down opaque cups). We examined a version inspired by the entertainment duo Penn &amp; Teller, conducted with three opaque and subsequently with three transparent cups. Magician Teller used his right hand to load (i.e. introduce surreptitiously) a small ball inside each of two upside-down cups, one at a time, while using his left hand to remove a different ball from the upside-down bottom of the cup. The sleight at the third cup involved one of six manipulations: (a) standard maneuver, (b) standard maneuver without a third ball, (c) ball placed on the table, (d) ball lifted, (e) ball dropped to the floor, and (f) ball stuck to the cup. Seven subjects watched the videos of the performances while reporting, via button press, whenever balls were removed from the cups/table (button “1”) or placed inside the cups/on the table (button “2”). Subjects’ perception was more accurate with transparent than with opaque cups. Perceptual performance was worse for the conditions where the ball was placed on the table, or stuck to the cup, than for the standard maneuver. The condition in which the ball was lifted displaced the subjects’ gaze position the most, whereas the condition in which there was no ball caused the smallest gaze displacement. Training improved the subjects’ perceptual performance. Occlusion of the magician’s face did not affect the subjects’ perception, suggesting that gaze misdirection does not play a strong role in the Cups and Balls illusion. Our results have implications for how to optimize the performance of this classic magic trick, and for the types of hand and object motion that maximize magic misdirection.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Sleight of hand</kwd>
+        <kwd>Magician</kwd>
+        <kwd>Social misdirection</kwd>
+        <kwd>Joint attention</kwd>
+        <kwd>Inattentional blindness</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>National Science Foundation</funding-source>
+          <award-id>0726113</award-id>
+          <award-id>0852636</award-id>
+          <award-id>1153786</award-id>
+        </award-group>
+        <funding-statement>This work was funded by awards from the Barrow Neurological Foundation to SLM and SM-C, and from the National Science Foundation to SLM and SM-C. HR was a fellow of Fundacion Ibercaja. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Magic is one of the oldest art forms, and magicians have manipulated audiences’ perception and cognition for much longer than cognitive scientists have (<xref ref-type="bibr" rid="ref-6">Martinez-Conde &amp; Macknik, 2007</xref>; <xref ref-type="bibr" rid="ref-7">Martinez-Conde &amp; Macknik, 2008</xref>; <xref ref-type="bibr" rid="ref-4">Macknik et al., 2008</xref>). Thus, classic and contemporary magic illusions provide scientists with methodological refinements and testable hypotheses about the building blocks of conscious experience (<xref ref-type="bibr" rid="ref-2">Cui et al., 2011</xref>; <xref ref-type="bibr" rid="ref-8">Otero-Millan et al., 2011</xref>). The “Cups and Balls” is a sleight-of-hand magic trick that was performed by Roman conjurers as far back as two thousand years ago (<xref ref-type="bibr" rid="ref-1">Christopher &amp; Christopher, 2006</xref>). The trick has many variations, but the most common one uses three balls and three cups. The magician makes the balls pass through the bottom of cups, jump from cup to cup, disappear from a cup and turn up elsewhere, turn into other objects, and so on. The cups are usually opaque and the balls brightly colored. Here we examined a version of this trick inspired by a routine performed by the entertainment duo Penn &amp; Teller, conducted with three opaque and subsequently with three transparent cups.</p>
+      <p>Magician Teller devised this variation while fiddling with an empty water glass and wadded-up paper napkins for balls, at a Midwestern diner (<xref ref-type="bibr" rid="ref-5">Macknik, Martinez-Conde &amp; Blakeslee, 2010</xref>). He turned the glass upside down and put a ball on top, then tilted the glass so that the ball fell into his other hand. The falling ball was so compelling that it even drew his own attention away from his other hand, which was deftly and automatically loading a second ball under the glass (he was so well practiced that he no longer needed to consciously control his hands). In fact, Teller found that the sleight happened so quickly he himself did not realize he had loaded the transparent cup. Teller further realized that all of this took place despite the fact that he should have been able to see the secret ball as it was loaded under the cup. Its image was on his retina, but he nevertheless missed it because his attention was so enthralled with the falling ball. He surmised that if it worked for him with a transparent cup, it would work with an audience. The transparency of the cups would make the trick all the more magical to the audience. Penn &amp; Teller claim that their version of the trick violates four rules of magic: don’t tell the audience how the trick is done, don’t perform the same trick twice, don’t show the audience the secret preparation, and never perform cups and balls with clear plastic cups.</p>
+      <p>Here we set up to investigate whether the falling ball in Penn &amp; Teller’s “Cups and Balls” generated stronger misdirection, as hypothesized by Teller, than alternative manipulations. Teller used his right hand to load (i.e. introduce surreptitiously) a small ball inside each of two upside-down cups, one at a time, while using his left hand to remove a different ball from the upside-down bottom of the cup. The third cup sleight involved one of six manipulations: (a) standard maneuver (i.e. ball falling to the magicians’ hand), (b) standard maneuver without a third ball, (c) ball placed on the table before going to the magician’s pocket, (d) ball lifted before going to the pocket, (e) ball dropped to the floor, and (f) ball stuck to the cup. See <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Movies S1-6</xref>. Seven subjects watched the videos of the performances while reporting, via button press, whenever balls were removed from the cups/table (button “1”) or placed inside the cups/on the table (button “2”).</p>
+      <p>Subjects’ perception was more accurate with transparent than with opaque cups. Perceptual performance was worse for the conditions where the ball was placed on the table, or stuck to the cup, than for the standard maneuver. The condition in which the ball was lifted displaced the subjects’ gaze position the most, whereas the condition in which there was no ball caused the smallest gaze displacement. Thus, neither the standard falling ball or the enhanced falling ball condition (where the ball fell to the floor) generated the strongest misdirection, either in terms of perceptual performance or gaze position, contrary to the magician’s expectation.</p>
+      <p>Training improved the subjects’ perceptual performance. Occlusion of the magician’s face did not affect the subjects’ perception, suggesting that gaze misdirection does not play a strong role in the “Cups and Balls” illusion. Our results have implications for how to optimize the performance of this classic magic trick, and for the types of hand and object motion that maximize magic misdirection.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Subjects</title>
+        <p>Seven naive subjects participated in the experiment. All participants had normal or corrected-to-normal vision, and were paid $15 dollars for a single experimental session. The experiment was carried out under the guidelines of the Barrow Neurological Institute’s Internal Review Board (protocol 04BN039), and written informed consent was obtained from each participant.</p>
+      </sec>
+      <sec>
+        <title>Eye movement recordings</title>
+        <p>During the experiment, subjects rested their head on a chin/forehead-rest 57 cm away from a video monitor (Barco Reference Calibrator V), while free viewing the video clips. Their eye movements were non-invasively recorded with a video-based eye tracker (Eyelink 1000, SR Research), at 500 samples per second. From the eye tracker recordings, we identified and removed blink periods as the portions of the recorded data where the pupil information was missing. Furthermore, we removed the 200 ms before and after each identified blink period, to eliminate periods of time in which the pupil is partially occluded.</p>
+        <p>We identified saccades using an objective algorithm (<xref ref-type="bibr" rid="ref-3">Engbert &amp; Kliegl, 2003</xref>). To reduce spurious positives due to noise, we analyzed only binocular saccades (i.e. saccades with at least one sample of overlap in both eyes). Furthermore, we ensured that overshoot corrections were not counted as saccades by imposing a minimum intersaccadic interval of 20 ms (<xref ref-type="bibr" rid="ref-8">Otero-Millan et al., 2011</xref>).</p>
+      </sec>
+      <sec>
+        <title>Experimental design</title>
+        <p>Subjects sat in a dark, quiet room and watched video clips of 10 to 12 s each, in which Teller performed different variations of a “Cups and balls” magic routine. The videos had a resolution of 720 × 480 pixels and subtended an area of 28 × 19 degrees of visual angle inside the visual field. The average luminance of the clips was 23 cd/m<sup>2</sup>, and their contrast ratio (<italic>full on/full off</italic>) was 128:1. Areas of the screen not occupied by the video were white.</p>
+        <p>In each clip, Teller performed the manipulation sequentially in each of three different cups, located from left to right on the screen. The manipulation in the first two cups was identical in all the clips (“Standard” load, see below), whereas the routine used in the third cup varied in each video clip (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). After the third cup’s sleight was complete, Teller individually lifted all three cups to show the balls hidden underneath them. Subjects were instructed to report, as fast as possible, the removal and placing of each ball as soon as they were aware of them, by pressing one of two different buttons on a gamepad with their left and right index fingers (button “1” for removals, button “2” for placings, see <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). A removal was defined as the moment each ball stopped touching either the table or a cup, and a placing was defined as when each ball made physical contact with a cup or the table.</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.19/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Summary of the different magic routines tested in the experiment.</title>
+            <p>In “Standard”, the routine performed on the third cup was identical to that performed for the previous two cups. In “No ball”, the routine was again the same as in the first two cups, but there was no ball initially placed on top of the cup. In “Lift”, the ball initially on top of the third cup was lifted to approximately eye level before the cup was loaded. In “Table”, the ball originally on top of the third cup was placed on the table before the cup was loaded. In “Drop”, the ball was dropped out of the screen before the third cup was loaded. In “Stuck”, the ball was attached to the top of the third cup. (Courtesy of NOVA scienceNOW/WGBH.)</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/19/fig-1.png"/>
+        </fig>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.19/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Example trial.</title>
+            <p>Schematic of a single trial for the “Standard” routine. The spikes in the time courses represent actual (dashed lines) and reported (solid lines) loads and removals. Blue symbolizes removals and red placings.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/19/fig-2.png"/>
+        </fig>
+        <p>The different routines tested were: <list id="list-1" list-type="alpha-lower"><list-item><label>(a)</label><p>Standard (<xref ref-type="supplementary-material" rid="supp-3">Supplemental Movie S1</xref>): the standard maneuver, identical to the one performed in the first two cups.</p></list-item><list-item><label>(b)</label><p>No ball (<xref ref-type="supplementary-material" rid="supp-4">Supplemental Movie S2</xref>): similar to the “Standard” routine, but there was no ball on top of the third cup.</p></list-item><list-item><label>(c)</label><p>Lift (<xref ref-type="supplementary-material" rid="supp-5">Supplemental Movie S3</xref>): the ball on top of the third cup was lifted to eye level before loading the cup.</p></list-item><list-item><label>(d)</label><p>Table (<xref ref-type="supplementary-material" rid="supp-6">Supplemental Movie S4</xref>): the top ball on the third cup was placed on the table before the cup was loaded.</p></list-item><list-item><label>(e)</label><p>Drop (<xref ref-type="supplementary-material" rid="supp-7">Supplemental Movie S5</xref>): the top ball on the third cup was dropped to the floor before the cup was loaded.</p></list-item><list-item><label>(f)</label><p>Stuck (<xref ref-type="supplementary-material" rid="supp-8">Supplemental Movie S6</xref>): similar to the “Drop” condition, but the ball was stuck to the cup and therefore it did not fall.</p></list-item></list>
+            </p>
+        <p>For each of these different routines, we tested other variables concerning the magician’s performance. We tested “Clear cups”, in which the cups were transparent, versus “Opaque cups”, in which they were not. We also tested “Load” versus “No load” conditions, in which the third cup was either “loaded” (i.e. a ball was surreptitiously placed under it), or not. Finally, we compared a “No face” condition, in which the magician’s face was occluded by a static black rectangle, versus the unmodified “Face”-visible video clips. This yielded a total of 48 conditions. Each subject saw each condition twice. The order of conditions was blocked and randomized for each subject. Each participant saw all the 48 conditions first in random order, and then the same conditions again in a new random sequence.</p>
+      </sec>
+      <sec>
+        <title>Data analysis</title>
+        <p>We defined a correct report of ball placing or removal as an appropriate button press in the 2000 ms immediately following the first movie frame in which the ball had been placed or removed. We also coded correct reports when subject did not indicate a placing after the magician performed a faked load. The reaction time of each report was measured in the conditions in which the cup was loaded. For each placing, gaze distance was calculated as the average distance between the subjects’ gaze and the point where the cup sat on the table, during the 400 ms immediately subsequent to, and following, the first movie frame in which the load occurred (or the equivalent frame in the “No load” condition). We varied the duration of these two time windows and found that the results were similar. Subjects were allowed to report ball placings during the reveal sequence at the end of each trial, in which the magician lifted the cups to show their contents. We counted the number of reports the subjects made during this period in each trial and considered them “late findings”.</p>
+        <p>Statistical testing employed a logistic regression fit to correct reports of placings and removals, and a linear regression fit to the reaction times and the gaze distances. The different magic routines, the load or no load of the third cup, the visibility or occlusion of the face, and the use of clear or opaque cups were factors in the main analyses. The analyses to determine the evolution of responses and gaze positions throughout the experiment used only the trial number as predictor. The statistical models determined main effects and first order interactions, when applicable. Only significant effects are reported in the text. Pairwise comparisons across different routines were tested with the Newman–Keuls <italic>post hoc</italic> test.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Perceptual reports</title>
+        <p>Subjects reported the placing and removal of balls: they pressed “1” whenever a ball was removed and “2” whenever a new ball was placed on the table or under a cup (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>; see Methods for details). We analyzed subject performance using a logistic regression model (Hosmer–Lemeshow statistic χ<sup>2</sup> = 2.02, area under ROC curve <italic>AUC</italic> = 0.77). Subjects’ performance in reporting the loading of the third cup was at chance level in the conditions with opaque cups (<italic>p</italic> &gt; 0.05), and significantly improved in the transparent cups trials, when taking all the experimental trials into account (<italic>p</italic> &lt; 10<sup>−7</sup>) (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Performance was also better for simulated rather than real loads in the opaque cups (<italic>p</italic> &lt; 10<sup>−6</sup>), due to skipped loading reports in the opaque cups condition, which impaired perceptual performance for the real loads, but not for the simulated loads (<italic>p</italic> &lt; 0.001) (<xref ref-type="fig" rid="fig-3">Fig. 3C</xref>). From the various sleight-of-hand maneuvers tested, the last-ball loading reports were significantly worse for the “Table” <italic>p</italic> &lt; 0.05) and the “Stuck” (<italic>p</italic> &lt; 0.05) conditions than for the “Standard” condition (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Subjects’ performance was equivalent when the magician’s face was visible and when it was blocked (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>).</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.19/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Summary of subjects’ performance across the different conditions.</title>
+            <p>(a) Subjects’ performance in reporting the load of the third cup across the different routines, for the conditions with clear and opaque cups. Performance was uniform across the different routines for the opaque cups, and worse than in the conditions with clear cups (logistic regression, <italic>p</italic> &lt; 10<sup>−7</sup>). When the cups were clear, and the load or no load of the cup was therefore visible, performance was worse for the “Table” and “Stuck” routines (logistic regression, <italic>p</italic> &lt; 0.05). (b) Performance was similar regardless of the face being visible or not. (c) Performance was better for the “No load” condition with opaque cups (logistic regression, <italic>p</italic> &lt; 0.001). Dashed lines show the expected chance performance level. Error bars indicate the standard error from the mean across subjects.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/19/fig-3.png"/>
+        </fig>
+        <p>Subjects’ reaction times were comparable for all three cups, across the six different sleight-of-hand manipulations (for each individual condition and for the six conditions together as a whole), and for visible vs. blocked faces.</p>
+      </sec>
+      <sec>
+        <title>Gaze dynamics</title>
+        <p>We studied the subjects’ gaze dynamics during the viewing of each video clip (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>; see Methods for details) using a linear regression model (<italic>R</italic><sup>2</sup> = 0.19). Gaze distance to the third cup was highest for the “Lift” condition (<italic>p</italic> &lt; 0.0001) and lowest for the “No ball” condition (<italic>p</italic> &lt; 0.0001), suggesting that the “Lift” manipulation caused the largest gaze displacement (i.e. overt misdirection (<xref ref-type="bibr" rid="ref-4">Macknik et al., 2008</xref>)), whereas the “No ball” manipulation produced the smallest gaze displacement/misdirection (possibly because in the absence of a ball, subjects may allocate stronger attention to the cup) (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>).</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.19/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Gaze displacement from the bottom of the cup at the time of the load.</title>
+            <p>(a) Gaze distance across the different routines. The “Lift” routine caused the biggest displacement from the bottom of the cup (linear regression, <italic>p</italic> &lt; 0.0001), while the “No ball” routine produced the smallest one (linear regression, <italic>p</italic> &lt; 0.0001). (b) Gaze displacement was similar for the “Clear cups” and “Opaque cups” conditions. (c) Gaze displacement was similar for the “Face” and “No face” conditions. Distance is reported in degrees of visual angle, and error bars indicate the standard error from the mean across subjects.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/19/fig-4.png"/>
+        </fig>
+        <p>We used a different linear regression model (<italic>R</italic><sup>2</sup> = 0.18) to correlate gaze distance and reaction times, and found that increased gaze distance resulted in higher reaction times (<italic>p</italic> &lt; 0.001), with a significant effect of sleight-of-hand manipulation after controlling for the effect of gaze distance (<italic>p</italic> &lt; 0.05).</p>
+        <p>To study the potential effect of saccadic suppression on the perceptual differences we found across conditions, we estimated the saccade production rate in the same movie frames used to measure the gaze distance to the bottom of the cup (<xref ref-type="supplementary-material" rid="supp-1">Supplemental Figure S1</xref>). Saccade production was equivalent across the tested conditions.</p>
+      </sec>
+      <sec>
+        <title>Learning effects</title>
+        <p>Subjects’ performance improved over the course of the experiment (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). In the opaque cups conditions, the number of “late findings” (i.e. ball placing reports after the magician showed the contents of the cups) decreased with trial number (logistic regression, <italic>p</italic> &lt; 0.01 Hosmer–Lemeshow statistic χ<sup>2</sup> = 17.23, area under ROC curve <italic>AUC</italic> = 0.92). In the transparent cups conditions, there were few “late findings”, even in the initial trials (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>). In the clear cups conditions, correct loading reports for the third cup increased as the experiment progressed (logistic regression, <italic>p</italic> &lt; 0.001, Hosmer–Lemeshow statistic χ<sup>2</sup> = 15.02, area under ROC curve <italic>AUC</italic> = 0.73) (<xref ref-type="fig" rid="fig-5">Fig. 5B</xref>). In the opaque cup conditions, subjects did not have any information about the load of the last cup, and performed at chance, therefore we found no apparent learning effect, as expected. Reaction times decreased (linear regression, <italic>p</italic> &lt; 0.05, <italic>R</italic><sup>2</sup> = 0.34) (<xref ref-type="fig" rid="fig-5">Fig. 5C</xref>) with trial number in the clear cups conditions, but remained constant in the trials with opaque cups, indicating that subjects were guessing during this condition. Gaze distance to the bottom of the third cup decreased with trial number for transparent and opaque cups (linear regression, <italic>p</italic> &lt; 0.01, <italic>R</italic><sup>2</sup> = 0.31).</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.19/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Effects of learning in perceptual reports and gaze distance.</title>
+            <p>(a) The number of late findings (placings reported after the magician shows what is under the cups) goes down with the trial number in the conditions with the opaque cups, while is very low during the experiment for the conditions with clear cups. The correlation between the trial number and the number of late findings is statistically significant in the conditions with opaque cups (logistic regression, <italic>p</italic> &lt; 0.01). (b) Probability of subjects reporting correctly the loading of the third cup in the conditions with clear cups as a function of the trial number. The relationship is statistically significant (logistic regression, <italic>p</italic> &lt; 0.001). (c) The reaction times of the subjects reporting the loading of the third cup (in the conditions with clear cups) decreased with the number of trials (linear regression, <italic>p</italic> &lt; 0.05). (d) Similarly, the gaze distance (in degrees of visual angle) to the bottom of the cup decreased with the trial number (linear regression, <italic>p</italic> &lt; 0.01). Error bars indicate standard error from the mean across subjects.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/19/fig-5.png"/>
+        </fig>
+        <p>To ensure that this learning effect did not affect our other conclusions about the experimental conditions, we conducted an additional analysis of subject performance as a function of the first viewing of each condition (<xref ref-type="supplementary-material" rid="supp-2">Supplemental Figure S2</xref>). The results are comparable to those in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>, indicating that the learning effect did not affect subject performance as a function of condition. Further, because the sequence of conditions was random and different for each subject, a systematic learning effect could not have biased our other results.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>We investigated the potential contribution of several perceptual elements in Penn &amp; Teller’s version of the classic “Cups and balls” magic trick. We measured the perceptual performance and gaze behavior of naive observers as Teller surreptitiously introduced balls inside opaque and transparent upside down plastic cups. Contrary to the magician’s intuition, a gravity-driven drop of a ball into his hand (or to the floor) caused less misdirection, both in terms of gaze displacement and impaired perception, than alternative manipulations such as lifting the ball, or attempting to drop a ball that is stuck to the cup. Thus, perception of (the effects of gravity on) falling objects does not enhance magic misdirection, at least in the performance of this particular sleight-of-hand trick.</p>
+      <p>The contradiction between our results and the magician’s original perception may have been caused by one or more of several possible sources. One possibility is that performing the trick in a new way may have drawn his attention towards the new element (the ball dropping), and away from the common element (the loading of the cup). Successive, non-controlled repetitions of the procedure could have given the impression of a worse detection of the loading because of confirmation bias. Our results confirm that controlled experiments give valuable insight to reject (<xref ref-type="bibr" rid="ref-2">Cui et al., 2011</xref>) or accept (<xref ref-type="bibr" rid="ref-8">Otero-Millan et al., 2011</xref>) intuitive judgments about attention and misdirection formulated by magicians. Further, the three consecutive sleight-of-hand manipulations (actual or simulated loads) were presented in isolation, rather than as part of a complete “Cups and balls” magic routine (an arrangement of tricks organized in logical fashion as part of a magic performance). Finally, because an actual magician (i.e. rather than a cartoon or computer simulation) performed all maneuvers, motion features such as timing, duration, etc. could not be exactly equated across all experimental conditions. Future research using computer simulations of the magician’s sleight-of-hand movements should be conducted with the goal of replicating and generalizing the current findings to other sleights-of-hand and magic tricks.</p>
+      <p>Blocking or unblocking the magician’s face did not affect the observers’ perception or oculomotor behavior, suggesting that the “Cups and balls” magic trick does not rely on social misdirection (for instance, due to the magician’s head or eye position/movements). These results are surprising – the belief among magician’s that social misdirection, generated by the face, is one of their most powerful tools, is pervasive – though they agree with those reported by <xref ref-type="bibr" rid="ref-2">Cui et al. (2011)</xref> with a different magic trick. Together they suggest that social misdirection may differentially enhance, lessen, or fail to affect various specific magic illusions.</p>
+      <p>Also in agreement with <xref ref-type="bibr" rid="ref-2">Cui et al. (2011)</xref>, we found significant effects of learning on the perception and gaze behavior of initially naive observers – the more times spectators see a trick the less effective the misdirection. Our combined results have implications for how to optimize the performance of the “Cups and balls” magic trick, and for the types of hand and object motion that maximize magic misdirection.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="image" mime-subtype="jpeg" xlink:href="https://peerj.com/articles/19/Supplemental Figure S1.jpg">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-1</object-id>
+        <label>Supplemental Figure S1</label>
+        <caption>
+          <title>Saccade rates during the time the cup is loaded</title>
+          <p>a) Saccade rates across the different routines. There is no appreciable difference between routines. b) Saccade rate was similar for the “Clear Cups” and “Opaque Cups” conditions. c) Saccade rate was similar for the “Face” and “No face” conditions. Error bars indicate standard error from the mean across subjects.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="image" mime-subtype="jpeg" xlink:href="https://peerj.com/articles/19/Supplemental Figure S2.jpg">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-2</object-id>
+        <label>Supplemental Figure S2</label>
+        <caption>
+          <title>Summary of subjects’ performance for the first trial of each condition</title>
+          <p>a) Subjects accuracy in reporting the load of the third cup across the different routines, for the conditions with clear and opaque cups, for the first trial of each of the 48 conditions tested. Performance is uniform across the different routines for the opaque cups, and worse than in the conditions with clear cups (logistic regression, <italic>p</italic> &lt; 10<sup>−7</sup>). When the cups are clear, and the loading or no loading of the cup is therefore visible, performance is worse for the “Table” and “Stuck” routines (logistic regression, <italic>p</italic> &lt; 0.05). b) Performance was similar regardless of the face being visible or not. c) Performance was better for the “No load” condition with opaque cups (logistic regression, <italic>p</italic> &lt; 0.001). Dashed lines show the expected chance performance level. Error bars indicate the standard error from the mean across subjects.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-3" mimetype="video" mime-subtype="quicktime" xlink:href="https://peerj.com/articles/19/Supplemental Movie S1.mov">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-3</object-id>
+        <label>Supplemental Movie S1</label>
+        <caption>
+          <title>Video clip of the magician performing the “Standard” routine</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-4" mimetype="video" mime-subtype="quicktime" xlink:href="https://peerj.com/articles/19/Supplemental Movie S2.mov">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-4</object-id>
+        <label>Supplemental Movie S2</label>
+        <caption>
+          <title>Video clip of the magician performing the “No ball” routine</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-5" mimetype="video" mime-subtype="quicktime" xlink:href="https://peerj.com/articles/19/Supplemental Movie S3.mov">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-5</object-id>
+        <label>Supplemental Movie S3</label>
+        <caption>
+          <title>Video clip of the magician performing the “Lift” routine</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-6" mimetype="video" mime-subtype="quicktime" xlink:href="https://peerj.com/articles/19/Supplemental Movie S4.mov">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-6</object-id>
+        <label>Supplemental Movie S4</label>
+        <caption>
+          <title>Video clip of the magician performing the “Table” routine</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-7" mimetype="video" mime-subtype="quicktime" xlink:href="https://peerj.com/articles/19/Supplemental Movie S5.mov">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-7</object-id>
+        <label>Supplemental Movie S5</label>
+        <caption>
+          <title>Video clip of the magician performing the “Drop” routine</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-8" mimetype="video" mime-subtype="quicktime" xlink:href="https://peerj.com/articles/19/Supplemental Movie S6.mov">
+        <object-id pub-id-type="doi">10.7717/peerj.19/supp-8</object-id>
+        <label>Supplemental Movie S6</label>
+        <caption>
+          <title>Video clip of the magician performing the “Stuck” routine</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank the NOVA scienceNOW production crew for providing the filming of the videos in the experiment, Penn &amp; Teller for providing us with their theater, and Teller for performing the magic tricks we studied.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>Susana Martinez-Conde and Stephen L. Macknik are academic editors for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Hector Rieiro</xref> performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-2">Susana Martinez-Conde</xref> and <xref ref-type="contrib" rid="author-3">Stephen L. Macknik</xref> conceived and designed the experiments, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Human Ethics</title>
+        <fn id="addinfo-1">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>Barrow Neurological Institute’s Internal Review Board. Protocol 04BN039.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Christopher &amp; Christopher (2006)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Christopher</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Christopher</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>The illustrated history of magic</source>
+          <year>2006</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Carroll &amp; Graf</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Cui et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cui</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Otero-Millan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Macknik</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Mac</surname>
+              <given-names>King</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Conde</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Social misdirection fails to enhance a magic illusion</article-title>
+          <source>Frontiers in Human Neuroscience</source>
+          <year>2011</year>
+          <volume>5</volume>
+          <fpage>103</fpage>
+          <pub-id pub-id-type="doi">10.3389/fnhum.2011.00103</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Engbert &amp; Kliegl (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Engbert</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kliegl</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Microsaccades uncover the orientation of covert attention</article-title>
+          <source>Vision Research</source>
+          <year>2003</year>
+          <volume>43</volume>
+          <fpage>1035</fpage>
+          <lpage>1045</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0042-6989(03)00084-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Macknik et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macknik</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Mac</surname>
+              <given-names>King</given-names>
+            </name>
+            <name>
+              <surname>Randi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Robbins</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Teller</surname>
+              <given-names>Thompson J</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Conde</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Attention and awareness in stage magic: turning tricks into research</article-title>
+          <source>Nature Reviews Neuroscience</source>
+          <year>2008</year>
+          <volume>9</volume>
+          <fpage>871</fpage>
+          <lpage>879</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrn2473</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Macknik, Martinez-Conde &amp; Blakeslee (2010)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macknik</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Conde</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Blakeslee</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <source>Sleights of mind</source>
+          <year>2010</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Henry Holt and Company</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Martinez-Conde &amp; Macknik (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martinez-Conde</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Macknik</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <article-title>Mind tricks</article-title>
+          <source>Nature</source>
+          <year>2007</year>
+          <volume>448</volume>
+          <fpage>414</fpage>
+          <pub-id pub-id-type="doi">10.1038/448414a</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Martinez-Conde &amp; Macknik (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martinez-Conde</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Macknik</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <article-title>Magic and the brain</article-title>
+          <source>Scientific American</source>
+          <year>2008</year>
+          <volume>229</volume>
+          <fpage>72</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1038/scientificamerican1208-72</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Otero-Millan et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Otero-Millan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Macknik</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Robbins</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>McCamy</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Conde</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Stronger misdirection in curved than in straight motion</article-title>
+          <source>Frontiers in Human Neuroscience</source>
+          <year>2011</year>
+          <volume>5</volume>
+          <fpage>133</fpage>
+          <pub-id pub-id-type="doi">10.3389/fnhum.2011.00133</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

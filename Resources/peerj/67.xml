@@ -1,1147 +1,561 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018989000,&quot;from_str&quot;:&quot;2013-07-05T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500589000,&quot;from_str&quot;:&quot;2013-06-29T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513389000,&quot;from_str&quot;:&quot;2013-06-06T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948589000,&quot;from_str&quot;:&quot;2012-12-31T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,353,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">67</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.67</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Cognitive Disorders</subject>
+          <subject>Neurology</subject>
+          <subject>Psychiatry and Psychology</subject>
+          <subject>Ethical Issues</subject>
+          <subject>Science and Medical Education</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Whose name is it anyway? Varying patterns of possessive usage in eponymous neurodegenerative diseases</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>MacAskill</surname>
+            <given-names>Michael R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <email>michael.macaskill@nzbri.org</email>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Anderson</surname>
+            <given-names>Tim J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>New Zealand Brain Research Institute</institution>, <addr-line>Christchurch</addr-line>, <country>New Zealand</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Medicine, University of Otago</institution>, <addr-line>Christchurch</addr-line>, <country>New Zealand</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Neurology, Christchurch Hospital</institution>, <addr-line>Christchurch</addr-line>, <country>New Zealand</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Lepore</surname>
+            <given-names>Frederick</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-04-16">
+        <day>16</day>
+        <month>4</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e67</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-03-05">
+          <day>5</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-03-24">
+          <day>24</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 MacAskill and Anderson</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>MacAskill and Anderson</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/67"/>
+      <abstract>
+        <p>There has been long-standing debate over whether use of the possessive form of the names of eponymous neurological disorders should be abandoned. Which view has actually predominated in practice? We empirically assessed current and historical usage in the scientific literature. The PubMed database was queried for the percentage of titles published each year from 1960–2012 which contained the possessive form of Parkinson’s (PD), Alzheimer’s (AD), Huntington’s (HD), Wilson’s (WD), and Gaucher’s (GD) diseases (e.g. Huntington’s disease or chorea vs Huntington disease or chorea). Down syndrome (DS), well known for its changes in terminology, was used as a reference. The possessive form was nearly universal in all conditions from 1960 until the early 1970s. In both DS and GD it then declined at an approximately constant rate of 2 percentage points per year to drop below 15%. The possessive forms of both PD and AD began to decline at the same time but stabilised and have since remained above 80%, with a similar but more volatile pattern in HD. WD, meanwhile, is intermediate between the DS/GD and PD/AD/HD patterns, with a slower decline to its current value of approximately 60%. Declining possessive form usage in GD and DS papers has been remarkably uniform over time and has nearly reached completion. PD and AD appear stable in remaining predominantly possessive. The larger volume of papers published in those fields and their possibly greater public recognition and involvement may make that unlikely to change in the short-term. In a secondary analysis restricted to PD, we found that practices have switched dramatically several times in each of three US-published general neurology journals. Meanwhile, in two UK-published journals, and in the specialist title “Movement Disorders”, the possessive form has been maintained consistently. The use of eponyms in neurology shows systematic variation across time, disorders, and journals.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Neurodegenerative disorders</kwd>
+        <kwd>Eponyms</kwd>
+        <kwd>Historical neurology</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>No funding supported this study other than the salaries provided by the authors’ employers.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Neurology has an extensive tradition of naming disorders after their putative discoverers, although this practice is now actively discouraged in favour of descriptive or explanatory names. A substantial legacy of historical eponyms remains, however, and it has even been noted that their opacity can be an advantage if initial explanatory or descriptive names are subsequently shown to be incorrect (<xref ref-type="bibr" rid="ref-10">McKusick, 1998</xref>). For example, Dr. James Parkinson was not so immodest as to name a disorder after himself, and originally termed it <italic>paralysis agitans</italic> on the basis of the symptoms he observed. It was, however, re-named in honour of Parkinson following Charcot’s demonstration that weakness (paralysis) is not actually a feature of the disorder and that tremor (agitans) is not universally present (<xref ref-type="bibr" rid="ref-3">Goetz, 1986</xref>). Charcot was generally complimentary towards Parkinson’s work, but thought the disorder had probably been described earlier by a French physician (<xref ref-type="bibr" rid="ref-3">Goetz, 1986</xref>), while others believe it was described in India long before (<xref ref-type="bibr" rid="ref-11">Ovallath &amp; Deepa, 2013</xref>). This is not an isolated instance: according to (the ironically-named) Stigler’s Law of Eponymy, no scientific term is named after its original discoverer (<xref ref-type="bibr" rid="ref-15">Stigler, 1980</xref>).</p>
+      <p>Despite criticisms, medical eponyms remain in common use, although debate has also continued about how they should be employed. There have been strident arguments since the mid 1970s advocating either the abolition or the retention of their possessive form. For example, “Parkinson disease” has been proposed as a more grammatically accurate term than “Parkinson’s disease”, because Parkinson neither had, nor owned, the disease associated with his name (<xref ref-type="bibr" rid="ref-4">Haines &amp; Olry, 2003</xref>; <xref ref-type="bibr" rid="ref-14">Smith, 1975</xref>). In general, those in favour of retaining the apostrophe simply appeal to the value and comfort of traditional practice, although some have also made sophisticated grammar-based counter-arguments (<xref ref-type="bibr" rid="ref-2">Dirckx, 2001</xref>).</p>
+      <p>Formal style guidelines, such as those from the World Health Organisation (<xref ref-type="bibr" rid="ref-16">World Health Organization, 2004</xref>) and the American Medical Association (<xref ref-type="bibr" rid="ref-5">Iverson, Christiansen &amp; Flanagin, 2007</xref>), have long advocated the elimination of the possessive form. It remains to be shown how influential those recommendations have been in neurology. How have naming practices altered over time? Is usage continuing to change or has it reached a steady state? Do conventions vary across disorders or journals? To assess this, we conducted a quantitative analysis of the titles of scientific papers published between 1960 and 2012. We focussed selectively upon our own interests in neurodegenerative conditions, particularly those with a movement component (although the scripts we used to gather and analyse the data are available as <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Information</xref> for anyone who might wish to apply them in other domains).</p>
+      <p>This evidence was not gathered to advocate for either viewpoint. Having encountered differing sub-editing practices across journals, we simply wished to empirically ascertain their relative predominance, currently and historically. By way of full disclosure, however, we ourselves lean towards the traditionalist view, while believing that if anyone can be said to “own” a disease, it is those patients who have it. Decisions on disease nomenclature should ideally not be made in isolation within academic neurology, but only with full involvement of patients’ support, advocacy, and fund-raising organisations. Changes in naming practice apply not only to a pathological process but can also be linked closely to the self-identity of patients.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials &amp; Methods</title>
+      <p>The neurodegenerative diseases we selected were Parkinson’s (PD), Alzheimer’s (AD), Huntington’s (HD), Wilson’s (WD), and Gaucher’s (GD). The congenital Down syndrome (DS), well known for a history of lability in its nomenclature, was chosen as a reference for comparison. We adapted a publicly available script (<xref ref-type="bibr" rid="ref-9">Magnusson, 2012</xref>), running within the open source R statistical environment (<xref ref-type="bibr" rid="ref-12">R Development Core Team, 2013</xref>), to make automated queries of the PubMed database. We extracted a count of the titles of published articles which contained the possessive or non-possessive form of each name (for example, “Parkinson’s disease” vs “Parkinson disease”), for each year from 1960–2012. The outcome measure was the percentage of papers which used the possessive form, calculated for each disorder within each year. Non-eponymous alternatives (such as hepatolenticular degeneration, trisomy 21) were not considered. Searches for HD and AD included “chorea” and “dementia” respectively as alternatives to “disease”. An example pair of queries is “Huntington’s disease[TITLE] OR Huntington’s chorea[TITLE]” vs “Huntington disease[TITLE] OR Huntington chorea[TITLE]”. To avoid the double-counting of papers which were initially published electronically but subsequently appeared in print in the following calendar year, the date was specified using the Print Dates Only Tag [PPDAT] rather than Publication Date [DP] (<xref ref-type="bibr" rid="ref-9">Magnusson, 2012</xref>). Queries were intentionally limited to a rate of less than 3 per second to comply with current PubMed guidelines for automated access. The dataset, obtained on 25 January 2013, took approximately 11 min to collect. The R script used to obtain the data, and the resulting dataset itself, are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Information</xref>.</p>
+      <p>We then investigated how patterns vary across a number of prominent primary research journals. Because the number of papers published annually on a given disorder in a particular journal is usually small, we restricted the analysis to the two most frequently published disorders (Parkinson’s and Alzheimer’s) to reduce instability in the proportion measure. Their results were strikingly similar and for clarity we present only the Parkinson’s findings. We restricted the data collection to each of selected general neurology journals published either in the United Kingdom <italic>(Brain; Journal of Neurology, Neurosurgery &amp; Psychiatry)</italic> or the United States <italic>(Neurology; Archives of Neurology; Annals of Neurology)</italic>, because different national practices have been noted previously (<xref ref-type="bibr" rid="ref-6">Jana, Barik &amp; Arora, 2009</xref>). We also assessed <italic>Movement Disorders</italic>, the official journal of the international Movement Disorder Society. As a specialist journal, it publishes more Parkinson’s-titled papers than these general journals combined (in 2012, 176 papers vs 127).</p>
+      <p>No ethical approval was either sought or required for this study as it involved only publicly-available data.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>In the first analysis (across all journals), the total number of papers identified was 82 249 (AD: 33 768; PD: 26 754; DS: 10 569; HD: 5 750; WD: 2 935; GD: 2 473). The proportion of paper titles containing the possessive form of each disorder is plotted as a function of time in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>. The data are summarised using second-order LOESS local regression with a smoothing width of 0.2, as implemented in DataGraph (<xref ref-type="bibr" rid="ref-8">MacAskill, 2012</xref>, Visual Data Tools Inc.).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.67/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Changing proportion of article titles using the possessive form of selected eponymous neurodegenerative diseases.</title>
+          <p>LOESS localised regression curves showing the time-varying proportion of paper titles containing the possessive forms of five neurodegenerative disorders, compared to Down syndrome. The possessive form remains dominant in Parkinson’s, Alzheimer’s, and Huntington’s, whereas it is becoming extinct in Gaucher disease. Wilson’s disease shows an intermediate pattern of slow decline.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/67/fig-1.png"/>
+      </fig>
+      <p>The possessive form was nearly universal in all of the disorders from 1960 until the early 1970s. From then, the possessive forms of both DS and GD began to decline at a nearly constant rate of approximately 2 percentage points per year to reach their current prevalence ( ≤ 15%). Use of the possessive forms of both PD and AD began to decline at a similar time but ceased doing so from approximately 1980 and it has remained above 80% ever since. The pattern in HD, while more volatile, is similar to that of PD and AD. With a slow decline to its current value of approximately 60%, WD is intermediate between the DS/GD and PD/AD/HD patterns.</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.67/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Proportion of article titles containing the possessive form of “Parkinson’s disease” in prominent neurological journals.</title>
+          <p>The analysis shown in <xref ref-type="fig" rid="fig-1">Fig. 1</xref> for Parkinson’s disease was repeated for each of six selected journals. In all journals, the pattern for Alzheimer’s disease was almost identical to that shown here for Parkinson’s. The possessive form has predominated consistently in the specialist journal <italic>Movement Disorders</italic> and the UK-based generalist <italic>Brain</italic> and <italic>Journal of Neurology, Neurosurgery, and Psychiatry</italic>. The other, US-based journals, meanwhile, have oscillated several times between high and low usage, indicating discrete changes in editorial policy. <italic>Movement Disorders</italic> and <italic>Annals of Neurology</italic> commenced publishing in 1986 and 1977 respectively. Gaps between data points in the early period of the time series for the other journals correspond to years when no Parkinson’s papers were published.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/67/fig-2.png"/>
+      </fig>
+      <p>The results of the second, journal-specific, analysis of Parkinson’s-titled papers are shown in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>. The UK-based general journals <italic>Brain</italic> and <italic>Journal of Neurology, Neurosurgery &amp; Psychiatry</italic> show consistent and nearly universal use of the possessive form over the entire period 1960–2012. <italic>Movement Disorders</italic> shows a similar pattern, from its commencement of publication in 1986. It is not clear whether this reflects consistent enforcement of editorial practice by these journals or the preferences of authors. The US-based journals show much greater lability, each rapidly alternating several times from high to low use. The rapidity of these changes implies that the cause was likely due to editorial practice, as author submissions are unlikely to alter so swiftly and universally. The changes are also lagged in time, with <italic>Archives of Neurology</italic> switching first on each occasion, followed by <italic>Neurology</italic> and then <italic>Annals of Neurology.</italic> This again indicates that the changes were unlikely to be driven by changes in author preferences, as these should have affected each of the journals simultaneously.</p>
+      <p>We inspected the instructions to authors posted on each journal’s website. None explicitly addressed eponym usage. <italic>Archives of Neurology</italic> advises authors to prepare manuscripts according to the AMA Manual of Style (which advocates the non-possessive form) or the ICMJE (International Committee of Medical Journal Editors) ‘Uniform Requirements for Manuscripts Submitted to Biomedical Journals’, which is silent on the issue (<xref ref-type="bibr" rid="ref-6">Jana, Barik &amp; Arora, 2009</xref>). <italic>Movement Disorders, Brain,</italic> and <italic>Neurology</italic> each also point to the ICMJE, even if only for reference formatting rather than as a general style guide.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Recommendations to abandon the use of possessive eponyms were made from 1974 by the US National Institutes of Health (<xref ref-type="bibr" rid="ref-7">Lowry, 1974</xref>; <xref ref-type="bibr" rid="ref-14">Smith, 1975</xref>). It is perhaps not coincidental that our data show that the initial decline in possessive usage commenced at about that time, and that shortly afterwards it disappeared completely (if temporarily) in the three US journals we examined. Reduction in the possessive form of GD has been remarkably uniform since then, has nearly reached completion, and has closely paralleled that of DS. By contrast, PD and AD rebounded from the initial decline, and now appear to be remaining relatively stable in their predominantly possessive forms. That may be unlikely to change in the short term, given the inertia due to the much larger volume of work published in those disorders and their likely greater public recognition and involvement. Judged solely by numbers of publications, the other disorders presumably have smaller scientific communities and are therefore perhaps more amenable to systematic change (in the case of GD and DS) or susceptible to more volatility (HD and WD).</p>
+      <p>Mathematical models have recently been proposed which examine how changes in a social consensus can occur, given varying-sized initial minorities of influential proselytisers. It has been claimed that the time required for the entire population to change its view is dramatically decreased once the proselytising proportion exceeds a critical value of 10% (<xref ref-type="bibr" rid="ref-17">Xie et al., 2011</xref>). Our data might argue against the generality of that claim, perhaps indicating that larger communities are more resistant to change. It must be borne in mind though, that the proportion of published papers is certainly not a perfect proxy for the proportion of researchers who adhere to either point of view. That is, even after non-possessive usage exceeded 10% in AD and PD papers, that may have been due only to involuntary compliance with individual editorial guidelines rather than to proselytizing zeal on the part of researchers themselves. Hence the practice has not continued to grow. By contrast, the change may have been internalised by researchers in the GD and DS spheres. As noted, none of the journals we surveyed lists an explicit guideline on eponym usage, and in our experience, accepted manuscripts are simply altered without notice at the sub-editing stage (for example, <xref ref-type="bibr" rid="ref-1">Dalrymple-Alford et al., 2010</xref>).</p>
+      <p>With reference to the rapidly declining use of the Hallervorden-Spatz eponym due to its association with Nazi war crimes, <xref ref-type="bibr" rid="ref-13">Shevell (2012)</xref> noted that “…there is no central body regulating the use of eponyms. Any changes in designation or use thus must reflect a naturally occurring, emerging, and broadly based consensus…a reflection of a decision by a neurologic ‘court’ of opinion”. Based on our comparisons across a number of disorders and journals, it would appear there is more than one such court in session, and that the judgments of one do not necessarily act as binding precedent upon another.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="text" mime-subtype="plain" xlink:href="https://peerj.com/articles/67/MRM_PubMed_functions R03.txt">
+        <object-id pub-id-type="doi">10.7717/peerj.67/supp-1</object-id>
+        <label>Supplemental Information 1</label>
+        <caption>
+          <title>A text file containing R functions called by the other main code file.</title>
+          <p>Change the suffix from “.txt” to “.R”.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="text" mime-subtype="plain" xlink:href="https://peerj.com/articles/67/MRM_Run_PubMed_analysis R03.txt">
+        <object-id pub-id-type="doi">10.7717/peerj.67/supp-2</object-id>
+        <label>Supplemental Information 2</label>
+        <caption>
+          <title>A text file containing the R code to replicate the analyses and graph the results.</title>
+          <p>Change the suffix from “.txt” to “.R” and execute from within the open source R statistical environment.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-3" mimetype="text" mime-subtype="plain" xlink:href="https://peerj.com/articles/67/Supplemental raw data 2013-01-25.txt">
+        <object-id pub-id-type="doi">10.7717/peerj.67/supp-3</object-id>
+        <label>Supplemental Information 3</label>
+        <caption>
+          <title>The raw data used to construct Figure 1.</title>
+          <p>This is the raw data derived from querying the PubMed database using the provided R code, as at 15 January, 2013.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors have no conflicts of interest with regards to the reported findings or conclusions.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Michael R. MacAskill</xref> conceived and designed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Tim J. Anderson</xref> interpreted the data, reviewed and critiqued the manuscript.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Dalrymple-Alford et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dalrymple-Alford</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>MacAskill</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Nakas</surname>
+              <given-names>CT</given-names>
+            </name>
+            <name>
+              <surname>Livingston</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Graham</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Crucian</surname>
+              <given-names>GP</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The MoCA: well-suited screen for cognitive impairment in Parkinson disease</article-title>
+          <source>Neurology</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>75</volume>
+          <fpage>1717</fpage>
+          <lpage>1725</lpage>
+          <pub-id pub-id-type="doi">10.1212/WNL.0b013e3181fc29c9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Dirckx (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dirckx</surname>
+              <given-names>JH</given-names>
+            </name>
+          </person-group>
+          <article-title>The synthetic genitive in medical eponyms: is it doomed to extinction?</article-title>
+          <source>Panace@</source>
+          <issue>5</issue>
+          <year iso-8601-date="2001">2001</year>
+          <volume>2</volume>
+          <fpage>15</fpage>
+          <lpage>24</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Goetz (1986)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goetz</surname>
+              <given-names>CG</given-names>
+            </name>
+          </person-group>
+          <article-title>Charcot on Parkinson’s disease</article-title>
+          <source>Movement Disorders</source>
+          <issue>1</issue>
+          <year iso-8601-date="1986">1986</year>
+          <volume>1</volume>
+          <fpage>27</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="doi">10.1002/mds.870010104</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Haines &amp; Olry (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haines</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Olry</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>“James Parkinson did not die of his own personal disease... he died of a stroke” Eponyms: possessive or nonpossessive?</article-title>
+          <source>Journal of the History of the Neurosciences</source>
+          <issue>3</issue>
+          <year iso-8601-date="2003">2003</year>
+          <volume>12</volume>
+          <fpage>305</fpage>
+          <lpage>307</lpage>
+          <pub-id pub-id-type="doi">10.1076/jhin.12.3.305.16678</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Iverson, Christiansen &amp; Flanagin (2007)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iverson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Christiansen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Flanagin</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>AMA manual of style: a guide for authors and editors</source>
+          <edition>10th ed</edition>
+          <year iso-8601-date="2007">2007</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <pub-id pub-id-type="doi">10.1093/jama/9780195176339.001.0001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Jana, Barik &amp; Arora (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jana</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Barik</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Arora</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Current use of medical eponyms–a need for global uniformity in scientific publications</article-title>
+          <source>BMC Medical Research Methodology</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>9</volume>
+          <fpage>18</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2288-9-18</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Lowry (1974)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lowry</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title>Classification and nomenclature of malformation</article-title>
+          <source>Lancet</source>
+          <issue>7861</issue>
+          <year iso-8601-date="1974">1974</year>
+          <volume>303</volume>
+          <fpage>798</fpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(74)92858-X</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>MacAskill (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MacAskill</surname>
+              <given-names>MR</given-names>
+            </name>
+          </person-group>
+          <article-title>DataGraph 3.0</article-title>
+          <source>Journal of Statistical Software</source>
+          <issue>Software Review 2</issue>
+          <year iso-8601-date="2012">2012</year>
+          <volume>47</volume>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <comment>Retrieved from <uri xlink:href="http://www.jstatsoft.org/v47/s02">http://www.jstatsoft.org/v47/s02</uri>
+               </comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Magnusson (2012)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Magnusson</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <comment>An R script to automatically download PubMed citation counts by year of publication. <italic>R Psychologist</italic> [Web page]. Retrieved from <uri xlink:href="http://rpsychologist.com/an-r-script-to-automatically-look-at-pubmed-citation-counts-by-year-of-publication/">http://rpsychologist.com/an-r-script-to-automatically-look-at-pubmed-citation-counts-by-year-of-publication/</uri>
+               </comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>McKusick (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McKusick</surname>
+              <given-names>VA</given-names>
+            </name>
+          </person-group>
+          <article-title>On the naming of clinical disorders, with particular reference to eponyms</article-title>
+          <source>Medicine</source>
+          <issue>1</issue>
+          <year iso-8601-date="1998">1998</year>
+          <volume>77</volume>
+          <fpage>1</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="doi">10.1097/00005792-199801000-00001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Ovallath &amp; Deepa (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ovallath</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Deepa</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>The history of parkinsonism: descriptions in ancient Indian medical literature</article-title>
+          <source>Movement Disorders</source>
+          <year iso-8601-date="2013">2013</year>
+          <pub-id pub-id-type="doi">10.1002/mds.25420</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>R Development Core Team (2013)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <collab>R Development Core Team</collab>
+          </person-group>
+          <year iso-8601-date="2013">2013</year>
+          <comment><italic>R: a language and environment for statistical computing.</italic> R Foundation for Statistical Computing, Vienna, Austria. Retrieved from <uri xlink:href="http://www.R-project.org">http://www.R-project.org</uri>
+               </comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Shevell (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shevell</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The declining use of the Hallervorden-Spatz eponym</article-title>
+          <source>Journal of Child Neurology</source>
+          <issue>10</issue>
+          <year iso-8601-date="2012">2012</year>
+          <volume>27</volume>
+          <fpage>1308</fpage>
+          <lpage>1309</lpage>
+          <pub-id pub-id-type="doi">10.1177/0883073812454575</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Smith (1975)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>WD</given-names>
+            </name>
+          </person-group>
+          <article-title>Classification, nomenclature, and naming of morphologic defects</article-title>
+          <source>The Journal of Pediatrics</source>
+          <issue>1</issue>
+          <year iso-8601-date="1975">1975</year>
+          <volume>87</volume>
+          <fpage>162</fpage>
+          <lpage>164</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-3476(75)80111-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Stigler (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stigler</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigler’s law of eponymy</article-title>
+          <source>Transactions of the New York Academy of Sciences</source>
+          <issue>1 Series II</issue>
+          <year iso-8601-date="1980">1980</year>
+          <volume>39</volume>
+          <fpage>147</fpage>
+          <lpage>157</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.2164-0947.1980.tb02775.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>World Health Organization (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>World Health Organization</collab>
+          </person-group>
+          <source>WHO style guide</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>Geneva</publisher-loc>
+          <publisher-name>World Health Organization</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Xie et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xie</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sreenivasan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Korniss</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Szymanski</surname>
+              <given-names>BK</given-names>
+            </name>
+          </person-group>
+          <article-title>Social consensus through the influence of committed minorities</article-title>
+          <source>Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics</source>
+          <issue>1 Pt 1</issue>
+          <year iso-8601-date="2011">2011</year>
+          <volume>84</volume>
+          <fpage>011130</fpage>
+          <pub-id pub-id-type="doi">10.1103/PhysRevE.84.011130</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

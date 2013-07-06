@@ -1,1147 +1,1622 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373019059000,&quot;from_str&quot;:&quot;2013-07-05T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500659000,&quot;from_str&quot;:&quot;2013-06-29T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513459000,&quot;from_str&quot;:&quot;2013-06-06T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948659000,&quot;from_str&quot;:&quot;2012-12-31T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,131,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">87</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.87</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Diabetes and Endocrinology</subject>
+          <subject>Epidemiology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Prediction of morbidity and mortality in patients with type 2 diabetes</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Wells</surname>
+            <given-names>Brian J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Roth</surname>
+            <given-names>Rachel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Nowacki</surname>
+            <given-names>Amy S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Arrigain</surname>
+            <given-names>Susana</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Changhong</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author">
+          <name>
+            <surname>Rosenkrans</surname>
+            <given-names>Wayne A.</given-names>
+            <suffix>Jr.</suffix>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-7" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Kattan</surname>
+            <given-names>Michael W.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <email>kattanm@ccf.org</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Quantitative Health Sciences, Cleveland Clinic</institution>, <addr-line>Cleveland, OH</addr-line>, <country>United States</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Family Medicine, Swedish Hospital</institution>, <addr-line>Seattle, WA</addr-line>, <country>United States</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Center for Biomedical Innovation, Personalized Medicine Coalition, Massachusetts Institute of Technology</institution>, <addr-line>Cambridge, MA</addr-line>, <country>United States</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Inui</surname>
+            <given-names>Akio</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-06-11">
+        <day>11</day>
+        <month>6</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e87</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-01-30">
+          <day>30</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-27">
+          <day>27</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Wells et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Wells et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/87"/>
+      <abstract>
+        <p><bold>Introduction.</bold> The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.</p>
+        <p><bold>Materials and Methods.</bold> The model was based on a cohort of 33,067 patients with type 2 diabetes who were prescribed a single oral hypoglycemic agent at the Cleveland Clinic between 1998 and 2006. Competing risk regression models were created for coronary heart disease (CHD), heart failure, and stroke, while a Cox regression model was created for mortality. Propensity scores were used to account for possible treatment bias. A prediction tool was created and internally validated using tenfold cross-validation. The results were compared to a Framingham model and a model based on the United Kingdom Prospective Diabetes Study (UKPDS) for CHD and stroke, respectively.</p>
+        <p><bold>Results and Discussion.</bold> Median follow-up for the mortality outcome was 769 days. The numbers of patients experiencing events were as follows: CHD (3062), heart failure (1408), stroke (1451), and mortality (3661). The prediction tools demonstrated the following concordance indices (c-statistics) for the specific outcomes: CHD (0.730), heart failure (0.753), stroke (0.688), and mortality (0.719). The prediction tool was superior to the Framingham model at predicting CHD and was at least as accurate as the UKPDS model at predicting stroke.</p>
+        <p><bold>Conclusions.</bold> We created an accurate tool for predicting the risk of stroke, coronary heart disease, heart failure, and death in patients with type 2 diabetes. The calculator is available online at <uri xlink:href="http://rcalc.ccf.org">http://rcalc.ccf.org</uri> under the heading “Type 2 Diabetes” and entitled, “Predicting 5-Year Morbidity and Mortality.” This may be a valuable tool to aid the clinician’s choice of an oral hypoglycemic, to better inform patients, and to motivate dialogue between physician and patient.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Type 2 diabetes mellitus</kwd>
+        <kwd>Prediction</kwd>
+        <kwd>Propensity</kwd>
+        <kwd>Coronary heart disease</kwd>
+        <kwd>Heart failure</kwd>
+        <kwd>Stroke</kwd>
+        <kwd>Mortality</kwd>
+        <kwd>Electronic health record</kwd>
+        <kwd>Hypoglycemic agents</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>AstraZeneca Pharmaceuticals</funding-source>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>Sarnoff Cardiovascular Foundation, Case Western Reserve University/Cleveland Clinic CTSA Grant Number UL1 RR024989 from the National Center for Research Resources (NCRR)</funding-source>
+        </award-group>
+        <funding-statement>Research was funded by a grant from AstraZeneca Pharmaceuticals in Wilmington, DE, and the Sarnoff Cardiovascular Foundation in Washington, DC. The online risk calculator resulting from this project was made possible by the Case Western Reserve University/Cleveland Clinic CTSA Grant Number UL1 RR024989 from the National Center for Research Resources (NCRR), a component of the National Institutes of Health and NIH roadmap for Medical Research. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Optimizing treatment of type 2 diabetes requires the consideration of a number of important outcomes such as vascular morbidity, heart failure, and mortality. Informed treatment decisions are extremely difficult to make because the literature is frequently inconclusive about the preferred treatment. The best outcomes are not always experienced by patients with the best glycemic control (<xref ref-type="bibr" rid="ref-1">Abraira et al., 1997</xref>; <xref ref-type="bibr" rid="ref-11">Mellbin et al., 2008</xref>; <xref ref-type="bibr" rid="ref-4">Duckworth et al., 2009</xref>). And, head-to-head comparisons of clinical outcomes between the oral hypoglycemic agents are lacking (<xref ref-type="bibr" rid="ref-2">Bolen et al., 2007</xref>). In addition, the most effective oral hypoglycemic drug likely depends on patient characteristics and comorbid conditions.</p>
+      <p>Calculators modeled from cohorts that are not exclusively comprised of patients with type 2 diabetes have been shown to predict poorly when applied to patients with diabetes (<xref ref-type="bibr" rid="ref-14">Sheridan, Pignone &amp; Mulrow, 2003</xref>; <xref ref-type="bibr" rid="ref-6">Guzder et al., 2005</xref>; <xref ref-type="bibr" rid="ref-3">Coleman et al., 2007</xref>). The calculators that have been fashioned specifically for patients with type 2 diabetes only address single outcomes such as stroke (<xref ref-type="bibr" rid="ref-19">Wolf et al., 1991</xref>; <xref ref-type="bibr" rid="ref-9">Kothari et al., 2002</xref>), coronary heart disease (<xref ref-type="bibr" rid="ref-18">Wilson et al., 1998</xref>; <xref ref-type="bibr" rid="ref-15">Stevens et al., 2001</xref>; <xref ref-type="bibr" rid="ref-10">Lee et al., 2006</xref>), or mortality (<xref ref-type="bibr" rid="ref-8">Hong Kong Diabetes Registry et al., 2008</xref>; <xref ref-type="bibr" rid="ref-17">Wells et al., 2008</xref>). Other complications – like heart failure, which is much more prevalent among diabetic patients (12%) than the general population (3.9%) (<xref ref-type="bibr" rid="ref-13">Nichols et al., 2001</xref>)– have not been modeled with respect to risk at all. Each of these risk assessments exist in different locations and were modeled using slightly different populations, parameters and methods. The result is that they are difficult to combine, and not readily used by physicians.</p>
+      <p>The purpose of this project was to create a tool that would assist a clinician (and patient) with the selection of an oral hypoglycemic medication. The tool was designed to allow the consideration of a number of common complications and mortality separately but simultaneously, in a more realistic approximation of the complex decision-making process of risk optimization.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <p>A retrospective cohort gathered from the electronic health records (EHR) at the Cleveland Clinic between 1998 and 2006 was used for this study. The data were recorded for patients with type 2 diabetes for clinical and administrative purposes. The research in this project was approved by the Institutional Review Board of the Cleveland Clinic Foundation (Study #06-635) which granted a waiver of informed consent. Patients entered and exited the cohort according to their actual clinical courses and had varying follow-up periods. Baseline was defined as the date of first prescription of an oral hypoglycemic agent in an eligible patient.</p>
+      <p>Patients were included in the analysis and modeling if they were 18 years of age or older, and carried a diagnosis of type 2 diabetes as determined by International Classification of Diseases, 9th revision (ICD-9) codes (250–250.99, 357.2, 362.01, 362.02, 366.41). The diagnosis of diabetes was required to be recorded a minimum of twice in order to reduce the chance of misclassification due to “rule out” diagnoses. Patients on insulin were included in the study since this medication is frequently used in the treatment of type 2 diabetes. However patients on insulin were still required to be on at least one oral hypoglycemic agent in order to exclude patients with type 1 diabetes.</p>
+      <p>The analysis was limited to patients who were prescribed a single one of the following oral hypoglycemic agents: sulfonylureas (SFUs), meglitinides (MEGs), biguanides (BIGs), or thiazolidinediones (TZDs). Patients with prescriptions for multiple oral agents at baseline were excluded because of the substantial number of possible two- and three-drug combinations. Patients prescribed alpha-glucosidase inhibitors, non-insulin injectable medications, and other less-commonly used medications were excluded because of inadequate sample sizes.</p>
+      <p>Patients with advanced disease on dialysis were excluded. Those patients who previously experienced the event of interest (e.g., stroke in the stroke model) were excluded from modeling of that specific outcome. Patients with a documented history of a transient ischemic attack were also excluded from the stroke analysis. Some patients with polycystic ovarian syndrome (ICD-9 256.4) can be placed on BIGs for management; to avoid confusion, patients with such a recorded diagnosis were also excluded. The EHR contained 49,939 patients with type 2 diabetes who were prescribed at least one oral agent. The exclusion of 16,872 patients on multiple oral agents left a final sample size of 33,067.</p>
+      <p>Four primary outcomes were modeled separately: stroke, heart failure, coronary heart disease (CHD), and mortality. Stroke was defined according to ICD-9 codes 430-434 and 436-438. These codes exclude transient ischemic attack as this diagnosis is difficult to capture reliably in the EHR. CHD was defined as a recorded diagnosis of CHD (ICD9 410-414), documentation of a coronary revascularization procedure, or documentation of CHD as a cause of death on death certificate data obtained from the National Death Index (National Center for Health Statistics, Hyattsville, MD). Heart failure was defined as documented heart failure (ICD9 402.01, 402.11, 402.91, 428.00–428.99, 404.01, 404.11, or 404.91) and/or left ventricular ejection fraction (LVEF) &gt;40% on echocardiogram. Mortality was determined from vital status in the electronic health records (EHR) and/or the Social Security Death Index (SSDI).</p>
+      <p>Potential predictor variables for each of the four models were chosen individually based on their clinical and physiological relevance to the individual outcomes (<xref ref-type="table" rid="table-2">Table 2</xref>). Values for each predictor variable were extracted from the EHR. The baseline value for each predictor variable was defined as the value of the variable on the baseline date. If missing, the most recent historical value was used, or the value closest to the baseline date up to 21 days following baseline. Patients were considered to have a new diagnosis of type 2 diabetes if they had been seen before their baseline date by either an endocrinologist or primary care physician at Cleveland Clinic and did not have a diagnosis of diabetes entered in the EHR at that time.</p>
+      <p>The analytic dataset was built using SAS, version 9.1. In order to maximize the available information and to reduce the potential bias introduced by deleting incomplete records, missing values were imputed using the Multiple Imputation by Chained Equations (MICE) package, version 2.3, for R. Ten complete imputed datasets were created using predictive mean matching, logistic regression, and polytomous regression for numeric, binary, and categorical variables, respectively. The missing data were imputed using all of the other covariates as well as the outcomes as predictor variables which has been shown to improve accuracy and decrease bias (<xref ref-type="bibr" rid="ref-12">Moons et al., 2006</xref>). Patients were censored at the time of their last follow up (or the date of the last SSDI update for mortality) and therefore imputation was not employed for the outcome information.</p>
+      <p>For mortality, a Cox proportional hazards regression model was fit with time to death as the outcome. For stroke, heart failure, and coronary heart disease, a competing risks regression model was fit with death considered the only competing event. Statistical analyses were performed using R, version 2.10.</p>
+      <p>Given that oral hypoglycemic medication is our variable of interest, a limited number of potential interactions were considered that might result from inclusion of medication in the predictive model. An interaction of <italic>medication class x glomerular filtration rate (GFR)</italic> and <italic>medication class x age</italic> was considered due to precautions advised for use of biguanides (BIGs) in older adults and in patients with renal dysfunction. Similarly, for <italic>medication class x congestive heart failure (CHF)</italic>, there are precautions advised for using TZDs and BIGs in patients with heart failure. (This interaction was not included in the heart failure model.) For parsimony, interactions were only included in the final model if they were statistically significant (<italic>p</italic> &lt; 0.05).</p>
+      <p>A modified version of Harrell’s “model approximation” (aka step-down) method (<xref ref-type="bibr" rid="ref-7">Harrell, Lee &amp; Mark, 1996</xref>) that maximized the concordance index (c-statistic, a measure of predictive discrimination) and not R-squared (a measure of explained variation) was used for variable selection. Variables in the full models for each outcome were chosen according to clinical relevance (<xref ref-type="table" rid="table-2">Table 2</xref>). Medication, as our primary variable of interest, was forced into each model. Interactions were included only when the interaction variables themselves remained in the model. The final model represents the subset of variables maximizing the c-statistic.</p>
+      <p>Propensity regression was utilized to adjust for residual confounding by indication. There was agreement among the physicians and investigators that this effect was likely to be small between groups placed on SFUs, TZDs, and MEGs, but large when comparing these to the group of patients placed on a BIG alone (i.e. healther patients with less severe disease are more likely to be prescribed BIG). The propensity parameter included in the final regression model was the probability of receiving BIG and was calculated from a logistic regression model that included all other dependent variables. Model accuracy was assessed using ten-fold cross-validation in order to prevent overfit bias. The cross-validation was performed by randomly dividing the dataset into ten equal sections and setting aside one section as a test dataset while using the other nine sections as a training dataset. The variable selection, propensity score calculations, and model building were all performed in the training dataset. The prediction accuracy was assessed in the test dataset that consisted of patients systematically not included in the training data. This process was repeated a total of ten times with each section of the data serving as a test dataset exactly once. The c-statistic was calculated for each model to demonstrate the model’s ability to identify the patient at higher risk (discrimination). Calibration was assessed graphically by plotting the predicted risk against the actual risk in each quintile.</p>
+      <p>The final prediction model for CHD was compared head-to-head with the Framingham model described by <xref ref-type="bibr" rid="ref-18">Wilson et al. (1998)</xref>. This comparison was performed in a subset of patients between 30–74 years of age in order to fairly represent the population for which the Framingham model was intended. In addition, the test dataset was limited to patients for which complete data prior to imputation was available for calculating the Framingham risk score. The final comparison dataset after these restrictions consisted of 7,714 patients. The Framingham model was designed to produce 10-year risk, whereas our model produces 5-year risk predictions. Thus, an assumption was made that the Framingham model follows an exponential association, and the 5 year risk was estimated accordingly. However, since these models are not time-dependent, the particular predicted follow up time will have no effect on the calculated discrimination (a patient with higher risk in 5 years will also have higher risk in 10 years). The predictions used to compare with the Framingham model were derived from the ten-fold cross validation and were therefore “overfit- corrected” as none of the predictions were made on patients used to build the model.</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.87/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Calibration curves for the final models.</title>
+          <p>The curves display the predicted probabilities on the <italic>x</italic>-axis and the Kaplan–Meier estimations on the <italic>y</italic>-axis according to quintiles of the predicted probabilities.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/87/fig-1.png"/>
+      </fig>
+      <p>The final prediction model for stroke is compared to that created by the United Kingdom Prospective Diabetes Study (UKPDS) risk engine (<xref ref-type="bibr" rid="ref-9">Kothari et al., 2002</xref>). Again, a subset of the cohort was used in order to make a more fair comparison. The subset was limited to patients newly diagnosed with type 2 diabetes (i.e. length of diabetes  = 0) since the UKPDS model contains a predictor variable for length of diabetes that was not available in the current cohort. The comparison dataset was also limited to patients between 25–65 years of age and without a history of coronary heart disease. Furthermore, the subset was limited to patients with triglycerides &lt;500 mg/dl since the total cholesterol levels used for the UKPDS prediction were calculated using the Friedewald equation which can be inaccurate in patients with extremely high triglyceride values (<xref ref-type="bibr" rid="ref-16">Warnick et al., 1990</xref>). Finally, the dataset was limited to patients who had complete data prior to imputation for the calculation of the UKPDS prediction. The final stroke comparison dataset consisted of 2,072 patients. Unfortunately, an insufficient number of events in each risk quintile prevented the creation of a calibration curve. Once again, the predictions created in this study were overfit corrected using cross-validation.</p>
+    </sec>
+    <sec>
+      <title>Results and Discussion</title>
+      <p>Characteristics of patients on each of the four hypoglycemic types can be seen in <xref ref-type="table" rid="table-1">Table 1</xref>. Overall the patients were predominantly white with a roughly equal gender distribution. Patients taking BIGs were younger, had less heart failure, and were more likely to have newly diagnosed diabetes. Variables included in the final models after Harrell’s model approximation (aka step-down) method are shown below in <xref ref-type="table" rid="table-2">Table 2</xref>. It is important to note that the final variables do not necessarily reflect the clinical importance of that individual variable but rather the best predictive model as a whole.</p>
+      <table-wrap id="table-1">
+        <object-id pub-id-type="doi">10.7717/peerj.87/table-1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Characteristics of the overall cohort of patients with type 2 diabetes.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/87/table-1.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left"/>
+                <th align="left">BIG</th>
+                <th align="left">MEG</th>
+                <th align="left">SFU</th>
+                <th align="left">TZD</th>
+                <th align="left">Missing</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">
+                  <italic>n</italic>
+                </td>
+                <td align="left">14708</td>
+                <td align="left">773</td>
+                <td align="left">12606</td>
+                <td align="left">4980</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Continuous<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref> variables</italic>
+                </td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Age</td>
+                <td align="left">57.8</td>
+                <td align="left">66.4</td>
+                <td align="left">66.4</td>
+                <td align="left">61.9</td>
+                <td align="left">0</td>
+              </tr>
+              <tr>
+                <td align="left">Body Mass Index</td>
+                <td align="left">33.6</td>
+                <td align="left">30.4</td>
+                <td align="left">31.1</td>
+                <td align="left">33.3</td>
+                <td align="left">13986</td>
+              </tr>
+              <tr>
+                <td align="left">Hemoglobin A1c (%)</td>
+                <td align="left">7.8</td>
+                <td align="left">7.1</td>
+                <td align="left">7.7</td>
+                <td align="left">7.8</td>
+                <td align="left">16717</td>
+              </tr>
+              <tr>
+                <td align="left">Systolic BP (mm of Hg)</td>
+                <td align="left">133.2</td>
+                <td align="left">133.5</td>
+                <td align="left">135.1</td>
+                <td align="left">133.5</td>
+                <td align="left">6482</td>
+              </tr>
+              <tr>
+                <td align="left">Diastolic BP (mm of Hg)</td>
+                <td align="left">77.7</td>
+                <td align="left">72.7</td>
+                <td align="left">75</td>
+                <td align="left">74.4</td>
+                <td align="left">6489</td>
+              </tr>
+              <tr>
+                <td align="left">LDL (mg/dl)</td>
+                <td align="left">109.4</td>
+                <td align="left">93.7</td>
+                <td align="left">105.9</td>
+                <td align="left">105.7</td>
+                <td align="left">17347</td>
+              </tr>
+              <tr>
+                <td align="left">HDL (mg/dl)</td>
+                <td align="left">47.1</td>
+                <td align="left">46.8</td>
+                <td align="left">45.8</td>
+                <td align="left">46.3</td>
+                <td align="left">16653</td>
+              </tr>
+              <tr>
+                <td align="left">Triglycerides (mg/dl)</td>
+                <td align="left">203.7</td>
+                <td align="left">174.8</td>
+                <td align="left">202.5</td>
+                <td align="left">210.6</td>
+                <td align="left">16861</td>
+              </tr>
+              <tr>
+                <td align="left">GFR (ml/min)</td>
+                <td align="left">75.5</td>
+                <td align="left">58</td>
+                <td align="left">66.3</td>
+                <td align="left">65.7</td>
+                <td align="left">10702</td>
+              </tr>
+              <tr>
+                <td align="left">Income</td>
+                <td align="left">45047.2</td>
+                <td align="left">43768.1</td>
+                <td align="left">43999.7</td>
+                <td align="left">43851.7</td>
+                <td align="left">702</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Categorical<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref> variables</italic>
+                </td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Male</td>
+                <td align="left">6733 (45.8)</td>
+                <td align="left">418 (54.1)</td>
+                <td align="left">6961 (55.2)</td>
+                <td align="left">2600 (52.2)</td>
+                <td align="left">2</td>
+              </tr>
+              <tr>
+                <td align="left">Caucasian</td>
+                <td align="left">10778 (76.2)</td>
+                <td align="left">626 (83.7)</td>
+                <td align="left">9553 (78.2)</td>
+                <td align="left">3917 (81.8)</td>
+                <td align="left">1175</td>
+              </tr>
+              <tr>
+                <td align="left">Heart Failure</td>
+                <td align="left">431 (2.9)</td>
+                <td align="left">97 (12.6)</td>
+                <td align="left">1030 (8.2)</td>
+                <td align="left">255 (5.1)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Coronary Heart Disesae</td>
+                <td align="left">1528 (10.4)</td>
+                <td align="left">147 (19.0)</td>
+                <td align="left">1790 (14.2)</td>
+                <td align="left">688 (13.8)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Insulin</td>
+                <td align="left">1934 (13.2)</td>
+                <td align="left">214 (27.7)</td>
+                <td align="left">1371 (10.9)</td>
+                <td align="left">1568 (31.5)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Aspirin</td>
+                <td align="left">3566 (24.3)</td>
+                <td align="left">243 (31.4)</td>
+                <td align="left">3171 (25.2)</td>
+                <td align="left">1325 (26.6)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Plavix</td>
+                <td align="left">929 (6.3)</td>
+                <td align="left">98 (12.7)</td>
+                <td align="left">1059 (8.4)</td>
+                <td align="left">516 (10.4)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">ACE-I/ARB</td>
+                <td align="left">7286 (49.5)</td>
+                <td align="left">443 (57.3)</td>
+                <td align="left">6699 (53.1)</td>
+                <td align="left">2921 (58.7)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Atrial Fibrillation</td>
+                <td align="left">476 (3.2)</td>
+                <td align="left">50 (6.5)</td>
+                <td align="left">757 (6.0)</td>
+                <td align="left">191 (3.8)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Cholesterol Medication</td>
+                <td align="left">7098 (48.3)</td>
+                <td align="left">409 (52.9)</td>
+                <td align="left">5630 (44.7)</td>
+                <td align="left">2911 (58.5)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">New Diabetes</td>
+                <td align="left">3140 (21.4)</td>
+                <td align="left">37 (4.8)</td>
+                <td align="left">1002 (8.0)</td>
+                <td align="left">399 (8.0)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Hypertension Medication</td>
+                <td align="left">10242 (69.6)</td>
+                <td align="left">639 (82.7)</td>
+                <td align="left">9976 (79.1)</td>
+                <td align="left">3939 (79.1)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Warfarin</td>
+                <td align="left">858 (5.8)</td>
+                <td align="left">120 (15.5)</td>
+                <td align="left">1473 (11.7)</td>
+                <td align="left">399 (8.0)</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left">Smoking Status</td>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left"/>
+                <td align="left">8195</td>
+              </tr>
+              <tr>
+                <td align="left">Never</td>
+                <td align="left">5763 (49.0)</td>
+                <td align="left">254 (46.7)</td>
+                <td align="left">3941 (44.4)</td>
+                <td align="left">1643 (44.7)</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Quit</td>
+                <td align="left">4126 (35.1)</td>
+                <td align="left">239 (43.9)</td>
+                <td align="left">3649 (41.1)</td>
+                <td align="left">1461 (39.7)</td>
+                <td align="left"/>
+              </tr>
+              <tr>
+                <td align="left">Current</td>
+                <td align="left">1877 (16.0)</td>
+                <td align="left">51 (9.4)</td>
+                <td align="left">1293 (14.6)</td>
+                <td align="left">575 (15.6)</td>
+                <td align="left"/>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-1fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-1fn1">
+            <label>a</label>
+            <p>Mean.</p>
+          </fn>
+          <fn id="table-1fn2">
+            <label>b</label>
+            <p>Count (%).</p>
+          </fn>
+          <fn id="table-1fn3" fn-type="other">
+            <p>BIG  =  Biguanide.</p>
+          </fn>
+          <fn id="table-1fn4" fn-type="other">
+            <p>MEG  =  Meglitinide.</p>
+          </fn>
+          <fn id="table-1fn5" fn-type="other">
+            <p>SFU  =  Sulfonylurea.</p>
+          </fn>
+          <fn id="table-1fn6" fn-type="other">
+            <p>TZD  =  Thiazolidinedione.</p>
+          </fn>
+          <fn id="table-1fn7" fn-type="other">
+            <p>BP  =  Blood Pressure.</p>
+          </fn>
+          <fn id="table-1fn8" fn-type="other">
+            <p>LDL  =  Low Density Lipoprotein.</p>
+          </fn>
+          <fn id="table-1fn9" fn-type="other">
+            <p>HDL  =  High Density Lipoprotein.</p>
+          </fn>
+          <fn id="table-1fn10" fn-type="other">
+            <p>GFR  =  Glomerular Filtration Rate.</p>
+          </fn>
+          <fn id="table-1fn11" fn-type="other">
+            <p>ACE-I/ARB  =  Angiotensin Converting Enzyme Inhibitor or Angiotensin Receptor Blocker.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="table-2">
+        <object-id pub-id-type="doi">10.7717/peerj.87/table-2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <title>Variables included in the four final models.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/87/table-2.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left"/>
+                <th align="left">CHD</th>
+                <th align="left">Heart failure</th>
+                <th align="left">Stroke</th>
+                <th align="left">Mortality</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Propensity for Biguanide</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Age</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Gender</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Removed</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Ethnicity</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Removed</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Medication</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Income</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Glomerular Filtration Rate</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Body Mass Index</td>
+                <td align="left">Removed</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Hemoglobin A1c</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Coronary Heart Disease</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Removed</td>
+              </tr>
+              <tr>
+                <td align="left">Smoking Status</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Systolic Blood Pressure</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Diastolic Blood Pressure</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Insulin</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Clopidogrel</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Aspirin</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">ACE-I/ARB</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Cholesterol Medication</td>
+                <td align="left">Included</td>
+                <td align="left">Removed</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">New Diabetes</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Low Density Lipoprotein</td>
+                <td align="left">Included</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">High Denisty Lipoprotein</td>
+                <td align="left">Included</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Triglycerides</td>
+                <td align="left">Removed</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Heart Failure</td>
+                <td align="left">Removed</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Atrial Fibrillation</td>
+                <td align="left">Not considered</td>
+                <td align="left">Not considered</td>
+                <td align="left">Removed</td>
+                <td align="left">Not considered</td>
+              </tr>
+              <tr>
+                <td align="left">Hypertension Medication</td>
+                <td align="left">Not considered</td>
+                <td align="left">Not considered</td>
+                <td align="left">Removed</td>
+                <td align="left">Not considered</td>
+              </tr>
+              <tr>
+                <td align="left">Warfarin</td>
+                <td align="left">Not considered</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+                <td align="left">Not considered</td>
+              </tr>
+              <tr>
+                <td align="left">Age X Medication</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">GFR X Medication</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+              <tr>
+                <td align="left">Heart Failure X Medication</td>
+                <td align="left">Removed</td>
+                <td align="left">Not considered</td>
+                <td align="left">Included</td>
+                <td align="left">Included</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-2fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-2fn1" fn-type="other">
+            <p>CHD  =  Coronary Heart Disease.</p>
+          </fn>
+          <fn id="table-2fn2" fn-type="other">
+            <p>ACE-I/ARB  =  Angiotensin Converting Enzyme Inhibitor or Angiotensin Receptor Blocker.</p>
+          </fn>
+          <fn id="table-2fn3" fn-type="other">
+            <p>GFR  =  Glomerular Filtration Rate.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>The final cohort sizes, median follow-up time, and model discrimination (c-statistic) are shown in <xref ref-type="table" rid="table-3">Table 3</xref>, and the calibration curves appear in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>. The predictions are quite accurate across the board, with excellent calibration in CHF and CHD. The stroke and mortality models appear to be slightly less-well calibrated; mortality specifically underestimates risk in the higher risk quintiles. The concordance indices range from 0.688 to 0.753 which indicates that the model correctly identifies the higher risk patient among discordant pairs 69% to 75% of the time. An online risk calculator is available at <uri xlink:href="http://rcalc.ccf.org">http://rcalc.ccf.org</uri> under the heading “Type 2 Diabetes” and entitled, “Predicting 5-Year Morbidity and Mortality.” The final published calculator will be posted at <uri xlink:href="http://rcalc.ccf.org">http://rcalc.ccf.org</uri>.</p>
+      <table-wrap id="table-3">
+        <object-id pub-id-type="doi">10.7717/peerj.87/table-3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <title>Summary of the final model results.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/87/table-3.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left"/>
+                <th align="left">Final cohort<break/>size</th>
+                <th align="left">Median follow-up<break/>time (days)</th>
+                <th align="left">N with Follow-up<break/>more than 5 years</th>
+                <th align="left">C-statistic</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Heart failure</td>
+                <td align="left">25,882</td>
+                <td align="left">503</td>
+                <td align="left">1,211</td>
+                <td align="left">0.7530</td>
+              </tr>
+              <tr>
+                <td align="left">Coronary heart disease</td>
+                <td align="left">23,906</td>
+                <td align="left">462</td>
+                <td align="left">943</td>
+                <td align="left">0.7298</td>
+              </tr>
+              <tr>
+                <td align="left">Stroke</td>
+                <td align="left">26,140</td>
+                <td align="left">501</td>
+                <td align="left">1,088</td>
+                <td align="left">0.6881</td>
+              </tr>
+              <tr>
+                <td align="left">Mortality</td>
+                <td align="left">33,067</td>
+                <td align="left">769</td>
+                <td align="left">1,955</td>
+                <td align="left">0.7195</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>In the head-to-head comparisons for CHD, the final c-statistics for our CHD model and Framingham were 0.75 and 0.54, respectively. Calibration curves showed our model to be well calibrated, while the Framingham model appeared to underestimate CHD risk at all risk quintiles (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Other studies have also found that Framingham does not perform well in patients with type 2 diabetes (<xref ref-type="bibr" rid="ref-14">Sheridan, Pignone &amp; Mulrow, 2003</xref>; <xref ref-type="bibr" rid="ref-6">Guzder et al., 2005</xref>; <xref ref-type="bibr" rid="ref-3">Coleman et al., 2007</xref>). Unfortunately, the CHD prediction model could not be compared head-to-head with UKPDS due to differences in the definition of CHD between the current study and the UKPDS. Specifically, the UKPDS defined CHD as MI, Fatal MI, and sudden death. It was not possible to determine which patients in the current study experienced a sudden death and it was also felt that it was important to include coronary revascularization procedures as a CHD endpoint.</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.87/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Calibration Curves for the CHD Outcome.</title>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/87/fig-2.png"/>
+      </fig>
+      <p>For stroke, the final c-statistics were almost indistinguishable between our model (0.753) and the UKPDS model (0.752). The subset of data used for the UKPDS comparison was not large enough to create a calibration curve, but there was some evidence that the UKPDS may be underestimating stroke risk more than the stroke model created in this study when examining calibration in the large. The median predicted 5-year risk of stroke according to the UKPDS and the new model were 0.1% and 6.7%, respectively; the actual 5-year incidence of stroke was 16.4% in this subset.</p>
+      <p>The prediction calculator created in this study is the first of its kind to predict a risk profile of multiple endpoints for individual patients with type 2 diabetes. The Archimedes model has been created to estimate the overall number of different adverse outcomes in a cohort of patients with diabetes for use in cost analyses and for clinical trial simulation (<xref ref-type="bibr" rid="ref-5">Eddy &amp; Schlessinger, 2003</xref>). But, the Archimedes model does not provide risk estimates for individual patients, and therefore cannot be compared head-to-head with the models created in this study. Other tools have been created to address individual endpoints (Framingham, UKPDS), but this tool is the first of its kind to predict multiple endpoints simultaneously for this population. This tool more closely addresses physician and patient real-world concerns for preventing a wide range of life-threatening complications. Further, it improves on the accuracy of past model’s predictions. It is interesting to note that our models created with observational EHR data matched or surpassed other published tools created using clinical trial data. Our use of propensity scores should reduce any potential concerns about treatment bias and the employment of competing risk regression should help prevent the overestimation of risks that might be caused by ignoring the competing risk of death for the CHF, CHD, and stroke outcomes.</p>
+      <p>In the past, the necessity of using a nomogram to calculate risk made large models difficult to use quickly and efficiently; replacement of this method with a free and accessible web-based calculator rectifies this issue. With the inclusion of so many individual predictor variables, the accuracy of the model is preserved while the web interface makes it easy to use. If the performance of the model is evaluated externally and found to be strong, it could be linked directly to the EHR, allowing patient characteristics to be directly imported into the calculator. All of the variables included in our models are readily accessible, making it functional for patients and clinicians everywhere.</p>
+      <p>Some limitations to our study should be highlighted. First, the duration of diabetes was not collected uniformly and therefore could not be included in the model. The patients in our cohort probably tend to be newer diabetic patients since the population was restricted to patients prescribed a single oral agent and therefore the risk calculator may be most appropriate for those types of patients. Future models may be able to out-predict ours if this variable can be captured. Of course, given the potentially lengthy period during which a patient may have undiagnosed diabetes or pre-diabetes, this variable may not add much to the accuracy of the model given the many other covariates already included. Secondly, the oral hypoglycemic included in the model was the medication at baseline. Medication changes were not considered since these future changes are unknown at the time when a new patient presents for oral hypoglycemic therapy. A final weakness of the study involves the substantial amount of missing data for some predictor variables. The imputation techniques used, however, help to limit the potential bias caused by simply eliminating incomplete records. Even with these limitations, should this model prove valid in external populations, it could prove an extremely helpful tool for clinicians who seek to understand their patient’s personal risk profile.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The prediction tool created in this study was accurate in predicting 5-year morbidity and mortality among patients with type 2 diabetes. The calculator outperformed the Framingham model in predicting CHD while producing a model for stroke that had a discrimination that is comparable to the UKPDS model. The next step would be to validate this tool externally in other cohorts of patients with type 2 diabetes. If it performs well externally, it could serve as a tool for clinicians to tailor diabetes treatments to their individual patients with the aim of decreasing morbidity and improving survival.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>MK is a consultant for Pfizer, Merck, and GlaxoSmithKline, and is an Academic Editor for PeerJ. The other authors do not report any potential conflicts of interest.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Brian J. Wells</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Rachel Roth</xref> and <xref ref-type="contrib" rid="author-3">Amy S. Nowacki</xref> analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Susana Arrigain</xref> and <xref ref-type="contrib" rid="author-5">Changhong Yu</xref> performed the experiments, analyzed the data.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-6">Wayne A. Rosenkrans Jr.</xref> conceived and designed the experiments.</p>
+        </fn>
+        <fn id="contribution-5" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-7">Michael W. Kattan</xref> conceived and designed the experiments, performed the experiments.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>Institutional Review Board of the Cleveland Clinic Foundation Study #06-635.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Abraira et al. (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abraira</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Colwell</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nuttall</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Sawin</surname>
+              <given-names>CT</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Comstock</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Emanuele</surname>
+              <given-names>NV</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Pacold</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>HS</given-names>
+            </name>
+          </person-group>
+          <article-title>Cardiovascular events and correlates in the veterans affairs diabetes feasibility trial. Veterans affairs cooperative study on glycemic control and complications in type II diabetes</article-title>
+          <source>Archives of Internal Medicine</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>157</volume>
+          <fpage>181</fpage>
+          <lpage>188</lpage>
+          <pub-id pub-id-type="doi">10.1001/archinte.1997.00440230053007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Bolen et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Feldman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Vassy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yeh</surname>
+              <given-names>HC</given-names>
+            </name>
+            <name>
+              <surname>Marinopoulos</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wiley</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Selvin</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bass</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>Brancati</surname>
+              <given-names>FL</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic review: comparative effectiveness and safety of oral medications for type 2 diabetes mellitus</article-title>
+          <source>Annals of Internal Medicine</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>147</volume>
+          <fpage>386</fpage>
+          <lpage>399</lpage>
+          <pub-id pub-id-type="doi">10.7326/0003-4819-147-6-200709180-00178</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Coleman et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coleman</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Retnakaran</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Holman</surname>
+              <given-names>RR</given-names>
+            </name>
+          </person-group>
+          <article-title>Framingham, SCORE, and DECODE risk equations do not provide reliable cardiovascular risk estimates in type 2 diabetes</article-title>
+          <source>Diabetes Care</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>30</volume>
+          <fpage>1292</fpage>
+          <lpage>1293</lpage>
+          <pub-id pub-id-type="doi">10.2337/dc06-1358</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Duckworth et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duckworth</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Abraira</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Moritz</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Reda</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Emanuele</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Reaven</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Zieve</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <name>
+              <surname>Marks</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>SN</given-names>
+            </name>
+            <name>
+              <surname>Hayward</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Warren</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Goldman</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>McCarren</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vitek</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>WG</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>GD</given-names>
+            </name>
+            <collab>VADT Investigators</collab>
+          </person-group>
+          <article-title>Glucose control and vascular complications in veterans with type 2 diabetes</article-title>
+          <source>New England Journal of Medicine</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>360</volume>
+          <fpage>129</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMoa0808431</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Eddy &amp; Schlessinger (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eddy</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Schlessinger</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Archimedes: a trial-validated model of diabetes</article-title>
+          <source>Diabetes Care</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>26</volume>
+          <fpage>3093</fpage>
+          <lpage>3101</lpage>
+          <pub-id pub-id-type="doi">10.2337/diacare.26.11.3093</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Guzder et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guzder</surname>
+              <given-names>RN</given-names>
+            </name>
+            <name>
+              <surname>Gatling</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Mullee</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Mehta</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Byrne</surname>
+              <given-names>CD</given-names>
+            </name>
+          </person-group>
+          <article-title>Prognostic value of the Framingham cardiovascular risk equation and the UKPDS risk engine for coronary heart disease in newly diagnosed Type 2 diabetes: results from a United Kingdom study</article-title>
+          <source>Diabetes &amp; Metabolism</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>22</volume>
+          <fpage>554</fpage>
+          <lpage>562</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Harrell, Lee &amp; Mark (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harrell</surname>
+              <given-names>FE</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Mark</surname>
+              <given-names>DB</given-names>
+            </name>
+          </person-group>
+          <article-title>Multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors</article-title>
+          <source>Statistics in Medicine</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>15</volume>
+          <fpage>361</fpage>
+          <lpage>387</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1097-0258(19960229)15:4&lt;361::AID-SIM168&gt;3.0.CO;2-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Hong Kong Diabetes Registry et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Hong Kong Diabetes Registry</collab>
+            <name>
+              <surname>Yang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>So</surname>
+              <given-names>WY</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Kong</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Lam</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Ho</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Cockram</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Ko</surname>
+              <given-names>GT</given-names>
+            </name>
+            <name>
+              <surname>Chow</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>VC</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Development and validation of an all-cause mortality risk score in type 2 diabetes</article-title>
+          <source>Archives of Internal Medicine</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>168</volume>
+          <fpage>451</fpage>
+          <lpage>457</lpage>
+          <pub-id pub-id-type="doi">10.1001/archinte.168.5.451</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Kothari et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kothari</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Adler</surname>
+              <given-names>AI</given-names>
+            </name>
+            <name>
+              <surname>Stratton</surname>
+              <given-names>IM</given-names>
+            </name>
+            <name>
+              <surname>Manley</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Neil</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Holman</surname>
+              <given-names>RR</given-names>
+            </name>
+          </person-group>
+          <article-title>UKPDS 60: risk of stroke in type 2 diabetes estimated by the UK prospective diabetes study risk engine</article-title>
+          <source>Stroke</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>33</volume>
+          <fpage>1776</fpage>
+          <lpage>1781</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.STR.0000020091.07144.C7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Lee et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>ET</given-names>
+            </name>
+            <name>
+              <surname>Howard</surname>
+              <given-names>BV</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Welty</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Galloway</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Best</surname>
+              <given-names>LG</given-names>
+            </name>
+            <name>
+              <surname>Fabsitz</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yeh</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Devereux</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of coronary heart disease in a population with high prevalence of diabetes and albuminuria: the strong heart study</article-title>
+          <source>Circulation</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>113</volume>
+          <fpage>2897</fpage>
+          <lpage>2905</lpage>
+          <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.105.593178</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Mellbin et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mellbin</surname>
+              <given-names>LG</given-names>
+            </name>
+            <name>
+              <surname>Malmberg</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Norhammar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wedel</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ryden</surname>
+              <given-names>L</given-names>
+            </name>
+            <collab>DIGAMI 2 Investigators</collab>
+          </person-group>
+          <article-title>The impact of glucose lowering treatment on long-term prognosis in patients with type 2 diabetes and myocardial infarction: a report from the DIGAMI 2 trial</article-title>
+          <source>European Heart Journal</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>29</volume>
+          <fpage>166</fpage>
+          <lpage>176</lpage>
+          <pub-id pub-id-type="doi">10.1093/eurheartj/ehm518</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Moons et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moons</surname>
+              <given-names>KG</given-names>
+            </name>
+            <name>
+              <surname>Donders</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Stijnen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Harrell</surname>
+              <given-names>FE</given-names>
+              <suffix>Jr</suffix>
+            </name>
+          </person-group>
+          <article-title>Using the outcome for imputation of missing predictor values was preferred</article-title>
+          <source>Journal of Clinical Epidemiology</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>59</volume>
+          <fpage>1092</fpage>
+          <lpage>1101</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jclinepi.2006.01.009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Nichols et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nichols</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Hillier</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Erbey</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title>Congestive heart failure in type 2 diabetes: prevalence, incidence, and risk factors</article-title>
+          <source>Diabetes Care</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>24</volume>
+          <fpage>1614</fpage>
+          <lpage>1619</lpage>
+          <pub-id pub-id-type="doi">10.2337/diacare.24.9.1614</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Sheridan, Pignone &amp; Mulrow (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheridan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Pignone</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mulrow</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Framingham-based tools to calculate the global risk of coronary heart disease: a systematic review of tools for clinicians</article-title>
+          <source>Journal of General Internal Medicine</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>18</volume>
+          <fpage>1039</fpage>
+          <lpage>1052</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1525-1497.2003.30107.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Stevens et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevens</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Kothari</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Adler</surname>
+              <given-names>AI</given-names>
+            </name>
+            <name>
+              <surname>Stratton</surname>
+              <given-names>IM</given-names>
+            </name>
+            <collab>United Kingdom Prospective Diabetes Study (UKPDS) Group</collab>
+          </person-group>
+          <article-title>The UKPDS risk engine: a model for the risk of coronary heart disease in Type II diabetes (UKPDS 56)</article-title>
+          <source>Clinical Science (London)</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>101</volume>
+          <fpage>671</fpage>
+          <lpage>679</lpage>
+          <pub-id pub-id-type="doi">10.1042/CS20000335</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Warnick et al. (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Warnick</surname>
+              <given-names>GR</given-names>
+            </name>
+            <name>
+              <surname>Knopp</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Fitzpatrick</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Branson</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Estimating low-density lipoprotein cholesterol by the Friedewald equation is adequate for classifying patients on the basis of nationally recommended cutpoints</article-title>
+          <source>Clinical Chemistry</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>36</volume>
+          <fpage>15</fpage>
+          <lpage>19</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Wells et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wells</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Jain</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Arrigain</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rosenkrans</surname>
+              <given-names>WA</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Kattan</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting 6-year mortality risk in patients with type 2 diabetes</article-title>
+          <source>Diabetes Care</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>31</volume>
+          <fpage>2301</fpage>
+          <lpage>2306</lpage>
+          <pub-id pub-id-type="doi">10.2337/dc08-1047</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Wilson et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilson</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>D’Agostino</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Levy</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Belanger</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Silbershatz</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kannel</surname>
+              <given-names>WB</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of coronary heart disease using risk factor categories</article-title>
+          <source>Circulation</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>97</volume>
+          <fpage>1837</fpage>
+          <lpage>1847</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.CIR.97.18.1837</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Wolf et al. (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wolf</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>D’Agostino</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Belanger</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Kannel</surname>
+              <given-names>WB</given-names>
+            </name>
+          </person-group>
+          <article-title>Probability of stroke: a risk profile from the Framingham Study</article-title>
+          <source>Stroke</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>22</volume>
+          <fpage>312</fpage>
+          <lpage>318</lpage>
+          <pub-id pub-id-type="doi">10.1161/01.STR.22.3.312</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

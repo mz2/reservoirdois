@@ -1,1147 +1,1046 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">34</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.34</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Agricultural Science</subject>
+          <subject>Plant Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Coronatine inhibits stomatal closure and delays hypersensitive response cell death induced by nonhost bacterial pathogens</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Lee</surname>
+            <given-names>Seonghee</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Ishiga</surname>
+            <given-names>Yasuhiro</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Clermont</surname>
+            <given-names>Kristen</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="fn" rid="aufn-1">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Mysore</surname>
+            <given-names>Kirankumar S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>The Samuel Roberts Noble Foundation</institution>, <addr-line>Plant Biology</addr-line>, <addr-line>Ardmore, Oklahoma</addr-line>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Lubberstedt</surname>
+            <given-names>Thomas</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn id="aufn-1">
+          <label>2</label>
+          <p>Current address: Virginia Tech, Department of Biological Sciences, Blacksburg, VA, USA.</p>
+        </fn>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>ksmysore@noble.org</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e34</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-23">
+          <day>23</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-16">
+          <day>16</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Lee et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Lee et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/34"/>
+      <abstract>
+        <p><italic>Pseudomonas syringae</italic> is the most widespread bacterial pathogen in plants. Several strains of <italic>P. syringae</italic> produce a phytotoxin, coronatine (COR), which acts as a jasmonic acid mimic and inhibits plant defense responses and contributes to disease symptom development. In this study, we found that COR inhibits early defense responses during nonhost disease resistance. Stomatal closure induced by a nonhost pathogen, <italic>P. syringae</italic> pv. <italic>tabaci</italic>, was disrupted by COR in tomato epidermal peels. In addition, nonhost HR cell death triggered by <italic>P. syringae</italic> pv. <italic>tabaci</italic> on tomato was remarkably delayed when COR was supplemented along with <italic>P. syringae</italic> pv. <italic>tabaci</italic> inoculation. Using isochorismate synthase (ICS)-silenced tomato plants and transcript profiles of genes in SA- and JA-related defense pathways, we show that COR suppresses SA-mediated defense during nonhost resistance.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Coronatine</kwd>
+        <kwd>Nonhost resistance</kwd>
+        <kwd>Hypersensitive response</kwd>
+        <kwd>
+          <italic>Nicotiana benthamiana</italic>
+        </kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>The Samuel Roberts Noble Foundation</funding-source>
+        </award-group>
+        <funding-statement>This work was funded by the Samuel Roberts Noble Foundation. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Plants possess a natural innate immune system that efficiently detects potential pathogens. The initial stage of this defense system is based on the perception of pathogen- or microbe-associated molecular patterns (PAMPs or MAMPs) through pattern recognition receptors present at the plant cell surface (<xref ref-type="bibr" rid="ref-4">Boller &amp; Felix, 2009</xref>). Recent studies suggest that plant stomata can play an active role as part of the plant innate immune system in restricting bacterial invasion (<xref ref-type="bibr" rid="ref-12">Melotto, Underwood &amp; He, 2008</xref>; <xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>). Perception of multiple bacterial PAMPs, including flagellin, lipopolysaccharide (LPS) and elongation factor Tu (EF-Tu), induced closure of stomata in epidermal peels of <italic>Arabidopsis</italic> leaves (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>). Moreover, a significant induction of stomatal closure was observed within the first hour of contact with both host and nonhost bacterial pathogens (<xref ref-type="bibr" rid="ref-12">Melotto, Underwood &amp; He, 2008</xref>). However, bacterial pathogens have evolved to acquire specific virulence factors such as coronatine (COR) to overcome PAMP-triggered immunity (PTI) and stomata-based defense (<xref ref-type="bibr" rid="ref-20">Underwood, Melotto &amp; He, 2007</xref>). For example, the virulent pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 produces COR three hours after infection in the apoplast and on the plant surface to reopen closed stomata, thus allowing more bacteria to enter (<xref ref-type="bibr" rid="ref-12">Melotto, Underwood &amp; He, 2008</xref>; <xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>; <xref ref-type="bibr" rid="ref-20">Underwood, Melotto &amp; He, 2007</xref>). In addition, COR enhances bacterial multiplication in the apoplast and the formation of necrotic lesions (cell death) surrounded by chlorotic halos, thus promoting systemic susceptibility (<xref ref-type="bibr" rid="ref-2">Bender, 1999</xref>; <xref ref-type="bibr" rid="ref-7">Cui et al., 2005</xref>; <xref ref-type="bibr" rid="ref-16">Preston, Bertrand &amp; Rainey, 2001</xref>). Chlorosis associated with disease caused by several pathovars of <italic>P. syringae</italic> has been attributed mainly to the phytotoxin COR (<xref ref-type="bibr" rid="ref-3">Bender et al., 1987</xref>; <xref ref-type="bibr" rid="ref-24">Zhao et al., 2003</xref>).</p>
+      <p>COR consists of the polyketide coronafacic acid (CFA) (<xref ref-type="bibr" rid="ref-5">Brooks, Bender &amp; Kunkel, 2005</xref>) and coronamic acid (CMA), a cyclized derivative of isoleucine (<xref ref-type="bibr" rid="ref-14">Mitchell, 1985</xref>). COR has structural and functional similarity to jasmonates and jasmonic acid-isoleucine (JA-Ile) (<xref ref-type="bibr" rid="ref-10">Katsir et al., 2008</xref>; <xref ref-type="bibr" rid="ref-21">Uppalapati et al., 2005</xref>; <xref ref-type="bibr" rid="ref-23">Weiler et al., 1994</xref>). COR contributes to the virulence of <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 in <italic>Arabidopsis</italic>, tomato, collards (<italic>Brassica oleracea</italic>) and turnip (<xref ref-type="bibr" rid="ref-6">Brooks et al., 2004</xref>; <xref ref-type="bibr" rid="ref-24">Zhao et al., 2003</xref>). By mimicking jasmonates, COR stimulates the JA pathway in <italic>Arabidopsi</italic>s and tomato, and thereby functions to suppress the SA pathway and/or closure of stomata, thus allowing bacteria to reach higher densities <italic>in planta</italic> (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>; <xref ref-type="bibr" rid="ref-21">Uppalapati et al., 2005</xref>; <xref ref-type="bibr" rid="ref-24">Zhao et al., 2003</xref>). In a recent study, <xref ref-type="bibr" rid="ref-25">Zheng et al. (2012)</xref> reported that COR disrupts the accumulation of the important plant defense hormone salicylic acid (SA) for stomatal reopening and bacterial propagation in both local and systemic tissues of <italic>Arabidopsis</italic>. However, it is not clear whether COR is also involved in promoting entry of nonhost bacterial pathogens via stomata and nonhost bacterial growth at the initial stage of infection.</p>
+      <p><italic>P. syringae</italic> pv. <italic>tabaci</italic> is the causal agent for the wild fire disease in tobacco (<xref ref-type="bibr" rid="ref-19">Uchytil &amp; Durbin, 1980</xref>). This pathogen does not produce COR and is unable to infect nonhost plant species such as tomato. It has been noted that most of the stomata in epidermal peels of tomato remained closed after three hours incubation with nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic>, while virulent pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 producing COR is able to reopen stomata after three hours treatment in tomato epidermal peels (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>). In the current study, we examined how COR can affect the early defense responses including stomatal defense and nonhost HR cell death by a nonhost pathogen in tomato. In addition, we determined the expression of defense genes related to SA and JA pathways after treatment of host or nonhost pathogens along with COR. Our findings from this study clearly show that COR confers the virulence activity to suppress early plant defense systems against nonhost bacterial pathogens in tomato.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Plant and pathogen materials</title>
+        <p>Tomato (<italic>Solanum lycopersicum</italic> cv. Glamour) plants were grown on 10 cm diameter round pots containing potting soil (BM7) (Berger Co., Quebec, Canada) and maintained in the greenhouse under a 14-h light/10-h dark photoperiod at 23 ± 2 °C. Four-week-old tomato plants were used for the experiments. <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 and <italic>P. syringae</italic> pv. <italic>tomato</italic> T1 were used as virulence bacterial pathogens (host pathogens), and <italic>P. syringae</italic> pv. <italic>tabaci</italic> and <italic>P. syringae</italic> pv. <italic>phaseolicola</italic> were used as nonhost bacterial pathogens on tomato.</p>
+        <p>These host and nonhost bacterial pathogens were grown overnight at 28 °C in King’s B (KB) medium [10 g Proteose pepton #2 (BD Difco, New Jersey, USA); 1.5 g anhydrous <named-content content-type="chemical-compound">K<sub>2</sub>HPO</named-content>; 15 g glycerol; 5 mL <named-content content-type="chemical-compound">MgSO<sub>4</sub>
+               </named-content> (1M sterile)] containing appropriate antibiotics (kanamycin 25 mg/ml and rifamycin 50 mg/ml). After the overnight culture, bacterial cells were centrifuged at 5,000 rpm for 10 min, and the cell pellet was resuspended in 10 ml of sterile distilled water. The concentration of bacteria in the culture suspension was measured in a spectrophotometer (the optical density at OD 600 nm) and diluted to appropriate concentrations for inoculations.</p>
+      </sec>
+      <sec>
+        <title>Bacterial pathogen inoculation</title>
+        <p>Bacterial suspensions (3 × 10<sup>7</sup> colony forming unit [CFU]/ml) were prepared in sterile distilled water containing 0.025% Silwet L-77 (OSI Specialties Inc., Danbury, CT, USA) and sprayed on tomato plants. The inoculated plants were then incubated in growth chambers at 90 to 100% RH for the first 24 h. The inoculated plants were observed at 7 days post inoculation (dpi) for symptom development. Bacterial growth in leaves was measured by determining the internal bacterial population. Prior to sampling, leaves were surface-sterilized with 15% H<sub>2</sub>O<sub>2</sub> for 3 min to eliminate epiphytic bacteria and then washed with sterile distilled water. The leaves were then homogenized in sterile distilled water, and serial dilutions were plated onto KB medium containing antibiotics (kanamycin, 25 mg/ml). The bacterial population at 0 dpi was estimated from leaves harvested 1 h post inoculation (hpi). Bacterial growth patterns at 0, 1 and 3 dpi were evaluated in two independent experiments (four leaf samples per each experiment).</p>
+      </sec>
+      <sec>
+        <title>Stomata assay</title>
+        <p>The bacterial culture of <italic>P. syringae</italic> pv. <italic>tabaci</italic> was centrifuged and resuspended in distilled water at a concentration of 5 × 10<sup>4</sup> CFU/ml. For stomatal closure assay, the tomato epidermal peel was prepared as described (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>). Epidermis of tomato leaves were peeled off and immediately floated on stomata opening buffer (10 mM MES-KOH, 30 mM KCl, pH 6.3). After confirming stomata opening under the microscope, the epidermal peels were treated with <italic>P. syringae</italic> pv. <italic>tabaci</italic> with or without COR (100 ng/ml; obtained from C. Bender, Oklahoma State University). Approximately 100 random stomatal apertures were measured per each treatment, and three samples were collected from each experiment.</p>
+      </sec>
+      <sec>
+        <title>Inhibition of nonhost HR cell death by COR and bacterial growth determination</title>
+        <p>To determine if COR inhibits nonhost HR cell death, two nonhost bacterial pathogens, <italic>P. syringae</italic> pv. <italic>tabaci</italic> and <italic>P. syringae</italic> pv. <italic>phaseolicola</italic> were used for this experiment in tomato. Bacterial cultures grown in KB medium overnight at 28 °C were centrifuged (3,500 rpm, 10 min) and resuspended in MES buffer (MES 10 mM, pH 6.5). The bacterial suspension was infiltrated into fully expanded tomato leaf using a 1.5 ml needleless syringe for examining bacterial growth and nonhost HR cell death. Three different concentrations (100, 200 and 300 ng/ml) of COR were tested to determine COR toxicity in tomatao leaves. Both 200 and 300 ng/ml showed visible cell death and chlorosis symptoms. The concentration of 100 ng/ml of COR was added to bacterial suspension (10<sup>4</sup> CFU/ml) to determine the inhibition of HR cell death. Infiltrated leaves were inspected for HR cell death after 24 h and 48 h inoculation. Tomato plants silenced for isochorismate synthase (ICS) accumulation by RNAi (<italic>ICS-RNAi</italic>) (<xref ref-type="bibr" rid="ref-22">Uppalapati et al., 2007</xref>) were also used to evaluate if COR inhibits SA accumulation and suppress HR cell death. To determine whether the bacterial growth is promoted by COR, a low concentration of <italic>P. syringae</italic> pv. <italic>tabaci</italic> (2 × 10<sup>2</sup> CFU/ml) was inoculated with or without COR. The bacterial population in the apoplast was examined at 0, 1 and 3 dpi.</p>
+        <p>The detection of H<sub>2</sub>O<sub>2</sub> in leaf tissues was done by 3,3’-diaminobenzidine (DAB) staining. H<sub>2</sub>O<sub>2</sub> reacts with DAB to form a reddish-brown stain. <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 and <italic>P. syringae</italic> pv. <italic>tabaci</italic> were infiltrated into one side of the tomato leaf with or without COR (100 ng/ml; obtained from C. Bender, Oklahoma State University) (<xref ref-type="bibr" rid="ref-11">Li et al., 2005</xref>; <xref ref-type="bibr" rid="ref-25">Zheng et al., 2012</xref>)). The DAB staining procedure was followed as described (<xref ref-type="bibr" rid="ref-17">Rojas et al., 2012</xref>).</p>
+      </sec>
+      <sec>
+        <title>RNA isolation and quantitative real-time PCR</title>
+        <p>Total RNA was purified from tomato leaves infiltrated with water (mock control), COR, nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> (<italic>Psta</italic>), <italic>Psta</italic> with COR, or host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> T1 (<italic>Pst</italic> T1). Total RNA was extracted using TRIzol (Invitrogen), and two treated or inoculated leaves were pooled to represent one biological replicate. Total RNA was treated with DNase I (Invitrogen), and 1 µg RNA was used to generate cDNA using Superscript III reverse transcriptase (Invitrogen) and oligo d(T)15–20 primers. The cDNA (1 : 20) was then used for qRT-PCR using Power SYBR Green PCR master mix (Applied Biosystems, Foster City, CA, USA). Primers specific for <italic>tublin 4</italic> was used to normalize small differences in template amounts. To determining COR-mediated inhibition of SA and JA hormonal pathway, real-time quantitative PCR was performed with primers shown in <xref ref-type="supplementary-material" rid="supp-2">Supplemental Table 1</xref>. Average Cycle Threshold (CT) values calculated using Sequence Detection Systems (version 2.2.2; Applied Biosystems) from duplicate samples were used to determine the fold expression relative to controls. All qRT-PCR were performed using ABI PRISM 7700 Sequence Detection System (Applied Biosystems, CA, USA) and calculation was made according to the company manual (User Bulletin #2).</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results and Discussion</title>
+      <sec>
+        <title><italic>Pseudomonas syringae</italic> pv. <italic>tabaci</italic> inoculation on tomato induces rapid closure of stomata and nonhost HR</title>
+        <p>The bacterial pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 causes bacterial speck disease on a host plant, tomato. Five days after spray inoculation of <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000, a number of bacterial leaf spots at infection sites were observed in tomato. In contrast, nonhost bacterial pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> that is the causal agent for wildfire leaf disease in tobacco is unable to infect tomato (<xref ref-type="supplementary-material" rid="supp-1">Supplemental Fig. S1A</xref>). At the initial infection process, bacterial pathogens produce virulence effectors to disrupt early plant defense systems such as the stomata-based immunity (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>; <xref ref-type="bibr" rid="ref-12">Melotto, Underwood &amp; He, 2008</xref>) and the HR cell death at the site of infection (<xref ref-type="bibr" rid="ref-20">Underwood, Melotto &amp; He, 2007</xref>). Stomata are the active barriers in limiting bacterial entry into apoplast. Several recent studies showed that stomatal closure induced by bacterial pathogens or bacterial PAMPs is a common plant defense mechanism in plants (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>; <xref ref-type="bibr" rid="ref-7">Cui et al., 2005</xref>; <xref ref-type="bibr" rid="ref-2">Bender, 1999</xref>). We also found that most stomata on tomato epidermal peels remained closed after inoculation of a nonhost pathogen, <italic>P. syringae</italic> pv. <italic>tabaci</italic> (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.34/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>COR suppresses stomatal closure induced by <italic>P. syringae</italic> pv. <italic>tabaci</italic> in tomato (A and B).</title>
+            <p>To determine suppression of stomatal closure by COR, tomato epidermal peels were floated on stomata opening buffer (KCl 30 mM; pH 6.3) and stomata were observed under a light microscope to assure stomatal opening. The epidermal peels were incubated with <italic>P. syringae</italic> pv. <italic>tabaci</italic> suspension (5 × 10<sup>4</sup> CFU/ml) with or without COR (100 ng/ml) in the bacterial suspension for three hours. Images (A) were taken using a light microscope, and individual stomatal apertures were measured (B) using ImageJ software (<uri xlink:href="http://rsb.info.nih.gov/ij/">http://rsb.info.nih.gov/ij/</uri>). Approximately 50 stomata were counted for each epidermal peel, and a total of three peels were used for the analysis of each treatment. Bars represent the means ± standard deviation (SD) from two independent experiments. Different letters above the bars indicate significantly different values between treatments (P &lt; 0.05, Student’s <italic>t</italic> test).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/34/fig-1.png"/>
+        </fig>
+        <p>The nonhost HR cell death at the site of infection is the most common defense mechanism observed in many plants in response to nonhost bacterial pathogens (<xref ref-type="bibr" rid="ref-15">Mysore &amp; Ryu, 2004</xref>). <xref ref-type="supplementary-material" rid="supp-1">Supplemental Fig. S1</xref> shows that when nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> was infiltrated on tomato leaf, nonhost HR cell death was observed at the site of inoculation, while host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 suppressed HR cell death (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1B</xref>).</p>
+        <p>COR produced from <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 plays an important role to disrupt early plant defense responses including stomatal closure (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>; <xref ref-type="bibr" rid="ref-12">Melotto, Underwood &amp; He, 2008</xref>). We speculated that COR can suppress stomata closure induced by a nonhost pathogen and nonhost HR cell death-induced <italic>P. syringae</italic> pv. <italic>tabaci</italic> in tomato. In this study, we performed experiments to examine whether COR plays a role in inhibiting the early defense responses against nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> in tomato.</p>
+      </sec>
+      <sec>
+        <title>Coronatine inhibits stomatal closure induced by nonhost pathogen, <italic>P. syringae</italic> pv. <italic>tabaci</italic></title>
+        <p>Phytopathogens have evolved specific virulence factors to overcome early plant defense responses. In the case of virulent pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> strain DC3000, three hours after infection, bacteria produce the diffusible virulence factor coronatine (COR) in the apoplast and on the plant surface to reopen closed stomata, allowing increased bacterial entry (<xref ref-type="bibr" rid="ref-12">Melotto, Underwood &amp; He, 2008</xref>; <xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>; <xref ref-type="bibr" rid="ref-20">Underwood, Melotto &amp; He, 2007</xref>). However, most stomata remained closed in tomato when inoculated with a nonhost pathogen, <italic>P. syringae</italic> pv. <italic>tabaci</italic> (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). To determine if COR can suppress the stomatal closure induced by a nonhost pathogen, we added COR (100 ng/ml) to <italic>P. syringae</italic> pv. <italic>tabaci</italic> suspension, and tomato epidermis was incubated with this suspension for three hours. Interestingly, most stomata remained open, and the aperture size of open stomata was similar to that of an aperture of stomata incubated with stomata opening buffer (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). These findings indicate that COR acts as a virulence factor to disrupt stomatal closure induced by nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> in tomato.</p>
+      </sec>
+      <sec>
+        <title>Coronatine delays nonhost HR cell death induced by nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic></title>
+        <p>In addition to the COR-mediated inhibition of stomatal closure, we also examined whether COR can suppress nonhost HR cell death induced by <italic>P. syringae</italic> pv. <italic>tabaci</italic>. It has been known that COR is not a host-specific phytotoxin (<xref ref-type="bibr" rid="ref-21">Uppalapati et al., 2005</xref>), but it has never been reported whether COR can delay or suppress HR cell death in plants. As shown in <xref ref-type="supplementary-material" rid="supp-1">Supplemental Fig. S1</xref>, the inoculation of <italic>P. syringae</italic> pv. <italic>tabaci</italic> induced typical nonhost HR cell death on tomato leaves within 24 h after infiltration (hpi), while host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 did not induce any visible cell death at that time point. We speculate that the nonhost HR in tomato is triggered either by PAMPs or effectors of nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic>. Such PAMP- and/or effector-triggered HR is probably suppressed during <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000-tomato interaction.</p>
+        <p>Interestingly, nonhost HR cell death was not observed at 24 hpi when <italic>P. syringae</italic> pv. <italic>tabaci</italic> was infiltrated along with COR in contrast to infiltration of <italic>P. syringae</italic> pv. <italic>tabaci</italic> alone (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). At 48 hpi, even though the nonhost HR cell death was visible at both infiltration sites, the cell death caused by infiltration of <italic>P. syringae</italic> pv. <italic>t</italic>  <italic>a</italic>  <italic>b</italic>  <italic>a</italic>  <italic>c</italic>  <italic>i</italic> + COR was milder compared to <italic>P. syringae</italic> pv. <italic>tabaci</italic> alone. This result clearly indicates that COR delays nonhost HR cell death caused by a nonhost bacterial pathogen in tomato. However, the COR-mediated cell death suppression is not strong enough to completely suppress the HR caused by a nonhost pathogen. HR is associated with defenses that are manifested by development of rapid cell death through the SA-mediated pathway (<xref ref-type="bibr" rid="ref-1">Alvarez, 2000</xref>; <xref ref-type="bibr" rid="ref-15">Mysore &amp; Ryu, 2004</xref>). It has been reported that COR inhibit SA accumulation in <italic>Arabidopsis</italic> (<xref ref-type="bibr" rid="ref-25">Zheng et al., 2012</xref>). To investigate the role of SA in delaying nonhost HR cell death, we examined nonhost HR cell death in <italic>ICS</italic>-silenced tomato plants (<italic>ICS-RNAi</italic>); (<xref ref-type="bibr" rid="ref-22">Uppalapati et al., 2007</xref>). <italic>ICS</italic> is required for SA biosynthesis in plants. The nonhost HR cell death was not detected 24 h after infiltration of <italic>P. syringae</italic> pv. <italic>tabaci</italic> alone or <italic>P. syringae</italic> pv. <italic>tabaci</italic> + COR. Mild HR was observed 48 h after infiltration with <italic>P. syringae</italic> pv. <italic>tabaci</italic> alone or <italic>P. syringae</italic> pv. <italic>tabaci</italic> + COR in <italic>ICS</italic>-RNAi and was much weaker than the HR observed in non-silenced wild-type tomato plants. Interestingly, no difference was found between infiltration of <italic>P. syringae</italic> pv. <italic>tabaci</italic> alone or with <italic>P. syringae</italic> pv. <italic>tabaci</italic> + COR (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). This result suggests that the delay of nonhost HR by COR is likely due to suppression of the SA pathway.</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.34/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>COR delays nonhost HR cell death induced by <italic>P. syringae</italic> pv. <italic>tabaci</italic> and <italic>P. syringae</italic> pv. <italic>phaseolicola</italic> in tomato.</title>
+            <p>(A) Wild-type and <italic>ICS</italic>-RNAi tomato leaves were infiltrated with <italic>P. syringae</italic> pv. <italic>tabaci</italic> (6 × 10<sup>2</sup> CFU/ml) with or without COR (100 ng/ml). The development of nonhost HR cell death was determined 24 h and 48 h after infiltration. (B) Another nonhost pathogen, <italic>P. syringae</italic> pv. <italic>phaseolicola</italic>, (6 × 10<sup>2</sup> CFU/ml) was syringe (needleless) infiltrated with or without COR (100 ng/ml) to tomato leaf. After 24 h of infiltration, a photograph was taken (lower panel) and leaf samples were collected for DAB staining to visualize H<sub>2</sub>O<sub>2</sub> production at the site of infection (upper panel). (C) Delay of nonhost HR cell death by COR producing nonhost pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 in <italic>N. benthamiana. P. syringae</italic> pv. <italic>tomato</italic> DB29 is the mutant strain that does not produce COR. A photograph was taken 24 h after infiltration. (D) The bacterial population of <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 (<italic>Pst</italic> DC3000), <italic>P. syringae</italic> pv. <italic>tabaci</italic> (<italic>Pstab</italic>) and <italic>P. syringae</italic> pv. <italic>tabaci</italic> with COR (<italic>Pstab</italic> + COR) was measured 0, 1 and 3 days post inoculation (dpi). The bacterial concentration of 2 × 10<sup>2</sup> CFU/ml was used for both pathogens. Bars represent the means ± standard deviation (SD) from three leaf samples per treatment. Three independent experiments were performed. Different letters above bars indicate significantly different values between treatments (<italic>P</italic> &lt; 0.05, Student’s <italic>t</italic> test).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/34/fig-2.png"/>
+        </fig>
+        <p>COR-mediated delay of nonhost HR cell death was also observed for another nonhost pathogen, <italic>P. syringae</italic> pv. <italic>phaseolicola</italic> (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>), suggesting that the COR response was not specific to a particular pathogen. In addition, we also show that H<sub>2</sub>O<sub>2</sub> accumulation (by DAB staining), a typical response during HR, was suppressed by COR (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). To further examine the delay of nonhost HR cell death by COR, we infiltrated <italic>N. benthamiana</italic> (a nonhost plant) with <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 (10<sup>3</sup> CFU/ml) or <italic>P. syringae</italic> pv. <italic>tomato</italic> DB29 (10<sup>3</sup> CFU/ml), a mutant strain of DC3000 that does not produce COR (<xref ref-type="bibr" rid="ref-22">Uppalapati et al., 2007</xref>). After 24 h of infiltration, the level of nonhost HR cell death by <italic>P. syringae</italic> pv. <italic>tomato</italic> DB29 was much higher than that of <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 (<xref ref-type="fig" rid="fig-2">Fig. 2C</xref>). This finding clearly indicates that COR-producing <italic>P. syringae</italic> pathovars can delay nonhost HR cell death.</p>
+        <p>COR has been shown to promote compatible bacterial pathogen growth and develop disease symptoms in <italic>Arabidopsis</italic> and tomato (<xref ref-type="bibr" rid="ref-13">Melotto et al., 2006</xref>; <xref ref-type="bibr" rid="ref-22">Uppalapati et al., 2007</xref>; <xref ref-type="bibr" rid="ref-25">Zheng et al., 2012</xref>). Here we show that in tomato when COR was added to <italic>P. syringae</italic> pv. <italic>tabaci</italic> suspension prior to tomato leaf infiltration, it promoted the growth of nonhost pathogen (<xref ref-type="fig" rid="fig-2">Fig. 2D</xref>). The level of bacterial growth of nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> (with COR) was similar to the host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 at 1 dpi, but the bacterial population of <italic>P. syringae</italic> pv. <italic>tabaci</italic> was reduced at 3 dpi, suggesting that COR is not sufficient by itself to completely suppress the defense mechanism(s) of nonhost disease resistance. Alternatively, it is also possible that COR may not be stable <italic>in planta</italic> after 24 h and therefore was not able to further promote the growth of nonhost bacteria beyond 1 dpi.</p>
+        <p><italic>P. syringae</italic> pv. <italic>tabaci</italic> does not produce COR and can’t infect tomato plants, but this pathogen is still functionally active to suppress defense responses in the host plant, tobacco. This indicates that <italic>P. syringae</italic> pv. <italic>tabaci</italic> produces unknown virulence factors to suppress PAMP-triggered immunity (PTI) in tobacco plants that may be different from the molecular mechanism of COR-dependent virulence. As shown in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>, COR can suppress nonhost HR cell death during initial phases of nonhost pathogen infection, but cell death eventually appeared after 24 hpi (<xref ref-type="fig" rid="fig-2">Figs. 2A and 2C</xref>). This indicates other factors involved in defense mechanism of nonhost resistance are functionally regulated. It has been known that reactive oxygen species (ROS) and nitric oxide (NO) are important for HR cell death induced upon incompatible pathogen infection in plants. A number of defense genes are involved in the ROS and NO signaling pathway (<xref ref-type="bibr" rid="ref-9">Jones &amp; Dangl, 2006</xref>). Recently, it has been shown that ornithine delta-aminotransferase (δ<italic>O</italic>  <italic>A</italic>  <italic>T</italic>) and proline dehydrogenases (<italic>ProDH</italic>) are involved in ROS production in mitochondria and regulate defense responses such as HR cell death against nonhost pathogens (<xref ref-type="bibr" rid="ref-18">Senthil-Kumar &amp; Mysore, 2012</xref>). The peroxisomal enzyme glycolate oxidase (<italic>GOX</italic>) has also been reported as an essential component of nonhost resistance. In Arabidopsis, <italic>GOX</italic> functions independently from NADPH oxidase (Respiratory burst oxidase homolog) and is involved in H<sub>2</sub>O<sub>2</sub> accumulation and callose deposition in response to nonhost pathogen inoculation (<xref ref-type="bibr" rid="ref-17">Rojas et al., 2012</xref>). It is not clear whether COR can disrupt nonhost resistance responses mediated by δ<italic>O</italic>  <italic>A</italic>  <italic>T</italic>, <italic>ProDH</italic>, and <italic>GOX</italic>.</p>
+      </sec>
+      <sec>
+        <title>Coronatine represses the expression of SA-related defense genes during nonhost resistance responses in tomato</title>
+        <p>In previous studies, it has been demonstrated that COR activates the expression of JA-inducible genes and suppresses SA-mediated defenses in tomato (<xref ref-type="bibr" rid="ref-8">Ishiga et al., 2009</xref>; <xref ref-type="bibr" rid="ref-21">Uppalapati et al., 2005</xref>; <xref ref-type="bibr" rid="ref-22">Uppalapati et al., 2007</xref>). To determine the expression profiles of SA- and JA-related genes upon inoculation with host or nonhost pathogens supplemented with COR, we inoculated tomato leaves with host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> T1 and nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> with or without COR. Expression profiles of SA-mediated signaling pathway genes, such as <italic>PR1a</italic> (<italic>pathogenesis-related protein 1a</italic>), <italic>PR1b</italic> (<italic>pathogenesis-related protein 1b</italic>), <italic>PR2b</italic> (<italic>pathogenesis-related protein 2b</italic>), and <italic>ICS1</italic> (<italic>Isochorismate synthase 1</italic>), and JA-mediated signaling pathway genes, such as <italic>LoxD</italic> (<italic>Lipoxygenase D</italic>) and <italic>OPR3</italic> (<italic>12-Oxophytodienoic acid reductase 3</italic>) were evaluated by real-time quantitative RT-PCR analysis at two time periods, 6 and 12 h post inoculation (hpi). Samples were not collected beyond 12 hpi, due to occurrence of cell death. As shown in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>, the expression of SA-mediated signaling pathway genes, including <italic>PR1a</italic>, <italic>PR1b</italic>, <italic>PR2</italic> and <italic>ICS1</italic>, was more strongly induced by nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> when compared to induction by host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> T1. We further tested if the addition of exogenous COR resulted in a suppression of SA-mediated signaling pathway genes in <italic>P. syringae</italic> pv. <italic>tabaci</italic>-inoculated leaves. In COR-supplemented leaves, the expression of <italic>PR1a</italic>, <italic>PR1b</italic>, <italic>PR2</italic> and <italic>ICS1</italic> was significantly lower than nonhost pathogen alone inoculated leaves. In contrast, the expression of the JA-inducible genes, such as <italic>LoxD</italic> and <italic>OPR3</italic>, was more strongly induced in <italic>Psta</italic>-inoculated leaves supplied with COR when compared to <italic>Psta</italic> or COR alone. These results strongly support the hypothesis that COR functions to suppress the SA-mediated signaling pathway induction during nonhost disease resistance. In addition, COR may exploit the endogenous antagonistic interactions between JA and SA hormone signaling pathways, leading to inhibition of early plant defense mechanisms of nonhost disease resistance.</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.34/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Expression profiles of SA- and JA-related defense genes in tomato leaves inoculated with nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> (<italic>Psta</italic>) and host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> T1 (<italic>Pst</italic> T1), and COR.</title>
+            <p>Tomato leaves were treated with distilled water (mock control), COR (100 ng/ ml) or inoculated with <italic>Psta</italic>, <italic>Psta</italic> with COR or <italic>Pst</italic> T1. The expression of genes encoding <italic>PR1a</italic>, <italic>PR1b</italic>, <italic>PR2b</italic>, <italic>ICS1</italic>, <italic>LoxD</italic> and <italic>OPR3</italic> was evaluated by real-time quantitative RT-PCR. Bars represent the means ± standard deviation (SD) from three biological replications and three technical replications per experiment. Different letters and symbols above bars indicate significantly different values between treatments (P &lt; 0.05, Student’s <italic>t</italic> test).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/34/fig-3.png"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>A number of studies have been reported regarding the role of COR in suppression of early plant defense responses like stomatal closure and induction of SA. However, it was not clear if COR can also suppress defense responses induced by nonhost pathogens. This study clearly demonstrates that COR suppresses nonhost HR, stomatal closure induced by nonhost pathogens and disrupts the hormonal defense signaling pathway activated during nonhost resistance. However, COR is not sufficient by itself to completely suppress nonhost resistance. This indicates that other downstream defense components are not targeted by COR during nonhost resistance. It warrants further investigation to understand the molecular mechanism of COR for suppression of early plant defense responses during nonhost resistance.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="image" mime-subtype="jpeg" xlink:href="https://peerj.com/articles/34/Figure S1.jpg">
+        <object-id pub-id-type="doi">10.7717/peerj.34/supp-1</object-id>
+        <label>Supplemental Figure S1</label>
+        <caption>
+          <title>Supplemental Figure S1</title>
+          <p>Development of disease symptoms by host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 in tomato. (A) Tomato leaves were spray-inoculated with <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 (5 × 10<sup>3</sup> CFU/ml) and <italic>P. syringae</italic> pv. <italic>tabaci</italic> (5 × 10<sup>3</sup> CFU/ml), and imaged five days after inoculation. (B) The nonhost HR cell death by <italic>P. syringae</italic> pv. <italic>tabaci</italic> in tomato. Tomato leaves were syringe-infiltrated with host pathogen <italic>P. syringae</italic> pv. <italic>tomato</italic> DC3000 (6 × 10<sup>2</sup> CFU/ml) or nonhost pathogen <italic>P. syringae</italic> pv. <italic>tabaci</italic> (6 × 10<sup>2</sup> CFU/ml). The nonhost HR cell death was observed 48 h after infiltration.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/34/Supplemental data.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.34/supp-2</object-id>
+        <label>Supplemental Table 1</label>
+        <caption>
+          <title>Supplemental Table 1</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>Kirankumar S. Mysore is an Academic Editor for PeerJ. The other authors do not have any competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Seonghee Lee</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-2">Yasuhiro Ishiga</xref> and <xref ref-type="contrib" rid="author-3">Kristen Clermont</xref> performed the experiments.</p>
+        </fn>
+        <fn id="contribution-3">
+          <p><xref ref-type="contrib" rid="author-4">Kirankumar S. Mysore</xref> conceived and designed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Alvarez (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez</surname>
+              <given-names>ME</given-names>
+            </name>
+          </person-group>
+          <article-title>Salicylic acid in the machinery of hypersensitive cell death and disease resistance</article-title>
+          <source>Plant Molecular Biology</source>
+          <year>2000</year>
+          <volume>44</volume>
+          <fpage>429</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1026561029533</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Bender (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+          </person-group>
+          <article-title>Chlorosis-inducing phytotoxins produced by <italic>Pseudomonas syringae</italic></article-title>
+          <source>European Journal of Plant Pathology</source>
+          <year>1999</year>
+          <volume>105</volume>
+          <fpage>1</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1008692227307</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Bender et al. (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Stone</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Sims</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Cooksey</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Reduced pathogen fitness of <italic>Pseudomonas syringae</italic> pv. <italic>tomato Tn5</italic> mutants defective in coronatine production</article-title>
+          <source>Physiological Molecular Plant Pathology</source>
+          <year>1987</year>
+          <volume>30</volume>
+          <fpage>273</fpage>
+          <lpage>283</lpage>
+          <pub-id pub-id-type="doi">10.1016/0885-5765(87)90040-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Boller &amp; Felix (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boller</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Felix</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>A renaissance of elicitors: perception of microbe-associated molecular patterns and danger signals by pattern-recognition receptors</article-title>
+          <source>Annual Review of Plant Biology</source>
+          <year>2009</year>
+          <volume>60</volume>
+          <fpage>379</fpage>
+          <lpage>406</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.arplant.57.032905.105346</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Brooks, Bender &amp; Kunkel (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brooks</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Kunkel</surname>
+              <given-names>BN</given-names>
+            </name>
+          </person-group>
+          <article-title>The <italic>Pseudomonas syringae</italic> phytotoxin coronatine promotes virulence by overcoming salicylic acid-dependent defences in <italic>Arabidopsis thaliana</italic></article-title>
+          <source>Molecular Plant Pathology</source>
+          <year>2005</year>
+          <volume>6</volume>
+          <fpage>629</fpage>
+          <lpage>639</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1364-3703.2005.00311.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Brooks et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brooks</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Hernandez-Guzman</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kloek</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Alarcon-Chaidez</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Sreedharan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rangaswamy</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Penaloza-Vazquez</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Kunkel</surname>
+              <given-names>BN</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and characterization of a well-defined series of coronatine biosynthetic mutants of <italic>Pseudomonas syringae</italic> pv. <italic>tomato</italic> DC3000</article-title>
+          <source>Molecular Plant Microbe Interactions</source>
+          <year>2004</year>
+          <volume>17</volume>
+          <fpage>162</fpage>
+          <lpage>174</lpage>
+          <pub-id pub-id-type="doi">10.1094/MPMI.2004.17.2.162</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Cui et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cui</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bahrami</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Pringle</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>Hernandez-Guzman</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Pierce</surname>
+              <given-names>NE</given-names>
+            </name>
+            <name>
+              <surname>Ausubel</surname>
+              <given-names>FM</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Pseudomonas syringae</italic> manipulates systemic plant defenses against pathogens and herbivores</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>2005</year>
+          <volume>102</volume>
+          <fpage>1791</fpage>
+          <lpage>1796</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0409450102</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Ishiga et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishiga</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Uppalapati</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Ishiga</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Elavarthi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+          </person-group>
+          <article-title>The phytotoxin coronatine induces light-dependent reactive oxygen species in tomato seedlings</article-title>
+          <source>New Phytologist</source>
+          <year>2009</year>
+          <volume>181</volume>
+          <fpage>147</fpage>
+          <lpage>160</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0031-9422(00)83529-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Jones &amp; Dangl (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Dangl</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>The plant immune system</article-title>
+          <source>Nature</source>
+          <year>2006</year>
+          <volume>444</volume>
+          <fpage>323</fpage>
+          <lpage>329</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-8137.2008.02639.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Katsir et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katsir</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Schilmiller</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Staswick</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>SY</given-names>
+            </name>
+            <name>
+              <surname>Howe</surname>
+              <given-names>GA</given-names>
+            </name>
+          </person-group>
+          <article-title>COI1 is a critical component of a receptor for jasmonate and the bacterial virulence factor coronatine</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>2008</year>
+          <volume>105</volume>
+          <fpage>7100</fpage>
+          <lpage>7105</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature05286</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Li et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>J-M</given-names>
+            </name>
+          </person-group>
+          <article-title>Flagellin induces innate immunity in nonhost interactions that is suppressed by <italic>Pseudomonas syringae</italic> effectors</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>2005</year>
+          <volume>102</volume>
+          <fpage>12990</fpage>
+          <lpage>12995</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0802332105</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Melotto, Underwood &amp; He (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melotto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Underwood</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>SY</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of stomata in plant innate immunity and foliar bacterial diseases</article-title>
+          <source>Annual Review of Phytopathology</source>
+          <year>2008</year>
+          <volume>46</volume>
+          <fpage>101</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0502425102</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Melotto et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melotto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Underwood</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Koczan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nomura</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>SY</given-names>
+            </name>
+          </person-group>
+          <article-title>Plant stomata function in innate immunity against bacterial invasion</article-title>
+          <source>Cell</source>
+          <year>2006</year>
+          <volume>126</volume>
+          <fpage>969</fpage>
+          <lpage>980</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.phyto.121107.104959</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Mitchell (1985)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>RE</given-names>
+            </name>
+          </person-group>
+          <article-title>Coronatine biosynthesis: Incorporation of l-[U-14C]isoleucine and l-[U-14C] threonine into the 1-amido-1-carboxy-2-ethylcyclopropyl moiety</article-title>
+          <source>Phytochemistry</source>
+          <year>1985</year>
+          <volume>24</volume>
+          <fpage>247</fpage>
+          <lpage>249</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2006.06.054</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Mysore &amp; Ryu (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mysore</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Ryu</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Nonhost resistance: how much do we know?</article-title>
+          <source>Trends Plant Science</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>97</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tplants.2003.12.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Preston, Bertrand &amp; Rainey (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Preston</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Bertrand</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Rainey</surname>
+              <given-names>PB</given-names>
+            </name>
+          </person-group>
+          <article-title>Type III secretion in plant growth-promoting <italic>Pseudomonas fluorescens</italic> SBW25</article-title>
+          <source>Molecular Microbiology</source>
+          <year>2001</year>
+          <volume>41</volume>
+          <fpage>999</fpage>
+          <lpage>1014</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2958.2001.02560.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Rojas et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rojas</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Senthil-Kumar</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ryu</surname>
+              <given-names>C-M</given-names>
+            </name>
+            <name>
+              <surname>Kaundal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mysore</surname>
+              <given-names>KS</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycolate oxidase modulates reactive oxygen species-mediated signal transduction during nonhost resistance in <italic>Nicotiana benthamiana</italic> and Arabidopsis</article-title>
+          <source>The Plant Cell</source>
+          <year>2012</year>
+          <volume>24</volume>
+          <fpage>336</fpage>
+          <lpage>352</lpage>
+          <pub-id pub-id-type="doi">10.1105/tpc.111.093245</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Senthil-Kumar &amp; Mysore (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Senthil-Kumar</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mysore</surname>
+              <given-names>KS</given-names>
+            </name>
+          </person-group>
+          <article-title>δ-ornithine aminotransferase and proline dehydrogenase genes play a role in nonhost disease resistance by regulating pyrroline-5-carboxylate metabolism-induced hypersensitive response</article-title>
+          <source>Plant Cell &amp; Environment</source>
+          <year>2012</year>
+          <volume>35</volume>
+          <fpage>1329</fpage>
+          <lpage>1343</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-3040.2012.02492.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Uchytil &amp; Durbin (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uchytil</surname>
+              <given-names>TF</given-names>
+            </name>
+            <name>
+              <surname>Durbin</surname>
+              <given-names>RD</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydrolysis of tabtoxins by plant and bacterial enzymes</article-title>
+          <source>Experientia</source>
+          <year>1980</year>
+          <volume>36</volume>
+          <fpage>301</fpage>
+          <lpage>302</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01952288</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Underwood, Melotto &amp; He (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Underwood</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Melotto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>SY</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of plant stomata in bacterial invasion</article-title>
+          <source>Cell Microbiology</source>
+          <year>2007</year>
+          <volume>9</volume>
+          <fpage>1621</fpage>
+          <lpage>1629</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1462-5822.2007.00938.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Uppalapati et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uppalapati</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Ayoubi</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Weng</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+          </person-group>
+          <article-title>The phytotoxin coronatine and methyl jasmonate impact multiple phytohormone pathways in tomato</article-title>
+          <source>Plant Journal</source>
+          <year>2005</year>
+          <volume>42</volume>
+          <fpage>201</fpage>
+          <lpage>217</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-313X.2005.02366.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Uppalapati et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uppalapati</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Ishiga</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wangdi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kunkel</surname>
+              <given-names>BN</given-names>
+            </name>
+            <name>
+              <surname>Anand</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mysore</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+          </person-group>
+          <article-title>The phytotoxin coronatine contributes to pathogen fitness and is required for suppression of salicylic acid accumulation in tomato inoculated with <italic>Pseudomonas syringae</italic> pv. <italic>tomato</italic> DC3000</article-title>
+          <source>Molecular Plant Microbe Interacttions</source>
+          <year>2007</year>
+          <volume>20</volume>
+          <fpage>955</fpage>
+          <lpage>965</lpage>
+          <pub-id pub-id-type="doi">10.1094/MPMI-20-8-0955</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Weiler et al. (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weiler</surname>
+              <given-names>EW</given-names>
+            </name>
+            <name>
+              <surname>Kutchan</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Gorba</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Brodschelm</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Niesel</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Bublitz</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>The <italic>Pseudomonas</italic> phytotoxin coronatine mimics octadecanoid signalling molecules of higher plants</article-title>
+          <source>FEBS Letters</source>
+          <year>1994</year>
+          <volume>345</volume>
+          <fpage>9</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1016/0014-5793(94)00411-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Zhao et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Thilmony</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bender</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Schaller</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>SY</given-names>
+            </name>
+            <name>
+              <surname>Howe</surname>
+              <given-names>GA</given-names>
+            </name>
+          </person-group>
+          <article-title>Virulence systems of <italic>Pseudomonas syringae</italic> pv. <italic>tomato</italic> promote bacterial speck disease in tomato by targeting the jasmonate signaling pathway</article-title>
+          <source>Plant Journal</source>
+          <year>2003</year>
+          <volume>36</volume>
+          <fpage>485</fpage>
+          <lpage>499</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-313X.2003.01895.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Zheng et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zheng</surname>
+              <given-names>XY</given-names>
+            </name>
+            <name>
+              <surname>Spivey Natalie</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>P-P</given-names>
+            </name>
+            <name>
+              <surname>Fu Zheng</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Klessig</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>Sheng Y</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>Coronatine promotes <italic>Pseudomonas syringae</italic> virulence in plants by activating a signaling cascade that inhibits salicylic acid accumulation</article-title>
+          <source>Cell Host &amp; Microbe</source>
+          <year>2012</year>
+          <volume>11</volume>
+          <fpage>587</fpage>
+          <lpage>596</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.chom.2012.04.014</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,1147 +1,1257 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018989000,&quot;from_str&quot;:&quot;2013-07-05T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500589000,&quot;from_str&quot;:&quot;2013-06-29T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513389000,&quot;from_str&quot;:&quot;2013-06-06T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948589000,&quot;from_str&quot;:&quot;2012-12-31T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,353,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">84</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.84</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Virology</subject>
+          <subject>HIV</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Srinivasakumar</surname>
+            <given-names>Narasimhachar</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1"/>
+          <email>skumar15@slu.edu</email>
+        </contrib>
+        <aff id="aff-1"><institution>Division of Hematology/Oncology, Department of Internal Medicine, Saint Louis University</institution>, <addr-line>Saint Louis, Missouri</addr-line>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Decaro</surname>
+            <given-names>Nicola</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-06-04">
+        <day>4</day>
+        <month>6</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e84</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-03-27">
+          <day>27</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-17">
+          <day>17</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Srinivasakumar</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Srinivasakumar</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/84"/>
+      <abstract>
+        <p>Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors engineered to delete the Rev-response element (RRE) during reverse-transcription by sandwiching the RRE between two non-functional hygromycin phosphotransferase sequences. Deletion of the RRE during reverse-transcription lead to the reconstitution of a functional hygromycin phosphotransferase gene in the target cell. The efficiency of functional reconstitution, depending on vector configuration, was between 12% and 23%. Real-time quantitative PCR of genomic DNA of cells transduced with the RRE-deleting vectors that were selected using an independent drug resistance marker, which measured both functional and nonfunctional recombination events, indicated that the overall efficiency of RRE deletion of hygromycin phosphotransferase gene, was between 73.6% and 83.5%.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>RRE</kwd>
+        <kwd>Gene therapy</kwd>
+        <kwd>Vector</kwd>
+        <kwd>Lentivirus</kwd>
+        <kwd>HIV</kwd>
+        <kwd>HIV-1 vector</kwd>
+        <kwd>Self-inactivating</kwd>
+        <kwd>Self-activating</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>National Institutes of Health</funding-source>
+          <award-id>DK 53929 and AI 054211</award-id>
+        </award-group>
+        <funding-statement>The work in this study was supported by funds from the National Institutes of Health (DK 53929 and AI 054211). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>HIV-1 is a complex retrovirus and as such codes for at least 9 proteins (<xref ref-type="bibr" rid="ref-13">Jeang et al., 1991</xref>). This is mainly achieved by the use of differentially spliced mRNAs. At least 30 distinct mRNAs have been identified in HIV-1 (<xref ref-type="bibr" rid="ref-21">Purcell &amp; Martin, 1993</xref>). All the spliced forms originate from a single genome-length mRNA transcript. It therefore follows that coding regions for proteins can function as both introns and exons. The full-length mRNA is used for expression of Gag and Gag-Pro-Pol proteins. However the <italic>gag/pol</italic> coding sequence serves as an intron and is spliced out for expression of Env. Normally, intron-containing mRNAs are retained in the nucleus (<xref ref-type="bibr" rid="ref-3">Chang &amp; Sharp, 1989</xref>). The virus therefore requires a mechanism for transporting incompletely spliced and unspliced mRNAs from the nucleus to the cytoplasm for either protein expression or for encapsidation of the full-length or genomic mRNA. In complex retroviruses, such as HIV-1 this is achieved by a regulatory protein, Rev. The Rev proteins binds to a structured RNA element present within the <italic>env</italic> coding region called the Rev-response element (RRE) (<xref ref-type="bibr" rid="ref-10">Hammarskjold et al., 1989</xref>; <xref ref-type="bibr" rid="ref-16">Malim et al., 1990</xref>). Rev protein then recruits host proteins such as Crm1 to effect nucleo-cytoplasmic transport of viral mRNAs (<xref ref-type="bibr" rid="ref-9">Fornerod et al., 1997</xref>).</p>
+      <p>Lentiviral gene delivery systems consist of packaging (or helper) plasmids that code for viral structural and regulatory proteins, and a gene transfer vector that contains the transgene expression cassette (<xref ref-type="bibr" rid="ref-25">Srinivasakumar, 2001</xref>). Expression of viral Gag/Gag-Pro-Pol proteins by the packaging construct requires appending the RRE sequence in the mRNA, and coexpression of the viral Rev protein (<xref ref-type="bibr" rid="ref-24">Smith et al., 1990</xref>).</p>
+      <p>Although HIV-1 based gene transfer vectors lack most of the viral coding sequences, it retains a small portion of the <italic>gag</italic> sequence, and also contains a 5′ splice donor site upstream of <italic>gag</italic> and frequently a 3′ splice acceptor site further downstream. Some vectors possess additional splice donor and splice acceptor sites. All gene transfer vectors also contain <italic>cis</italic>-sequences for encapsidation, reverse-transcription, and integration. HIV-1 based vectors also contain the RRE sequence. In addition to its role in nucleo-cytoplasmic transport, Rev and RRE may also have a role in encapsidation of the genomic RNA in virus particles (<xref ref-type="bibr" rid="ref-2">Brandt et al., 2007</xref>; <xref ref-type="bibr" rid="ref-4">Cockrell et al., 2011</xref>). The RRE, however, is usually dispensable in the target cell for expression from the transgene expression cassette (<xref ref-type="bibr" rid="ref-25">Srinivasakumar, 2001</xref>).</p>
+      <p>The retroviral reverse transcription process is complex and involves at least two obligatory template switches by the reverse-transcriptase (RT) (<xref ref-type="bibr" rid="ref-7">Delviks-Frankenberry et al., 2011</xref>). This ability of the RT to ‘jump’ is likely responsible for elimination of direct repeats, and sequences inserted between the repeats during reverse transcription. The sequence requirements for efficient deletion of direct repeats, as well as the inserted sequences, have been well documented (<xref ref-type="bibr" rid="ref-7">Delviks-Frankenberry et al., 2011</xref>; <xref ref-type="bibr" rid="ref-19">Onafuwa-Nuga &amp; Telesnitsky, 2009</xref>).</p>
+      <p>Retroviruses, including lentiviruses, contain two copies of genomic RNA. Template switching by RT between these two molecules can result in recombinant viruses (<xref ref-type="bibr" rid="ref-7">Delviks-Frankenberry et al., 2011</xref>; <xref ref-type="bibr" rid="ref-19">Onafuwa-Nuga &amp; Telesnitsky, 2009</xref>). When a vector transduced cell is coinfected with a wild-type HIV, it can mobilize the vector derived RNA to other untransduced cells (<xref ref-type="bibr" rid="ref-8">Evans &amp; Garcia, 2000</xref>). One way to prevent mobilization is by creating self-inactivating (SIN) vectors. The traditional approach is by introducing a debilitating mutation in the U3 region of the 3′ LTR (<xref ref-type="bibr" rid="ref-30">Zufferey et al., 1998</xref>). As an alternative approach, we surmised that we could exploit the template-switching property of retroviral RTs, including that of HIV-1 RT, to design a gene transfer vector that would eliminate the RRE during the infection process. Elimination of the RRE during reverse transcription would result in reduced ability for the vector sequences to be mobilized from the transduced cells upon coinfection of the cell with wild-type HIV-1 (<xref ref-type="bibr" rid="ref-15">Lucke, Grunwald &amp; Uberla, 2005</xref>). To this end, the RRE sequence in the vector was sandwiched between two non-functional hygromycin phosphotransferase (Hyg) sequences. The results indicated that the deletion of RRE during the reverse transcription process reconstituted a functional Hyg gene depending on the site of recombination within the Hyg inactivating mutation.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Plasmids</title>
+        <p>The packaging plasmid pgp3virin (<xref ref-type="bibr" rid="ref-29">Srinivasakumar &amp; Schuening, 1999</xref>) and the envelope expression plasmid, pMD.G encoding VSV-G (<xref ref-type="bibr" rid="ref-18">Naldini et al., 1996</xref>) have been described previously. The wild-type vector was derived form pTR167 (<xref ref-type="bibr" rid="ref-23">Rizvi &amp; Panganiban, 1993</xref>) and was modified to contain a frame-shift mutation in <italic>gag</italic> and an inactivated <italic>nef</italic> open reading frame. It contains a simian virus 40-Hyg (SV-Hyg) cassette at the unique NheI site of the truncated <italic>env</italic> sequence upstream of the RRE (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The RI(-) vector and the SacII(-) vector were derived from wild-type vector, by digestion with EcoRI or SacII followed by repair using T4 polymerase and religation, respectively. The Aug(-) vector was created using PCR based mutagenesis as follows: The Hyg gene was amplified using a pair of primers but with the sense primer targeting the 5′ coding of the Hyg gene lacked the AUG codon. The amplified product was positioned downstream of the SV40 early promoter between the BamHI and XhoI restriction enzyme sites. The dual-Hyg containing vectors RI(-)/Aug(-) and SacII(-)/Aug(-) were created in multiple steps. First the Hyg sequence lacking the AUG codon was positioned downstream of the RRE and between BamHI and XhoI sites. Next the SV-Hyg cassette from RI(-) and SacII(-) vectors was released with NheI and ligated into the NheI site upstream of the RRE to give RI(-)/Aug(-) and SacII(-)/Aug(-), respectively (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The ΔRRE vector was created by digestion of SacII(-)/Aug(-) vector with EcoRI and dropping the EcoRI fragment between the EcoRI sites of the two Hyg sequences, thus eliminating the RRE, prior to religation (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.84/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Schematic representation of HIV-1 provirus and RRE-deleting HIV-1 vectors.</title>
+            <p>(A) The genetic organization of HIV-1 proviral clone pNL4-3 depicting the 5′ and 3′ long-terminal repeats (LTRs), protein coding regions, and the Rev-response element (RRE). Important restriction enzyme sites used in the creation of the gene transfer vectors are shown on a horizontal line below. (B) Schematic of RRE-deleting gene transfer vectors. The wild-type vector is shown at the top in B. It contains a single Hyg sequence driven under control of simian virus 40 early promoter (SV) that is positioned upstream of the RRE. The RRE-deleting vectors contain two non-functional Hyg sequences, one upstream, and the other downstream of the RRE. There are two versions of this vector: The RI(-)/Aug(-) version contains a mutation at the EcoRI (RI) site, while the SacII(-)/Aug(-) version contains a mutation at the SacII site, in the upstream Hyg gene. Both vectors carry a deletion of the AUG initiator codon (Aug(-)) in the Hyg sequence downstream of the RRE. A vector that has the RRE sequence deleted, ΔRRE, is shown at the bottom.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/84/fig-1.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Cells</title>
+        <p>Human embryonic kidney 293T (HEK293T) cellswere obtained from American type culture collection (ATCC; catalog number SD-3515). The HEK293T cells were maintained in Dulbecco’s modified Eagle’s medium supplemented with 2 mM L-glutamine, 100 U/ml penicillin, 100 µg/ml streptomycin and 10% heat-inactivated fetal bovine serum (Hyclone/ThermoFisherScientific, USA). HeLa cells were maintained in Iscoves medium supplemented with 2 mM L-glutamine, 100 U/ml penicillin, 100 µg/ml streptomycin and 10% heat-inactivated newborn calf serum (Hyclone/ThermoFisherScientific, USA).</p>
+      </sec>
+      <sec>
+        <title>Preparation of vector stocks</title>
+        <p>The packaging plasmid, pgp3virin encoding Gag/Gag-Pro-Pol and all accessory and regulatory HIV-1 protein (3.75 µg), VSV-G envelope expression construct, pMD.G (0.2 µg) and the gene transfer vector (7.5 µg) were transfected into 293T cells in T25 flasks using the CaPO<sub>4</sub> method as previously described (<xref ref-type="bibr" rid="ref-26">Srinivasakumar, 2002</xref>). For some experiments, in place of pgp3virin, we used an alternative packaging and helper constructs consisting of pGP-HIV-1 350 RRE encoding Gag and Gag-Pro-Pol (1.5 µg), pCMVtat (0.1 µg) and pCI-Rev (0.1 µg) (<xref ref-type="bibr" rid="ref-27">Srinivasakumar, 2008</xref>) for transfection in 6-well plates. Vector stocks were harvested 72 h later, clarified by centrifugation at 2500 × rpm (1400 × g) at 4°C for 15 min and stored at −80°C in aliquots or used immediately for titration on HeLa cells.</p>
+      </sec>
+      <sec>
+        <title>HIV-1 p24 ELISA</title>
+        <p>HIV-1 p24 ELISA was done using a commercial kit obtained from PerkinElmer (Massachusetts, USA) using the recommended protocol.</p>
+      </sec>
+      <sec>
+        <title>Transduction of HeLa cells</title>
+        <p>HeLa cells were seeded into 6-well plates (200,000 cells/well) one day prior to infection with vector stocks. Next day, each well received 200 µl, 20 µl or 2 µl of vector stock in 1 ml of Iscoves growth medium containing 8 µg/ml polybrene. After overnight incubation at 37°C, the polybrene was diluted with 2 ml of complete growth medium. The following day, the medium was replaced with fresh medium containing either hygromycin B (Calbiochem, Darmstadt, Germany) (200 µg/ml) or G418 (Life Technologies, NY, 1 mg/ml). This was replaced every 3–4 days with fresh medium containing the selection agent. After 12–14 days, when no live cells were noted in control untransduced cultures, and colonies were visible in test cultures, the medium was aspirated, and the cells fixed and stained using 0.5% crystal violet in 50% methanol before enumeration.</p>
+      </sec>
+      <sec>
+        <title>Isolation of genomic DNA from transduced cells</title>
+        <p>This was done using Qiagen DNeasy miniprep kits (Qiagen, Maryland, USA) according to the manufacturer’s recommended protocol and included an Rnase I treatment step.</p>
+      </sec>
+      <sec>
+        <title>Real-time or quantitative PCR (qPCR)</title>
+        <p>This was done in a Bio-Rad CFX96 thermocycler using iQ SYBR green supermix in 20 µl reaction volumes using 60 ng of template DNA and 200 nM concentration of each primer. A two-step PCR was used with an annealing and extension temperature of 63.1°C and a denaturation temperature of 95°C for a total of 40 cycles. The SYBR Green fluorescence was detected during the annealing and extension step (63.1°C). A final melt-curve analysis was done by ramping up the temperature from 65°C to 80°C in 0.5°C increments. Ten-fold dilutions of genomic DNA transduced with control ‘wild-type’ vector were used to generate standard curves. In addition to using primer pairs targeting RRE and <italic>gag</italic>, we also tested each genomic DNA sample using primers against β-actin to ensure that equal amounts of DNA samples (as deduced from spectroscopically estimated DNA concentrations) could be amplified to a similar extent, and that there were no PCR inhibitors in the final reaction mix. The primer sequences used to amplify <italic>gag</italic>, RRE or β-actin are shown in <xref ref-type="table" rid="table-2">Table 2</xref>. Relative quantities of RRE to <italic>gag</italic> were estimated as previously described (<xref ref-type="bibr" rid="ref-20">Pfaffl, 2001</xref>) and detailed in the footnote to <xref ref-type="table" rid="table-3">Table 3</xref>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>RRE-deleting vectors</title>
+        <p>We created HIV-1 derived vectors designed to eliminate the RRE during reverse transcription (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). One Hyg sequence, under control of the simian virus 40 (SV40) immediate early promoter, was placed upstream of the RRE at the unique NheI site in the vector backbone. The upstream Hyg sequence contained a frame-shift mutation at either the EcoRI site or at the SacII restriction enzyme sites. The second Hyg sequence was positioned downstream of the RRE, between the BamHI site in the second coding exon of Rev and the XhoI site in Nef. The downstream Hyg sequence contained a deletion of the initiator AUG codon (Aug(-)). Control vectors encoded a single copy of either the frame-shifted (RI(-) or SacII(-)) or the AUG(-) versions of the Hyg gene under control of the SV40 early promoter. The ‘wild-type’ control vector had an intact Hyg gene under control of the SV40 early promoter. A vector that recapitulated the RRE-deleted form (ΔRRE) was also created. This vector lacked a 3′ splice site.</p>
+      </sec>
+      <sec>
+        <title>A vector lacking the RRE is transduced less efficiently than one with RRE</title>
+        <p>The Rev-RRE transport pathway is crucial for transport and expression of proteins from full-length HIV-1 (Gag/Gag-Pro-Pol) or HIV-1 mRNAs containing introns (e.g., Env). Since HIV-1 based gene delivery vectors have most of their coding regions removed, it is not clear if Rev and RRE are essential for packaging and transduction of such vectors. To this end, we compared efficiency of gene delivery by the wild-type vector containing an RRE with a vector lacking RRE (ΔRRE) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The wild-type and ΔRRE vectors were packaged in 293 T cells, as previously described, and the resultant titers (not normalized to p24 levels) were determined on HeLa cells following selection with hygromycin B. The results of this experiment are shown in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>. The wild-type vector titer (1.3 ± 0.1 × 10<sup>4</sup> cfu/ml) was approximately 61-fold higher than that of the ΔRRE vector (2.2 ± 0.1 × 10<sup>2</sup> cfu/ml) that exhibited colonies only at the highest volumes tested. These results indicate that Rev and RRE are essential for efficient packaging and transduction of gene delivery vectors based on HIV-1 despite lacking most of the protein coding regions. This observation is supportive of our efforts to create an RRE-deleting HIV-1 vector for gene delivery.</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.84/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>A vector lacking RRE is severely crippled for transduction into HeLa cells.</title>
+            <p>Vector stocks were produced by transient transfection of 293T cells with the packaging plasmid pGP-HIV-1 350 RRE, plasmids encoding Rev (pCI-Rev) and Tat (pCMVtat), a VSV-G envelope expression construct, and a gene-transfer vector (wild-type or ΔRRE), as described in Materials and Methods. HeLa cells were transduced with the indicated vectors (200 µl or 20 µl) or vector-free supernatant (mock) and resultant colonies were fixed and stained as described in Materials and Methods. The transfections were done in parallel (biological replicates) on the same day. The calculated titers in colony forming units (CFU)/ml is shown on the right.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/84/fig-2.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Functional reconstitution of hygromycin resistance</title>
+        <p>Vector stocks for each of the RRE-deleting gene transfer vectors (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>), as well as control vectors were produced in 293T cells as previously described. Virus containing medium was harvested 72 h post-transfection, clarified by centrifugation, and used for the infection of HeLa cells. The transduced cells were subjected to selection using hygromycin B and the resultant colonies were fixed, stained, and enumerated two weeks later.</p>
+        <p>Hygromycin-resistant colonies obtained from test and control vectors from two such experiments are shown in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>. The control wild-type vector encoding a functional Hyg gene had the highest density of colonies followed by the SacII(-)/Aug(-) and the RI(-)/Aug(-)vectors. In contrast, the vectors encoding the individual mutated Hyg genes resulted in no hygromycin-resistant colonies (data not shown). Reconstitution of a functional hygromycin resistance gene was readily apparent for the RI(-)/Aug(-) and SacII(-)/Aug(-)vectors.</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.84/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Reconstitution of functional Hyg gene during transduction of HeLa cells with RRE-deleting HIV-1 vectors.</title>
+            <p>Vector stocks were produced by transient transfection of 293T cells with a packaging plasmid (pgp3virin), a VSV-G envelope expression construct and the indicated vector, as described in Materials and Methods. Transfections were done in duplicate. Each individual vector stock was used for infection of HeLa cells in 6-well plates using the indicated amounts (200 µl, 20 µl or 2 µl). The cells were then subjected to selection using hygromycin B as described in in the text for 12–14 days. The resultant colonies were fixed and stained with crystal violet in 50% methanol and enumerated. The results of two independent experiments (Expt 1 and Expt 2) are shown. Each experiment consisted of two parallel transfections (biological replicates) done on the same day. The calculated titers in colony forming units (CFU)/ml as well as the p24 levels in ng/ml are shown to the right of each titration.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/84/fig-3.png"/>
+        </fig>
+        <p>To more accurately determine the efficacy of reconstitution, the vector titers determined from <xref ref-type="fig" rid="fig-2">Fig. 2</xref> were normalized using p24 levels in the vector-containing supernatants. These results are summarized in <xref ref-type="table" rid="table-1">Table 1</xref>. The efficiency of functional reconstitution, determined from two independent experiments, was 23.3  ±  2.18% for the SacII(-)/Aug(-) vector and 11.93  ±  1.94% for the RI(-)/Aug(-) vector. This difference between SacII(-)/Aug(-) and RI(-)/Aug(-) vectors was statistically significant (Student’s <italic>t</italic>-test, <italic>p</italic> &lt; 0.05).</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.84/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Functional reconstitution of Hyg gene in RRE-deleting HIV-1 vectors.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/84/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">Expt 1</th>
+                  <th align="left">Expt 2</th>
+                  <th align="left">Normalized<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref>
+                           </th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">CFU/p24<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>
+                              <break/>(mean  ±  SD)</th>
+                  <th align="left">CFU/p24<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>
+                              <break/>(mean  ±  SD)</th>
+                  <th align="left">CFU/p24<break/>(mean  ±  SD)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Wild-type</td>
+                  <td align="left">5008  ±  668</td>
+                  <td align="left">1206 ± 52</td>
+                  <td align="left">100  ±  0.00</td>
+                </tr>
+                <tr>
+                  <td align="left">RI(-)/Aug(-)</td>
+                  <td align="left">666  ±  209</td>
+                  <td align="left">127  ±  96</td>
+                  <td align="left">11.93  ±  1.94</td>
+                </tr>
+                <tr>
+                  <td align="left">SacII(-)/Aug(-)</td>
+                  <td align="left">1090  ±  80</td>
+                  <td align="left">300  ±  16</td>
+                  <td align="left">23.32  ±  2.18</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-1fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-1fn1">
+              <label>a</label>
+              <p>The p24 levels (in ng/ml) in vector stocks were determined using a commercial ELISA kit (Perkin-Elmer, Boston, MA).</p>
+            </fn>
+            <fn id="table-1fn2">
+              <label>b</label>
+              <p>The colony forming units (CFU)/p24 data in each experiment was normalized to that of wild-type vector which was set at 100%. The mean and standard deviation (SD) of combined data from both experiments are shown in the last column.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.84/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Table showing primer sequences.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/84/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Primer</th>
+                  <th align="left">Laboratory designation</th>
+                  <th align="left">Sequence (5′–3′)</th>
+                  <th align="left">Parent GenBank Accession No.</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left"><italic>gag</italic> sense</td>
+                  <td align="left">SK97</td>
+                  <td align="left">GAACGATTCGCAGTTAATCC</td>
+                  <td align="left">M19921</td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>gag</italic> antisense</td>
+                  <td align="left">SK98</td>
+                  <td align="left">GATGCACACAATAGAGGACTGC</td>
+                  <td align="left">M19921</td>
+                </tr>
+                <tr>
+                  <td align="left">RRE sense</td>
+                  <td align="left">SK140</td>
+                  <td align="left">ATCAAACAGCTCCAGGCAAG</td>
+                  <td align="left">M19921</td>
+                </tr>
+                <tr>
+                  <td align="left">RRE antisense</td>
+                  <td align="left">SK141</td>
+                  <td align="left">ACAGCAGTGGTGCAAATGAG</td>
+                  <td align="left">M19921</td>
+                </tr>
+                <tr>
+                  <td align="left">β-Actin sense</td>
+                  <td align="left">SK108</td>
+                  <td align="left">AGAAAATCTGGCACCACACC</td>
+                  <td align="left">NM_001101</td>
+                </tr>
+                <tr>
+                  <td align="left">β-Actin antisense</td>
+                  <td align="left">SK109</td>
+                  <td align="left">AGAGGCGTACAGGGATAGCA</td>
+                  <td align="left">NM_001101</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <table-wrap id="table-3">
+          <object-id pub-id-type="doi">10.7717/peerj.84/table-3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Real-time qPCR analysis of genomic DNA of vector-transduced cells to determine recombination frequency.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/84/table-3.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Vector</th>
+                  <th align="left"><bold>Cq</bold><sub><bold>Gag</bold></sub><break/>(Mean  ±  SD)</th>
+                  <th align="left"><bold>Cq</bold><sub><bold>RRE</bold></sub><break/>(Mean  ±  SD)</th>
+                  <th align="left">Fold reduction<break/>in RRE<xref ref-type="fn" rid="table-3fn1"><sup>a</sup></xref>
+                           </th>
+                  <th align="left">RRE deletion<break/>frequency<xref ref-type="fn" rid="table-3fn2"><sup>b</sup></xref>
+                           </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Wild-type</td>
+                  <td align="left">23.46  ±  0.25</td>
+                  <td align="left">23.93  ±  0.44</td>
+                  <td align="left">1.00</td>
+                  <td align="left">0%</td>
+                </tr>
+                <tr>
+                  <td align="left">RI(-)/Aug(-)</td>
+                  <td align="left">23.40  ±  0.15</td>
+                  <td align="left">26.59  ±  0.50</td>
+                  <td align="left">6.25</td>
+                  <td align="left">83.5%</td>
+                </tr>
+                <tr>
+                  <td align="left">SacII(-)/Aug(-)</td>
+                  <td align="left">23.20  ±  0.06</td>
+                  <td align="left">25.67  ±  1.40</td>
+                  <td align="left">3.85</td>
+                  <td align="left">73.6%</td>
+                </tr>
+                <tr>
+                  <td align="left">ΔRRE</td>
+                  <td align="left">26.80  ±  2.44</td>
+                  <td align="left">37.55  ±  0.64</td>
+                  <td align="left">NA<xref ref-type="fn" rid="table-3fn3"><sup>c</sup></xref>
+                           </td>
+                  <td align="left">100%</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-3fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-3fn1">
+              <label>a</label>
+              <p>Fold reduction of RRE with reference to Wild-type vector was calculated using the formula: <inline-formula><alternatives><inline-graphic xlink:href="https://peerj.com/articles/84/ieqn-48.png"/><tex-math id="tex-ieqn-48"><![CDATA[${E}_{r}^{\Delta C q(r)}\div {E}_{t}^{\Delta C q(t)}$]]></tex-math><mml:math id="mml-ieqn-48"><mml:msubsup><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>C</mml:mi><mml:mi>q</mml:mi><mml:mo>(</mml:mo><mml:mi>r</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:msubsup><mml:mo>÷</mml:mo><mml:msubsup><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>C</mml:mi><mml:mi>q</mml:mi><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:msubsup></mml:math></alternatives></inline-formula>, where <italic>E</italic><sub><italic>r</italic></sub> =  efficiency of amplification of reference (<italic>gag</italic>) sequence; <italic>E</italic><sub><italic>t</italic></sub> =  efficiency of amplification of target (RRE) sequence; Δ<italic>C</italic>  <italic>q</italic>(<italic>r</italic>) =  Quantification cycle (<italic>C</italic>  <italic>q</italic>) difference between control (wild-type) and test vectors for reference sequence (<italic>gag</italic>); Δ<italic>C</italic>  <italic>q</italic>(<italic>t</italic>) = <italic>C</italic>  <italic>q</italic> difference between control (wild-type) and test vectors for target sequence (RRE). i.e., <inline-formula><alternatives><inline-graphic xlink:href="https://peerj.com/articles/84/ieqn-54.png"/><tex-math id="tex-ieqn-54"><![CDATA[$2.0{0}_{g a g}^{\Delta C q(g a g)(23.46\text{- vector})}\div 1.9{4}_{\mathrm{RRE}}^{\Delta C q(\mathrm{RRE})(23.93\text{- vector})}$]]></tex-math><mml:math id="mml-ieqn-54"><mml:mn>2</mml:mn><mml:mo>.</mml:mo><mml:mn>0</mml:mn><mml:msubsup><mml:mrow><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi>g</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>C</mml:mi><mml:mi>q</mml:mi><mml:mo>(</mml:mo><mml:mi>g</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mo>)</mml:mo><mml:mo>(</mml:mo><mml:mn>23</mml:mn><mml:mo>.</mml:mo><mml:mn>46</mml:mn><mml:mtext>- vector</mml:mtext><mml:mo>)</mml:mo></mml:mrow></mml:msubsup><mml:mo>÷</mml:mo><mml:mn>1</mml:mn><mml:mo>.</mml:mo><mml:mn>9</mml:mn><mml:msubsup><mml:mrow><mml:mn>4</mml:mn></mml:mrow><mml:mrow><mml:mi mathvariant="normal">RRE</mml:mi></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>C</mml:mi><mml:mi>q</mml:mi><mml:mo>(</mml:mo><mml:mi mathvariant="normal">RRE</mml:mi><mml:mo>)</mml:mo><mml:mo>(</mml:mo><mml:mn>23</mml:mn><mml:mo>.</mml:mo><mml:mn>93</mml:mn><mml:mtext>- vector</mml:mtext><mml:mo>)</mml:mo></mml:mrow></mml:msubsup></mml:math></alternatives></inline-formula>. Where 1.94 and 2.00 refer to PCR efficiency of RRE and gag primer pairs determined from the slope of standard (dose-response) curves.</p>
+            </fn>
+            <fn id="table-3fn2">
+              <label>b</label>
+              <p>Normalized to wild-type vector as follows: (1-(1/fold reduction in RRE)) × 100.</p>
+            </fn>
+            <fn id="table-3fn3">
+              <label>c</label>
+              <p>NA = Not applicable as the fold-reduction cannot be calculated using the above formula for RRE value of zero.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Real-time quantitative PCR (qPCR) can be used to determine recombination frequency</title>
+        <p>Selection with hygromycin B ensures detection of only functional reconstitution of the gene and overlooks recombination events that might have resulted in elimination of RRE but did not result in reconstituting a functional Hyg gene. To determine frequency of all RRE-deleting events, including those events not resulting in reconstitution of a functional hygromycin gene, we introduced a neomycin resistance gene (Neo) into the RI(-)/Aug(-) and SacII(-)/Aug(-) vectors downstream of the 3′ Hyg sequence (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The Neo gene was translated by virtue of an encephalomyocarditis virus derived internal ribosome entry site (IRES) situated at its 5′ end. The vectors were used for transduction of HeLa cells that were then selected using G418. Pools of G418-resistant colonies (at least 50 colonies for each vector) were prepared and genomic DNA isolated using Qiagen DNeasy kits for each of the two RRE-deleting vectors as well as the control ΔRRE vector. Genomic DNA from cells transd uced with the ‘wild-type’ vector harboring an intact RRE and a functional Hyg gene were also obtained.</p>
+        <p>We used qPCR to detect the efficiency of recombination or elimination of the RRE sequence during the reverse-transcription process. To this end we designed PCR primers targeting the RRE and <italic>gag</italic> sequences (<xref ref-type="table" rid="table-2">Table 2</xref>). The optimal temperature for each primer pair was first determined using a temperature gradient. Based on these preliminary studies, we were able to design a qPCR assay that could reliably amplify both targets (RRE and <italic>gag</italic>, but amplifed independently in separate wells) during the same PCR run with high efficiency and specificity. Using these optimized conditions we determined the quantitation cycle (Cq) values for RRE (target) and <italic>gag</italic> (reference) sequence using genomic DNA of target cells transduced with each of the vectors (<xref ref-type="table" rid="table-3">Table 3</xref>). The <italic>gag</italic> sequence was used as the reference sequence since it was present in the remnant <italic>gag</italic> sequence of all the vectors used in this study. The fold-difference in RRE between the vectors was determined by normalizing the results to the wild-type vector. The relative RRE values for wild-type, RI(-)/Aug(-) and SacII(-)/Aug(-) vectors were 1.0, 0.16 and 0.26, respectively. This corresponded to an efficiency of deletion of RRE of 83.5% and 73.6% for the RI(-)/Aug(-) and SacII(-)/Aug(-) vectors, respectively. The difference between the RI(-)/Aug(-) and SacII(-)/Aug(-) vectors was not statistically significant (Student’s <italic>t</italic>-test, <italic>p</italic> &gt; 0.05). Genomic DNA of cells transduced with the ΔRRE vector exhibited <italic>gag</italic> Cq values that were 3.3 cycles higher than the other test vectors indicating approximately 10-fold reduction in quantity. This can be explained by the inherently low titers of ΔRRE vector stocks resulting in lower multiplicities of infection (MOI) than for the other test vectors exhibiting higher titers.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>In the present study, we designed RRE-deleting HIV-1 vectors by sandwiching a 1.2 kb <italic>env</italic> sequence containing the RRE between two Hyg sequences. The upstream Hyg sequence had a mutation at either the EcoRI or the SacII restriction enzyme site. The downstream Hyg lacked the AUG initator codon. All three of these mutations, when tested individually in vectors, were found to render the hygromycin non-functional. The RRE-deleting vectors showed functional reconstitution of the Hyg gene, with the RI(-)/Aug(-) vector showing a lower efficiency than the SacII(-)/Aug(-) vector. This result can be explained as follows: The EcoRI site is at position 243 while the SacII site is at positon 777 of the 1053 nt long Hyg gene (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>). The distance between the upstream and downstream RI (or SacII) sites in the Hyg sequences sandwiching the RRE is 2.3 kb (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). If we assume equal rates of recombination events along the Hyg gene, then functional reconstitution for the SacII(-)/Aug(-) vector should be about 2.9-fold greater than for the RI(-)/Aug(-) vector. The experimentally determined rate of functional reconstitution for the SacII(-)/Aug(-) vector was 2.00  ±  0.51-fold higher than that of the the RI(-)/Aug(-) vector (<xref ref-type="table" rid="table-1">Table 1</xref>) and approximates the theoretical calculation.</p>
+      <fig id="fig-4">
+        <object-id pub-id-type="doi">10.7717/peerj.84/fig-4</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title>Schematic showing location of restriction enzyme sites in the context of Hyg sequence and the RRE-deleting vectors.</title>
+          <p>(A) The location of the EcoRI (RI) and SacII restriction enzyme sites within the Hyg sequence. (B) The distance between the restriction enzyme sites (RI or SacII) in the context of the RRE-deleting vectors (2.3 kb) is indicated, as is the size of the HIV-1 <italic>env</italic> sequence (1.2 kb) containing the RRE and situated between the two Hyg sequences.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/84/fig-4.png"/>
+      </fig>
+      <p>An alternative explanation for functional reconstitution is recombination at the DNA level in the producer cell. A functional reconstitution would require the elimination of the RRE/<italic>env</italic> sequence. Consequently, the resulting vector derived mRNA from the recombinant plasmid would not be efficiently packaged and transduced (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Another possibility is aberrant splicing from an upstream exon to a site downstream of the AUG mutation in the 3′ Hyg sequence. Again any splicing occurring upstream of the RRE would eliminate the RRE and inactivate the vector. The high efficiency in the deletion of the RRE sequence following transduction (see discussion of qPCR below), makes this also unlikely.</p>
+      <p>We also looked at the overall efficiency of deletion of the intervening RRE sequence, in the absence of selection for Hyg, using an independent Neo selection marker. This measured both functional and nonfunctional reconstitution of hyg sequence. The genomic DNA of transduced cells selected with Neo was analyzed using qPCR to estimate RRE and <italic>gag</italic> copy numbers and the efficiency of deletion of RRE was determined. The results of these experiments (<xref ref-type="table" rid="table-3">Table 3</xref>) showed that the RRE was deleted at an efficiency of 73.6% and 83.5% for the RI(-)/AUG(-) and SacII(-)/Aug(-) vectors, respectively. These differences in efficiency of deletion of RRE were not statistically significant. Similar rates of RRE deletion were expected for both vectors, as they both contained the same repeat sequences (with the exception of the mutated restriction sites) and the same interjacent sequences.</p>
+      <p>The requirements for recombination during infection of target cells by retroviruses, including lentiviruses, have been extensively characterized by several groups (reviewed in <xref ref-type="bibr" rid="ref-7">Delviks-Frankenberry et al., 2011</xref>; <xref ref-type="bibr" rid="ref-19">Onafuwa-Nuga &amp; Telesnitsky, 2009</xref>). Direct repeat sequences are deleted quite efficiently. This deletion appears to be proportional to the length of the direct repeats. Thus, the efficiency of direct repeat deletion for lengths of 117 bp, 284 bp and 971 bp was found to be 5%, 27% and 60%, respectively, for Moloney murine leukemia virus, while for the same lengths, it was found to be 6%, 19% and 81%, respectively, for HIV-1 (<xref ref-type="bibr" rid="ref-1">An &amp; Telesnitsky, 2001</xref>). The efficiency of deletion could be enhanced by increasing the distance between the repeats. Delviks and coworkers created Moloney murine leukemia virus based vectors containing 701-bp repeats. The repeats were separated by intervening sequences ranging from 100 bp to 3.5 kb. The efficiency of deletion of repeats for vectors with an intervening sequence of 1.5 kb was over 90% (<xref ref-type="bibr" rid="ref-6">Delviks &amp; Pathak, 1999</xref>). For HIV, the recombination rate was 42.4%, 50.4%, and 47.4% for markers separated by distances of 1.0 kb, 1.3 kb, and 1.9 kb (<xref ref-type="bibr" rid="ref-22">Rhodes, Wargo &amp; Hu, 2003</xref>). In the last study, the recombination measured intermolecular recombination between the two RNA genomes copackaged into the virion.</p>
+      <p>In general, lentiviruses therefore appear to be more prone to undergo recombination events than gammaretroviruses (<xref ref-type="bibr" rid="ref-7">Delviks-Frankenberry et al., 2011</xref>; <xref ref-type="bibr" rid="ref-19">Onafuwa-Nuga &amp; Telesnitsky, 2009</xref>). This difference cannot be attributed to differences in the reverse transcriptases among the viruses, such as template switching rates that can be influenced by RNAse H activity, or processivity (<xref ref-type="bibr" rid="ref-12">Hwang, Svarovskaia &amp; Pathak, 2001</xref>). Rather, the evidence suggests that this is likely to be due to the higher efficiency of copackaging of RNA molecules into budding lentiviruses. The copackaging of RNA molecules is directed by the dimer initiating site (DIS). Thus, the palindromic GCGCGC sequence allows copackaging of two distinct parent viruses in accordance with the Hardy-Weinberg Equilibrium to an efficiency approaching 50%. When the DIS was complementary in the two parent viruses, the recombination efficiency was further increased and approached 70% (<xref ref-type="bibr" rid="ref-17">Moore et al., 2007</xref>).</p>
+      <p>Other investigators have used the template switching ability of reverse transcriptase to design safety modified gene delivery vectors. One such example is the use of this ability to delete the packaging signal present in the 5’ untranslated region of retroviruses (<xref ref-type="bibr" rid="ref-5">Delviks, Hu &amp; Pathak, 1997</xref>; <xref ref-type="bibr" rid="ref-14">Julias, Hash &amp; Pathak, 1995</xref>). The RRE-deleting HIV-1 vector described here is, likewise, a safety modified lentivirus vector. A vector lacking RRE is less likely to be mobilized from the target cell upon infection with a replicating wild-type virus because a vector RNA that is trapped in the nucleus is not available for encapsidation (<xref ref-type="bibr" rid="ref-11">Helga-Maria, Hammarskjold &amp; Rekosh, 1999</xref>). Rev and RRE have also been implicated to play a role in encapsidation of genomic RNA (<xref ref-type="bibr" rid="ref-2">Brandt et al., 2007</xref>; <xref ref-type="bibr" rid="ref-4">Cockrell et al., 2011</xref>) and this can also decrease mobilization. In contradistinction to this observation, we have reported high-titered Rev-free HIV-1 based gene delivery systems (<xref ref-type="bibr" rid="ref-28">Srinivasakumar, 2011</xref>). This would suggest that the effect of Rev and RRE on encapsidation may depend on the precise configuration of the gene-transfer vector. Nevertheless, a combination of the traditional self-inactivating mutation in the U3 region of the 3′ LTR together with a RRE-deleting vector configuration would considerably enhance the safety of HIV-1 based lentivirus vectors for gene therapy applications.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>I thank Dr. Michail Zaboikin for critical review of the manuscript.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>I declare that I have no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Narasimhachar Srinivasakumar</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>An &amp; Telesnitsky (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>An</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Telesnitsky</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Frequency of direct repeat deletion in a human immunodeficiency virus type 1 vector during reverse transcription in human cells</article-title>
+          <source>Virology</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>286</volume>
+          <fpage>475</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="doi">10.1006/viro.2001.1025</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Brandt et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brandt</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Blissenbach</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Grewe</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Konietzny</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Grunwald</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Uberla</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Rev proteins of human and simian immunodeficiency virus enhance RNA encapsidation</article-title>
+          <source>PLoS Pathogens</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>3</volume>
+          <elocation-id>e54</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.ppat.0030054</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Chang &amp; Sharp (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chang</surname>
+              <given-names>DD</given-names>
+            </name>
+            <name>
+              <surname>Sharp</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation by HIV Rev depends upon recognition of splice sites</article-title>
+          <source>Cell</source>
+          <year iso-8601-date="1989">1989</year>
+          <volume>59</volume>
+          <fpage>789</fpage>
+          <lpage>795</lpage>
+          <pub-id pub-id-type="doi">10.1016/0092-8674(89)90602-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Cockrell et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cockrell</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>van Praag</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Santistevan</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kafri</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>The HIV-1 Rev/RRE system is required for HIV-1 5′ UTR cis elements to augment encapsidation of heterologous RNA into HIV-1 viral particles</article-title>
+          <source>Retrovirology</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>8</volume>
+          <fpage>51</fpage>
+          <pub-id pub-id-type="doi">10.1186/1742-4690-8-51</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Delviks, Hu &amp; Pathak (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Delviks</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Psi-vectors: murine leukemia virus-based self-inactivating and self- activating retroviral vectors</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>71</volume>
+          <fpage>6218</fpage>
+          <lpage>6224</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Delviks &amp; Pathak (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Delviks</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>VK</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of distance between homologous sequences and 3′ homology on the frequency of retroviral reverse transcriptase template switching</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>73</volume>
+          <fpage>7923</fpage>
+          <lpage>7932</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Delviks-Frankenberry et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Delviks-Frankenberry</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Galli</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nikolaitchik</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Mens</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>VK</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>WS</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanisms and factors that influence high frequency retroviral recombination</article-title>
+          <source>Viruses</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>3</volume>
+          <fpage>1650</fpage>
+          <lpage>1680</lpage>
+          <pub-id pub-id-type="doi">10.3390/v3091650</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Evans &amp; Garcia (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evans</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Garcia</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <article-title>Lentivirus vector mobilization and spread by human immunodeficiency virus</article-title>
+          <source>Human Gene Therapy</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>11</volume>
+          <fpage>2331</fpage>
+          <lpage>2339</lpage>
+          <pub-id pub-id-type="doi">10.1089/104303400750038444</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Fornerod et al. (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fornerod</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ohno</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yoshida</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mattaj</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>CRM1 is an export receptor for leucine-rich nuclear export signals [comments]</article-title>
+          <source>Cell</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>90</volume>
+          <fpage>1051</fpage>
+          <lpage>1060</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(00)80371-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Hammarskjold et al. (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hammarskjold</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Heimer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hammarskjold</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sangwan</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Albert</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Rekosh</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of human immunodeficiency virus env expression by the rev gene product</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1989">1989</year>
+          <volume>63</volume>
+          <fpage>1959</fpage>
+          <lpage>1966</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Helga-Maria, Hammarskjold &amp; Rekosh (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Helga-Maria</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hammarskjold</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rekosh</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>An intact TAR element and cytoplasmic localization are necessary for efficient packaging of human immunodeficiency virus type 1 genomic RNA</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>73</volume>
+          <fpage>4127</fpage>
+          <lpage>4135</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Hwang, Svarovskaia &amp; Pathak (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hwang</surname>
+              <given-names>CK</given-names>
+            </name>
+            <name>
+              <surname>Svarovskaia</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>VK</given-names>
+            </name>
+          </person-group>
+          <article-title>Dynamic copy choice: steady state between murine leukemia virus polymerase and polymerase-dependent RNase H activity determines frequency of in vivo template switching</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>98</volume>
+          <fpage>12209</fpage>
+          <lpage>12214</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.221289898</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Jeang et al. (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jeang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Berkhout</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hammarskjold</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rekosh</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of HIV expression: mechanisms of action of Tat and Rev</article-title>
+          <source>Aids</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>5</volume>
+          <fpage>S3</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.1097/00002030-199101001-00002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Julias, Hash &amp; Pathak (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Julias</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hash</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>E-vectors: development of novel self-inactivating and self-activating retroviral vectors for safer gene therapy</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>69</volume>
+          <fpage>6839</fpage>
+          <lpage>6846</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Lucke, Grunwald &amp; Uberla (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lucke</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Grunwald</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Uberla</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Reduced mobilization of Rev-responsive element-deficient lentiviral vectors</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>79</volume>
+          <fpage>9359</fpage>
+          <lpage>9362</lpage>
+          <pub-id pub-id-type="doi">10.1128/JVI.79.14.9359-9362.2005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Malim et al. (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malim</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tiley</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>McCarn</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Rusche</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hauber</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Cullen</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV-1 structural gene expression requires binding of the Rev trans-activator to its RNA target sequence</article-title>
+          <source>Cell</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>60</volume>
+          <fpage>675</fpage>
+          <lpage>683</lpage>
+          <pub-id pub-id-type="doi">10.1016/0092-8674(90)90670-A</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Moore et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Nikolaitchik</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ptak</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>WS</given-names>
+            </name>
+          </person-group>
+          <article-title>Dimer initiation signal of human immunodeficiency virus type 1: its role in partner selection during RNA copackaging and its effects on recombination</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>81</volume>
+          <fpage>4002</fpage>
+          <lpage>4011</lpage>
+          <pub-id pub-id-type="doi">10.1128/JVI.02589-06</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Naldini et al. (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naldini</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Blomer</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Gallay</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ory</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mulligan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gage</surname>
+              <given-names>FH</given-names>
+            </name>
+            <name>
+              <surname>Verma</surname>
+              <given-names>IM</given-names>
+            </name>
+            <name>
+              <surname>Trono</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In vivo</italic> gene delivery and stable transduction of nondividing cells by a lentiviral vector</article-title>
+          <source>Science</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>272</volume>
+          <fpage>263</fpage>
+          <lpage>267</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.272.5259.263</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Onafuwa-Nuga &amp; Telesnitsky (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Onafuwa-Nuga</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Telesnitsky</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>The remarkable frequency of human immunodeficiency virus type 1 genetic recombination</article-title>
+          <source>Microbiology and Molecular Biology Reviews</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>73</volume>
+          <fpage>451</fpage>
+          <lpage>480</lpage>
+          <pub-id pub-id-type="doi">10.1128/MMBR.00012-09</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Pfaffl (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pfaffl</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <article-title>A new mathematical model for relative quantification in real-time RT-PCR</article-title>
+          <source>Nucleic Acids Research</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>29</volume>
+          <fpage>e45</fpage>
+          <pub-id pub-id-type="doi">10.1093/nar/29.9.e45</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Purcell &amp; Martin (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Purcell</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Alternative splicing of human immunodeficiency virus type 1 mRNA modulates viral protein expression, replication, and infectivity</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>67</volume>
+          <fpage>6365</fpage>
+          <lpage>6378</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Rhodes, Wargo &amp; Hu (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rhodes</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Wargo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>W-S</given-names>
+            </name>
+          </person-group>
+          <article-title>High rates of human immunodeficiency virus type 1 recombination: near-random segregation of markers one kilobase apart in one round of viral replication</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>77</volume>
+          <fpage>11193</fpage>
+          <lpage>11200</lpage>
+          <pub-id pub-id-type="doi">10.1128/JVI.77.20.11193-11200.2003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Rizvi &amp; Panganiban (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rizvi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Panganiban</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Simian immunodeficiency virus RNA is efficiently encapsidated by human immunodeficiency virus type 1 particles</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>67</volume>
+          <fpage>2681</fpage>
+          <lpage>2688</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Smith et al. (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Hammarskjold</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Rekosh</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Human immunodeficiency virus type 1 Pr55gag and Pr160gag-pol expressed from a simian virus 40 late replacement vector are efficiently processed and assembled into virus like particles</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>64</volume>
+          <fpage>2743</fpage>
+          <lpage>2750</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Srinivasakumar (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srinivasakumar</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV-1 vector systems</article-title>
+          <source>Somatic Cell and Molecular Genetics</source>
+          <issue>1–6</issue>
+          <year iso-8601-date="2001">2001</year>
+          <volume>26</volume>
+          <fpage>51</fpage>
+          <lpage>81</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1021074613196</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Srinivasakumar (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srinivasakumar</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Packaging cell system for lentivirus vectors: preparation and use</article-title>
+          <source>Methods in Molecular Medicine</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>69</volume>
+          <fpage>275</fpage>
+          <lpage>302</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Srinivasakumar (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srinivasakumar</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Substitution of the Rev-response element in an HIV-1-based gene delivery system with that of SIVmac239 allows efficient delivery of Rev M10 into T-lymphocytes</article-title>
+          <source>AIDS Research and Therapy</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>5</volume>
+          <fpage>11</fpage>
+          <pub-id pub-id-type="doi">10.1186/1742-6405-5-11</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Srinivasakumar (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srinivasakumar</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>An HIV-1 packaging system for targeting Rev-RRE-Crm1 RNA transport pathway</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>6</volume>
+          <fpage>e28462</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0028462</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Srinivasakumar &amp; Schuening (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srinivasakumar</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Schuening</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>A lentivirus packaging system based on alternative RNA transport mechanisms to express helper and gene transfer vector RNAs and its use to study the requirement of accessory proteins for particle formation and gene delivery</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>73</volume>
+          <fpage>9589</fpage>
+          <lpage>9598</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Zufferey et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zufferey</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Dull</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Mandel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bukovsky</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Quiroz</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Naldini</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Trono</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Self-inactivating lentivirus vector for safe and efficient in vivo gene delivery</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>72</volume>
+          <fpage>9873</fpage>
+          <lpage>9880</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,1147 +1,1296 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">3</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.3</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Neuroscience</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The roles of STP and LTP in synaptic encoding</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Volianskis</surname>
+            <given-names>Arturas</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Collingridge</surname>
+            <given-names>Graham L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Jensen</surname>
+            <given-names>Morten S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Institute of Biomedicine</institution>, <addr-line>University of Aarhus</addr-line>, <country>Denmark</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Centre for Synaptic Plasticity</institution>, <addr-line>University of Bristol</addr-line>, <country>United Kingdom</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Mattson</surname>
+            <given-names>Mark</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>A.Volianskis@bristol.ac.uk</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e3</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-13">
+          <day>13</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2012-12-03">
+          <day>3</day>
+          <month>12</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Volianskis et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Volianskis et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/3"/>
+      <abstract>
+        <p>Long-term potentiation (LTP), a cellular model of learning and memory, is generally regarded as a unitary phenomenon that alters the strength of synaptic transmission by increasing the postsynaptic response to the release of a quantum of neurotransmitter. LTP, at CA3-CA1 synapses in the hippocampus, contains a stimulation-labile phase of short-term potentiation (STP, or transient LTP, t-LTP) that decays into stable LTP. By studying the responses of populations of neurons to brief bursts of high-frequency afferent stimulation before and after the induction of LTP, we found that synaptic responses during bursts are potentiated equally during LTP but not during STP. We show that STP modulates the frequency response of synaptic transmission whereas LTP preserves the fidelity. Thus, STP and LTP have different functional consequences for the transfer of synaptic information.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Short-term potentiation</kwd>
+        <kwd>Long-term potentiation</kwd>
+        <kwd>Synaptic transmission</kwd>
+        <kwd>Hippocampal slices</kwd>
+        <kwd>CA1</kwd>
+        <kwd>Schaffer collaterals</kwd>
+        <kwd>Synaptic encoding and decoding</kwd>
+        <kwd>Learning and memory</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>Danish Medical Research Council</funding-source>
+          <award-id>22-02-0577</award-id>
+          <award-id>271-05-0712</award-id>
+        </award-group>
+        <funding-statement>Research was supported by Danish Medical Research Council, Torben og Alice Frimods Fond, University of Aarhus. AV was supported by postdoctoral research grants from Danish Medical Research Council (22-02-0577, 271-05-0712). GLC was supported by the MRC. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The mechanisms by which synapses store information have been explored extensively and much is known, especially with regard to long-term potentiation (LTP) (<xref ref-type="bibr" rid="ref-6">Bliss &amp; Lomo, 1973</xref>) at the CA3-CA1 synapses in the hippocampus (<xref ref-type="bibr" rid="ref-7">Bliss &amp; Collingridge, 1993</xref>; <xref ref-type="bibr" rid="ref-10">Collingridge &amp; Bliss, 1995</xref>; <xref ref-type="bibr" rid="ref-26">Malenka &amp; Nicoll, 1999</xref>; <xref ref-type="bibr" rid="ref-29">Malinow &amp; Malenka, 2002</xref>; <xref ref-type="bibr" rid="ref-23">Lauri et al., 2007</xref>; <xref ref-type="bibr" rid="ref-19">Kerchner &amp; Nicoll, 2008</xref>). Although much of the LTP research has been conducted at these synapses in hippocampal slices, the functional consequences of such potentiation are still under debate (<xref ref-type="bibr" rid="ref-35">Stevens, 1998</xref>; <xref ref-type="bibr" rid="ref-2">Albright et al., 2000</xref>; <xref ref-type="bibr" rid="ref-24">Lisman &amp; Raghavachari, 2006</xref>; <xref ref-type="bibr" rid="ref-23">Lauri et al., 2007</xref>).</p>
+      <p>Application of brief, high frequency trains of electrical stimuli to the Schaffer collaterals evokes three phases of potentiation at the CA3-CA1 synapses. Post-tetanic potentiation (PTP), mediated by an increase in the probability of neurotransmitter release (<italic>P</italic><sub><italic>R</italic></sub>), is the first in the cascade (<xref ref-type="bibr" rid="ref-42">Zucker, 1999</xref>; <xref ref-type="bibr" rid="ref-43">Zucker &amp; Regehr, 2002</xref>). PTP is caused by a presynaptic accumulation of <named-content content-type="chemical-compound">[Ca<sup>2+</sup>]<sub><italic>i</italic></sub></named-content> and decays rapidly upon its clearance. PTP, in the CA1 area, is independent of the N-methyl-D-aspartate (NMDA) receptor activation during the tetanus and can be studied in isolation from the NMDA receptor dependent types of potentiation (<xref ref-type="bibr" rid="ref-11">Collingridge, Kehl &amp; McLennan, 1983</xref>; <xref ref-type="bibr" rid="ref-4">Anwyl, Lee &amp; Rowan, 1988</xref>; <xref ref-type="bibr" rid="ref-28">Malenka et al., 1988</xref>; <xref ref-type="bibr" rid="ref-5">Anwyl, Mulkeen &amp; Rowan, 1989</xref>; <xref ref-type="bibr" rid="ref-27">Malenka, Lancaster &amp; Zucker, 1992</xref>; <xref ref-type="bibr" rid="ref-36">Stevens, Tonegawa &amp; Wang, 1994</xref>; <xref ref-type="bibr" rid="ref-37">Tsien, Huerta &amp; Tonegawa, 1996</xref>; <xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>). When induced in isolation PTP decays passively and disappears within a time period of about two minutes (<xref ref-type="bibr" rid="ref-36">Stevens, Tonegawa &amp; Wang, 1994</xref>; <xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>). In addition to the PTP, high frequency stimulation induces two phases of NMDA receptor dependent LTP (<xref ref-type="bibr" rid="ref-11">Collingridge, Kehl &amp; McLennan, 1983</xref>; <xref ref-type="bibr" rid="ref-4">Anwyl, Lee &amp; Rowan, 1988</xref>; <xref ref-type="bibr" rid="ref-28">Malenka et al., 1988</xref>; <xref ref-type="bibr" rid="ref-5">Anwyl, Mulkeen &amp; Rowan, 1989</xref>; <xref ref-type="bibr" rid="ref-27">Malenka, Lancaster &amp; Zucker, 1992</xref>; <xref ref-type="bibr" rid="ref-36">Stevens, Tonegawa &amp; Wang, 1994</xref>; <xref ref-type="bibr" rid="ref-37">Tsien, Huerta &amp; Tonegawa, 1996</xref>; <xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>). Short-term potentiation (STP, or transient LTP, t-LTP) is an unstable phase, which declines over a period of about half an hour and leads to a sustained level of up-regulated neurotransmission, which is most commonly referred to as LTP (though sometimes as early-LTP, e-LTP). STP and LTP are generally regarded as a unitary phenomenon (<xref ref-type="bibr" rid="ref-16">Gustafsson et al., 1989</xref>; <xref ref-type="bibr" rid="ref-15">Gustafsson &amp; Wigstrom, 1990</xref>; <xref ref-type="bibr" rid="ref-17">Hanse &amp; Gustafsson, 1994</xref>) that alters the efficiency of synaptic transmission by increasing the postsynaptic response to the release of a quantum of neurotransmitter.</p>
+      <p>STP and LTP are usually investigated in terms of the synaptic response to single stimuli delivered at low frequency (0.033–0.1 Hz, <xref ref-type="bibr" rid="ref-6">Bliss &amp; Lomo, 1973</xref>; <xref ref-type="bibr" rid="ref-3">Andersen et al., 1977</xref>; <xref ref-type="bibr" rid="ref-7">Bliss &amp; Collingridge, 1993</xref>; <xref ref-type="bibr" rid="ref-10">Collingridge &amp; Bliss, 1995</xref>; <xref ref-type="bibr" rid="ref-26">Malenka &amp; Nicoll, 1999</xref>; <xref ref-type="bibr" rid="ref-29">Malinow &amp; Malenka, 2002</xref>; <xref ref-type="bibr" rid="ref-23">Lauri et al., 2007</xref>; <xref ref-type="bibr" rid="ref-19">Kerchner &amp; Nicoll, 2008</xref>). STP decreases actively in response to stimulation and in this way it differs from both PTP and LTP (<xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>). Notably, synaptic activation at low frequency mimics poorly the natural patterns of neuronal communication in the hippocampus, as neurons typically communicate with brief high frequency bursts of action potentials (<xref ref-type="bibr" rid="ref-13">Dobrunz &amp; Stevens, 1999</xref>). Indeed, it has been shown that synaptic responses to high frequency bursts of the presynaptic action potentials are not always equally potentiated during LTP (<xref ref-type="bibr" rid="ref-30">Markram &amp; Tsodyks, 1996</xref>; <xref ref-type="bibr" rid="ref-41">Yasui et al., 2005</xref>), although sometimes they are (<xref ref-type="bibr" rid="ref-33">Pananceau, Chen &amp; Gustafsson, 1998</xref>; <xref ref-type="bibr" rid="ref-34">Selig, Nicoll &amp; Malenka, 1999</xref>). Consequently, the functional implications of the long-lasting changes in synaptic transmission cannot be predicted by analyses of the single synaptic responses alone (<xref ref-type="bibr" rid="ref-30">Markram &amp; Tsodyks, 1996</xref>; <xref ref-type="bibr" rid="ref-38">Tsodyks &amp; Markram, 1997</xref>; <xref ref-type="bibr" rid="ref-13">Dobrunz &amp; Stevens, 1999</xref>).</p>
+      <p>It is currently not known whether the synaptic responses during high frequency bursts are affected similarly during STP and LTP. We report here that STP and LTP have dramatically different consequences during high frequency synaptic transmission, such that STP alters the temporal characteristics of the burst whereas LTP maintains the synaptic fidelity.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <p>Experiments were conducted according to the national and the EU guidelines for animal care, according to procedures certified by the University of Aarhus. Extracellular f-EPSPs were recorded in response to control stimulation (0.067 Hz), in hippocampal slices from adult Wistar rats (about 6 month old) as previously described (<xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>). Potentiation was induced by theta-burst stimulation (4 pulses at 100 Hz repeated 10 times at 5 Hz). f-EPSPs were analysed in terms of post-tetanic changes in the rates of rise of the potentials relative to the pre-tetanic periods of baseline responses (set to 100%). Potentiation was expressed as gain by subtracting the baseline level (100%). Control stimulation was interposed by bursts of 7 stimuli, both before and after the induction of potentiation. Burst-evoked f-EPSPs were analyzed in terms of (1) facilitation (i.e. responses 2 to 7 were normalised to the first response) and (2) potentiation (i.e. the post-tetanic responses 1 to 7 were normalised to their respective mean responses during the baseline).</p>
+      <p>Data are presented both as single experiments and as mean values of experimental groups (±S.E.M). Student’s t tests, F test, one-way analyses of variance (ANOVA), repeated measures ANOVA (rm-ANOVA) and mixed factorial designs (mfd-ANOVA) were used for the statistic (Prism 5, GraphPad). Bonferroni’s (Bmc-test) adjustments were made for multiple comparisons; significant differences were set at <italic>P</italic> &lt; 0.05 for all tests.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>To evaluate the functional consequences of STP and LTP we followed the time-course of potentiation by applying low frequency stimulation (0.067 Hz, <xref ref-type="fig" rid="fig-1">Fig. 1A</xref>) and delivered brief high frequency test bursts (seven stimuli at 12.5 Hz) at specific time points before and after induction of potentiation. Potentiation of field excitatory postsynaptic potentials (f-EPSPs) in response to single stimuli was biphasic (<xref ref-type="fig" rid="fig-1">Figs. 1A and 1B</xref>). It consisted of a period of short-term potentiation (STP), which peaked at approximately 120% over baseline and declined in about one hour to a stable level of sustained long-term potentiation (approximately 40% over baseline, LTP). We determined the pattern of synaptic transmission during the test bursts and found a progressive increase in response amplitude during the burst in baseline conditions (<xref ref-type="fig" rid="fig-1">Fig. 1C</xref>). STP and LTP differentially affected this pattern of activity as can be readily seen in the facilitation plots, which express the level of facilitation within the burst (each response in the train is normalised to the initial response, <xref ref-type="fig" rid="fig-1">Fig. 1D</xref>). Facilitation was reduced at 5 min following induction but was restored to its initial level at 125 min post induction (<xref ref-type="fig" rid="fig-1">Fig. 1D</xref>). Facilitation was quantified (seventh response divided by first response in train) during baseline (132 ± 14%) and at three time points after delivery of theta burst stimulation (5 min: 66 ± 12%, <italic>P</italic> &lt; 0.001; 35 min: 108 ± 14%, <italic>P</italic> &lt; 0.05; 125 min: 134 ± 18%, <italic>P</italic> &gt; 0.05; rm-ANOVA, Bmc-test compared with initial baseline), which correlated in time with STP, STP + LTP and LTP, respectively (<xref ref-type="fig" rid="fig-1">Fig. 1F</xref>).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.3/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Synaptic responses within high frequency bursts are regulated by LTP in a time-dependent manner.</title>
+          <p>(A) Potentiation, induced by theta-burst stimulation (TBS, open triangle), consisted of a declining phase (STP) and a sustained phase (LTP). Brief bursts (7 stimuli, 12.5 Hz) were applied at times indicated by the coloured arrows before (black) and at various times post-tetanus (PT, red, green and blue). Results, in this and the following figures, are colour-coded according to the arrows. (B) Representative f-EPSPs during low frequency transmission before and after the induction of potentiation. (C–E) Representative f-EPSPs during the bursts plotted in absolute values (C), normalised to the first response in each burst, i.e. facilitation (D) or normalised to the corresponding response in the baseline, i.e. potentiation (E). F &amp; G show how facilitation (F) and potentiation (G) alter depending on the time after TBS (mean ± S.E.M., <italic>n</italic> = 12).</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/3/fig-1.png"/>
+      </fig>
+      <p>The differential effects of STP and LTP on responses during bursts are demonstrated by potentiation plots, which express the size of each response in the post-induction burst relative to the corresponding response in the baseline burst (<xref ref-type="fig" rid="fig-1">Fig. 1E</xref>). The analysis of the first response in a burst is equivalent to the conventional LTP analysis of single evoked responses. However, potentiation plots permit quantitative assessment of whether all responses in a burst are potentiated equally. Notably, the initial response during the STP phase showed a much lager initial potentiation and a much greater response decrement with time, compared to the subsequent responses within the bursts (<xref ref-type="fig" rid="fig-1">Figs. 1E and 1G</xref>). The level of potentiation of the first and seventh responses expressed relative to their respective baseline responses was, respectively, 151 ± 16% and 78 ± 8% (<italic>P</italic> &lt; 0.001, paired <italic>t</italic> test) at 5 min post induction compared with 53 ± 15% and 49 ± 10% (<italic>P</italic> = 0.6) at 125 min post induction. Thus the effects of STP on responses during bursts are nonlinear whereas a linear amplification is achieved by LTP. These results show that STP and LTP differentially affect the ability of synapses to respond to high frequency bursts depending on the time following induction.</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.3/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Alterations in synaptic dynamics can be stored during periods of inactivity.</title>
+          <p>(A) Pooled data from experiments as in <xref ref-type="fig" rid="fig-1">Fig. 1</xref> superimposed upon equivalent experiments in which there was a 30 min gap in stimulation, commencing 4 min after TBS. Note how the STP phase is “stored” in time. Also superimposed are “gap” experiments in which TBS was delivered in the presence of an NMDAR antagonist. (B &amp; C), plot pooled data for facilitation and potentiation in the experiments with gaps. (D &amp; E) Experiments performed in D-AP5 show that induction of all plasticity depended on activation of NMDARs.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/3/fig-2.png"/>
+      </fig>
+      <p>A remarkable property of STP makes the situation more complex. STP does not decline passively (<xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>), rather stimulation is needed to evoke its decay (filled circles vs. open circles, <xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). Notably, in experiments in which testing of STP was delayed by 30 min, the level of facilitation of the seventh response during the burst was 57 ± 5% at 35 min post induction (green triangles <xref ref-type="fig" rid="fig-2">Fig. 2B</xref>), i.e. similar to that at 5 min post induction (66 ± 12%, red circles <xref ref-type="fig" rid="fig-1">Fig. 1F</xref>, <italic>P</italic> = 0.5, <italic>t</italic> test) in experiments without the delay in stimulation and smaller than the temporally equivalent estimate (108 ± 14%, green triangles <xref ref-type="fig" rid="fig-1">Fig. 1F</xref>, <italic>P</italic> &lt; 0.01, <italic>t</italic> test). Accordingly, potentiation of the burst responses measured after a 30 min delay in stimulation was nonlinear (green triangles, <xref ref-type="fig" rid="fig-2">Fig. 2C</xref>) and very similar to the potentiation recorded without the delay (<xref ref-type="fig" rid="fig-1">Fig. 1G</xref>, red circles). The seven burst responses were equally potentiated during the LTP phase of both sets of experiments (blue squares, <xref ref-type="fig" rid="fig-2">Figs. 2C and</xref> <xref ref-type="fig" rid="fig-1">1G</xref>). All synaptic plasticity studied in these experiments was induced through activation of N-methyl-D-aspartate receptors (NMDARs, <xref ref-type="fig" rid="fig-2">Figs. 2A, 2D and 2E</xref>). These findings show that the pattern of the synaptic response to a high frequency input is determined not by the time after induction of potentiation but rather by the type of potentiation (STP or LTP) and by the subsequent history of synaptic transmission.</p>
+      <p>So how can two phases of potentiation, with different functional characteristics, coexist at the same population of synapses? Potentiation of neurotransmission can be mediated through various synaptic mechanisms that do not have to be mutually exclusive (<xref ref-type="bibr" rid="ref-7">Bliss &amp; Collingridge, 1993</xref>; <xref ref-type="bibr" rid="ref-10">Collingridge &amp; Bliss, 1995</xref>; <xref ref-type="bibr" rid="ref-26">Malenka &amp; Nicoll, 1999</xref>; <xref ref-type="bibr" rid="ref-29">Malinow &amp; Malenka, 2002</xref>; <xref ref-type="bibr" rid="ref-23">Lauri et al., 2007</xref>; <xref ref-type="bibr" rid="ref-19">Kerchner &amp; Nicoll, 2008</xref>). Presynaptic changes in the probability of neurotransmitter release (<italic>P</italic><sub><italic>R</italic></sub>) affect high-frequency neurotransmission nonlinearly. In contrast, an increase in the number or single channel conductance of α-amino-3-hydroxy-5-methyl-4-isoxolepropionic acid receptors (AMPARs) can be expected to result in a linear scaling of synaptic responses during bursts of activity. There is evidence that each of these mechanisms can account for potentiation (<xref ref-type="bibr" rid="ref-30">Markram &amp; Tsodyks, 1996</xref>; <xref ref-type="bibr" rid="ref-38">Tsodyks &amp; Markram, 1997</xref>; <xref ref-type="bibr" rid="ref-33">Pananceau, Chen &amp; Gustafsson, 1998</xref>; <xref ref-type="bibr" rid="ref-34">Selig, Nicoll &amp; Malenka, 1999</xref>; <xref ref-type="bibr" rid="ref-41">Yasui et al., 2005</xref>). However, no single mechanism has been universally accepted and with few exceptions the entire LTP process has been assumed to result from a single mode of expression (<xref ref-type="bibr" rid="ref-16">Gustafsson et al., 1989</xref>; <xref ref-type="bibr" rid="ref-15">Gustafsson &amp; Wigstrom, 1990</xref>; <xref ref-type="bibr" rid="ref-17">Hanse &amp; Gustafsson, 1994</xref>). Our observations could be explained by the co-existence of presynaptic and postsynaptic mechanisms that account for STP and LTP, respectively. To test this hypothesis we altered <italic>P</italic><sub><italic>R</italic></sub> by changing the <named-content content-type="chemical-compound">Ca<sup>2+</sup>/Mg<sup>2+</sup></named-content> ratio in the perfusion medium. As expected, an increase in the <named-content content-type="chemical-compound">Ca<sup>2+</sup>/Mg<sup>2+</sup></named-content> ratio, which increases <italic>P</italic><sub><italic>R</italic></sub>, resulted in an increase in the response during single-shock stimulation (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>, and additionally in 11 slices). These changes were accompanied by both a decrease in facilitation (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>, red circles vs. black circles) and by nonlinear potentiation of the responses during the bursts (red circles <xref ref-type="fig" rid="fig-3">Fig. 3C</xref>). In other words, increasing the <named-content content-type="chemical-compound">Ca<sup>2+</sup>/Mg<sup>2+</sup></named-content> ratio mimicked the effects of STP on burst responses. This change was not due to the alteration in response size <italic>per se</italic>. Thus, when the response was increased to a similar degree by activating a larger number of synapses (N) rather than by altering <italic>P</italic><sub><italic>R</italic></sub>, there was a very different outcome (<xref ref-type="fig" rid="fig-3">Fig. 3D</xref> and additionally in 8 slices). The level of facilitation within the burst was not changed by this procedure (<xref ref-type="fig" rid="fig-3">Fig. 3E</xref>) and the potentiation was linear (i.e., each response in the burst was potentiated to the same degree, <xref ref-type="fig" rid="fig-3">Fig. 3F</xref>). A similar result was obtained when a sub-maximal concentration of kynurenic acid <named-content content-type="chemical-compound">(100 µM)</named-content> was used to reduce the number of activated AMPARs (<xref ref-type="fig" rid="fig-3">Fig. 3D</xref> and additionally 3 slices). Singe-shock responses were decreased, facilitation during bursts was not changed and potentiation remained linear (<xref ref-type="fig" rid="fig-3">Figs. 3D–3F</xref>). The experiments with kynurenic acid demonstrate that presynaptic and postsynaptic mechanisms can operate independently of one another. Thus, the alteration in the facilitation profile produced by increasing the <named-content content-type="chemical-compound">Ca<sup>2+</sup>/Mg<sup>2+</sup></named-content> ratio is unaffected by reducing the response amplitude with kynurenic acid (<xref ref-type="fig" rid="fig-3">Figs. 3A–3C</xref> and additionally 3 slices).</p>
+      <fig id="fig-3">
+        <object-id pub-id-type="doi">10.7717/peerj.3/fig-3</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>The effects of STP are mimicked by increasing <italic>P</italic><sub><italic>R</italic></sub>.</title>
+          <p>Altering the divalent cation ratio (A–C) increases synaptic transmission and mimics the effects of TBS on the burst profile during STP, whereas blockage of AMPA receptors with kynurenic acid (Kyna) reduces single shock responses but does not alter the burst profile. (B–F) Increase in the stimulation intensity enhances synaptic transmission that can be reduced by kynurenic acid and these procedures do not alter the burst profile.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/3/fig-3.png"/>
+      </fig>
+      <p>These results are most compatible with the co-existence of pre- and postsynaptic forms of potentiation that respectively impart nonlinear (STP) and linear (LTP) response characteristics during high frequency synaptic transmission. These characteristics apply to the burst frequency of 12.5 Hz, which was used to ascertain the synaptic transfer function. To determine whether these characteristics can be generalised we examined a range of burst frequencies, between 2 and 25 Hz (<xref ref-type="fig" rid="fig-4">Figs. 4A–4C</xref>). During the baseline the mean amount of facilitation of responses 2-7 depended on the burst frequency (<italic>P</italic> &lt; 0.0001, ANOVA) and was more than three-fold larger at 25 Hz (151 ± 15%) than at 2 Hz (43 ± 5%, <italic>P</italic> &lt; 0.001, Bmc-test, <xref ref-type="fig" rid="fig-4">Fig. 4D</xref>). Irrespective of the burst frequency, facilitation was reduced during STP and reverted to baseline values during LTP (mfd-ANOVA, Bmc-test, <xref ref-type="fig" rid="fig-4">Figs. 4A–4D</xref>). More importantly, dependent on the burst frequency variable amounts of facilitation were lost during STP (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>, <italic>P</italic> &lt; 0.0001, <italic>F</italic> test) and not during LTP (<xref ref-type="fig" rid="fig-4">Fig. 4E</xref>, <italic>P</italic> = 0.4, <italic>F</italic> test). Thus, although the first response during STP was constant in the four experimental groups (≈140%, <italic>P</italic> = 0.8, <italic>F</italic> test, <xref ref-type="fig" rid="fig-4">Fig. 4F</xref>) subsequent response decrement during the burst was directly related to the burst frequency (<italic>P</italic> &lt; 0.01, <italic>F</italic> test). These findings show that STP, which is stored in synapses during periods of inactivity, can shape synaptic transfer functions during activity, based on the frequency of input. In contrast, during LTP, both the first and the subsequent burst responses are potentiated equally and irrespectively of input frequency (≈50%, <italic>P</italic> = 0.5, <xref ref-type="fig" rid="fig-4">Fig. 4F</xref>).</p>
+      <fig id="fig-4">
+        <object-id pub-id-type="doi">10.7717/peerj.3/fig-4</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title>Altered burst dynamics occurs over a wide frequency range.</title>
+          <p>Pooled data of facilitation plots from experiments with gaps and without application of AP5 (A–C) to illustrate how the alteration in burst dynamics during STP and LTP occurs over frequencies between 2 and 25 Hz. (D) Mean facilitation of responses 2–7 from A–C showing depression of facilitation during STP and reversal during LTP. E, shows that the reduction in facilitation during the STP burst is greatest at the highest frequency. (F) Burst responses 2-7 during STP are potentiated less at higher frequencies despite equal facilitation of the first responses. This does not happen during LTP.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/3/fig-4.png"/>
+      </fig>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>The content of sensory information is encoded in the pattern of neuronal signals in terms of the frequency and the number of action potentials (<xref ref-type="bibr" rid="ref-1">Adrian, 1928</xref>). The data of the current study extend these principles to the central processing of cognitive information by demonstrating that NMDAR dependent potentiation confers synaptic connections with an ability to shape neurotransmission according to the pattern of the incoming signals. More specifically, STP amplifies synaptic signals in a non-linear, frequency-dependent manner whereas LTP evokes a linear change in synaptic gain that is independent of frequency (<xref ref-type="bibr" rid="ref-33">Pananceau, Chen &amp; Gustafsson, 1998</xref>; <xref ref-type="bibr" rid="ref-34">Selig, Nicoll &amp; Malenka, 1999</xref>). Thus, the two types of potentiation regulate neurotransmission differentially in that STP modulates response dynamics whereas LTP simply regulates the amplitude of synaptic events. The features of STP described here differ from other types of presynaptic plasticity (<xref ref-type="bibr" rid="ref-30">Markram &amp; Tsodyks, 1996</xref>; <xref ref-type="bibr" rid="ref-38">Tsodyks &amp; Markram, 1997</xref>) in that its effects have the capacity to last a long time but the process is highly labile in response to the synaptic activity that is used to probe it. Indeed, this synaptic version of Heisenberg’s uncertainty principle has been previously termed transient LTP (<xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>), in contrast to the sustained LTP (s-LTP), which is much more predictable (<xref ref-type="bibr" rid="ref-33">Pananceau, Chen &amp; Gustafsson, 1998</xref>; <xref ref-type="bibr" rid="ref-34">Selig, Nicoll &amp; Malenka, 1999</xref>).</p>
+      <p>So why hasn’t the functional difference between STP and LTP been observed before? Many studies, aimed at addressing the molecular basis of LTP, use a pairing protocol to induce potentiation and a relatively high baseline frequency to monitor the plasticity; stimulus parameters that are not conducive to evoking and observing STP. When high frequency stimuli have been used to evoke LTP and low frequency stimuli used to monitor the potentiation then a pronounced STP is often seen. In fact, STP can be induced independently from LTP both <italic>in vitro</italic> (<xref ref-type="bibr" rid="ref-11">Collingridge, Kehl &amp; McLennan, 1983</xref>; <xref ref-type="bibr" rid="ref-18">Kauer, Malenka &amp; Nicoll, 1988</xref>; <xref ref-type="bibr" rid="ref-5">Anwyl, Mulkeen &amp; Rowan, 1989</xref>; <xref ref-type="bibr" rid="ref-25">Malenka, 1991</xref>; <xref ref-type="bibr" rid="ref-9">Colino, Huang &amp; Malenka, 1992</xref>; <xref ref-type="bibr" rid="ref-20">Kullmann et al., 1992</xref>; <xref ref-type="bibr" rid="ref-14">Erickson, Maramara &amp; Lisman, 2010</xref>; <xref ref-type="bibr" rid="ref-40">Volianskis et al., 2013</xref>) and <italic>in vivo</italic> (<xref ref-type="bibr" rid="ref-8">Buschler, Goh &amp; Manahan-Vaughan, 2012</xref>). STP is also frequently observed when induction of LTP is unsuccessful or is blocked by manipulation of the second messenger systems, although it is not currently known whether or not all forms of STP, which are described in the literature, reflect the same underlying phenomenon (for discussion see <xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>).</p>
+      <p>STP is often regarded as a non-stabilised form of LTP (<xref ref-type="bibr" rid="ref-16">Gustafsson et al., 1989</xref>; <xref ref-type="bibr" rid="ref-15">Gustafsson &amp; Wigstrom, 1990</xref>; <xref ref-type="bibr" rid="ref-17">Hanse &amp; Gustafsson, 1994</xref>) although it has been suggested that STP and LTP are different phenomena (<xref ref-type="bibr" rid="ref-18">Kauer, Malenka &amp; Nicoll, 1988</xref>; <xref ref-type="bibr" rid="ref-28">Malenka et al., 1988</xref>; <xref ref-type="bibr" rid="ref-39">Volianskis &amp; Jensen, 2003</xref>; <xref ref-type="bibr" rid="ref-23">Lauri et al., 2007</xref>). In support of the latter, STP and LTP can be either co-expressed or expressed independently of each other when studied in single synapses (<xref ref-type="bibr" rid="ref-12">Debanne, Gahwiler &amp; Thompson, 1999</xref>). A phenomenon that resembles STP has been observed after exploratory learning in rats (<xref ref-type="bibr" rid="ref-31">Moser, Moser &amp; Andersen, 1993</xref>; <xref ref-type="bibr" rid="ref-32">Moser, Moser &amp; Andersen, 1994</xref>) and the burst stimuli that we have utilised to induce (<xref ref-type="bibr" rid="ref-21">Larson &amp; Lynch, 1986</xref>; <xref ref-type="bibr" rid="ref-22">Larson, Wong &amp; Lynch, 1986</xref>) and monitor potentiation mimic the natural firing patterns of the afferent neurons in the hippocampus. The high frequency components of the induction paradigm applied in conjunction with low frequency test stimulation are optimal for STP and when a gap in stimulation is introduced the persistence of this phenomenon (i.e., t-LTP) becomes readily apparent.</p>
+      <p>The co-existence of STP and LTP, with their strikingly different functional characteristics and differing cellular mechanisms, means that synaptic plasticity at CA3-CA1 synapses is considerably more complex that hitherto envisaged. The implication of this surprising finding for cognitive processing is an important challenge for the future.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>GLC is an Academic Editor for PeerJ. The authors declare no competing financial interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Arturas Volianskis</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Graham L. Collingridge</xref> analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Morten S. Jensen</xref> conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Animal Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>Experiments were conducted according to the national and the EU guidelines for animal care, according to procedures certified by the University of Aarhus.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Adrian (1928)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adrian</surname>
+              <given-names>ED</given-names>
+            </name>
+          </person-group>
+          <source>The basis of sensation: the action of the sense organs</source>
+          <year>1928</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Christophers</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Albright et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Albright</surname>
+              <given-names>TD</given-names>
+            </name>
+            <name>
+              <surname>Jessell</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Kandel</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Posner</surname>
+              <given-names>MI</given-names>
+            </name>
+          </person-group>
+          <article-title>Neural science: a century of progress and the mysteries that remain</article-title>
+          <source>Cell</source>
+          <year>2000</year>
+          <volume>100</volume>
+          <comment>(Suppl) S1–55</comment>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(00)00251-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Andersen et al. (1977)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andersen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Sundberg</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Sveen</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Wigstrom</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Specific long-lasting potentiation of synaptic transmission in hippocampal slices</article-title>
+          <source>Nature</source>
+          <year>1977</year>
+          <volume>266</volume>
+          <fpage>736</fpage>
+          <lpage>737</lpage>
+          <pub-id pub-id-type="doi">10.1038/266736a0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Anwyl, Lee &amp; Rowan (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anwyl</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>WL</given-names>
+            </name>
+            <name>
+              <surname>Rowan</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of calcium in short-term potentiation in the rat hippocampal slice</article-title>
+          <source>Brain Research</source>
+          <year>1988</year>
+          <volume>459</volume>
+          <fpage>192</fpage>
+          <lpage>195</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-8993(88)90304-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Anwyl, Mulkeen &amp; Rowan (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anwyl</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Mulkeen</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Rowan</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of N-methyl-D-aspartate receptors in the generation of short-term potentiation in the rat hippocampus</article-title>
+          <source>Brain Research</source>
+          <year>1989</year>
+          <volume>503</volume>
+          <fpage>148</fpage>
+          <lpage>151</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-8993(89)91716-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Bliss &amp; Lomo (1973)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bliss</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Lomo</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path</article-title>
+          <source>Journal of Physiology</source>
+          <year>1973</year>
+          <volume>232</volume>
+          <fpage>331</fpage>
+          <lpage>356</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Bliss &amp; Collingridge (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bliss</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Collingridge</surname>
+              <given-names>GL</given-names>
+            </name>
+          </person-group>
+          <article-title>A synaptic model of memory: long-term potentiation in the hippocampus</article-title>
+          <source>Nature</source>
+          <year>1993</year>
+          <volume>361</volume>
+          <fpage>31</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.1038/361031a0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Buschler, Goh &amp; Manahan-Vaughan (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buschler</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Goh</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Manahan-Vaughan</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Frequency dependency of NMDA receptor-dependent synaptic plasticity in the hippocampal CA1 region of freely behaving mice</article-title>
+          <source>Hippocampus</source>
+          <issue>12</issue>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>2238</fpage>
+          <lpage>2248</lpage>
+          <pub-id pub-id-type="doi">10.1002/hipo.22041</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Colino, Huang &amp; Malenka (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colino</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>YY</given-names>
+            </name>
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of the integration time for the stabilization of long-term potentiation in area CA1 of the hippocampus</article-title>
+          <source>The Journal of Neuroscience: The Official Journal of the Society for Neuroscience</source>
+          <year>1992</year>
+          <volume>12</volume>
+          <fpage>180</fpage>
+          <lpage>187</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Collingridge &amp; Bliss (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collingridge</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Bliss</surname>
+              <given-names>TV</given-names>
+            </name>
+          </person-group>
+          <article-title>Memories of NMDA receptors and LTP</article-title>
+          <source>Trends in Neurosciences</source>
+          <year>1995</year>
+          <volume>18</volume>
+          <fpage>54</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1016/0166-2236(95)93868-X</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Collingridge, Kehl &amp; McLennan (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collingridge</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Kehl</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>McLennan</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Excitatory amino acids in synaptic transmission in the Schaffer collateral-commissural pathway of the rat hippocampus</article-title>
+          <source>Journal of Physiology</source>
+          <year>1983</year>
+          <volume>334</volume>
+          <fpage>33</fpage>
+          <lpage>46</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Debanne, Gahwiler &amp; Thompson (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Debanne</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Gahwiler</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterogeneity of synaptic plasticity at unitary CA3-CA1 and CA3-CA3 connections in rat hippocampal slice cultures</article-title>
+          <source>Journal of Neuroscience</source>
+          <year>1999</year>
+          <volume>19</volume>
+          <fpage>10664</fpage>
+          <lpage>10671</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Dobrunz &amp; Stevens (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dobrunz</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>CF</given-names>
+            </name>
+          </person-group>
+          <article-title>Response of hippocampal synapses to natural stimulation patterns</article-title>
+          <source>Neuron</source>
+          <year>1999</year>
+          <volume>22</volume>
+          <fpage>157</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0896-6273(00)80687-X</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Erickson, Maramara &amp; Lisman (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erickson</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Maramara</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Lisman</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>A single brief burst induces GluR1-dependent associative short-term potentiation: a potential mechanism for short-term memory</article-title>
+          <source>Journal of Cognitive Neuroscience</source>
+          <year>2010</year>
+          <volume>22</volume>
+          <fpage>2530</fpage>
+          <lpage>2540</lpage>
+          <pub-id pub-id-type="doi">10.1162/jocn.2009.21375</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Gustafsson &amp; Wigstrom (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gustafsson</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wigstrom</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term potentiation in the hippocampal CA1 region: its induction and early temporal development</article-title>
+          <source>Progress in Brain Research</source>
+          <year>1990</year>
+          <volume>83</volume>
+          <fpage>223</fpage>
+          <lpage>232</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0079-6123(08)61252-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Gustafsson et al. (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gustafsson</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Asztely</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Hanse</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wigstrom</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Onset characteristics of long-term potentiation in the Guinea-Pig Hippocampal CA1 region in vitro</article-title>
+          <source>European Journal of Neuroscience</source>
+          <year>1989</year>
+          <volume>1</volume>
+          <fpage>382</fpage>
+          <lpage>394</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1460-9568.1989.tb00803.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Hanse &amp; Gustafsson (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanse</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Gustafsson</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Onset and stabilization of NMDA receptor-dependent hippocampal long-term potentiation</article-title>
+          <source>Neuroscience Research</source>
+          <year>1994</year>
+          <volume>20</volume>
+          <fpage>15</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1016/0168-0102(94)90018-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Kauer, Malenka &amp; Nicoll (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kauer</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Nicoll</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>NMDA application potentiates synaptic transmission in the hippocampus</article-title>
+          <source>Nature</source>
+          <year>1988</year>
+          <volume>334</volume>
+          <fpage>250</fpage>
+          <lpage>252</lpage>
+          <pub-id pub-id-type="doi">10.1038/334250a0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Kerchner &amp; Nicoll (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kerchner</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Nicoll</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Silent synapses and the emergence of a postsynaptic mechanism for LTP</article-title>
+          <source>Nature Reviews. Neuroscience</source>
+          <year>2008</year>
+          <volume>9</volume>
+          <fpage>813</fpage>
+          <lpage>825</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrn2501</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Kullmann et al. (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kullmann</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Perkel</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Manabe</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Nicoll</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title><named-content content-type="chemical-compound">Ca<sup>2+</sup></named-content> entry via postsynaptic voltage-sensitive <named-content content-type="chemical-compound">Ca<sup>2+</sup></named-content> channels can transiently potentiate excitatory synaptic transmission in the hippocampus</article-title>
+          <source>Neuron</source>
+          <year>1992</year>
+          <volume>9</volume>
+          <fpage>1175</fpage>
+          <lpage>1183</lpage>
+          <pub-id pub-id-type="doi">10.1016/0896-6273(92)90075-O</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Larson &amp; Lynch (1986)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lynch</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Induction of synaptic potentiation in hippocampus by patterned stimulation involves two events</article-title>
+          <source>Science</source>
+          <year>1986</year>
+          <volume>232</volume>
+          <fpage>985</fpage>
+          <lpage>988</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.3704635</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Larson, Wong &amp; Lynch (1986)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lynch</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Patterned stimulation at the theta frequency is optimal for the induction of hippocampal long-term potentiation</article-title>
+          <source>Brain Research</source>
+          <year>1986</year>
+          <volume>368</volume>
+          <fpage>347</fpage>
+          <lpage>350</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-8993(86)90579-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Lauri et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lauri</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Segerstrale</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vesikansa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Taira</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Collingridge</surname>
+              <given-names>GL</given-names>
+            </name>
+          </person-group>
+          <article-title>Presynaptic mechanisms involved in the expression of STP and LTP at CA1 synapses in the hippocampus</article-title>
+          <source>Neuropharmacology</source>
+          <year>2007</year>
+          <volume>52</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neuropharm.2006.06.017</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Lisman &amp; Raghavachari (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lisman</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Raghavachari</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>A unified model of the presynaptic and postsynaptic changes during LTP at CA1 synapses</article-title>
+          <source>Science STKE</source>
+          <year>2006</year>
+          <pub-id pub-id-type="doi">10.1126/stke.3562006re11</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Malenka (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title>Postsynaptic factors control the duration of synaptic enhancement in area CA1 of the hippocampus</article-title>
+          <source>Neuron</source>
+          <year>1991</year>
+          <volume>6</volume>
+          <fpage>53</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.1016/0896-6273(91)90121-F</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Malenka &amp; Nicoll (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Nicoll</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Long-term potentiation–a decade of progress?</article-title>
+          <source>Science</source>
+          <year>1999</year>
+          <volume>285</volume>
+          <fpage>1870</fpage>
+          <lpage>1874</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.285.5435.1870</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Malenka, Lancaster &amp; Zucker (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Lancaster</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zucker</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>Temporal limits on the rise in postsynaptic calcium required for the induction of long-term potentiation</article-title>
+          <source>Neuron</source>
+          <year>1992</year>
+          <volume>9</volume>
+          <fpage>121</fpage>
+          <lpage>128</lpage>
+          <pub-id pub-id-type="doi">10.1016/0896-6273(92)90227-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Malenka et al. (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Kauer</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Zucker</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Nicoll</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Postsynaptic calcium is sufficient for potentiation of hippocampal synaptic transmission</article-title>
+          <source>Science</source>
+          <year>1988</year>
+          <volume>242</volume>
+          <fpage>81</fpage>
+          <lpage>84</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.2845577</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Malinow &amp; Malenka (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malinow</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title>AMPA receptor trafficking and synaptic plasticity</article-title>
+          <source>Annual Review of Neuroscience</source>
+          <year>2002</year>
+          <volume>25</volume>
+          <fpage>103</fpage>
+          <lpage>126</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.neuro.25.112701.142758</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Markram &amp; Tsodyks (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Markram</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tsodyks</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Redistribution of synaptic efficacy between neocortical pyramidal neurons</article-title>
+          <source>Nature</source>
+          <year>1996</year>
+          <volume>382</volume>
+          <fpage>807</fpage>
+          <lpage>810</lpage>
+          <pub-id pub-id-type="doi">10.1038/382807a0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Moser, Moser &amp; Andersen (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moser</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Moser</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Andersen</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Synaptic potentiation in the rat dentate gyrus during exploratory learning</article-title>
+          <source>Neuroreport</source>
+          <year>1993</year>
+          <volume>5</volume>
+          <fpage>317</fpage>
+          <lpage>320</lpage>
+          <pub-id pub-id-type="doi">10.1097/00001756-199312000-00035</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Moser, Moser &amp; Andersen (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moser</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Moser</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Andersen</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Potentiation of dentate synapses initiated by exploratory learning in rats: dissociation from brain temperature, motor activity, and arousal</article-title>
+          <source>Learning and Memory</source>
+          <year>1994</year>
+          <volume>1</volume>
+          <fpage>55</fpage>
+          <lpage>73</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Pananceau, Chen &amp; Gustafsson (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pananceau</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gustafsson</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Short-term facilitation evoked during brief afferent tetani is not altered by long-term potentiation in the guinea-pig hippocampal CA1 region</article-title>
+          <source>Journal of Physiology</source>
+          <issue>Pt 2</issue>
+          <year>1998</year>
+          <volume>508</volume>
+          <fpage>503</fpage>
+          <lpage>514</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-7793.1998.503bq.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Selig, Nicoll &amp; Malenka (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Selig</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Nicoll</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Malenka</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title>Hippocampal long-term potentiation preserves the fidelity of postsynaptic responses to presynaptic bursts</article-title>
+          <source>Journal of Neuroscience</source>
+          <year>1999</year>
+          <volume>19</volume>
+          <fpage>1236</fpage>
+          <lpage>1246</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Stevens (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevens</surname>
+              <given-names>CF</given-names>
+            </name>
+          </person-group>
+          <article-title>A million dollar question: does LTP = memory?</article-title>
+          <source>Neuron</source>
+          <year>1998</year>
+          <volume>20</volume>
+          <fpage>1</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0896-6273(00)80426-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Stevens, Tonegawa &amp; Wang (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevens</surname>
+              <given-names>CF</given-names>
+            </name>
+            <name>
+              <surname>Tonegawa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of calcium-calmodulin kinase II in three forms of synaptic plasticity</article-title>
+          <source>Current Biology</source>
+          <year>1994</year>
+          <volume>4</volume>
+          <fpage>687</fpage>
+          <lpage>693</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-9822(00)00153-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Tsien, Huerta &amp; Tonegawa (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsien</surname>
+              <given-names>JZ</given-names>
+            </name>
+            <name>
+              <surname>Huerta</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Tonegawa</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The essential role of hippocampal CA1 NMDA receptor-dependent synaptic plasticity in spatial memory</article-title>
+          <source>Cell</source>
+          <year>1996</year>
+          <volume>87</volume>
+          <fpage>1327</fpage>
+          <lpage>1338</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(00)81827-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Tsodyks &amp; Markram (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsodyks</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>Markram</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>1997</year>
+          <volume>94</volume>
+          <fpage>719</fpage>
+          <lpage>723</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.94.2.719</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Volianskis &amp; Jensen (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Volianskis</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>MS</given-names>
+            </name>
+          </person-group>
+          <article-title>Transient and sustained types of long-term potentiation in the CA1 area of the rat hippocampus</article-title>
+          <source>Journal of Physiology</source>
+          <year>2003</year>
+          <volume>550</volume>
+          <fpage>459</fpage>
+          <lpage>492</lpage>
+          <pub-id pub-id-type="doi">10.1113/jphysiol.2003.044214</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>Volianskis et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Volianskis</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bannister</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Collett</surname>
+              <given-names>VJ</given-names>
+            </name>
+            <name>
+              <surname>Irvine</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Monaghan</surname>
+              <given-names>DT</given-names>
+            </name>
+            <name>
+              <surname>Fitzjohn</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Jane</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Collingridge</surname>
+              <given-names>GL</given-names>
+            </name>
+          </person-group>
+          <article-title>Different NMDAR subtypes mediate induction of LTP and two forms of STP at CA1 synapses in the rat hippocampus in vitro</article-title>
+          <source>Journal of Physiology</source>
+          <year>2013</year>
+          <comment>[Epub ahead of print]</comment>
+          <pub-id pub-id-type="doi">10.1113/jphysiol.2012.247296</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Yasui et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yasui</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Fujisawa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tsukamoto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Matsuki</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ikegaya</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Dynamic synapses as archives of synaptic history: state-dependent redistribution of synaptic efficacy in the rat hippocampal CA1</article-title>
+          <source>Journal of Physiology</source>
+          <year>2005</year>
+          <volume>566</volume>
+          <fpage>143</fpage>
+          <lpage>160</lpage>
+          <pub-id pub-id-type="doi">10.1113/jphysiol.2005.086595</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Zucker (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zucker</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>Calcium- and activity-dependent synaptic plasticity</article-title>
+          <source>Current Opinion in Neurobiology</source>
+          <year>1999</year>
+          <volume>9</volume>
+          <fpage>305</fpage>
+          <lpage>313</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0959-4388(99)80045-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-43">
+        <label>Zucker &amp; Regehr (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zucker</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Regehr</surname>
+              <given-names>WG</given-names>
+            </name>
+          </person-group>
+          <article-title>Short-term synaptic plasticity</article-title>
+          <source>Annual Review of Physiology</source>
+          <year>2002</year>
+          <volume>64</volume>
+          <fpage>355</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.physiol.64.092501.114547</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

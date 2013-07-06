@@ -1,1147 +1,1181 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373019059000,&quot;from_str&quot;:&quot;2013-07-05T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500659000,&quot;from_str&quot;:&quot;2013-06-29T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513459000,&quot;from_str&quot;:&quot;2013-06-06T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948659000,&quot;from_str&quot;:&quot;2012-12-31T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,131,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">85</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.85</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Bioinformatics</subject>
+          <subject>Computational Biology</subject>
+          <subject>Virology</subject>
+          <subject>Infectious Diseases</subject>
+          <subject>Computational Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Vlachakis</surname>
+            <given-names>Dimitrios</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1"/>
+        </contrib>
+        <contrib id="author-2" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Kossida</surname>
+            <given-names>Sophia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1"/>
+          <email>skossida@bioacademy.gr</email>
+        </contrib>
+        <aff id="aff-1"><institution>Bioinformatics &amp; Medical Informatics Team, Biomedical Research Foundation</institution>, <addr-line>Academy of Athens, Athens</addr-line>, <country>Greece</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Peng</surname>
+            <given-names>Yonghong</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-06-11">
+        <day>11</day>
+        <month>6</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e85</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-04-04">
+          <day>4</day>
+          <month>4</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-21">
+          <day>21</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Vlachakis &amp; Kossida</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Vlachakis &amp; Kossida</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/85"/>
+      <abstract>
+        <p>The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the <italic>flaviviridae</italic> viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort to shed light to the molecular mechanisms underlying the structural and drug design potential of the viral helicase, the three dimensional structure of CSFV helicase has been modeled using conventional homology modeling techniques and the crystal structure of the Hepatitis C virus (HCV) as a template. The established structure of the CSFV helicase has been <italic>in silico</italic> evaluated for its viability using a repertoire of <italic>in silico</italic> tools. The ultimate goal of this study is to introduce the 3D conformation of the CSFV helicase as a reliable structure that may be used as the designing platform for <italic>de novo</italic>, structure-based drug design experiments. In this direction using the modeled structure of CSVF helicase, a 3D pharmacophore was designed. The pharmacophore comprises of a series of key characteristics that molecular inhibitors must satisfy in order to achieve maximum predicted affinity for the given enzyme. Overall, invaluable insights and conclusions are drawn from this structural study of the CSFV helicase, which may provide the scientific community with the founding plinth in the fight against CSFV infections through the perspective of the CSFV helicase as a potential pharmacological target. Notably, to date no antiviral agent is available against the CSFV nor is expected soon. Subsequently, there is urgent need for new modern and state-of-the-art antiviral strategies to be developed.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Classical Swine Fever virus</kwd>
+        <kwd>Molecular modeling</kwd>
+        <kwd>Bioinformatics</kwd>
+        <kwd>Pharmacophore</kwd>
+        <kwd>Antiviral</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>The authors received no funding for this study.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The viral family <italic>Flaviviridae</italic> comprises the genera <italic>Flavivirus, Pestivirus</italic> and <italic>Hepacivirus</italic> and includes numerous important human and animal pathogens (<xref ref-type="bibr" rid="ref-20">Nulf &amp; Corey, 2004</xref>). The small, enveloped virions of the different members of the <italic>Flaviviridae</italic> family contain a single-stranded, positive-sense RNA genome of about 9.5–12.5 kb. The genome consists of a single, long open reading frame (ORF), which is flanked by untranslated regions (UTRs) at the 5′ and 3′ ends. Recent studies on sub-genomic <italic>Pestivirus</italic> and <italic>Flavivirus</italic> RNA replicons have revealed that the non-structural (NS) proteins, which are encoded by the C-terminal part of the polyprotein, play a crucial role in viral RNA replication (<xref ref-type="bibr" rid="ref-20">Nulf &amp; Corey, 2004</xref>). Accordingly, these proteins are assumed to form replication complexes in conjunction with genomic RNA and possibly with other cellular factors.</p>
+      <p>Classical Swine Fever virus (CSFV) is a member of the <italic>Flaviviridae</italic> virus family that affects livestock and therefore represents a very important pathogen (<xref ref-type="bibr" rid="ref-4">Calisher &amp; Gould, 2003</xref>). Even though CSFV may not be a zoonotic disease that is capable of infecting humans, the consequences of its epidemics are devastating, since livestock is closely related with the economic and social well being of many countries in the world (<xref ref-type="bibr" rid="ref-2">Behrens et al., 1998</xref>). To date no antiviral agent is available nor is expected soon. There are quite a few vaccines currently available in the market for some strains of CSFV, but reportedly the virus is becoming quite persistent and even under extensive vaccination there are many cases of reoccurrence of the infection upon vaccination (<xref ref-type="bibr" rid="ref-28">Wu et al., 2005</xref>). Consequently, there is urgent need for new antiviral strategies to be developed. In this direction, the non-structural NS3 viral helicase constitutes an ideal target for structural studies towards the establishment of a comprehensive <italic>in silico</italic> platform for <italic>de novo</italic> inhibitor design. The viral helicase is responsible for the unwinding of the viral genetic material (<xref ref-type="bibr" rid="ref-21">Phoon et al., 2001</xref>). Thus the viral NS3 helicase is a key enzyme for the survival, propagation, proliferation and finally transmission of the virus. Sequence alignments of the Classical Swine Fever viral helicase identified several conserved sequence motifs that are important for biological functions. So far, the crystal structures of helicases from various RNA viruses have been determined, including the helicases from the Hepatitis C, Dengue, Yellow Fever, and Kunjin viruses (<xref ref-type="bibr" rid="ref-9">Diana &amp; Bailey, 1997</xref>).</p>
+      <p>Herein, the 3D model of the CSFV helicase structure has been established using conventional homology modeling techniques and the X-ray determined 3D-structure of the Hepatitis C virus helicase as a template. In order to structurally improve the quality of the homology model, it was subjected to exhaustive molecular dynamics simulations (MDS). The reliability and viability of the helicase model as a plausible platform for structure based drug design experiments was confirmed using a repertoire of <italic>in silico</italic> scoring tools, including MOE, Procheck and Verify3D. It was determined that the established 3D model of the helicase enzyme of CSFV exhibits all known structural motifs that are unique to the helicase enzymes of the <italic>flaviviridae</italic> virus family and therefore could provide the platform for further drug design experiments. Towards this direction an <italic>in silico</italic> structure-based drug design experiment was conducted, which led to the establishment of a 3D pharmacophore model that is highly specific for the helicase enzyme of CSFV. The pharmacophore model may be used in future experiments involving the high virtual throughput screening of large molecular databases towards the identification of novel anti-CSFV agents.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Coordinate preparation and model availability</title>
+        <p>3D coordinates were obtained from the X-ray solved, crystal structures of HCV helicases with RCSB codes: 1A1V and 8OHM. The 8OHM entry is the full length, unbound form of HCV helicase, whereas the 1A1V entry contains the full length HCV helicase co-crystalized with a single strand of an oligonucleotide. All generated 3D CSFV helicase models in this study are available via email request to the corresponding author. All generated 3D homology models are available to download at: <uri xlink:href="http://www.bioacademy.gr/bioinformatics/csfv/index.html">http://www.bioacademy.gr/bioinformatics/csfv/index.html</uri>
+            </p>
+      </sec>
+      <sec>
+        <title>Sequence alignment</title>
+        <p>The amino acid sequence of Classical Swine Fever viral helicase was obtained from the GenBank database (accession no: NC_006551, entry name: Classical Swine Fever virus, complete genome). Using the Gapped-BLAST (<xref ref-type="bibr" rid="ref-1">Altschul et al., 1997</xref>) through NCBI (<xref ref-type="bibr" rid="ref-3">Benson et al., 2007</xref>) the homologous species of the Hepatitis C virus helicase was identified, which was used as a template for the homology modeling of the Classical Swine Fever viral helicase. The structure of the HCV helicase has been determined via X-ray crystallography (<xref ref-type="bibr" rid="ref-16">Kim et al., 1998</xref>). The sequence alignment was done using the online version of ClustalW (<xref ref-type="bibr" rid="ref-25">Thompson, Higgins &amp; Gibson, 1994</xref>). The alignment was repeated using Hidden Markov Models and the result was the same as the one obtained by ClustalW, due to the fact that there are several anchoring conserved motifs throughout the alignment (<xref ref-type="bibr" rid="ref-11">Eddy, 1995</xref>).</p>
+      </sec>
+      <sec>
+        <title>Homology modeling</title>
+        <p>The homology modeling of the Classical Swine Fever viral helicase was carried out using the Modeller package (version 9.10) (<xref ref-type="bibr" rid="ref-23">Sali et al., 1995</xref>). The RCSB entries 1A1V and 8OHM were both used as template structures. A different model was generated for each one of the two available HCV crystal structure. The sequence alignment between the raw sequence of the Classical Swine Fever and the full sequence of the 1A1V HCV helicase revealed almost 32% identity, whereas the identity percentage between the Classical Swine Fever and the full sequence of 8OHM HCV helicase does not exceed 35%. The sequence alignment identity percentage between the two HCV template structures is 93.33% due to the fact that these sequences originate from different HCV strains. The above mentioned identity scores are on the lower boundary at which conventional homology modeling techniques are applicable. The model that was based on the 1A1V HCV structure was chosen to be used for the purposes of this study, due to the fact that this structure file has been co-crystallized with a single-stranded oligonucleotide. The homology model method of Modeller comprises the following steps: First, an initial partial geometry specification, where an initial partial geometry for each target sequence is copied from regions of one or more template chains. Second, the insertions and deletions task, where residues that still have no assigned backbone coordinates are modelled. Those residues may be in loops (insertions in the model with respect to the template), they may be outgaps (residues in a model sequence which are aligned before the C-terminus or after the N-terminus of its template) or may be deletions (regions where the template has an insertion with respect to the model). For this study, though, outgaps have not been included in the homology modeling process. The third step is the loop selection and sidechain packing where a collection of independent models is created. The last step is the final model selection and refinement, where the final models are scored and ranked, after they have been stereochemically checked with the “Protein Geometry” module for persisting errors. Finally, necessary secondary structure predictions were performed using the NPS (Network Protein Sequence Analysis) web-server and the GeneSilico MetaServer, which confirmed the choice of the Hepatitis C virus helicase as a template for this study (<uri xlink:href="http://npsa-pbil.ibcp.fr">http://npsa-pbil.ibcp.fr</uri>).</p>
+      </sec>
+      <sec>
+        <title>Molecular electrostatic potential (MEP)</title>
+        <p>Electrostatic potential surfaces were calculated by solving the nonlinear Poisson-Boltzmann equation using the finite difference method as implemented in the PyMOL Software (<xref ref-type="bibr" rid="ref-8">DeLano, 2002</xref>). The potential was calculated on grid points per side (65, 65, 65) and the grid fill by solute parameter was set to 80%. The dielectric constants of the solvent and the solute were set to 80.0 and 2.0, respectively. An ionic exclusion radius of 2.0 Å, a solvent radius of 1.4 Å and a solvent ionic strength of 0.145 M were applied. Amber99 (<xref ref-type="bibr" rid="ref-10">Duan et al., 2003</xref>) charges and atomic radii were used for this calculation.</p>
+      </sec>
+      <sec>
+        <title>Energy minimization and molecular dynamics simulations</title>
+        <p>Energy minimizations were used to remove any residual geometrical strain in each molecular system, using the Charmm27 forcefield as it is implemented into the Gromacs suite, version 4.5.5 (<xref ref-type="bibr" rid="ref-13">Hess et al., 2008</xref>). All Gromacs-related simulations were performed though our previously developed graphical interface (<xref ref-type="bibr" rid="ref-24">Sellis, Vlachakis &amp; Vlassi, 2009</xref>). Molecular systems were then subjected to unrestrained MDS using the Gromacs suite, version 4.5.5 (<xref ref-type="bibr" rid="ref-13">Hess et al., 2008</xref>). MDS took place in an SPC water-solvated, periodic environment. Water molecules were added using the truncated octahedron box extending 7 Å from each atom. Molecular systems were neutralized with counter-ions as required. For the purposes of this study all MDS were performed using the NVT ensemble in a canonical environment, at 300 K and a step size equal to 2 fs for a total 100 ns simulation time. An NVT ensemble requires that the Number of atoms, Volume and Temperature remain constant throughout the simulation.</p>
+      </sec>
+      <sec>
+        <title>Model evaluation</title>
+        <p>Evaluation of the model quality and reliability in terms of its 3D structural conformation is very crucial for the viability of this study. Therefore, the produced models were initially evaluated within the Gromacs package by a residue packing quality function which depends on the number of buried non-polar side chain groups and on hydrogen bonding. Moreover, the suite PROCHECK (<xref ref-type="bibr" rid="ref-17">Laskowski et al., 1996</xref>) was employed to further evaluate the quality of the produced Classical Swine Fever virus helicase model. Verify3D (<xref ref-type="bibr" rid="ref-12">Eisenberg, Luthy &amp; Bowie, 1997</xref>) was also used to evaluate whether the model of Classical Swine Fever virus helicase is similar to known protein structures. Finally, the <xref ref-type="bibr" rid="ref-19">Molecular Operating Environment (MOE)</xref> suite was used to evaluate the 3D geometry of the models in terms of their Ramachandran plots, omega torsion profiles, phi/psi angles, planarity, C-beta torsion angles and rotamer strain energy profiles.</p>
+      </sec>
+      <sec>
+        <title>Structure-based drug design</title>
+        <p>The design of the new series of molecules via structure-based drug design was conducted using Ligbuilder (version 1.2). This program will start from a “seed” compound that must be manually positioned in the 3D conformational space of the molecular system (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). For the purposes of this study, the mercaptoethanol co-crystallized compound that was attached to the Cys431 residue of the HCV structure was used as seed structure. The structures of CSFV and HCV helicase were structurally superimposed and their coordinates recalculated within the same Cartesian molecular system. First the S-S bond between the attached compound on the Cys431 and the Cys431 was broken and the hydrogens were restored from where they were missing. Then the oxygen was removed since its existence would significantly reduce the number of fragments suitable for that seed-receptor arrangement. The remaining compound was used as a starting point for the “growing” algorithm of LigBuilder. The complex was energetically minimized using a molecular mechanics algorithm, having fixed the backbone of the protein. The detached compound was entered to be the starting point of the drug design algorithm and thus it was expected that this moiety would be present in this position on all the new compounds, as it was already known from the HCV crystal structure that it was capable of interacting with the Cys431 amino acid. The algorithm used the mercaptoethanol compound as a starting point and started to grow structures by combining different chemical fragments that it stores in its database. The criteria are to optimally utilize the available space of the receptor and to establish the maximum amount of interactions with the adjacent residues of the helicase. All the different compounds that were designed were deposited in a folder for further investigation. A similarity cut-off of 90% was used in order to make sure that structurally all the different compounds in that folder would be at least 90% different. The space available was filled-in with newly designed compounds, with the only size-limiting parameter being the pre-defined molecular weight of the compound. After 30 generations of the Ligbuilder growing genetic algorithm, a set of 1200 compounds was obtained, custom designed for the ssRNA channel of the CSFV helicase.</p>
+      </sec>
+      <sec>
+        <title>Docking</title>
+        <p>In order to establish the complex structures of the CSVF helicase <italic>in silico</italic> and each one of the 1200 potential inhibitor compounds, the docking suite ZDOCK (version 3.0) was used (<xref ref-type="bibr" rid="ref-5">Chen, Li &amp; Weng, 2003</xref>). Docking experiments were conducted on the models that had been energetically minimized and conformationally optimized using molecular dynamics simulations. ZDOCK is a protein-protein docking suite that utilizes a grid-based representation of the molecular system involved. In order to efficiently explore the search space and docking positions of the molecules as rigid bodies, ZDOCK takes full advantage of a three-dimensional fast Fourier transformation algorithm. It uses a scoring function that returns electrostatic, hydrophobic and desolvation energies as well as performing a fast pairwise shape complementarity evaluation. Moreover it uses the contact propensities of transient complexes of proteins to perform an evaluation of a pairwise atomic statistical potential for the docking molecular system. RDOCK was utilized to refine and quickly evaluate the results obtained by ZDOCK (<xref ref-type="bibr" rid="ref-18">Li, Chen &amp; Weng, 2003</xref>). RDOCK performs a fast minimization step to the ZDOCK molecular complex outputs and re-ranks them according to their re-calculated binding free energies.</p>
+      </sec>
+      <sec>
+        <title>Hybrid QSAR analysis &amp; pharmacophore elucidation</title>
+        <p>In this study a hybrid QSAR study was conducted using the 1200 compounds from the previous drug design experiment. Since no biological activity data was available for these molecules, an <italic>in silico</italic> predicted Ki score was used to rank them that was primarily based on their docking scores. The aim of this analysis was initially to interpret the unique characteristics of various compounds in regards to their estimated activities and to provide the means required to establish a 3D-pharmacophore model that would enable us to more accurately screen for anti CSFV agents.</p>
+        <p>We used the set of the 1200 structurally distinct inhibitor compounds, which was generated by the structure based drug design algorithm. The predicted inhibitory potential of those compounds, was associated with their conformations as they were submitted to the Pharmacophore Elucidation Query module of MOE (Group CC, 2012). The algorithm initially identifies all features common to the highest ranking compounds, as they were scored by the Ligbuilder scoring algorithm, as well as features present in the least ranking compounds. The first ones are retained, whereas the latter are discarded. Finally, a set of regression parameters are used to estimate the activity value of each compound in the training set. The relationship between the geometric fit value and activity value is utilized for this computation. Pharmacophore hypotheses showing best correlation in the 3D arrangement of features in a given training set compounds with the corresponding pharmacological activities are formed and ranked. Several structure activity relationship (SAR) pharmacophore models were derived from the training set of compounds.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results &amp; discussion</title>
+      <p>The NS3 domain of <italic>Flaviviridae</italic> contains both the protease and the helicase coding regions. For the purposes of this study, only the helicase protein of the Classical Swine Fever virus was used and aligned with the Hepatitis C virus helicase structure that were selected to be used as templates. Notably, all major helicase motifs, which are characteristic and unique to the helicases of the <italic>flaviviridae</italic> viral family were found to be completely conserved (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.85/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Primary sequence alignment of CSVF against the HCV template (RCSB entry: 1A1V).</title>
+          <p>All seven major conserved motifs of <italic>Flaviviridae</italic> helicases have been highlighted in red. The key conserved amino acids that will be used as targets for the drug design steps have been highlighted in bold and magenta.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-1.png"/>
+      </fig>
+      <p>The 1A1V HCV helicase structure has been established by X-ray crystallography at 2.20 Å resolution, while the 8OHM at 2.30 Å (<xref ref-type="bibr" rid="ref-16">Kim et al., 1998</xref>; <xref ref-type="bibr" rid="ref-6">Cho et al., 1998</xref>). The HCV helicase was selected as the most suitable template for the homology modeling of the Classical Swine Fever virus. Both CSFV and HCV belong to the same viral family and upon a blastp search on the Protein Databank it was found that 1A1V and 8OHM bear the highest sequence percentage identity to CSFV (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Furthermore, the secondary structure prediction for the Classical Swine Fever virus helicase was found to be very analogous to the secondary structure of the HCV helicase (data not shown). More specifically, protein fold recognition techniques aim to identify and pinpoint similarities among 3D protein structures that are not supplemented by significant sequence similarity. The suitability of HCV as the best available template was also confirmed by a fold recognition (FR) methodologies. The underlying principle behind FR techniques is that a quick search for protein folds is made in large protein databases, which is looking to identify folds that are compatible with a particular sequence. Unlike simple comparisons based on sequence only, these more sophisticated methods exploit all the extra 3D structural information that is readily available for many proteins. In essence these techniques turn the protein folding problem around: rather than predicting how a sequence will fold, they predict how well a fold will fit a sequence (<xref ref-type="bibr" rid="ref-22">Rost, Schneider &amp; Sander, 1997</xref>). The CSVF homology modeling study constitutes one of these striking examples of structurally and functionally identical enzymes which only share a low primary sequence identity. In order to confirm that the HCV helicase is indeed the best template choice we used an in-house developed platform that performs protein similarity searches based on secondary structural information rather than primary sequence searches.</p>
+      <p>The first structural superimposition between the CSFV model and its HCV template exhibited an alpha-carbon RMSD that fall well within 0.64 angstroms (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The CSFV model was consequently checked with PROCHECK for its geometry mathematical accuracy. In addition to that, the Verify3D algorithm was employed for a more in-depth evaluation for its structure. A direct compatibility comparison between the 3D model of Classical Swine Fever virus helicase to its own amino acid sequence was performed by Verify3D. Judging strictly on location and environment, each residue is assigned a structural class. In order to do this a rather large database of reference structures is being used as a control. The Classical Swine Fever virus helicase model scored a very reliable range between + 0.33 and + 0.68. This was further confirmation in that the established CSVF 3D model is of high quality and mathematically reliable. Verify3D scores that fall below the +0.1 mark are indicative of major problems in the structure of the model as it can be mathematically evaluated (<xref ref-type="bibr" rid="ref-12">Eisenberg, Luthy &amp; Bowie, 1997</xref>). The quality of the CSFV model was finally empirically confirmed in terms of its structural compliance to its HCV template and all known unique characteristics of the helicases of the <italic>Flaviviridae</italic> viral family. More precisely the helicase enzymes of the <italic>flaviviridae</italic> virus family belong to the helicase superfamily II which bear seven common motifs within their domains. All those motifs have been structurally conserved on the Classical Swine Fever virus helicase model. They share the same 3D spatial coordinates to their corresponding motifs located on the X-ray crystal helicase structures of the HCV, Kunjun and Dengue viruses (<xref ref-type="bibr" rid="ref-16">Kim et al., 1998</xref>; <xref ref-type="bibr" rid="ref-15">Khromykh &amp; Westaway, 1997</xref>; <xref ref-type="bibr" rid="ref-27">Xu et al., 2005</xref>). More importantly the ssRNA interacting residues have been structurally conserved on the CSFV model (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>).</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.85/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>The CSFV helicase homology model.</title>
+          <p>(A) Ribbon representation of the produced Classical Swine Fever virus helicase model. (B) The Classical Swine Fever virus helicase model superimposed with its Hepatitis C virus helicase template (RCSB entry: 1A1V). The Classical Swine Fever virus helicase model is in red, whereas the Hepatitis C virus helicase template is in green and the ssRNA substrate is in blue.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-2.png"/>
+      </fig>
+      <sec>
+        <title>Description of the Classical Swine Fever virus helicase model</title>
+        <p>As anticipated from the initial sequence alignment (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) and the consecutive secondary structure prediction analysis (data not shown), the Classical Swine Fever virus helicase model has retained all structural features that characterize <italic>flaviviridae</italic> helicases. The GxGKT/S motif of helicase domain 1 is a Walker A motif that is also conserved in kinases. Its role is to aid with the binding of the β-phosphate of ATP [REF]. Evidence from mutagenesis studies confirms that any changes within this motif will yield an inactive helicase. The conserved DExH motif, which is involved in the Mg<sup>2+</sup> ion and ATP interaction and hydrolysis, is equally important. Findings from both adenylate and thymidine kinases confirm that an aspartic acid residue is responsible for the Mg<sup>2 +</sup> ion coordination that lead to a conformational layout that optimizes the ATP molecule’s orientation for a highly efficient nucleophilic attack (<xref ref-type="bibr" rid="ref-16">Kim et al., 1998</xref>). On the other hand the QRxGRxGR motif is not associated with ATP hydrolysis rather than the establishment of direct specific interactions between the helicase cleft and the nucleic acid during the unwinding process (<xref ref-type="bibr" rid="ref-16">Kim et al., 1998</xref>). Overall it was found that the CSVF helicase model has shape, size and topology identical to that of its template (<xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>). The domain layout arrangement of the model is in agreement with the general f<italic>laviviridae</italic> helicase pattern. First and third domains are more closely associated and are separated by a rather large channel from domain two. This channel is the ssRNA cleft, where the processing of the oligonucleotide takes places and unwinding occurs. During the latter process, domain two undergoes substantial conformational changes. Moreover it moves away from domains one and three as the strength of specific interaction in the ssRNA channel must be weakened for the translocation process to occur. <xref ref-type="fig" rid="fig-3">Figure 3</xref> depicts the conservation of the ATP and the ssRNA channels between the CSVF model and its template HCV X-ray determined helicase structure (<xref ref-type="bibr" rid="ref-16">Kim et al., 1998</xref>).</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Structural location of the conserved motifs.</title>
+            <p>The Hepatitis C virus helicase (in green color) is structurally superposed over the Classical Swine Fever virus helicase model (colored in Red). The major motifs have been color-coded according to the conventions of <xref ref-type="fig" rid="fig-1">Fig. 1</xref>, and are showing in space filling representation. The ssRNA oligonucleotide is showing in blue ribbon representation. The white arrow point to the ATP site of the helicase. Notably, the conserved motifs sit around the ATP site, where they coordinate the ATP hydrolysis by the helicase enzyme.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-3.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>ssRNA – ATP substrates and MD simulations</title>
+        <p>In an effort to confirm the functionality, suitability and reliability of the CSFV helicase model to be used in structure-based drug design experiments, the specific interactions with the ssRNA substrate were analyzed (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>). The coordinates of the ssRNA molecule as well as those for the ADP molecule and the Mg<sup>2 +</sup> ions were copied from the HCV template structure. Then exhaustive molecular dynamics simulations were performed to the CSVF model in the presence of all substrate molecules, in an explicitly solvated periodic box with SPC water molecules. Post molecular dynamics analysis confirmed that the majority of the protein and the ssRNA substrate interactions are established between the backbone of the oligonucleotide and a series of conserved residues on the helicase channel. Energy equilibrium is attained almost simultaneously for both the model and the template helicases. The alpha carbon root mean square deviation (C<sup>α</sup>RMSd) between equivalent atoms of the HCV and the post-MDs CSFV helicases does not exceed 0.37 Å. While large RMSd values are indicative of systems of poor quality, the low RMSd values between the CSVF model and the HCV template indicate that their 3D structures remain conformationally similar, thus reflecting the high quality of the post molecular dynamics CSVF helicase model. Moreover, the Ramachandran plots of the HCV template and the CSFV model confirm that there are no residues in the disallowed regions of the plot (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). The Ramachandran plot is the most powerful and most established <italic>in silico</italic> tool for the stereochemical evaluation of the quality of a protein’s backbone, judging from its phi/psi dihedral angles. The phi/psi torsion angles cluster in favorable regions of the plot for the Classical Swine Fever virus helicase 3D model. None of those torsions duel in disallowed regions of the plot, which correspond to residues having steric hindrance and bad backbone geometries. The Classical Swine Fever virus helicase model residues that are found in the allowed regions of the plot are rendered in green whereas the generously allowed regions contain residues colored yellow. No residues are located in disallowed regions of the Ramachandran plot, a fact that verifies the quality of the established Classical Swine Fever virus helicase 3D model. Likewise, the dihedral plots of the omega, planarity, C-beta angles and energy packing per residue are all within the allowed regions, below the disallowed threshold (<xref ref-type="supplementary-material" rid="supp-2">Figs. S2</xref> and <xref ref-type="supplementary-material" rid="supp-3">S3</xref>). Taken together, all of the above confirm the viability and suitability of the homology modeling of the Classical Swine Fever virus helicase model to be used in further structure based <italic>in silico</italic> drug design experiments.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>The Ramachandran plots for the HCV template structure (PDB entry: 1A1V) on the top and the CSFV model after the molecular dynamics simulations below.</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-4.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Electrostatic potential surfaces</title>
+        <p>The molecular surface of the produced Classical Swine Fever virus helicase model was analyzed by calculating its electrostatic potential (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). The aim of this study was to enable us to perform direct structural comparisons between the CSFV model and the HCV template structures it came from. Consequently, the electrostatic potential surface was calculated also for both template HCV helicase structures that were used (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). The CSVF model and the two helicases exhibited almost identical electrostatic surfaces. More precisely, the model and its templates share all key common structural features vital to viral helicases. They have a negatively charged ssRNA entrance to the helicase tunnel and a clearly identical ATP hydrolysis site. Taken together these similarities confirm the validity and reliability of the model which can be used for structure based drug design studies with high levels of confidence.</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Molecular electrostatic potential surfaces.</title>
+            <p>Electrostatic surfaces potential for the Classical Swine Fever virus helicase model and the Hepatitis C virus helicase template (X-ray structure: 1A1V).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-5.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Structure based de novo drug design</title>
+        <p>The area surrounding the Cys431 residue was selected to be used as the target site for the drug design experiment for the purposes of this study. One of the HCV crystal helicase structures has been co-crystallized with a single molecule of mercaptoethanol via a disulphide bond. The Cys431 residue has established a S-S bond with a mercaptoethanol (S-CH<sub>4</sub>-CH<sub>4</sub>-OH) in the HCV helicase X-ray structure. That can only mean that the Cys431 is accessible to the solvent, even when ssRNA is present, and could potentially be targeted for the establishment of interactions with a future inhibitor. Notably, Cys431 is located in a very strategic position to block the passage of the ssRNA through the helicase (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). Prior study of the HCV area surrounding the Cys431 residue has indeed confirmed the ability and potential of this residue to covalently bond with an HCV inhibitor and to interact with the two flanking Arginine residues (Arg393 and Arg481). The latter HCV inhibitor exerted activity in the micromolar range (<xref ref-type="bibr" rid="ref-14">Kandil et al., 2009</xref>; <xref ref-type="bibr" rid="ref-26">Vlachakis, Koumandou &amp; Kossida, 2013</xref>). These residues were set to define the active site of the helicase that was going to be targeted later on. The arginine residues were expected to establish H-bonds, whereas the Cys431 residue was expected to establish an S-S or an S-C bond with the inhibitor (<xref ref-type="fig" rid="fig-7">Fig. 7</xref>). Accordingly, upon structural superimposition of the CSVF helicase model and the HCV crystal structure it was concluded that the Arg481 position has been physicochemically conserved on the CSFV helicase with a lysine residue, while the Arg393 position has been replaced with a Ser residue, which is still fully capable of establishing strong hydrogen bonding interactions with potential inhibitor compounds (<xref ref-type="fig" rid="fig-1">Figs. 1</xref> and <xref ref-type="fig" rid="fig-11">11</xref>).</p>
+        <fig id="fig-6">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-6</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>The seed structure for the drug design experiment.</title>
+            <p>This is a mercaptoethanol molecule that has been co-crystallized on the HCV helicase crystal structure. Choosing the right starting point for the growing algorithm is very influential to the algorithm. Here the seed was included in the PDB file (1A1V).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-6.png"/>
+        </fig>
+        <p>The HCV Cys431 residue constitutes an ideal target for drug design experiments not just due to the fact that it had already covalently reacted with a mercaptoethanol molecule in the HCV crystallization solution, but also because its position has been fully conserved on the CSFV helicase too (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). More strikingly, the structural superposition of the Dengue helicase with the HCV and CSFV helicases, revealed that the Cys position is conserved on Dengue too, which belongs to the flavivirus genera. Notably, HCV belongs to the hepacivirus genera and CSVF belongs to the pestivirus genera. So, we have three members of the <italic>flaviviridae</italic>, all from distinct separate generas that still maintain the Cys position conserved. Therefore, upon careful selection of target residues on the helicases of various species within <italic>flaviviridae</italic>, there is potential for the development of agents that may be active against more than one helicase enzyme.</p>
+        <fig id="fig-7">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-7</object-id>
+          <label>Figure 7</label>
+          <caption>
+            <title>The dimensions of the ssRNA channel of HCV. Distances and the available space in the Helicase’s active site.</title>
+            <p>All newly designed compounds should have dimensions that could be accommodated in the above showing area and interact with Arg393 and one or both of the Cys431 and Arg481 residues.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-7.png"/>
+        </fig>
+        <fig id="fig-8">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-8</object-id>
+          <label>Figure 8</label>
+          <caption>
+            <title>Lead compound from LigBuilder docked into the helicase.</title>
+            <p>The resulting molecule from the drug design experiment contains 14 chiral centers and is therefore impossible to synthesize. It had to be reduced to a manageable synthetically molecule that still maintains most of the original interactions with the helicase enzyme.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-8.png"/>
+        </fig>
+        <p>Structurally, the aim was to build a bridge between the Cys431 and the Arg393 (<xref ref-type="fig" rid="fig-7">Fig. 7</xref>). This compound should covalently interact with the two previous residues and stand in the way of the nucleic acid. In the HCV case, an ideal compound would interact with the two Arg393, Arg481 and the Cys431, thus forming a bridge in the middle of the RNA channel in the helicase. Notably the physical dimensions of the selected site do not change upon the molecular dynamics simulations. If the compound covalently bonds to the receptor, then it is expected to be strong enough to block the passage of the ssRNA thus inhibiting the helicase (<xref ref-type="fig" rid="fig-7">Fig. 7</xref>). The lead compound designed by LigBuilder expands from Arg393 through to Arg481, via Cys431 (<xref ref-type="fig" rid="fig-7">Fig. 7</xref>). It fits the available accessible area of the helicase structure and interacts with even more residues than the three target-residues (<xref ref-type="fig" rid="fig-8">Fig. 8</xref>). Even though LigBuilder suggested it as a lead compound, it is far from being considered as a lead compound, when judging from a drug design point of view. This compound is only an indication of the available interactions that could be potentially established between an inhibitor and the HCV helicase. The process of converting the LigBuilder’s compound into a viable lead from a medicinal chemistry point of view requires manual intervention to substitute bulky groups with those capable of establishing the same type of interaction while being simpler in structure. <xref ref-type="fig" rid="fig-8">Figure 8</xref> shows the lead derived from LigBuilder and the interactions it establishes with the helicase. One of the most important properties of an <italic>in silico</italic> designed lead compound is to be feasible to synthesize. The lead must be synthesizable in order to be eventually tested for its activity. This is essential in order to feedback the drug design process. Even though the lead that LigBuilder generated was capable of establishing so many interactions, it had to be rejected since it would be impossible to synthesize and test such a compound in the lab (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). The algorithm needs to understand that the available space is not the whole, extensive oligonucleotide channel of the helicase, but is spatially defined by the three target residues.</p>
+        <p>That was achieved by physically incorporating a tube-like structure which encloses all key residues and defines the available space for the algorithm to work with (<xref ref-type="fig" rid="fig-9">Fig. 9</xref>). The tube was originally made from carbon atoms. The PDB file of the tube was edited and the atoms were converted from C (Carbon atom) to Du (Dummy atom). Du atoms do not have any atomic properties and can be recognized by Ligbuilder‘s growing algorithm as inert atoms. They are incapable of establishing interactions of any nature and they have no charge. Their only function is to define the space that is available for the genetic algorithm to work with. The structures that LigBuilder generated proved to be a lot simpler and much more drug-like. The lead that LigBuilder proposed was completely different from the one without the aid of the “tube”. The custom made lead was isolated and then docked again into the original receptor, where it originated from (<xref ref-type="fig" rid="fig-10">Fig. 10</xref>). Only this time the “tube” was not present and the full receptor was available to be explored by the docking algorithm.</p>
+        <fig id="fig-9">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-9</object-id>
+          <label>Figure 9</label>
+          <caption>
+            <title>Drug design using the tube spatial restrain.</title>
+            <p>The application of the “tube” structure that simplified the task of LigBuilder by limiting the available 3D conformational space that new compounds can occupy.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-9.png"/>
+        </fig>
+        <fig id="fig-10">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-10</object-id>
+          <label>Figure 10</label>
+          <caption>
+            <title>The <italic>in silico</italic> designed lead compounds.</title>
+            <p>(A)–(B) The two lead compounds positioned in the ssRNA channel of the HCV helicase. These compounds were designed by using LigBuilder and the “tube”. (C) The mode of interaction between the best, most promising LigBuilder compound and the three target residues of the HCV ssRNA channel.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-10.png"/>
+        </fig>
+        <p>The result of the docking confirmed that this compound that had been specifically designed for the particular area (between Arg481-Cys431-Arg393) on the helicase found its way to the suggested site and managed to establish the interactions that it was expected to (<xref ref-type="fig" rid="fig-10">Fig. 10</xref>). The top ranked compound bears an extra SH<sub>3</sub> substitution on one of the phenyl rings. That SH<sub>3</sub> moiety was able to interact with the Sulfur of the Cys431 and further stabilize the docking. The stability of these compounds derives from their simplicity and rigidity. The conjugated bond and the two phenyl rings on those two compounds do not allow for any flexibility. <xref ref-type="fig" rid="fig-10">Figure 10</xref> shows the two versions of the LigBuilder lead compound with and without the CH<sub>4</sub> substitution in one of the phenyl rings. It is obvious that the presence of the extra carbon has pushed the compound a bit lower, which is evidence that the extra carbon successfully established an interaction with the nearby available sulphur from the Cys431 residue.</p>
+        <p>This way the complexity of the structure was forced to be low, by choosing small molecular weights and by limiting the number of interaction between the future compound and the protein to those found by the multi-fragment search. The number of hydrogen bond donors and acceptors was estimated by the Lipinski’s rule of five initially and later on by limiting the number of H bonds to the ones already acquired by the multi-fragment search. This made the drug design approach using the linking algorithm very fast and ensured that all new suggested compounds will be simple in structure and thus synthesizable.</p>
+      </sec>
+      <sec>
+        <title>3D Pharmacophore Elucidation and the DNP-poly(A) substrate</title>
+        <p>3D Pharmacophore designing methods take into account both the three-dimensional structures and binding modes of receptors and inhibitors in order to identify regions that are favorable or not for a specific receptor-inhibitor interaction. The description of the receptor-inhibitor interaction pattern is determined by a correlation between the characteristic properties of the inhibitors and their biochemically determined enzymatic activity.</p>
+        <p>Based on the findings of the structure based, <italic>de novo</italic> drug design experiment, a 3D pharmacophore was generated for the active site of CSFV, as a molecular model that ensembles all steric and electronic features that are necessary to ensure optimal covalent and non-covalent interactions with CSFV (<xref ref-type="fig" rid="fig-11">Fig. 11</xref>). The pharmacophoric features investigated included positively or negatively ionized regions, hydrogen bond donors and acceptors, aromatic regions and hydrophobic areas. For the pharmacophore elucidation process for CSFV’s ssRNA channel all 1200 <italic>de novo</italic> generated compounds from the drug design experiment were used in their <italic>in silico</italic> docked conformations. Moreover, a structure based 3D pharmacophore was created using the ssRNA interacting residues on the CSFV helicase channel. The final pharmacophore model elucidated for CSFV helicase was the result of the overlaying of two different pharmacophores that were then reduced to their shared features. This way only their common set of interactions was retained. Our complex-based pharmacophore used a query set that represented a set of receptor-inhibitor interaction fingerprints which were in the form of docked <italic>in silico</italic> virtual inhibitor complexes.</p>
+        <fig id="fig-11">
+          <object-id pub-id-type="doi">10.7717/peerj.85/fig-11</object-id>
+          <label>Figure 11</label>
+          <caption>
+            <title>The pharmacophore model for the HCV template and the CSFV model.</title>
+            <p>(A) The HCV template with the bound oligonucleotide (white ribbon). (B) The 3D pharmacophore in the presence of the key HCV residues (in ball and stick representation) and the corresponding CSFV amino acids (in wire representation). The pharmacophore color coding is blue for hydrogen acceptor, green for hydrophobic or aromatic rings and magenta for hydrogen donors. (C) The final pharmacophore model for the CSFV helicase.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/fig-11.png"/>
+        </fig>
+        <p>It was determined that a set of criteria had to be satisfied in order for a candidate inhibitor compound to be active for the CSFV and HCV helicase. First, using the HCV helicase’s 3D structure, there should be one electron donating group (<xref ref-type="fig" rid="fig-11">Fig. 11</xref>, magenta color) in the proximity of the Arg393 residue (or the corresponding lysine on the CSFV helicase model). Moreover three electron donating groups should be present in the proximity of both Arg393 and Arg481 amino acids (or the corresponding lysine and aspartic acid on the CSFV helicase model). Those interaction sites may not strictly represent hydrogen bonds but water or ion mediated bridges too. Finally the space in between Arg393 and Arg481 in the HCV or the corresponding Lys-Asp residues on the CSFV helicase should be occupied by a large conjugated set of either hydrophobic or aromatic rings. Notably the physical dimensions of this site do not change on either the HCV or CSFV model upon molecular dynamics simulations. Collectively, according to our <italic>in silico</italic> prediction model, a potent candidate inhibitor of the CSFV helicase should satisfy all of the previously described pharmacophoric features.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The 3D model of the Classical Swine Fever virus helicase was designed using the homologous X-ray crystal structure of the Hepatitis C viral helicase as a template. The model was successfully evaluated <italic>in silico</italic> in terms of its geometry, fold recognition and compliance to the criteria required as a member of the <italic>Flaviviridae</italic> virus family. Furthermore, a comprehensive 3D pharmacophore model was constructed alongside the proposition of a lead compound as an <italic>in silico</italic> predicted potential inhibitor for this enzyme. It is therefore proposed that the Classical Swine Fever virus helicase model will be suitable for further <italic>in silico</italic> structure-based <italic>de novo</italic> drug design experiments. Future experiments may lead to the screening of large chemical compound libraries in search of a potent inhibitor. These computer-based methodologies are now becoming an integral part of the drug discovery process that may eventually lead to the development of potential inhibitor structures against the Classical Swine Fever viral helicase.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/Supp_Figure_1.png">
+        <object-id pub-id-type="doi">10.7717/peerj.85/supp-1</object-id>
+        <label>Figure S1</label>
+        <caption>
+          <title>All residues surrounding the ssRNA fragment, color-coded as Figure 2</title>
+          <p>The ssRNA interacting regions are almost identical between the Classical Swine Fever virus helicase model and the Hepatitis C helicase template.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/Supp_Figure_2.png">
+        <object-id pub-id-type="doi">10.7717/peerj.85/supp-2</object-id>
+        <label>Figure S2</label>
+        <caption>
+          <title>The dihedral (omega, planarity and C-beta) and energy plots for the HCV template structure (PDB entry: 1A1V)</title>
+          <p>(A) The plot is showing the omega torsion profile. (B) The profiles of phi/psi angles. (C) The planarity the third the C-beta torsion angle profile. (D) the rotamer strain energy profile in kcal/mol. The HCV helicase sequence is on the X-axis.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-3" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/85/Supp_Figure_3.png">
+        <object-id pub-id-type="doi">10.7717/peerj.85/supp-3</object-id>
+        <label>Figure S3</label>
+        <caption>
+          <title>The dihedral (omega, planarity and C-beta) and energy plots for the CSFV homology model after the molecular dynamics simulations</title>
+          <p>(A) The plot is showing the omega torsion profile. (B) The profiles of phi/psi angles. (C) The planarity the third the C-beta torsion angle profile. (D) the rotamer strain energy profile in kcal/mol. The CSVF helicase sequence is on the X-axis.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors declare no conflict of interest.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Dimitrios Vlachakis</xref> and <xref ref-type="contrib" rid="author-2">Sophia Kossida</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Altschul et al. (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Altschul</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Madden</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Schäffer</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Gapped BLAST and PSI-BLAST: a new generation of protein database search programs</article-title>
+          <source>Nucleic Acids Research</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>25</volume>
+          <fpage>3389</fpage>
+          <lpage>3402</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/25.17.3389</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Behrens et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Behrens</surname>
+              <given-names>S-E</given-names>
+            </name>
+            <name>
+              <surname>Grassmann</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Thiel</surname>
+              <given-names>H-J</given-names>
+            </name>
+            <name>
+              <surname>Meyers</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tautz</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of an autonomous subgenomic pestivirus RNA replicon</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>72</volume>
+          <fpage>2364</fpage>
+          <lpage>2372</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Benson et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benson</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Karsch-Mizrachi</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lipman</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Ostell</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wheeler</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <article-title>GenBank</article-title>
+          <source>Nucleic Acids Research</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>35</volume>
+          <fpage>21</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkl986</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Calisher &amp; Gould (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Calisher</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Gould</surname>
+              <given-names>EA</given-names>
+            </name>
+          </person-group>
+          <article-title>Taxonomy of the virus family Flaviviridae</article-title>
+          <source>Advances in Virus Research</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>59</volume>
+          <fpage>1</fpage>
+          <lpage>19</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Chen, Li &amp; Weng (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Weng</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>ZDOCK: an initial-stage protein-docking algorithm</article-title>
+          <source>Proteins</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>52</volume>
+          <fpage>80</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="doi">10.1002/prot.10389</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Cho et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cho</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>NC</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>LW</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Back</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Jang</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Oh</surname>
+              <given-names>BH</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal structure of RNA helicase from genotype 1b Hepatitis C virus. A feasible mechanism of unwinding duplex RNA</article-title>
+          <source>Journal of Biological Chemistry</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>273</volume>
+          <fpage>15045</fpage>
+          <lpage>15052</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.273.24.15045</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Combet et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Combet</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Blanchet</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Geourjon</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Deléage</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>NPS@: network protein sequence analysis</article-title>
+          <source>Trends in Biochemical Sciences</source>
+          <issue>3</issue>
+          <year iso-8601-date="2000">2000</year>
+          <volume>25</volume>
+          <fpage>147</fpage>
+          <lpage>150</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0968-0004(99)01540-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>DeLano (2002)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DeLano</surname>
+              <given-names>WL</given-names>
+            </name>
+          </person-group>
+          <source>The PyMOL user’s manual</source>
+          <year iso-8601-date="2002">2002</year>
+          <publisher-loc>San Carlos, CA</publisher-loc>
+          <publisher-name>DeLano Scientific</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Diana &amp; Bailey (1997)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Diana</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="1997">1997</year>
+          <comment>Compounds, compositions and methods for treatment of hepatitis C. United States Patent No. 5,633,388</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Duan et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duan</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chowdhury</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Xiong</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Cieplak</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Caldwell</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kollman</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>A point-charge force field for molecular mechanics simulations of proteins based on condensed-phase quantum mechanical calculations</article-title>
+          <source>Journal of Computational Chemistry</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>24</volume>
+          <fpage>1999</fpage>
+          <lpage>2012</lpage>
+          <pub-id pub-id-type="doi">10.1002/jcc.10349</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Eddy (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eddy</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <article-title>Multiple alignment using hidden Markov models</article-title>
+          <source>Proceedings of the International Conference on Intelligent Systems for Molecular Biology</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>3</volume>
+          <fpage>114</fpage>
+          <lpage>120</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Eisenberg, Luthy &amp; Bowie (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eisenberg</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Luthy</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bowie</surname>
+              <given-names>JU</given-names>
+            </name>
+          </person-group>
+          <article-title>VERIFY3D: assessment of protein models with three-dimensional profiles</article-title>
+          <source>Methods in Enzymology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>277</volume>
+          <fpage>396</fpage>
+          <lpage>404</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Hess et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hess</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Kutzner</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>van der Spoel</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lindahl</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>GROMACS 4: algorithms for highly efficient, load-balanced, and scalable molecular simulation</article-title>
+          <source>Journal of Chemical Theory Computer</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>4</volume>
+          <fpage>435</fpage>
+          <lpage>447</lpage>
+          <pub-id pub-id-type="doi">10.1021/ct700301q</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Kandil et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kandil</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Biondaro</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vlachakis</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Cummins</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Coluccia</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Berry</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Leyssen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Neyts</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Brancale</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Discovery of a novel HCV helicase inhibitor by a de novo drug design approach</article-title>
+          <source>Bioorganic and Medicinal Chemistry Letters</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>19(11)</volume>
+          <fpage>2935</fpage>
+          <lpage>2937</lpage>
+          <comment>Jun 1</comment>
+          <pub-id pub-id-type="doi">10.1016/j.bmcl.2009.04.074</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Khromykh &amp; Westaway (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khromykh</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Westaway</surname>
+              <given-names>EG</given-names>
+            </name>
+          </person-group>
+          <article-title>Subgenomic replicons of the flavivirus Kunjin: construction and applications</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>71</volume>
+          <fpage>1497</fpage>
+          <lpage>1505</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Kim et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Morgenstern</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Griffith</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Dwyer</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Murcko</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Caron</surname>
+              <given-names>PR</given-names>
+            </name>
+          </person-group>
+          <article-title>Hepatitis C virus NS3 RNA helicase domain with a bound oligonucleotide: the crystal structure provides insights into the mode of unwinding</article-title>
+          <source>Structure</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>6</volume>
+          <fpage>89</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0969-2126(98)00010-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Laskowski et al. (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laskowski</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Rullmannn</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>MacArthur</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Kaptein</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Thornton</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>AQUA and PROCHECK-NMR: programs for checking the quality of protein structures solved by NMR</article-title>
+          <source>Journal of Biomolecular NMR</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>8</volume>
+          <fpage>477</fpage>
+          <lpage>486</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00228148</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Li, Chen &amp; Weng (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Weng</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>RDOCK: refinement of rigid-body protein docking predictions</article-title>
+          <source>Proteins</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>53</volume>
+          <fpage>693</fpage>
+          <lpage>707</lpage>
+          <pub-id pub-id-type="doi">10.1002/prot.10460</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Molecular Operating Environment (MOE) (2011)</label>
+        <element-citation publication-type="other">
+          <comment>Molecular Operating Environment (MOE 2011.10). Montreal, Quebec, Canada: Chemical Computing Group, Inc. Available: <uri xlink:href="http://www.chemcomp.com">http://www.chemcomp.com</uri>
+               </comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Nulf &amp; Corey (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nulf</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Corey</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Intracellular inhibition of Hepatitis C virus (HCV)internal ribosomal entry site (IRES)-dependent translation by peptide nucleic acids (PNAs) and locked nucleic acids (LNAs)</article-title>
+          <source>Nucleic Acids Research</source>
+          <issue>13</issue>
+          <year iso-8601-date="2004">2004</year>
+          <volume>32</volume>
+          <fpage>3792</fpage>
+          <lpage>3798</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkh706</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Phoon et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phoon</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ng</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ting</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yeo</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sim</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological evaluation of Hepatitis C virus helicase inhibitors</article-title>
+          <source>Bioorganic &amp; Medicinal Chemistry Letters</source>
+          <issue>11</issue>
+          <year iso-8601-date="2001">2001</year>
+          <fpage>1647</fpage>
+          <lpage>1650</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-894X(01)00263-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Rost, Schneider &amp; Sander (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rost</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Schneider</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sander</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein fold recognition by prediction-based threading</article-title>
+          <source>Journal of Molecular Biology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>270</volume>
+          <fpage>471</fpage>
+          <lpage>480</lpage>
+          <pub-id pub-id-type="doi">10.1006/jmbi.1997.1101</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Sali et al. (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sali</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Potterton</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>van Vlijmen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Karplus</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of comparative protein modeling by MODELLER</article-title>
+          <source>Proteins</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>23</volume>
+          <fpage>318</fpage>
+          <lpage>326</lpage>
+          <pub-id pub-id-type="doi">10.1002/prot.340230306</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Sellis, Vlachakis &amp; Vlassi (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sellis</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Vlachakis</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Vlassi</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Gromita: a fully integrated graphical user interface to gromacs 4</article-title>
+          <source>Bioinformatics Biology Insights</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>3</volume>
+          <fpage>99</fpage>
+          <lpage>102</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Thompson, Higgins &amp; Gibson (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thompson</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Higgins</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Gibson</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position specific gap penalties and weight matrix choice</article-title>
+          <source>Nucleic Acids Research</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>22</volume>
+          <fpage>4673</fpage>
+          <lpage>4680</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/22.22.4673</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Vlachakis, Koumandou &amp; Kossida (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vlachakis</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Koumandou</surname>
+              <given-names>VL</given-names>
+            </name>
+            <name>
+              <surname>Kossida</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>A holistic evolutionary and structural study of <italic>flaviviridae</italic> provides insights into the function and inhibition of HCV helicase</article-title>
+          <source>PeerJ</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>1</volume>
+          <elocation-id>e74</elocation-id>
+          <pub-id pub-id-type="doi">10.7717/peerj.74</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Xu et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sampath</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chao</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wen</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Nanao</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chene</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Vasudevan</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Lescar</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure of the Dengue virus helicase/nucleoside triphosphatase catalytic domain at a resolution of 2.4 A</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>79</volume>
+          <fpage>10278</fpage>
+          <pub-id pub-id-type="doi">10.1128/JVI.79.16.10278-10288.2005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Wu et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bera</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Kuhn</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure of the flavivirus helicase: implications for catalytic activity, protein interactions, and proteolytic processing</article-title>
+          <source>Journal of Virology</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>79</volume>
+          <fpage>10268</fpage>
+          <lpage>10277</lpage>
+          <pub-id pub-id-type="doi">10.1128/JVI.79.16.10268-10277.2005</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

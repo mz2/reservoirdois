@@ -1,1147 +1,932 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018989000,&quot;from_str&quot;:&quot;2013-07-05T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500589000,&quot;from_str&quot;:&quot;2013-06-29T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513389000,&quot;from_str&quot;:&quot;2013-06-06T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948589000,&quot;from_str&quot;:&quot;2012-12-31T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,353,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">76</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.76</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Neuroscience</subject>
+          <subject>Science and Medical Education</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Eye blink correction: a test on the preservation of common ERP components using a regression based technique</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Woltering</surname>
+            <given-names>Steven</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <email>swolte@gmail.com</email>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Bazargani</surname>
+            <given-names>Narges</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Zhong-Xu</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>University of Toronto</institution>, <country>Canada</country></aff>
+        <aff id="aff-2"><label>2</label><institution>University College London</institution>, <country>England</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Abdullah</surname>
+            <given-names>Jafri</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-05-14">
+        <day>14</day>
+        <month>5</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e76</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-03-21">
+          <day>21</day>
+          <month>3</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-01">
+          <day>1</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Woltering et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Woltering et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/76"/>
+      <abstract>
+        <p>Eye blinks are a pervasive problem in electroencephalography research as they contaminate the brain signal. This paper tests the merits of a software tool employing the regression-based Gratton method that claims to remove the detrimental effects of the eye blink and leaves the activity of the brain. The efficacy of the correction tool was tested on five common stimulus-locked Event Related Potential (ERP) components used in a standard Go/Nogo task. Results suggested that the ‘corrected’ data could be predicted from data containing no eye blinks, suggesting the tool does not distort the data to great extent. This effect was found significant for all components, except for the P3. The conclusion is that this tool distorts the data at acceptable levels, yet caution should be taken when interpreting later components, like the P3.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Eye blink correction</kwd>
+        <kwd>ERP</kwd>
+        <kwd>EEG</kwd>
+        <kwd>Artifacts</kwd>
+        <kwd>Go/nogo task</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>CIHR</funding-source>
+          <award-id>#81170</award-id>
+        </award-group>
+        <funding-statement>The preparation of this report was supported by a grant from the Canadian Institutes of Health Research (#81170). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Eye blinks are one of the most pervasive problems in electroencephalography (EEG) research as they contaminate brain signals and rejecting blink-trials may lead to a detrimental loss of trials and subjects. Methods attempting to mathematically correct eye blinks are often employed in Event Related Potentials (ERP) designs because, (1) ‘rejection’ can lead to an unrepresentative sample of trials, (2) the instruction to inhibit eye movements or blinks may affect task performance (<xref ref-type="bibr" rid="ref-11">Verleger, 1991</xref>), (3) some groups of subjects (children and psychiatric patients, in particular) have trouble controlling their blinking, and (4) researchers are better able to preserve trials within a reasonable experiment time, preventing issues with fatigue and boredom.</p>
+      <p>Regression-based methods (e.g., see <xref ref-type="bibr" rid="ref-5">Gratton, Coles &amp; Donchin, 1983</xref>, for details) have been the one of the most widely used, and simple, techniques to correct for blinks to date. Such methods claim to remove the added distorting effects of the blink and leave the estimated activity of the brain. In doing so it attenuates all trials, blinks as well as no blinks. However, its merits are under debate and have mostly been evaluated using simulated data, and not directly on ERP waveforms.</p>
+      <p>The purpose of this study was to assess to what extent the Gratton regression-based correction method distorted ERP data under realistic research conditions, and with non-simulated data, in order to warrant the use of this method for studies in our lab.</p>
+      <p>In order to directly test the distorting effects of the eye blink correction method in our sample on several ERP components, we planned three main analyses:</p>
+      <p>
+        <list id="list-1" list-type="order">
+          <list-item>
+            <label>(1)</label>
+            <p>We first assessed to what extent the Gratton method, which affects all data, distorts ERP waveforms when there are no blinks. In order to do this, we will use clean trials with no blinks, and directly compared ‘corrected’ with ‘uncorrected’ trials using a within-subjects analysis.</p>
+          </list-item>
+          <list-item>
+            <label>(2)</label>
+            <p>Second, we will assess how well the Gratton method corrected ERP data that had blinks. In this comparison, corrected no-blink trials were compared to corrected blink trials within each subject. Note that, in contrast to the first test, this analysis compares different trials.</p>
+          </list-item>
+          <list-item>
+            <label>(3)</label>
+            <p>Third, we will test whether between-subject ERP differences could be replicated with corrected (blink and no-blink) data.</p>
+          </list-item>
+        </list>
+      </p>
+      <p>We will test the effect of the attenuation on five ERP components, namely, the N1, P2, N2, parietal P3 and the frontal P3. We feel the results of this small-scale validation study may be useful for a wider audience conducting ERP research so we wish to share them with other labs.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials &amp; Methods</title>
+      <sec>
+        <title>Subjects</title>
+        <p>The data from this analysis are taken from a large study investigating the neural correlates of antisocial behavior in participants, aged 7–16, from various socioeconomic backgrounds. Subjects were referred by teachers, parents or police to a clinical treatment program, which referred them to this study. A visit was booked, where the children were conducting a cognitive Go/Nogo task while an EEG was taken. Control subjects were recruited via newspaper ads.</p>
+        <p>For the current analysis, a random sample of 40 subjects was selected (20 clinicals and 20 controls). For the actual analysis, 8 participants had to be removed because they did not have enough good trials to conduct our analysis. In the end, 32 subjects were selected that had at least 10, or more, trials that contained eye blinks. The group consisted out of 17 controls (14 males) and 15 clinicals (9 males). The mean age was 10.5 years (<italic>sd</italic>  = 2.2). For the purpose of this experiment, we were not interested in group differences and we will simply collapse across groups.</p>
+      </sec>
+      <sec>
+        <title>Go/nogo task</title>
+        <p>The emotion induction go/no-go task that was used in the present study was presented using E-Prime software (Psychological Software Tools, Pittsburgh, PA). In standard Go/nogo paradigms, participants are required to press a button as fast as possible given a particular category of stimuli (the Go condition, 67%) and withhold responding given another category of stimuli (the Nogo condition, 33%). Participants in this study were instructed to click the button for each letter presented but to avoid clicking when a letter was repeated a second time in succession. A detailed description of the task can be found in <xref ref-type="bibr" rid="ref-13">Woltering et al. (2011)</xref>.</p>
+      </sec>
+      <sec>
+        <title>Materials &amp; data processing</title>
+        <p>EEG was recorded using a 128-channel Geodesic Sensor Net and sampled at 250 Hz, using EGI software (Electrical Geodesics, Inc., Eugene, OR). Data acquisition was started after impedances for all EEG channels were reduced to below 50 kOhm, which is acceptable with high input impedance amplifiers (<xref ref-type="bibr" rid="ref-3">Ferree et al., 2001</xref>; <xref ref-type="bibr" rid="ref-8">Kappenman &amp; Luck, 2010</xref>). All channels were referenced to Cz (channel 129) during recording and later rereferenced against an average reference (<xref ref-type="bibr" rid="ref-10">Tucker et al., 1993</xref>; <xref ref-type="bibr" rid="ref-1">Bertrand, Perrin &amp; Pernier, 1985</xref>). Data were filtered off-line using a 1–30 Hz finite impulse response (FIR) bandpass. Correct no-go data were segmented into epochs from 400 ms before to 1000 ms after stimulus onset.</p>
+        <p>From this point forward, the data was split into three groups for the purposes of our analysis. To create realistic research circumstances, it’s important to note that the artifacting parameters mentioned were set a priori, without any known intention, at that time, whether this comparison was ran:</p>
+        <p><italic>The uncorrected no blink data</italic>- This was ‘clean’ data, without any eyeblinks, for which no correction method was used. This data followed our standard artifacting procedure: channels were automatically marked bad when they exceeded a transition threshold of 150 µv over the entire segment (max-min). Remaining eye blinks were detected when the vertical eye channels exceeded a threshold of 150 µv (max-min) within a 160 ms (moving) time window within each trial after running a 20 ms moving-average smoothing algorithm across the entire trial period. Eye movements were detected when horizontal eye channels exceeded a threshold of 100 µv (max-min) over a 200 ms time window. Furthermore, each segment of the EEG was excluded from averaging if 20 or more channels were rejected. These settings were determined by extensive tests on a sample of the data that yielded the best artifact detection for our data. In addition, all segments were visually inspected by a trained research assistant blind to the hypotheses. After the artifacting, bad channels were removed using spherical spline interpolation.</p>
+        <p><italic>The corrected no blink data</italic> – This was the same ‘clean’ data used for the uncorrected no blink data (described above), with the exception that the correction method was applied. First, the data followed the exact same artifacting procedure as described above, after which bad channel replacement was run. Then, the eye blink correction tool was run (setting the blink slope threshold at the recommended 12 µV/ms), followed by another, somewhat stricter, round of artifacting and subsequent bad channel replacement. This round of artifacting was mostly meant to remove anomalies in the data that were leftover by the correction data. This amounted to the rejection of less than 5% of the total trials.</p>
+        <p><italic>The corrected blink data</italic>- This data contained eye blinks that were corrected using the above-mentioned procedure using the Gratton correction algorithm. These were data from the same participants used in the no blink data.</p>
+        <p>After these procedures, data were averaged, average referenced, coded, and baseline corrected for the 400 ms preceding the stimulus onset. The coding was performed by research assistants blind to the hypothesis of the study. Five common stimulus-locked ERP components, such as the N1, P2, N2, P3p (parietal P3), and the frontal P3, were derived when subjects correctly inhibited on a nogo trial using the traditional peak picking method. The N1, P2, and N2 were coded as maximum positivities or negativities before 500 ms after the stimulus had appeared, whereas the P3p and P3 were typically coded 500 ms post stimulus (to max of 900 ms). Data were analyzed according to standard lab procedures (for more details, see <xref ref-type="bibr" rid="ref-13">Woltering et al., 2011</xref>) using IBM SPSS statistics software (version 20). Outliers were removed if they were two standard deviations above the mean. In the current analyses, no more than 3 outliers were removed in total.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>We first determined to what extent our initial sample of 40 participants suffered from eyeblinks in our paradigm. Indeed, an average of 19% of the trials contained eye-blinks. <xref ref-type="fig" rid="fig-1">Figure 1</xref> shows the frequency of participants and what percentage of trials contained eyeblinks.</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.76/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Frequency plot showing the number of participants and the percentage of eyeblinks in the trials.</title>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/fig-1.png"/>
+      </fig>
+      <p>
+        <italic>Analysis #1: Since the Gratton correction method affects all data, to what extent does it distort the data when there are no blinks?</italic>
+      </p>
+      <p>Results from the simple linear regression analyses in <xref ref-type="table" rid="table-1">Table 1</xref> show that the correction tool does not distort the data to great extent and that corrected data could be predicted from the original data. <xref ref-type="fig" rid="fig-2">Figure 2</xref> and <xref ref-type="table" rid="table-1">Table 1</xref> show that the predictive relations are strong and linear.</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.76/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Correlations between the uncorrected and corrected data containing no blinks for the amplitudes of the various components, N1, P2, N2, P3p, P3.</title>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/fig-2.png"/>
+      </fig>
+      <table-wrap id="table-1">
+        <object-id pub-id-type="doi">10.7717/peerj.76/table-1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Simple linear regression results for predicting corrected no-blink amplitudes from uncorrected no-blink amplitudes for 5 different ERP components.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/table-1.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Component</th>
+                <th align="left">Standardized beta coefficient</th>
+                <th align="left">Regression model fit<break/>(ANOVA)</th>
+                <th align="left"><italic>p</italic>-value <break/>(Model)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">N1</td>
+                <td align="left">.803</td>
+                <td align="left"><italic>F</italic>(1, 29) = 52.50</td>
+                <td align="left">.000</td>
+              </tr>
+              <tr>
+                <td align="left">P2</td>
+                <td align="left">.918</td>
+                <td align="left"><italic>F</italic>(1, 29) = 155.95</td>
+                <td align="left">.000</td>
+              </tr>
+              <tr>
+                <td align="left">N2</td>
+                <td align="left">.764</td>
+                <td align="left"><italic>F</italic>(1, 29) = 40.72</td>
+                <td align="left">.000</td>
+              </tr>
+              <tr>
+                <td align="left">P3p</td>
+                <td align="left">.685</td>
+                <td align="left"><italic>F</italic>(1, 29) = 25.65</td>
+                <td align="left">.000</td>
+              </tr>
+              <tr>
+                <td align="left">P3</td>
+                <td align="left">.607</td>
+                <td align="left"><italic>F</italic>(1, 29) = 16.93</td>
+                <td align="left">.000</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>The results seem stronger for the early components, like the N1 and P2, which are generated in posterior regions of the brain and happen at an earlier stage. The <italic>R</italic><sup>2</sup> values for the P3 component, however, were not very high, <italic>R</italic><sup>2</sup> = .21. The earlier components have <italic>R</italic><sup>2</sup> values of .72 (N1), .87 (P2), .64 (N2), and .51 (P3p), explaining more than 50% of the variance. The correlations for the first analysis are plotted in <xref ref-type="fig" rid="fig-2">Fig. 2</xref> and show a similar pattern whereby the later components show somewhat weaker correlations than the earlier ones.</p>
+      <p>As <xref ref-type="table" rid="table-2">Table 2</xref> shows, the main amplitudes are less for the corrected data. However, this seems to be a systematic effect and due to subtraction of the eye-electrodes in the algorithm of the correction tool. Paired sample t-tests revealed that this difference is significant in all cases, except for the N2 component at the level of a trend (<italic>p</italic> = .10).</p>
+      <table-wrap id="table-2">
+        <object-id pub-id-type="doi">10.7717/peerj.76/table-2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <title>Mean amplitudes and standard deviations of the uncorrected and corrected data containing no eye blinks for 5 different ERP components.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/table-2.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Component</th>
+                <th align="left">Uncorrected mean <break/>(<italic>sd</italic>)</th>
+                <th align="left">Corrected mean <break/>(<italic>sd</italic>)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">N1</td>
+                <td align="left">−7.07 (3.84)</td>
+                <td align="left">−5.54 (2.90)</td>
+              </tr>
+              <tr>
+                <td align="left">P2</td>
+                <td align="left">4.35 (4.21)</td>
+                <td align="left">3.12 (2.92)</td>
+              </tr>
+              <tr>
+                <td align="left">N2</td>
+                <td align="left">−5.65 (4.18)</td>
+                <td align="left">−4.84 (3.51)</td>
+              </tr>
+              <tr>
+                <td align="left">P3p</td>
+                <td align="left">10.67 (4.72)</td>
+                <td align="left">7.53 (3.54)</td>
+              </tr>
+              <tr>
+                <td align="left">P3</td>
+                <td align="left">5.32 (4.33)</td>
+                <td align="left">3.69 (2.5)</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>
+        <italic>Analysis #2: How well does the Gratton method correct data that had blinks?</italic>
+      </p>
+      <p>The second analysis, testing whether the corrected blink data could be compared to the corrected noblink data, showed a similar pattern. <xref ref-type="table" rid="table-3">Table 3</xref> shows the results for the regression analyses. The parameters were significant for the different components at a .05 level, except for the P3 component. The analysis was expected to fit less well because the data compared are also derived from different trials, but also because the tool’s correction was really put to the test. The model for the N1, P2, and N2 components each predicted more than 50% of the variance (<italic>R</italic><sup>2</sup> = .52, .60, .60, respectively), whereas models for the later components, like the P3p and the P3 predicted 45% and 23%, respectively.</p>
+      <table-wrap id="table-3">
+        <object-id pub-id-type="doi">10.7717/peerj.76/table-3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <title>Simple linear regression results for predicting corrected blink amplitudes from corrected no-blink amplitudes for 5 different ERP components.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/table-3.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Component</th>
+                <th align="left">Standardized beta coefficient</th>
+                <th align="left">Regression model fit <break/>(ANOVA)</th>
+                <th align="left"><italic>p</italic>-value <break/>(Model)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">N1</td>
+                <td align="left">.587</td>
+                <td align="left"><italic>F</italic>(1, 29) = 15.22</td>
+                <td align="left">.001</td>
+              </tr>
+              <tr>
+                <td align="left">P2</td>
+                <td align="left">.793</td>
+                <td align="left"><italic>F</italic>(1, 29) = 48.98</td>
+                <td align="left">.000</td>
+              </tr>
+              <tr>
+                <td align="left">N2</td>
+                <td align="left">.753</td>
+                <td align="left"><italic>F</italic>(1, 29) = 37.92</td>
+                <td align="left">.000</td>
+              </tr>
+              <tr>
+                <td align="left">P3p</td>
+                <td align="left">.627</td>
+                <td align="left"><italic>F</italic>(1, 29) = 18.76</td>
+                <td align="left">.000</td>
+              </tr>
+              <tr>
+                <td align="left">P3</td>
+                <td align="left">.267</td>
+                <td align="left"><italic>F</italic>(1, 29) = 2.23</td>
+                <td align="left">.146</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>The correlations were relatively large, but, as expected, not as strong as those of the first analysis. In general, the linear relation is seen in all cases in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>.</p>
+      <fig id="fig-3">
+        <object-id pub-id-type="doi">10.7717/peerj.76/fig-3</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Correlations between corrected data previously containing blinks and no-blinks for the amplitudes of the various components, N1, P2, N2, P3p, and P3.</title>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/fig-3.png"/>
+      </fig>
+      <p><xref ref-type="table" rid="table-4">Table 4</xref> shows that the differences in absolute amplitude were similar. Paired sample t-tests revealed that none of these were significantly different.</p>
+      <table-wrap id="table-4">
+        <object-id pub-id-type="doi">10.7717/peerj.76/table-4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <title>Mean amplitudes and standard deviations of the corrected data comparing blink trials with noblink trials for 5 different ERP components.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/table-4.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Component</th>
+                <th align="left">Blink mean<break/>(<italic>sd</italic>)</th>
+                <th align="left">Noblink mean <break/>(<italic>sd</italic>)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">N1</td>
+                <td align="left">−5.47 (2.76)</td>
+                <td align="left">−5.62 (2.91)</td>
+              </tr>
+              <tr>
+                <td align="left">P2</td>
+                <td align="left">3.44 (3.58)</td>
+                <td align="left">3.16 (2.95)</td>
+              </tr>
+              <tr>
+                <td align="left">N2</td>
+                <td align="left">−5.04 (4.18)</td>
+                <td align="left">−4.80 (3.57)</td>
+              </tr>
+              <tr>
+                <td align="left">P3p</td>
+                <td align="left">6.56 (3.04)</td>
+                <td align="left">7.48 (3.59)</td>
+              </tr>
+              <tr>
+                <td align="left">P3</td>
+                <td align="left">4.27 (3.27)</td>
+                <td align="left">3.86 (2.34)</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>Grand average waveforms from electrode site 6 (one of the frontal sites, and primary location to detect the N2) are plotted in <xref ref-type="fig" rid="fig-4">Fig. 4</xref> and provide a general impression of the correction tool’s performance. The corrected blink data looks similar to the corrected noblinks and uncorrected noblinks. <xref ref-type="fig" rid="fig-5">Figure 5</xref> shows topoplots comparing activation from all 128 channels between our uncorrected noblink, corrected noblink, and corrected blink conditions for an early and late time window. These data show relatively minor distortion, with fewer distortions for the early time window.</p>
+      <fig id="fig-4">
+        <object-id pub-id-type="doi">10.7717/peerj.76/fig-4</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title>Baseline corrected grand-average waveforms for the corrected blinks, and the uncorrected and corrected noblinks, for electrode site FCz.</title>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/fig-4.png"/>
+      </fig>
+      <fig id="fig-5">
+        <object-id pub-id-type="doi">10.7717/peerj.76/fig-5</object-id>
+        <label>Figure 5</label>
+        <caption>
+          <title>Topoplots showing activation between different conditions and time windows.</title>
+          <p>Topoplots of an early (A) time window (100–200 ms) and late (B) time window (500–600 ms) between the different conditions: UnCorNobL = Uncorrected Noblinks; CorNoBL = Corrected Noblinks; CorBL = Corrected Blinks.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/fig-5.png"/>
+      </fig>
+      <p>
+        <italic>Analysis #3: Can ‘traditional’ between subject ERP differences be replicated with corrected (blink and no-blink) data?</italic>
+      </p>
+      <p>Uncorrected no-blink ERP differences were found in two analyses (i.e., gender and age). Patterns were compared using corrected blink trials and corrected no-blink trials.</p>
+      <p>Results show that, generally, patterns remain consistent in magnitude, direction and significance for gender differences that were found, as well as correlations with age. Some deviations were found for the later components, such as the P3 (see <xref ref-type="table" rid="table-5">Table 5</xref>).</p>
+      <table-wrap id="table-5">
+        <object-id pub-id-type="doi">10.7717/peerj.76/table-5</object-id>
+        <label>Table 5</label>
+        <caption>
+          <title>Analyses showing how similar outcomes are between (un)corrected noblink and corrected blink data.</title>
+          <p>Analysis (A) shows gender differences, as tested by independent sample t-tests, for each of the ERP compoments for each condition. Analysis (B) shows the Pearson correlations between age and the various ERP components for each condition.</p>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/76/table-5.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="center" colspan="4">Analysis A: Gender * ERP (Group difference <italic>t</italic>-test)</th>
+                <th align="center" colspan="3">Analysis B: Age * ERP (Pearson correlation)</th>
+              </tr>
+              <tr>
+                <th align="left">ERP</th>
+                <th align="left">Uncorrected <break/>noblinks</th>
+                <th align="left">Corrected <break/>noblinks</th>
+                <th align="left">Corrected <break/>blinks</th>
+                <th align="left">Uncorrected <break/>noblinks</th>
+                <th align="left">Corrected <break/>noblinks</th>
+                <th align="left">Corrected blinks</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">N1</td>
+                <td align="left"><italic>p</italic> = .373</td>
+                <td align="left"><italic>p</italic> = .153</td>
+                <td align="left"><italic>p</italic> = .124</td>
+                <td align="left">.45<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>, <italic>p</italic> = .01</td>
+                <td align="left">.52<xref ref-type="fn" rid="table-5fn2"><sup>**</sup></xref>, <italic>p</italic> = .00</td>
+                <td align="left">.37<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>, <italic>p</italic> = .04</td>
+              </tr>
+              <tr>
+                <td align="left">P2</td>
+                <td align="left"><italic>p</italic> = .078</td>
+                <td align="left"><italic>p</italic> = .153</td>
+                <td align="left"><italic>p</italic> = .146</td>
+                <td align="left">−.33, <italic>p</italic> = .07</td>
+                <td align="left">−.29, <italic>p</italic> = .11</td>
+                <td align="left">−.21, <italic>p</italic> = .27</td>
+              </tr>
+              <tr>
+                <td align="left">N2</td>
+                <td align="left"><italic>p</italic> = .034<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left"><italic>p</italic> = .007<xref ref-type="fn" rid="table-5fn2"><sup>**</sup></xref>
+                        </td>
+                <td align="left"><italic>p</italic> = .038<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left">.12, <italic>p</italic> = .53</td>
+                <td align="left">.27, <italic>p</italic> = .14</td>
+                <td align="left">.31, <italic>p</italic> = .10</td>
+              </tr>
+              <tr>
+                <td align="left">P3p</td>
+                <td align="left"><italic>p</italic> = .233</td>
+                <td align="left"><italic>p</italic> = .080</td>
+                <td align="left"><italic>p</italic> = .040<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left">−.40<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>, <italic>p</italic> = .03</td>
+                <td align="left">−.46<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>, <italic>p</italic> = .01</td>
+                <td align="left">−.39<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>, <italic>p</italic> = .03</td>
+              </tr>
+              <tr>
+                <td align="left">P3</td>
+                <td align="left"><italic>p</italic> = .830</td>
+                <td align="left"><italic>p</italic> = .272</td>
+                <td align="left"><italic>p</italic> = .872</td>
+                <td align="left">−.14, <italic>p</italic> = .44</td>
+                <td align="left">−.41<xref ref-type="fn" rid="table-5fn1"><sup>*</sup></xref>, <italic>p</italic> = .02</td>
+                <td align="left">−.11, <italic>p</italic> = .56</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-5fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-5fn1">
+            <label>*</label>
+            <p><italic>p</italic> &lt; .05.</p>
+          </fn>
+          <fn id="table-5fn2">
+            <label>**</label>
+            <p><italic>p</italic> &lt; .01.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>The results from our first analysis showed that the corrected data could be predicted from the uncorrected (i.e., original) data. Since it is inherent to the tools algorithm that it will perform a manipulation on the good data (containing no eye blinks), the level of distortion needed to be tested. The results strongly suggest that the tool does not distort ‘good’ data for any component and that it is safe to use in that respect. Differences were found in absolute amplitudes; however, these were largely systematic across the board and due to the subtraction method of the correction tool. Since this tool will be applied to data used for within and between subjects analysis in a standardized fashion, these differences, if systematic, will not pose any problems to the interpretation of data.</p>
+      <p>The second analysis investigated the level to which the correction distorted the data when correcting eye blinks. Corrected blink data could be predicted from all the corrected noblink data, however, the later components (i.e., P3p, P3) showed more difficulty being predicted whereby the P3 could not be predicted at all. It is possible that the P3, being a slower component that is spread out across more time, could be more prone to error compared to more defined, and faster, components such as the P2. Interestingly, no pattern was found for location. It could be conceived that frontal components, being closer to the eyes, would be more susceptible to any potential distortive effects. A frontal component, such as the N2, however, did not show any distortion and even showed more consistent correlations than the stable early components (i.e., N1, P2).</p>
+      <p>The third analysis investigated whether statistical analyses as they would normally be conducted could be replicated with corrected data with blinks and no blinks. Note that the latter data set consists out of data that would normally be rejected. The results showed that patterns in the data generally remained, with the exception of the P3, lending credence to the notion that the tool corrects trials that would otherwise be rejected.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>To conclude, considering the amount of trials and subjects lost due to eye blinks in developmental neuroscience using psychiatric populations, the Gratton methods seems to correct blinks with minimal levels of distortion considering uncorrected blink data would otherwise be thrown out. Caution should be taken, however, when interpreting later components, such as the P3, which seem more sensitive to distortions. This would make the tool useful, in particular, for the investigation of early perceptual and cognitive processes, such as the attentional modulation of early components occurring before 100 ms (<xref ref-type="bibr" rid="ref-4">Gazzaley, 2011</xref>) and conflict monitoring processes reflected by the N2 (<xref ref-type="bibr" rid="ref-2">Donkers &amp; van Boxtel, 2004</xref>; <xref ref-type="bibr" rid="ref-7">Huster et al., 2012</xref>). A limitation to bear in mind is that the current analysis was performed under certain experimental circumstances (i.e., a <italic>go-nogo</italic> task) and these results would not necessarily generalize to ERP research in general. Compared to other more sophisticated correction methods, the Gratton method requires less data manipulation, computation, and time, which offers considerable advantage. Studies directly comparing eye-blink (not eye movement) correction methodologies suggest regression-based methods are not inferior to ICA and source dipole methods (<xref ref-type="bibr" rid="ref-6">Hoffmann &amp; Falkenstein, 2008</xref>; <xref ref-type="bibr" rid="ref-9">Lins et al., 1993</xref>; <xref ref-type="bibr" rid="ref-12">Wallstrom et al., 2004</xref>). We would therefore recommend this method to be applied for cognitive and visuo-perceptual research investigating relatively early ERP components.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>Authors declare no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Steven Woltering</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Narges Bazargani</xref> performed the experiments, analyzed the data.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Zhong-Xu Liu</xref> conceived and designed the experiments, performed the experiments, analyzed the data.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Bertrand, Perrin &amp; Pernier (1985)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bertrand</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Perrin</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Pernier</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>A theoretical justification of the average reference in topographic evoked potential studies</article-title>
+          <source>Electroencephalography and Clinical Neurophysiology/Evoked Potentials Section</source>
+          <issue>6</issue>
+          <year iso-8601-date="1985">1985</year>
+          <volume>62</volume>
+          <fpage>462</fpage>
+          <lpage>464</lpage>
+          <pub-id pub-id-type="doi">10.1016/0168-5597(85)90058-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Donkers &amp; van Boxtel (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Donkers</surname>
+              <given-names>FC</given-names>
+            </name>
+            <name>
+              <surname>van Boxtel</surname>
+              <given-names>GJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The N2 in go/no-go tasks reflects conflict monitoring not response inhibition</article-title>
+          <source>Brain and Cognition</source>
+          <issue>2</issue>
+          <year iso-8601-date="2004">2004</year>
+          <volume>56</volume>
+          <fpage>165</fpage>
+          <lpage>176</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bandc.2004.04.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Ferree et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferree</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Luu</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Tucker</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>Scalp electrode impedance, infection risk, and EEG data quality</article-title>
+          <source>Clinical Neurophysiology</source>
+          <issue>3</issue>
+          <year iso-8601-date="2001">2001</year>
+          <volume>112</volume>
+          <fpage>536</fpage>
+          <lpage>544</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1388-2457(00)00533-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Gazzaley (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gazzaley</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of early attentional modulation on working memory</article-title>
+          <source>Neuropsychologia</source>
+          <issue>6</issue>
+          <year iso-8601-date="2011">2011</year>
+          <volume>49</volume>
+          <fpage>1410</fpage>
+          <lpage>1424</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2010.12.022</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Gratton, Coles &amp; Donchin (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gratton</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Coles</surname>
+              <given-names>MGH</given-names>
+            </name>
+            <name>
+              <surname>Donchin</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>A new method for off-line removal of ocular artifacts</article-title>
+          <source>Electroencephalography and Clinical Neurophysiology</source>
+          <year iso-8601-date="1983">1983</year>
+          <volume>55</volume>
+          <fpage>468</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="doi">10.1016/0013-4694(83)90135-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Hoffmann &amp; Falkenstein (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffmann</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Falkenstein</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The correction of eye blink artefacts in the EEG: a comparison of two prominent methods</article-title>
+          <source>PLoS ONE</source>
+          <issue>8</issue>
+          <year iso-8601-date="2008">2008</year>
+          <volume>3</volume>
+          <elocation-id>e3004</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0003004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Huster et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huster</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Enriquez-Geppert</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lavallee</surname>
+              <given-names>CF</given-names>
+            </name>
+            <name>
+              <surname>Falkenstein</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Herrmann</surname>
+              <given-names>CS</given-names>
+            </name>
+          </person-group>
+          <article-title>Electroencephalography of response inhibition tasks: functional networks and cognitive contributions</article-title>
+          <source>International Journal of Psychophysiology</source>
+          <issue>3</issue>
+          <year iso-8601-date="2012">2012</year>
+          <volume>87</volume>
+          <fpage>217</fpage>
+          <lpage>233</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijpsycho.2012.08.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Kappenman &amp; Luck (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kappenman</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Luck</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The effects of electrode impedance on data quality and statistical significance in ERP recordings</article-title>
+          <source>Psychophysiology</source>
+          <issue>5</issue>
+          <year iso-8601-date="2010">2010</year>
+          <volume>47</volume>
+          <fpage>888</fpage>
+          <lpage>904</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Lins et al. (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lins</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Picton</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Berg</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Scherg</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Ocular artifacts in EEG and event-related potentials I: scalp topography</article-title>
+          <source>Brain Topography</source>
+          <issue>1</issue>
+          <year iso-8601-date="1993">1993</year>
+          <volume>6</volume>
+          <fpage>51</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01234127</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Tucker et al. (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tucker</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Liotti</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Potts</surname>
+              <given-names>GF</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Posner</surname>
+              <given-names>MI</given-names>
+            </name>
+          </person-group>
+          <article-title>Spatiotemporal analysis of brain electrical fields</article-title>
+          <source>Human Brain Mapping</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>1</volume>
+          <fpage>134</fpage>
+          <lpage>152</lpage>
+          <pub-id pub-id-type="doi">10.1002/hbm.460010206</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Verleger (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verleger</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>The instruction to refrain from blinking affects auditory P3 and N1 amplitudes</article-title>
+          <source>Electroencephalography and Clinical Neurophysiology</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>78</volume>
+          <fpage>240</fpage>
+          <lpage>251</lpage>
+          <pub-id pub-id-type="doi">10.1016/0013-4694(91)90039-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Wallstrom et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wallstrom</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Kass</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Cohn</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Fox</surname>
+              <given-names>NA</given-names>
+            </name>
+          </person-group>
+          <article-title>Automatic correction of ocular artifacts in the EEG: a comparison of regression-based and component-based methods</article-title>
+          <source>International Journal of Psychophysiology</source>
+          <issue>2</issue>
+          <year iso-8601-date="2004">2004</year>
+          <volume>53</volume>
+          <fpage>105</fpage>
+          <lpage>119</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijpsycho.2004.03.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Woltering et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Woltering</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Granic</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lamm</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>MD</given-names>
+            </name>
+          </person-group>
+          <article-title>Neural changes associated with treatment outcome in children with externalizing problems</article-title>
+          <source>Biological Psychiatry</source>
+          <issue>9</issue>
+          <year iso-8601-date="2011">2011</year>
+          <volume>70</volume>
+          <fpage>873</fpage>
+          <lpage>879</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biopsych.2011.05.029</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

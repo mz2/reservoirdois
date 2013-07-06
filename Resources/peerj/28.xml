@@ -1,1147 +1,1229 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">28</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.28</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Agricultural Science</subject>
+          <subject>Biotechnology</subject>
+          <subject>Genetics</subject>
+          <subject>Molecular Biology</subject>
+          <subject>Plant Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reduced expression of glycolate oxidase leads to enhanced disease resistance in rice</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Chern</surname>
+            <given-names>Mawsheng</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Bai</surname>
+            <given-names>Wei</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Xuewei</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Canlas</surname>
+            <given-names>Patrick E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Ronald</surname>
+            <given-names>Pamela C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Plant Pathology</institution>, <addr-line>University of California Davis</addr-line>, <addr-line>California</addr-line>, <country>USA</country></aff>
+        <aff id="aff-2"><label>2</label><institution>College of Life Sciences</institution>, <addr-line>Inner Mongolia Agricultural University</addr-line>, <addr-line>Huhhot</addr-line>, <country>China</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Rice Research Institute</institution>, <addr-line>Sichuan Agricultural University, Chengdu</addr-line>, <addr-line>Sichuan</addr-line>, <country>China</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Martin</surname>
+            <given-names>Gregory</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>pcronald@ucdavis.edu</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e28</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-15">
+          <day>15</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-11">
+          <day>11</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Chern et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Chern et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/28"/>
+      <abstract>
+        <p>Glycolate oxidase (GLO) is a key enzyme in photorespiration, catalyzing the oxidation of glycolate to glyoxylate. Arabidopsis GLO is required for nonhost defense responses to <italic>Pseudomonas syringae</italic> and for tobacco <italic>Pto/AvrPto</italic>-mediated defense responses. We previously described identification of rice GLO1 that interacts with a glutaredoxin protein, which in turn interacts with TGA transcription factors. TGA transcription factors are well known to participate in NPR1/NH1-mediated defense signaling, which is crucial to systemic acquired resistance in plants. Here we demonstrate that reduction of rice <italic>GLO1</italic> expression leads to enhanced resistance to <italic>Xanthomonas oryzae</italic> pv <italic>oryzae (Xoo)</italic>. Constitutive silencing of <italic>GLO1</italic> leads to programmed cell death, resulting in a lesion-mimic phenotype and lethality or reduced plant growth and development, consistent with previous reports. Inducible silencing of <italic>GLO1</italic>, employing a dexamethasone-GVG (Gal4 DNA binding domain-VP16 activation domain-glucocorticoid receptor fusion) inducible system, alleviates these detrimental effects. Silencing of <italic>GLO1</italic> results in enhanced resistance to <italic>Xoo</italic>, increased expression of defense regulators <italic>NH1, NH3</italic>, and <italic>WRKY45</italic>, and activation of <italic>PR1</italic> expression.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Photorespiration</kwd>
+        <kwd>Glycolate oxidase</kwd>
+        <kwd>Disease resistance</kwd>
+        <kwd>NH1</kwd>
+        <kwd>NPR1</kwd>
+        <kwd>Glutaredoxin</kwd>
+        <kwd>Hydrogen peroxide</kwd>
+        <kwd>WRKY45</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>NRI</funding-source>
+          <award-id>#2004-63560416640</award-id>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>GM</funding-source>
+          <award-id>55962</award-id>
+        </award-group>
+        <funding-statement>This work was supported by grants from the United States Department of Agriculture, NRI (#2004-63560416640), and the National Institutes of Health (GM 55962) to PCR. WB was partly supported by a fellowship from the State Scholarship Fund of China. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Photorespiration, which is metabolically coupled with photosynthetic <named-content content-type="chemical-compound">CO<sub>2</sub>
+            </named-content> assimilation (the Calvin cycle), is an intensively studied topic in plant biology. Glycolate oxidase (GLO) is a key enzyme in photorespiration, catalyzing the oxidation of glycolate to glyoxylate with an equal molar amount of <named-content content-type="chemical-compound">H<sub>2</sub>O<sub>2</sub>
+            </named-content> produced (<xref ref-type="bibr" rid="ref-11">Foyer et al., 2009</xref>). Photorespiration counters the carbon fixation reaction of the Calvin cycle in term of its release of <named-content content-type="chemical-compound">CO<sub>2</sub>
+            </named-content>and can account for more than 20% loss of net <named-content content-type="chemical-compound">CO<sub>2</sub>
+            </named-content> assimilation in C3 plants (<xref ref-type="bibr" rid="ref-16">Peterson, 1983</xref>; <xref ref-type="bibr" rid="ref-21">Sharkey, 1988</xref>). However, photorespiration is believed to play various roles in plants despite this negative impact. In addition to the ancillary metabolic role in converting 2-phosphoglycolate to 3-phosphoglycerate as a carbon recovery system (<xref ref-type="bibr" rid="ref-4">Boldt et al., 2005</xref>), photorespiration has been suggested to play a role in amino acid metabolism (<xref ref-type="bibr" rid="ref-13">Keys, 2006</xref>), nitrate reduction (<xref ref-type="bibr" rid="ref-17">Rachmilevitch, Cousins &amp; Bloom, 2004</xref>), stress resistance (<xref ref-type="bibr" rid="ref-14">Moreno, Martin &amp; Castresana, 2005</xref>), and signal transduction (<xref ref-type="bibr" rid="ref-23">Verslues, Kim &amp; Zhu, 2007</xref>).</p>
+      <p>The hydrogen peroxide produced by GLO during photorespiration can perturb the redox states of leaf antioxidant pools, leading to modified gene expression (<xref ref-type="bibr" rid="ref-15">Noctor et al., 2002</xref>). In particular, most attention has focused on the potentially damaging consequences of enhanced chloroplastic production of hydrogen peroxide in stress conditions, such as drought. It has been reported that high glycolate oxidase activity is required for survival of maize in normal air because a maize mutation in the <italic>glycolate oxidase 1</italic> gene conditioned a seedling lethal phenotype (<xref ref-type="bibr" rid="ref-26">Zelitch et al., 2009</xref>).</p>
+      <p>Hydrogen peroxide is thought to be a signaling molecule that activates plant defense response (<xref ref-type="bibr" rid="ref-5">Chamnongpol et al., 1998</xref>). For many years, NADPH oxidases and peroxidases were believed to be the major enzymes that produce hydrogen peroxide directly associated with hypersensitive responses (<xref ref-type="bibr" rid="ref-3">Bestwick et al., 1997</xref>), an acute programmed cell death response induced by pathogen infection. However, suppression of <italic>GLO</italic> genes may lead to lower production of hydrogen peroxide. <xref ref-type="bibr" rid="ref-18">Rojas et al. (2012)</xref> recently reported that GLO is required in the elicitation of the hypersensitive response observed during Pto-AvrPto-mediated and INF1 (a pathogen associated molecular pattern, or PAMP)-mediated defense responses in <italic>Nicotiana benthamiana</italic> and also in nonhost resistance to <italic>Pseudomonas syringae</italic>. The positive role of GLO in nonhost defense responses was also observed in Arabidopsis and was shown to be independent of NADPH oxidase activity (<xref ref-type="bibr" rid="ref-18">Rojas et al., 2012</xref>; <xref ref-type="bibr" rid="ref-19">Rojas &amp; Mysore, 2012</xref>).</p>
+      <p>Four <italic>GLO</italic> genes are present in the rice genome and five GLO isozymes are expressed in rice leaves (<xref ref-type="bibr" rid="ref-27">Zhang et al., 2012</xref>). Zhang et al.reported that <italic>GLO1</italic> and <italic>GLO4</italic> are predominantly expressed in rice leaves, while <italic>GLO3</italic> and <italic>GLO5</italic> are mainly expressed in the root. When either <italic>GLO1</italic> or <italic>GLO4</italic> was silenced, expression of both genes were simultaneously suppressed and most of the GLO activities were lost in leaves, suggesting that GLO1 and GLO4 are the major contributors to the GLO activity in rice and their expression is tightly coordinated (<xref ref-type="bibr" rid="ref-27">Zhang et al., 2012</xref>). Two of the five isozymes are shown to be homo-oligomers composed of either GLO1 or GLO4 and the other three are hetero-oligomers composed of GLO1 and GLO4, implicating potential novel roles for GLO in rice (<xref ref-type="bibr" rid="ref-27">Zhang et al., 2012</xref>).</p>
+      <p>Rice GLO1 was identified among the 100 interacting proteins constituting a rice interactome involved in biotic and abiotic stresses (<xref ref-type="bibr" rid="ref-20">Seo et al., 2011</xref>). GLO1 interacts with a glutaredoxin protein, which interacts with TGA transcription factors. TGA transcription factors are well-known mediators of NPR1-regulated systemic acquired resistance (SAR). Rice NPR1-like protein NH1 interacts with TGA transcription factors and the “Negative Regulator of Disease Resistance” protein (NRR), which compromises resistance to <italic>Xanthomonas oryzae</italic> pv. <italic>oryzae</italic> (<italic>Xoo</italic>) when over-expressed in rice (<xref ref-type="bibr" rid="ref-7">Chern et al., 2005a</xref>; <xref ref-type="bibr" rid="ref-8">Chern et al., 2005b</xref>; <xref ref-type="bibr" rid="ref-20">Seo et al., 2011</xref>). NH1 and NH3 are key regulators of defense response in rice that, when expressed at elevated levels, enhance resistance to <italic>Xoo</italic>, the causal agent of the rice bacterial blight disease (<xref ref-type="bibr" rid="ref-8">Chern et al., 2005b</xref>; <xref ref-type="bibr" rid="ref-2">Bai et al., 2011</xref>). NH1 and NH3 mediate benzothiadiazole (BTH; a plant defense activator) induction of defense response in rice (<xref ref-type="bibr" rid="ref-8">Chern et al., 2005b</xref>; <xref ref-type="bibr" rid="ref-2">Bai et al., 2011</xref>). BTH also induces expression of the WRKY45 transcription factor, which plays a crucial role in BTH-inducible resistance to <italic>Magnaporthe grisea</italic>, the causal agent of the rice blast disease (<xref ref-type="bibr" rid="ref-22">Shimono et al., 2007</xref>).</p>
+      <p>These reports and observations led us to hypothesize that GLO1 may be involved in response to biotic stress in rice. To test if GLO1 is actually involved in disease resistance response, we silenced the <italic>GLO1</italic> gene in rice, using either a constitutive or an inducible promoter, and challenged the transgenic rice plants with Xoo. We found that transgenic rice silenced for <italic>GLO1</italic> are more resistant to <italic>Xoo</italic>. Real time RT–PCR results confirm silence of the <italic>GLO1</italic> gene and activation of defense associated genes.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Plant materials</title>
+        <p>The Liaogeng (LG) and Kitaake japonica rice (<italic>Oryza sativa</italic> L) cultivars were used for this study. LG and Kitaake rice are both susceptible to the Philippine <italic>Xoo</italic> strain PXO99. Rice plants were grown in green houses at UC Davis at 27–32 °C under natural sunlight. For <italic>Xoo</italic> inoculation, 5–6 weeks old plants were transferred to a growth chamber and inoculated with PXO99 by the scissor-dip method (<xref ref-type="bibr" rid="ref-12">Kauffman et al., 1973</xref>). <italic>Xoo</italic> population measurements were conducted as described before (<xref ref-type="bibr" rid="ref-8">Chern et al., 2005b</xref>). Growth chambers were set at 28 °C with a day/night time cycle of 14 h/10 h.</p>
+      </sec>
+      <sec>
+        <title>Gene isolation and plasmid construction</title>
+        <p>The rice <italic>GLO1</italic> gene was obtained from a yeast two-hybrid screen (<xref ref-type="bibr" rid="ref-20">Seo et al., 2011</xref>). The first 800 nt of the cDNA clone (named GIF15), which contained a full-length <italic>GLO1</italic> cDNA, was cut out from the pAD-Gal4 prey vector using EcoRI at the 5’ end and PstI internal in the <italic>GLO1</italic> cDNA. This excised fragment (ca. 800 bp) was purified and cloned into the PstI site in the pBlueScript II SK- vector by a three-piece ligation, together with the Xa21 intron (ca. 840 bp) precut with EcoRI at both ends. The Xa21 intron was used as a spacer to stabilize the construct. The Xa21 intron was originally amplified with primers Xa21int-1 (5’AAGTCGACGAATTCCAGGTCAGCAAGTCCTTCC) and Xa21int-2 (5’AAGTCGACGAATTCATACTCTGTTTGAGCAGGA) and cloned into pBlueScript II SK-. The resulting clone was named dsGLO1/SK. The dsGLO1 insert was excised with BamHI and KpnI and subcloned into the Ubi-C1300 binary vector (<xref ref-type="bibr" rid="ref-9">Chern et al., 2001</xref>), resulting in plasmid Ubi-dsGLO1.</p>
+        <p>For the dexamethasone (DEX)-inducible, GVG (Gal4 DNA binding domain-VP16 activation domain-glucocorticoid receptor fusion)-driven construct (<xref ref-type="bibr" rid="ref-1">Aoyama &amp; Chua, 1997</xref>), the same dsGLO1 insert was excised with XhoI and SpeI and cloned into the TA7002 binary vector precut with the same enzymes, yielding construct GVG-dsGLO1.</p>
+      </sec>
+      <sec>
+        <title>Treatment with a glucocorticoid</title>
+        <p>For induction, GVG-dsGLO1 and control Kitaake rice plants are foliar-sprayed with <named-content content-type="chemical-compound">100 µM</named-content> DEX one day before leaf tissue collection or two days before Xoo inoculation. DEX was first dissolved in 1 mL of DMSO (dimethyl sulfoxide) then dissolved in 150 mL 0.05% Tween 20.</p>
+      </sec>
+      <sec>
+        <title>RNA extraction, RNA blot analysis and real time RT–PCR</title>
+        <p>Leaf samples were frozen and kept at −80 °C until use. Total RNA was extracted using Trizol reagent (Sigma) with 1 mL of Trizol per half leaf. RNA was precipitated with isopropanol, rinsed with 70% ethanol, and air-dried. RNA was resuspended in <named-content content-type="chemical-compound">90 µL</named-content> of RNase-free water and digested with DNase I in a volume of <named-content content-type="chemical-compound">100 µL</named-content>. RNA was further extracted with <named-content content-type="chemical-compound">300 µL</named-content> of Trizol to remove DNase I and purified with NucleoSpin RNA II columns (E&amp;K Scientific). cDNA was synthesized using <named-content content-type="chemical-compound">3–5 µg</named-content> of total RNA. Synthesized cDNA was treated with RNase H and RNase A and purified with a DNA clean &amp; concentrator-5 kit (Zymo Research) before use.</p>
+        <p>RNA blot analysis followed the procedure described before (<xref ref-type="bibr" rid="ref-9">Chern et al., 2001</xref>). The 3’ fragment of GLO1 cDNA beyond the region used for silencing (see above) was used as probe in the RNA blot analysis of GLO1. Quantitative RT–PCR was carried out as described before (<xref ref-type="bibr" rid="ref-2">Bai et al., 2011</xref>). Real time PCR reactions were performed on a Bio-Rad CFX96 Real-Time System coupled to a C1000 Thermal Cycler (Bio-Rad). The actin transcript level was used as the reference in real time RT–PCR experiments. Rice actin real time PCR used primers Actin-QF (5’CAGCCACACTGTCCCCATCTA) and Actin-QR (5’AGCAAGGTCGAGACGAAGGA). For quantification of gene expression of individual GLO genes, gene-specific primers were designed for each GLO gene. GLO1 used primers GLO1-RT4 (5’CTCCTGCCTTGTGAACCCTG) and GLO1-RT5 (5’GTGCAGAAACTCAAAGATCTCTC). GLO2 used primers GLO2-RT4 (CTCTGCTCAAGTCATCACCA) and GLO2-RT5 (CCATTCTTCTTGATTGCATGGCT). GLO3 used primers GLO3-RT4 (5’CCATCTTCGCGCTGAGCTAG) and GLO3-RT5 (5’TGCTTGGTCATCACCCTCATC). GLO4 used GLO4-RT4 (TGTCCTCCATTTCTGCACTAC) and GLO4-RT5 (GGCATTGTTTTGATGGTTTGTGTG). NH1 RT PCR used primers NH1-RT3 (5’CTGATCCGGTTTCCCTCGGA) and NH1-RT4 (5’GACCTGTCATTCTCCTCCTTG). NH3 RT–PCR used NH3-RT3 (5’TGCTACACCTCTGCTGGTTGA) and NH3-RT4 (5’GACCAGCAAACTCTTGAGTTGAG). PR1a RT–PCR used primers PR1a-C1 (5’CGTCTTCATCACCTGCAACT) and PR1a-C2 (5’TGTCCATACATGCATAAACACG). WRKY45 RT–PCR used primers WK45-Q1 (5’GGACCAGGGCGATGTCACGT) and WK45-Q2 (5’TGTCCATCCATGATTCTTCGGTGA).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Constitutive <italic>GLO1</italic> silencing leads to programmed cell death and reduced plant growth</title>
+        <p>To investigate the possible involvement of glycolate oxidase in rice development and immunity, we devised to reduce the expression of the GLO1 (Os03g0786100) gene using the RNA interference (RNAi) approach. We used the first 800 bp of the <italic>GLO1</italic> cDNA as the target to generate a construct with the intron fragment of the <italic>Xa21</italic> gene used as a spacer between two head-to head fragments of GLO1 cDNA that leads to production of an RNA forming a hairpin structure. This construct was placed under control of the strong, constitutive maize <italic>Ubi-1</italic> promoter (resulting construct Ubi-dsGLO1). This construct was used to transform rice cultivar Liaogeng (LG). We obtained many green, hygromycin-resistant calli that carried the Ubi-dsGLO1 transgene. Approximately 20 transgenic plantlets were regenerated. However, upon transfer to greenhouse, almost all of the transgenic seedlings became sick and their growth stalled. Within a few weeks, most died and no seeds were obtained. These results indicate that silencing the <italic>GLO1</italic> gene in rice is lethal under green house conditions (strong light). Only two lines eventually grew to mature plants and set fertile seeds.</p>
+        <p>We observed lesion mimic phenotypes (results of programmed cell death) in the progeny of one of the two surviving lines that carry the Ubi-dsGLO1 construct. As shown in <xref ref-type="fig" rid="fig-1">Fig. 1A</xref>, leaves of the progeny lines of Ubi-dsGLO1 line #36 developed tiny lesion mimic spots, characteristic of activation of defense response in plants (<xref ref-type="bibr" rid="ref-8">Chern et al., 2005b</xref>). The wild type LG plants grown together under the same conditions did not develop these lesion mimic spots.</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.28/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Lesion mimic phenotype and reduced plant growth of Ubi-dsGLO1 plants.</title>
+            <p>(A) Lesion mimic phenotype. Two leaves from <italic>GLO1</italic>-silenced (Ubi-dsGLO1 line #36) and two leaves from wild type Liaogeng plants. (B) Reduced plant growth. Three weeks old plants of <italic>GLO1</italic>-silenced and wild type.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/28/fig-1.png"/>
+        </fig>
+        <p>We also observed a reduced plant growth phenotype in the Ubi-dsGLO1 progeny lines. As shown in <xref ref-type="fig" rid="fig-1">Fig. 1B</xref>, three-week old seedlings of progeny of the Ubi-dsGLO1 #36 grow obviously smaller compared to the wild type plants of the same age when grown in a greenhouse together. Mature plants of Ubi-dsGLO1 plants also appear modestly smaller than wild type plants (not shown). This effect on plant growth has been observed repeatedly and consistently. Thus, constitutive silencing of <italic>GLO1</italic> appears to cause programmed cell death and reduced plant growth and development. These results are consistent with previous reports showing that <italic>GLO</italic> anti-sense rice grown under normal air developed growth retardation (<xref ref-type="bibr" rid="ref-24">Xu et al., 2009</xref>).</p>
+      </sec>
+      <sec>
+        <title>Constitutive <italic>GLO1</italic> silencing results in enhanced resistance to <italic>Xoo</italic> and elevated <italic>PR</italic> gene expression</title>
+        <p>To test the effects of <italic>GLO</italic> silencing on defense response, these two surviving lines were challenged with <italic>Xoo</italic> when they reached 6 weeks old. Rice cultivar LG is susceptible to <italic>Xoo</italic> Philippines race 6 (PXO99). <xref ref-type="fig" rid="fig-2">Figure 2A</xref> shows two typical leaves two weeks after inoculation. Compared to wild type (WT), which developed lesions up to 10 cm, inoculated leaves of line #36 of Ubi-dsGLO1 developed lesions only 1–2 cm, indicating that this silencing line may harbor enhanced resistance to <italic>Xoo</italic>. The enhanced resistance phenotype was confirmed in the second generation when progeny of this line were inoculated with <italic>Xoo</italic>. <italic>Xoo</italic> populations of wild type, null segregants, and three lines of progeny carrying the transgene were determined. <xref ref-type="fig" rid="fig-2">Figure 2B</xref> shows that progeny carrying the Ubi-dsGLO1 construct harbored significantly lower <italic>Xoo</italic> population (by about 8 × lower) compared to WT and null segregants. These results are consistent with the above observation that the Ubi-dsGLO1 plants possess enhanced resistance to Xoo, developing shorter lesions than wild type plants.</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.28/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Enhanced disease resistance phenotype of Ubi-dsGLO1 plants.</title>
+            <p>(A) <italic>Xoo</italic> induced disease lesions. Two leaves of <italic>GLO1</italic>-silenced (Ubi-dsGLO1 line #36) and wild type (WT) are displayed 2 weeks after <italic>Xoo</italic> inoculation. (B) <italic>Xoo</italic> populations. <italic>Xoo</italic> cells were extracted two weeks after inoculation and plated on medium containing 20 mg/L cephalexin. The bacterial population in each leaf was counted. Each bar represents the mean and standard deviation of three leaves.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/28/fig-2.png"/>
+        </fig>
+        <p>We also analyzed the segregation of the transgene and the enhanced resistance phenotype among progeny of Ubi-dsGLO1 line #36. The upper panel of <xref ref-type="fig" rid="fig-3">Fig. 3</xref> shows that the enhanced resistance phenotype completely correlates with the presence of the transgene. All of the progeny that contain the transgene (filled bars) are resistant to <italic>Xoo</italic> and all null segregants (grey bars) behave like wild type (open bar) remaining susceptible to <italic>Xoo</italic>. We carried out RNA blot analysis to assess the expression levels of the <italic>GLO1</italic> gene and <italic>PR</italic> genes. The bottom panel of <xref ref-type="fig" rid="fig-3">Fig. 3</xref> shows that in the segregating population, the expression levels of <italic>GLO1</italic> are greatly reduced in the presence of the Ubi-dsGLO1 construct. The null segregants express the <italic>GLO1</italic> gene at levels similar to the WT. <italic>PR1</italic> is expressed at very low levels in WT and the null segregants, but expressed at elevated levels in the transgenic progeny lines. <italic>Peroxidase</italic> (<italic>POX</italic>22.3; <xref ref-type="bibr" rid="ref-10">Chittoor, Leach &amp; White, 1997</xref>) RNA level, which is induced by Xoo infection, is also slightly elevated in the <italic>GLO1</italic>-silenced lines. <italic>PBZ1</italic> (probenazole-inducible) and <italic>PAL</italic> (phenylalanine ammonium lyase) expression levels were little affected in this experiment. These Northern results further show that Ubi-dsGLO1 line #36 carries reduced <italic>GLO1</italic> expression and elevated <italic>PR1</italic> and <italic>POX</italic> expression, confirming the activation of defense response in <italic>GLO1</italic>-silenced lines.</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.28/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Segregation of resistance phenotype and RNA levels of <italic>GLO1</italic> and defense-related genes.</title>
+            <p>Each plant (progeny of Ubi-dsGLO1 line #36) was genotyped for the presence of the Ubi-dsGLO1 transgene. Those containing the transgene are labeled Ubi-dsGLO1 (filled bars) and those missing the transgene labeled null segregants (grey bars). The <italic>Xoo</italic> induced lesion length of segregating progeny (labeled #1 to 11 under each bar) of Ubi-dsGLO1 and wild type LG (open bar) is plotted in the upper panel. The RNA levels detected by Northern analysis are displayed at the lower panel. The same progeny plant was used for analyses in the top panel and the bottom panel at the corresponding location. Each bar represents the mean and standard deviation of at least three leaves at the top panel.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/28/fig-3.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Inducible silencing of <italic>GLO1</italic> achieves enhanced disease resistance with modest effects on plant growth</title>
+        <p>Constitutive silencing of <italic>GLO1</italic> results in activation of defense response and affects plant development. To alleviate these detrimental effects of constitutive silencing, we used an inducible promoter to drive the silencing construct. We employed a DEX-inducible, GVG-driven system (See Materials and Methods; <xref ref-type="bibr" rid="ref-1">Aoyama &amp; Chua, 1997</xref>). The GLO1 silencing construct was placed behind a synthetic promoter whose expression is controlled by the GVG fusion protein, which requires activation by a glucocorticoid, such as DEX. This construct is named GVG-dsGLO1.</p>
+        <p>We generated approximately ten independent T0 lines harboring this GVG-dsGLO1 transgene. <xref ref-type="fig" rid="fig-4">Figure 4</xref> shows the growth of two independent (#3 and #8) GVG-dsGLO1 lines compared to a wild type control (Kitaake parent). Progeny of GVG-dsGLO1 line #3 show little difference from the control plants while progeny plants of line #8 show a moderate growth retardation phenotype. In addition, no lesion mimic phenotypes were observed in these transgenic lines. These results suggest that enhanced resistance may be achieved with little to no detrimental effects on growth by using an inducible promoter to control expression of the <italic>GLO1</italic> silencing construct.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.28/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Morphology of three weeks old plants of GVG-dsGLO1 transgenics and wild type Kitaake control.</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/28/fig-4.png"/>
+        </fig>
+        <p>To test for enhanced resistance to Xoo, T1 progeny, instead of T0, plants were treated with DEX to avoid potential loss of transgenic lines due to detrimental effects after induction. T1 plants were treated with DEX and two days later inoculated with PXO99. <xref ref-type="fig" rid="fig-5">Figure 5A</xref> shows leaves collected two weeks after <italic>Xoo</italic> inoculation and <xref ref-type="fig" rid="fig-5">Fig. 5B</xref> shows segregation results of line #3. Wild type Kitaake (labeled WT) developed long (about 10 cm) disease lesion. Most of GVG-dsGLO1 line #3 transgenic plants developed shorter lesions whereas null segregants displayed long disease lesions. A T-test statistical analysis using all data of the line #3 transgenic progeny plants (group 1, <italic>n</italic> = 46, filled bars in <xref ref-type="fig" rid="fig-5">Fig. 5B</xref>) compared with all data of the null segregants (group 2, <italic>n</italic> = 22, grey bars in <xref ref-type="fig" rid="fig-5">Fig. 5B</xref>) gave a P value of less than 0.0001, demonstrating that the difference between the two groups is extremely statistically significant. The mean of group 1 is 4.8 cm (<italic>S</italic>  <italic>D</italic> = 3.6; <named-content content-type="chemical-compound">SEM = 0.5</named-content>) while that of group 2 is 11.7 cm (<italic>S</italic>  <italic>D</italic> = 2.1; <named-content content-type="chemical-compound">SEM = 0.5</named-content>). These results suggest that introduction of the GVG-dsGLO1 construct results in enhanced resistance to <italic>Xoo</italic>. The uneven lesion length distribution of the GVG-dsGLO1 progeny in <xref ref-type="fig" rid="fig-5">Fig. 5B</xref> is likely due to uneven induction of silencing after DEX treatment. Overall, these results show that enhanced disease resistance can be achieved by silencing the <italic>GLO1</italic> gene in a controlled manner.</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.28/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Resistance in GVG-dsGLO1 transgenic plants.</title>
+            <p>All GVG-dsGLO1 plants plus null segregants and wild type control plants were sprayed with DEX two days before Xoo inoculation. (A) Two leaves each from GVG-dsGLO1 lines #3 and #8 and one leaf from wild type are displayed two weeks after <italic>Xoo</italic> inoculation. (B) Quantitative lesion lengths were measured for a segregating population of GVG-dsGLO1 line #3. Individual plant was genotyped for the presence of the transgene. Those containing the transgene are labeled GVG-dsGLO1 (filled bars) and those missing the transgene labeled null segregants (grey bars). Each bar represents the mean and standard deviation of three or more replicate leaves. A T-test analysis yielded a P value of &lt; 0.0001 between the group of Ubi-dsGLO1 progeny and that of null segregants.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/28/fig-5.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Silence of <italic>GLO1</italic> leads to increased expression of defense regulators <italic>NH1, NH3</italic>, and <italic>WRKY45</italic></title>
+        <p>To further characterize these <italic>GLO1</italic> silencing lines, real time RT–PCRs were performed to look at expression of <italic>GLO</italic> genes, <italic>P</italic>R1, and defense regulators <italic>NH1</italic>, <italic>NH3</italic>, and WRKY45 genes. Tissues of the GVG-dsGLO1 lines were harvested 24 h post DEX treatment. As shown in <xref ref-type="fig" rid="fig-6">Fig. 6A</xref>, the level of <italic>GLO1</italic> expression in Ubi-dsGLO1 line #36 is (open bar) reduced by 16.4-fold compared to the wild type control (the first filled bar). The <italic>GLO1</italic> levels in GVG-dsGLO1 line #3 (two progeny lines are included, grey bars) are reduced by 6- to 7-fold compared to wild type plants (the second filled bar). Rice GLO1 cDNA shares the highest homology to GLO3 and the second highest to GLO4 at the nucleotide level. A nucleotide lineup is presented in <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>. To assess possible effects on the RNA expression of other GLO genes, we also tested rice GLO2 (Os04g0623500), <italic>GLO3</italic> (Os07g0152900), and GLO4 (Os07g0616500) for their RNA expression levels. For direct comparison, results of all four GLO genes are combined in <xref ref-type="fig" rid="fig-6">Fig. 6A</xref>. GLO2 is expressed at the lowest level of the four rice GLO genes in leaves. Surprisingly, rice <italic>GLO3</italic> is expressed at the second highest level – at a level similar to that of GLO1 in wild type rice. The RNA level of GLO3 is reduced by approximately 2-fold in the Ubi-dsGLO1 line (open bar) and only slightly reduced in the GVG-dsGLO1 lines (two grey bars compared to the filled bar immediately to the left). The RNA level of GLO4 is much lower than those of GLO1 and GLO3 genes (by 11- to 14-fold) in wild type rice measured in our real time PCR experiments. The RNA level of GLO4 in Ubi-dsGLO1 line is moderately reduced by approximately 3-fold compared to wild type, but those of GVG-dsGLO1 lines are unaffected. In summary, the RNA levels of GLO1 are greatly reduced in both Ubi-dsGLO1 and GVG-dsGLO1 lines, while those of GLO3 and GLO4 are modestly reduced in the Ubi-dsGLO1 line but not in the GVG-dsGLO1 lines.</p>
+        <fig id="fig-6">
+          <object-id pub-id-type="doi">10.7717/peerj.28/fig-6</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Real time RT–PCR of constitutive (Ubi-dsGLO1 line #36, open bars) and inducible (two progeny lines of GVG-dsGLO1 line #3, grey bars) silencing lines and their respective controls (LG and Kitaake).</title>
+            <p>The GVG-dsGLO1 and Kitaake plants were sprayed with DEX one day before collection of leaf tissues for RNA extraction. (Ubi-dsGLO1 and its control were not treated with DEX.) In each panel, the first two bars represent data of Ubi-dsGLO1 and LG control and the next three bars represent data of GVG-dsGLO1 and Kitaake control. (A) Specific primers targeting each of <italic>GLO1, GLO2, GLO3,</italic> and <italic>GLO4</italic> were used for the four rice GLO genes to determine their RNA levels. (B) RNA levels of defense regulators <italic>NH1</italic>, <italic>NH3,</italic> and WRKY45, and defense marker gene PR1a were measured. Results were normalized to actin expression levels. Each bar represents the mean and standard deviation of three replicates.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/28/fig-6.png"/>
+        </fig>
+        <p><xref ref-type="fig" rid="fig-6">Figure 6B</xref> presents the real time PCR results of defense related genes. The <italic>PR1a</italic> level in Ubi-dsGLO1 is elevated 55-fold in Ubi-dsGLO1 compared with wild type lines. The <italic>PR1a</italic> levels in GVG-dsGLO1 are only modestly elevated by 2- to 3-fold compared to wild type plants. The PR1a level in significantly elevated one day after the DEX treatment in kitaake plants compared to untreated Liaogeng plants; this may be due to the DEX treatment itself or may represent a difference between the two rice cultivars. Nevertheless, these real-time RT–PCR results are consistent with the Northern results shown above, confirming that, when <italic>GLO</italic> expression levels are reduced in Ubi-dsGLO1 plants, <italic>PR</italic>1a expression is greatly activated.</p>
+        <p>We also tested the expression levels of three key regulator genes (<italic>NH1</italic>, <italic>NH3</italic>, and WRKY45) of rice defense responses. Similar to Arabidopsis NPR1, NH1 interacts with TGA transcription factors, acts as a transcriptional co-activator, regulates <italic>PR</italic> gene expression, and contributes to innate immunity in rice (<xref ref-type="bibr" rid="ref-8">Chern et al., 2005b</xref>; <xref ref-type="bibr" rid="ref-6">Chern et al., 2012</xref>). NH3 contributes to BTH-inducible activation of rice defense response (<xref ref-type="bibr" rid="ref-2">Bai et al., 2011</xref>). WRKY45 is inducible by BTH-treatment and plays a crucial role in the BTH-inducible resistance to M. grisea (<xref ref-type="bibr" rid="ref-22">Shimono et al., 2007</xref>). The <italic>NH1</italic> level in Ubi-dsGLO1 (open bar) is greatly elevated by 8.5-fold compared to wild type (the first filled bar). The <italic>NH1</italic> levels in GVG-dsGLO1 (grey bars) are modestly elevated by 1.6- to 1.9-fold compared to wild type plants (the second filled bar) after DEX treatment. DEX treatment may also increase NH1 level in wild type. The <italic>NH3</italic> level in Ubi-dsGLO1 (open bar) is modestly increased by 2-fold compared to wild type. The <italic>NH3</italic> levels in GVG-dsGLO1 plants are increased by 2.6- to 9-fold compared to wild type. The WRKY45 RNA level in Ubi-dsGLO1 is highly elevated by 22-fold compared to wild type. The WRKY45 levels in GVG-dsGLO1 are also greatly elevated by approximately 4- to 12-fold compared to the DEX-treated wild type. The real time PCR experiment was repeated and similar results were obtained. These results show that reduction of rice GLO gene expression greatly induces expression of NH1 and WRKY45 and modestly induces expression of NH3. It should be noted that the smaller induction and greater variations in general in GVG-dsGLO1 plants 24 h after DEX treatment compared to Ubi-dsGLO1 plants may be simply due to sub-optimal induction at this time point. It is possible that greater induction may occur at other time points.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Our results show that reduction of <italic>GLO1</italic> expression in rice leads to enhanced resistance to the <italic>Xoo</italic> pathogen. When silencing the <italic>GLO1</italic> gene, the <italic>GLO3</italic> and GLO4 genes (the two most closely related rice paralogs) are moderately down regulated. <italic>GLO1</italic> and <italic>GLO3</italic> share 87% identity and GLO1 and GLO4 share 77% identify at the nucleotide level in the regions shown in <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>. The probe (800 nt) used to silence <italic>GLO1</italic> probably contains identical regions large enough to affect <italic>GLO3</italic> and GLO4 RNA stability, resulting in moderate down regulation of the transcript levels of these two GLO genes in the Ubi-dsGLO1 line. However, the reduced GLO3 RNA level is much higher (5 × to 6 × ) than the reduced GLO1 RNA level in the Ubi-dsGLO1 line. Moreover, the RNA levels of GLO3 and GLO4 in the GVG-dsGLO1 lines are not (or little) affected after DEX-induction; by contrast, those of GLO1 in the GVG-dsGLO1 lines are greatly reduced. These results suggest that reduction of the GLO1 expression is the main cause of the activation of defense responses and enhanced resistance to Xoo, although contribution from reduced expression of GLO3 and GLO4 cannot be excluded at this point.</p>
+      <p><xref ref-type="bibr" rid="ref-27">Zhang et al. (2012)</xref> reported that GLO1 and GLO4 are the two main GLO genes expressed in rice leaves. It is surprising to find that GLO3 is expressed at a level similar to that of GLO1 and much higher than that of GLO4 in our experiments. What caused the discrepancy is unclear. The primers that we used for the individual GLO genes in the real time RT–PCR experiments are unique to each gene. The fact that the reduced GLO3 expression level is much higher than that of reduced GLO1 in Ubi-dsGLO1 plants when normalized to actin expression suggests that the measured GLO3 levels are not results of cross-hybridization to GLO1 transcripts (which have the highest levels in wild type plants) by the GLO3 PCR primers.</p>
+      <p>It was shown that the hydrogen peroxide produced by GLO during photorespiration can lead to modified gene expression (<xref ref-type="bibr" rid="ref-15">Noctor et al., 2002</xref>). It has been reported that high glycolate oxidase activity is required for survival of maize in normal air (<xref ref-type="bibr" rid="ref-26">Zelitch et al., 2009</xref>). Photoinhibition was elicited when GLO reduction was over a threshold of 60% (<xref ref-type="bibr" rid="ref-25">Yamaguchi &amp; Nishimura, 2000</xref>). We found that constitutive suppression of the rice <italic>GLO1</italic> gene over 60% (and partly of <italic>GLO3</italic> and <italic>GLO4</italic>) resulted in an evident lethal phenotype, probably a result of photoinhibition. Thus, our finding that constitutive silencing of GLO1 leads to a lethal phenotype is consistent with this report. Moreover, we have demonstrated that the use of a glucocorticoid-inducible promoter is able to alleviate this detrimental effect, but retain the enhanced resistance to <italic>Xoo</italic>. However, for practical applications, the timing of DEX application and the minimal effective DEX concentration needs to be determined. The duration of DEX induction is unknown.</p>
+      <p>Previous reports have shown that <italic>GLO</italic> activity is required in the elicitation of the hypersensitive response observed during nonhost defense and defense responses mediated by a disease resistance gene (Pto) or elicited by a PAMP (INF) in tobacco; <italic>GLO</italic> activity is also required in nonhost defense responses in Arabidopsis (<xref ref-type="bibr" rid="ref-18">Rojas et al., 2012</xref>). These reports suggest that reduced <italic>GLO</italic> expression would lead to lower hydrogen peroxide production, leading to lower defense response. In the current report, it is surprising to see that down regulation of <italic>GLO</italic> genes in rice resulted in enhanced resistance to the <italic>Xoo</italic> pathogen. It is likely that reduction of <italic>GLO1</italic> expression in rice may have induced basal resistance to a pathogen – a type of defense response different from those described above that are nonhost defense or effector- or PAMP-triggered defense responses (<xref ref-type="bibr" rid="ref-18">Rojas et al., 2012</xref>). It is also possible that GLO activity may play different roles regarding defense responses in monocots (such as rice) and in dicots (such as tobacco and Arabidopsis). In addition, our observation that GLO plays a negative role in defense is in line with our microarray data in which the components of photorespiration pathway were up-regulated in a super-susceptible transgenic rice line (NRR over-expression) (<xref ref-type="bibr" rid="ref-7">Chern et al., 2005a</xref>) compared to wild type (M Chern, KH Jung and PC Ronald, unpublished). One possibility is that the photorespiration pathway may be needed for <italic>Xoo</italic> pathogenesis.</p>
+      <p>Our RT–PCR analyses reveal another clue as to how reduction of GLO activity may lead to enhanced resistance to <italic>Xoo</italic>. The <italic>NH1</italic> and WRKY45 RNA levels are greatly elevated and the NH3 RNA level is moderately increased when <italic>GLO</italic> levels are reduced. Our previous reports have shown that elevated NH1 and NH3 levels both lead to enhanced resistance to <italic>Xoo</italic> and activation of <italic>PR</italic> gene expression (<xref ref-type="bibr" rid="ref-7">Chern et al., 2005a</xref>; <xref ref-type="bibr" rid="ref-2">Bai et al., 2011</xref>). WRKY45 is crucial to the BTH-inducible resistance to M. grisea (<xref ref-type="bibr" rid="ref-22">Shimono et al., 2007</xref>). NH1, NH3, and WRKY45 are key regulators of the BTH-mediated defense response in rice. Thus, it is likely that reduction in GLO activity may have led to activation of the BTH-inducible defense pathway, including elevation of the RNA expression levels of NH1, NH3, and WRKY45. The observed enhanced resistance to <italic>Xoo</italic> and activation of <italic>PR</italic> gene expression may be a direct consequence of the elevated levels of <italic>NH1, NH3, and WRKY45</italic> in <italic>GLO1</italic>-silenced plants. How reduced <italic>GLO</italic> levels lead to activation of this defense pathway remains a question to be answered.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/28/Fig S1.pdf">
+        <object-id pub-id-type="doi">10.7717/peerj.28/supp-1</object-id>
+        <label>Fig. S1</label>
+        <caption>
+          <title>The nucleotide lineup results of BLAST searches are displayed showing (A) the homology between <italic>GLO1</italic> and <italic>GLO3</italic> cDNAs and (B) the homology between <italic>GLO1</italic> and <italic>GLO4</italic> cDNAs.</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>Pamela C. Ronald is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Mawsheng Chern</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-2">Wei Bai</xref> performed the experiments, analyzed the data.</p>
+        </fn>
+        <fn id="contribution-3">
+          <p><xref ref-type="contrib" rid="author-3">Xuewei Chen</xref> analyzed the data.</p>
+        </fn>
+        <fn id="contribution-4">
+          <p><xref ref-type="contrib" rid="author-4">Patrick E. Canlas</xref> performed the experiments, contributed reagents/materials/analysis tools.</p>
+        </fn>
+        <fn id="contribution-5">
+          <p><xref ref-type="contrib" rid="author-5">Pamela C. Ronald</xref> conceived and designed the experiments, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Aoyama &amp; Chua (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aoyama</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chua</surname>
+              <given-names>NH</given-names>
+            </name>
+          </person-group>
+          <article-title>A glucocorticoid-mediated transcriptional induction system in transgenic plants</article-title>
+          <source>The Plant Journal</source>
+          <year>1997</year>
+          <volume>11</volume>
+          <fpage>605</fpage>
+          <lpage>612</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-313X.1997.11030605.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Bai et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bai</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Chern</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ruan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Canlas</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Sze-To</surname>
+              <given-names>WH</given-names>
+            </name>
+            <name>
+              <surname>Ronald</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhanced disease resistance and hypersensitivity to BTH by introduction of an NH1/OsNPR1 paralog</article-title>
+          <source>Plant Biotechnology Journal</source>
+          <year>2011</year>
+          <volume>9</volume>
+          <fpage>205</fpage>
+          <lpage>215</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1467-7652.2010.00544.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Bestwick et al. (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bestwick</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>IR</given-names>
+            </name>
+            <name>
+              <surname>Bennett</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Mansfield</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <article-title>Localization of hydrogen peroxide accumulation during the hypersensitive reaction of lettuce cells to Pseudomonas syringae pv phaseolicola</article-title>
+          <source>The Plant Cell</source>
+          <year>1997</year>
+          <volume>9</volume>
+          <fpage>209</fpage>
+          <lpage>221</lpage>
+          <pub-id pub-id-type="doi">10.1105/tpc.9.2.209</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Boldt et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boldt</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Edner</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kolukisaoglu</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Hagemann</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Weckwerth</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Wienkoop</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Morgenthal</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bauwe</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>D-Glycerate 3-kinase, the last unknown enzyme in the photorespiratory cycle in Arabidopsis, belongs to a novel kinase family</article-title>
+          <source>The Plant Cell</source>
+          <year>2005</year>
+          <volume>17</volume>
+          <fpage>2413</fpage>
+          <lpage>2420</lpage>
+          <pub-id pub-id-type="doi">10.1105/tpc.105.033993</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Chamnongpol et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chamnongpol</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Willekens</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Moeder</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Langebartels</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sandermann</surname>
+              <given-names>H</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Van Montagu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Inze</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Van Camp</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Defense activation and enhanced pathogen tolerance induced by H2O2 in transgenic tobacco</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>1998</year>
+          <volume>95</volume>
+          <fpage>5818</fpage>
+          <lpage>5823</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.95.10.5818</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Chern et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chern</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Sze-To</surname>
+              <given-names>WH</given-names>
+            </name>
+            <name>
+              <surname>Canlas</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Bartley</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Ronald</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>A rice transient assay system identifies a novel domain in NRR required for interaction with NH1/OsNPR1 and inhibition of NH1-mediated transcriptional activation</article-title>
+          <source>Plant Methods</source>
+          <year>2012</year>
+          <volume>8</volume>
+          <fpage>6</fpage>
+          <pub-id pub-id-type="doi">10.1186/1746-4811-8-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Chern et al. (2005a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chern</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Canlas</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Ronald</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Rice NRR, a Negative regulator of disease resistance, interacts with Arabidopsis NPR1 and rice NH1</article-title>
+          <source>The Plant Journal</source>
+          <year>2005a</year>
+          <volume>43</volume>
+          <fpage>623</fpage>
+          <lpage>635</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-313X.2005.02485.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Chern et al. (2005b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chern</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Canlas</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Navarre</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Ronald</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Over-expression of a rice NPR1 homolog leads to constitutive activation of defense response and hypersensitivity to light</article-title>
+          <source>Molecular Plant-Microbe Interactions</source>
+          <year>2005b</year>
+          <volume>18</volume>
+          <fpage>511</fpage>
+          <lpage>520</lpage>
+          <pub-id pub-id-type="doi">10.1094/MPMI-18-0511</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Chern et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chern</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Yadav</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Canlas</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Ronald</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence for a disease-resistance pathway in rice similar to the NPR1-mediated signaling pathway in Arabidopsis</article-title>
+          <source>The Plant Journal</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <fpage>101</fpage>
+          <lpage>113</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-313x.2001.01070.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Chittoor, Leach &amp; White (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chittoor</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Leach</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>FF</given-names>
+            </name>
+          </person-group>
+          <article-title>Differential induction of a peroxidase gene family during infection of rice by Xanthomonase oryzae pv. oryzae</article-title>
+          <source>Molecular Plant-Microbe Interactions</source>
+          <year>1997</year>
+          <volume>10</volume>
+          <fpage>861</fpage>
+          <lpage>871</lpage>
+          <pub-id pub-id-type="doi">10.1094/MPMI.1997.10.7.861</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Foyer et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Foyer</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Bloom</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Queval</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Noctor</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Photorespiratory metabolism: genes, mutants, energetics, and redox signaling</article-title>
+          <source>Annual Review in Plant Biology</source>
+          <year>2009</year>
+          <volume>60</volume>
+          <fpage>455</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.arplant.043008.091948</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Kauffman et al. (1973)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kauffman</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>APK</given-names>
+            </name>
+            <name>
+              <surname>Hsieh</surname>
+              <given-names>SPV</given-names>
+            </name>
+            <name>
+              <surname>Marca</surname>
+              <given-names>SD</given-names>
+            </name>
+          </person-group>
+          <article-title>An improved technique for evaluation of resistance of rice varieties to <italic>Xanthomonas oryzae</italic></article-title>
+          <source>Plant Disease Reporter</source>
+          <year>1973</year>
+          <volume>57</volume>
+          <fpage>537</fpage>
+          <lpage>541</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Keys (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keys</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The re-assimilation of ammonia produced by photorespiration and the nitrogen economy of C3 higher plants</article-title>
+          <source>Photosynthesis Research</source>
+          <year>2006</year>
+          <volume>87</volume>
+          <fpage>165</fpage>
+          <lpage>175</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11120-005-9024-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Moreno, Martin &amp; Castresana (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moreno</surname>
+              <given-names>JI</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Castresana</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Arabidopsis SHMT1, a serine hydroxymethyltransferase that functions in the photorespiratory pathway influences resistance to biotic and abiotic stress</article-title>
+          <source>The Plant Journal</source>
+          <year>2005</year>
+          <volume>41</volume>
+          <fpage>451</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-313X.2004.02311.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Noctor et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noctor</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Veljovic-Jovanovic</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Driscoll</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Novitskaya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Foyer</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <article-title>Drought and oxidative load in the leaves of the C3 plants: a predominant role for photorespiration?</article-title>
+          <source>Annals of Botany</source>
+          <year>2002</year>
+          <volume>89</volume>
+          <fpage>841</fpage>
+          <lpage>850</lpage>
+          <pub-id pub-id-type="doi">10.1093/aob/mcf096</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Peterson (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Peterson</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title>Estimation of photorespiration based on the initial rate of postillumination CO2 release</article-title>
+          <source>Plant Physiology</source>
+          <year>1983</year>
+          <volume>73</volume>
+          <fpage>983</fpage>
+          <lpage>988</lpage>
+          <pub-id pub-id-type="doi">10.1104/pp.73.4.983</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Rachmilevitch, Cousins &amp; Bloom (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rachmilevitch</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cousins</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Bloom</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitrate assimilation in plant shoots depends on photorespiration</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>2004</year>
+          <volume>101</volume>
+          <fpage>11506</fpage>
+          <lpage>11510</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0404388101</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Rojas et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rojas</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Senthil-Kumar</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ryu</surname>
+              <given-names>C-M</given-names>
+            </name>
+            <name>
+              <surname>Kaundal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mysore</surname>
+              <given-names>KS</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycolate oxidase modulates reactive oxygen species-mediated signal transduction during nonhost resistance in Nicotiana benthamiana and Arabidopsis</article-title>
+          <source>The Plant Cell</source>
+          <year>2012</year>
+          <volume>24</volume>
+          <fpage>336</fpage>
+          <lpage>352</lpage>
+          <pub-id pub-id-type="doi">10.1105/tpc.111.093245</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Rojas &amp; Mysore (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rojas</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Mysore</surname>
+              <given-names>KS</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycolate oxidase is an alternative source of <named-content content-type="chemical-compound">H<sub>2</sub>O<sub>2</sub>
+                  </named-content> production during plant defense responses and functions independently from NADPH oxidase</article-title>
+          <source>Plant Signaling &amp; Behavior</source>
+          <year>2012</year>
+          <volume>7</volume>
+          <fpage>752</fpage>
+          <lpage>755</lpage>
+          <pub-id pub-id-type="doi">10.4161/psb.20429</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Seo et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seo</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Chern</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Barley</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>KH</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Walia</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Ramanan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Amonpant</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Arul</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Canlas</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Ruan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Hwang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jeon</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Ronald</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Towards establishment of a rice stress response interactome</article-title>
+          <source>PLoS Genet</source>
+          <year>2011</year>
+          <volume>7</volume>
+          <fpage>e1002020</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pgen.1002020</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Sharkey (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharkey</surname>
+              <given-names>TD</given-names>
+            </name>
+          </person-group>
+          <article-title>Estimating the rate of photorespiration in leaves</article-title>
+          <source>Physiologia Plantarum</source>
+          <year>1988</year>
+          <volume>73</volume>
+          <fpage>147</fpage>
+          <lpage>152</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1399-3054.1988.tb09205.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Shimono et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimono</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sugano</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Ono</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Toki</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Takatsuji</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Rice WRKY45 plays a crucial role in benzothiadiazole-inducible blast resistance</article-title>
+          <source>The Plant Cell</source>
+          <year>2007</year>
+          <volume>19</volume>
+          <fpage>2064</fpage>
+          <lpage>2076</lpage>
+          <pub-id pub-id-type="doi">10.1105/tpc.106.046250</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Verslues, Kim &amp; Zhu (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verslues</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>JK</given-names>
+            </name>
+          </person-group>
+          <article-title>Altered ABA, proline and hydrogen peroxide in an Arabidopsis glutamate: glyoxylate aminotransferase mutant</article-title>
+          <source>Plant Molecular Biology</source>
+          <year>2007</year>
+          <volume>64</volume>
+          <fpage>205</fpage>
+          <lpage>217</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11103-007-9145-z</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Xu et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>Inducible antisense suppression of glycolate oxidase reveals its strong regulation over photosynthesis in rice</article-title>
+          <source>Journal of Experimental Botany</source>
+          <year>2009</year>
+          <volume>60</volume>
+          <fpage>1799</fpage>
+          <lpage>1809</lpage>
+          <pub-id pub-id-type="doi">10.1093/jxb/erp056</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Yamaguchi &amp; Nishimura (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamaguchi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nishimura</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Reduction to below threshold levels of glycolate oxidase activities in transgenic tobacco enhances photoinhibition during irradiation</article-title>
+          <source>Plant and Cell Physiology</source>
+          <year>2000</year>
+          <volume>41</volume>
+          <fpage>1397</fpage>
+          <lpage>1406</lpage>
+          <pub-id pub-id-type="doi">10.1093/pcp/pcd074</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Zelitch et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zelitch</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Schultes</surname>
+              <given-names>NP</given-names>
+            </name>
+            <name>
+              <surname>Peterson</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Browb</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Brutnell</surname>
+              <given-names>TP</given-names>
+            </name>
+          </person-group>
+          <article-title>High glycolate oxidase activity is required for survival of maize in normal air</article-title>
+          <source>Plant Physiology</source>
+          <year>2009</year>
+          <volume>149</volume>
+          <fpage>195</fpage>
+          <lpage>204</lpage>
+          <pub-id pub-id-type="doi">10.1104/pp.108.128439</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Zhang et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhai</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycolate oxidase isozymes are coordinately controlled by GLO1 and GLO4 in rice</article-title>
+          <source>PLoS One</source>
+          <year>2012</year>
+          <volume>v7</volume>
+          <fpage>e39658</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0039658</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

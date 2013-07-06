@@ -1,1147 +1,1089 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">33</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.33</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Aquaculture, Fisheries and Fish Science</subject>
+          <subject>Anatomy and Physiology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A perfusion study of the handling of urea and urea analogues by the gills of the dogfish shark (<italic>Squalus acanthias</italic>)</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Wood</surname>
+            <given-names>Chris M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Liew</surname>
+            <given-names>Hon Jung</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-4">4</xref>
+          <xref ref-type="aff" rid="aff-5">5</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>De Boeck</surname>
+            <given-names>Gudrun</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-5">5</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Walsh</surname>
+            <given-names>Patrick J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-6">6</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Biology</institution>, <addr-line>McMaster University</addr-line>, <addr-line>Hamilton, Ontario</addr-line>, <country>Canada</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Bamfield Marine Sciences Centre</institution>, <addr-line>Bamfield, BC</addr-line>, <country>Canada</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Division of Marine Biology and Fisheries, Rosenstiel School</institution>, <addr-line>University of Miami</addr-line>, <addr-line>Miami, Florida</addr-line>, <country>USA</country></aff>
+        <aff id="aff-4"><label>4</label><institution>Institute of Tropical Aquaculture</institution>, <addr-line>Universiti Malaysia Terengganu</addr-line>, <addr-line>Kuala Terengganu</addr-line>, <country>Malaysia</country></aff>
+        <aff id="aff-5"><label>5</label><institution>Department of Biology (SPHERE)</institution>, <addr-line>University of Antwerp</addr-line>, <country>Belgium</country></aff>
+        <aff id="aff-6"><label>6</label><institution>Department of Biology</institution>, <addr-line>University of Ottawa</addr-line>, <addr-line>Ottawa, Ontario</addr-line>, <country>Canada</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Song</surname>
+            <given-names>Linsheng</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>woodcm@mcmaster.ca</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e33</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-13">
+          <day>13</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-16">
+          <day>16</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Wood et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Wood et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/33"/>
+      <abstract>
+        <p>The branchial mechanism of urea retention in elasmobranchs was investigated using an <italic>in vitro</italic> isolated-perfused head preparation, as well as <italic>in vivo</italic> samples, in the spiny dogfish shark. Both <italic>in vivo</italic> and in control saline perfusions containing 350 mmol L<sup>−1</sup> urea, calculated intracellular urea concentrations in gill epithelial cells were close to extracellular concentrations. Urea efflux to the external water fell only non-significantly, and calculated gill intracellular urea concentration did not change when perfusate urea concentration was reduced from 350 to 175 mmol L<sup>−1</sup> with osmotic compensation by 175 mmol L<sup>−1</sup> mannitol. However, when the urea analogues thiourea or acetamide were present in the perfusate at concentrations equimolar (175 mmol L<sup>−1</sup>) to those of urea (175 mmol L<sup>−1</sup>), urea efflux rates were increased 4-fold and 6.5-fold respectively, and calculated gill intracellular urea concentrations were depressed by about 55%. Analogue efflux rates were similar to urea efflux rates. Previous studies have argued that either the basolateral or apical membranes provided the limiting permeability barrier, and/or that a back-transporter on the basolateral membranes of gill cells is responsible for urea retention. The present results provide new evidence that the apical membrane is the limiting factor in maintaining gill urea impermeability, and raise the prospect that a urea back-transporter, which can be competitively inhibited by thiourea and acetamide, operates at the apical membrane.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Elasmobranchs</kwd>
+        <kwd>Thiourea</kwd>
+        <kwd>Acetamide</kwd>
+        <kwd>Perfused head</kwd>
+        <kwd>Urea retention</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>NSERC Discovery Grants</funding-source>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>International Collaboration Grant from the Research Council of the University of Antwerp</funding-source>
+        </award-group>
+        <award-group id="fund-3">
+          <funding-source>Malaysia Ministry of Higher Education and Universiti Terengganu Malaysia</funding-source>
+        </award-group>
+        <award-group id="fund-4">
+          <funding-source>Canada Research Chairs Program</funding-source>
+        </award-group>
+        <funding-statement>Funded by NSERC Discovery Grants to CMW and PJW, and an International Collaboration Grant (IWS-BOF) issued by the Research Council of the University of Antwerp to GDB and CMW. HJL is a scholar funded by the Malaysia Ministry of Higher Education and Universiti Terengganu Malaysia. CMW and PJW are supported by the Canada Research Chairs Program. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>The ability of elasmobranch fishes to retain very high concentrations of the nitrogenous waste urea in their body fluids for the purpose of osmoregulation has fascinated biologists for more than a century (<xref ref-type="bibr" rid="ref-19">Staedler &amp; Frerichs, 1858</xref>; <xref ref-type="bibr" rid="ref-20">Smith, 1929</xref>; <xref ref-type="bibr" rid="ref-21">Smith, 1936</xref>). Of particular interest is the ability of the gills to maintain extremely low effective permeability to urea while allowing for O<sub>2</sub> and CO<sub>2</sub> exchange at comparable rates to teleost fishes. For example, <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> have made the instructive calculation that given the high blood plasma concentrations of urea (typically 300–400 mmol L<sup>−1</sup>) in elasmobranchs, if their gill urea permeability was comparable to that of teleosts, urea efflux would be about <named-content content-type="chemical-compound">10,000 µmol kg<sup>−1</sup> h<sup>−1</sup>
+            </named-content>, about 40 fold higher than typical values measured <italic>in vivo</italic> (<xref ref-type="bibr" rid="ref-22">Wood, Pärt &amp; Wright, 1995</xref>).</p>
+      <p>There have been only a few studies on the mechanism of urea retention at the gills, all of them on the spiny dogfish <italic>Squalus acanthias</italic>. <xref ref-type="bibr" rid="ref-2">Boylan (1967)</xref> concluded that the lipid membranes in the gills were of unusual composition, resulting in exceptionally low permeability to urea, a conclusion based largely on changes in urea efflux rate with temperature. However he did raise (and dismiss) the possibility of a retention mechanism based on active transport.</p>
+      <p>Nevertheless, the latter idea gained some credence from the experiments of <xref ref-type="bibr" rid="ref-22">Wood, Pärt &amp; Wright (1995)</xref>, who infused the urea analogues thiourea and acetamide into intact dogfish so as to achieve blood plasma analogue concentrations of no more than 15% those of urea, yet observed 20–40% increases in branchial urea efflux rates. Since these analogues are simple competitive inhibitors in many urea transport systems of higher vertebrates (<xref ref-type="bibr" rid="ref-11">Marsh &amp; Knepper, 1992</xref>), <xref ref-type="bibr" rid="ref-22">Wood, Pärt &amp; Wright (1995)</xref> suggested that they acted to inhibit a “back-transport” retention mechanism in the gills, resulting in greater urea efflux.</p>
+      <p>Further support for both ideas was provided by the perfused dogfish head studies of <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref>. Based on [<sup>14</sup>C]urea “washout” experiments, these workers identified the apical membranes of gill cells as 14-fold less permeable than the basolateral membranes, and also reported that phloretin, a general non-competitive blocker of urea transport in many systems, greatly exacerbated urea efflux to the water. This was interpreted as a result of inhibition of an active urea back-transporter on the basolateral membrane, but curiously, thiourea, at equimolar concentration to urea, had no effect.</p>
+      <p>The presence of an active urea back-transport mechanism and its inhibition by phloretin, were confirmed in gill basolateral membrane vesicle experiments by <xref ref-type="bibr" rid="ref-5">Fines, Ballantyne &amp; Wright (2001)</xref>. Again, thiourea, as well as acetamide, had no significant inhibitory effects, even though presented at 148-fold greater concentration than urea. However these workers also demonstrated that the gill basolateral membranes had an exceptionally high cholesterol-to-phospholipid molar ratio, which they thought would result in exceptionally low urea permeability. In model calculations, they suggested that only 6% of the difference in gill urea permeability between elasmobranchs and teleosts was due to the back-transporter, and that 94% was due to the impermeability of the basolateral membranes, not the apical membranes as argued by <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref>.</p>
+      <p>The situation was further complicated by direct measurements of urea permeabilities in apical and basolateral gill membrane vesicles by <xref ref-type="bibr" rid="ref-9">Hill et al. (2004)</xref>. These workers found that the values for both were not exceptionally low but rather about the same in elasmobranchs and teleosts, and at least 10-fold higher than needed to explain urea impermeability <italic>in vivo</italic>. Since the basolateral permeability was slightly higher than the apical permeability, and the apical membrane surface area would be much less, they agreed with <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> that the apical membrane would be the more effective barrier, but concluded that some other mechanism was needed to explain urea impermeability <italic>in vivo</italic>.</p>
+      <p>While there were many differences, a common finding in all of the <italic>in vivo</italic> studies (<xref ref-type="bibr" rid="ref-2">Boylan, 1967</xref>; <xref ref-type="bibr" rid="ref-22">Wood, Pärt &amp; Wright, 1995</xref>; <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood, 1998</xref>) was that there appeared to be little or no relationship between extracellular urea concentration and urea efflux rate across the gills. <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> hypothesized that this could be explained if the back-transporter on the basolateral membrane kept intracellular urea levels much lower than those in plasma. This idea was supported by the finding of <xref ref-type="bibr" rid="ref-5">Fines, Ballantyne &amp; Wright (2001)</xref> that the <italic>K</italic><sub><italic>m</italic></sub> of the basolateral membrane urea transporter was only 10 mmol L<sup>−1</sup>, suggesting that its normal operating concentration was far below the 300–400 mmol L<sup>−1</sup> normally present in blood plasma (<xref ref-type="bibr" rid="ref-16">Robertson, 1975</xref>; <xref ref-type="bibr" rid="ref-22">Wood, Pärt &amp; Wright, 1995</xref>; <xref ref-type="bibr" rid="ref-10">Kajimura et al., 2006</xref>). If true, then the urea gradient across the apical membrane would be &gt;10-fold lower than previously supposed, and the apical permeability might be low enough to explain <italic>in vivo</italic> efflux rates (<xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood, 1998</xref>; <xref ref-type="bibr" rid="ref-5">Fines, Ballantyne &amp; Wright, 2001</xref>; <xref ref-type="bibr" rid="ref-9">Hill et al., 2004</xref>).</p>
+      <p>With this rather confounded background in mind, we revisited the perfused dogfish head preparation of <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> to address the following issues using radiolabel techniques. We hypothesized that the apparent lack of effect of thiourea (and acetamide) was due to methodological issues in the original work, and would be demonstrated with a longer perfusion period. We also measured gill tissue concentrations of urea <italic>in vivo</italic>, and concentrations of urea, thiourea, and acetamide in the perfused gill tissue, as well as extracellular and intracellular space in the latter. We hypothesized that the analogues would increase urea efflux rates, would displace urea from the gill cells, and would be excreted at comparable rates to urea when presented at equimolar concentrations in the perfusate. We also hypothesized that gill cell urea concentration would be buffered from changes in extracellular urea concentration, and would be much lower than the latter. Most of these hypotheses were confirmed, but one disproven, leading to a new proposal for how urea is retained in elasmobranch gills.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Experimental animals</title>
+        <p>Experiments were performed at Bamfield Marine Sciences Centre (BMSC) over several summers (July–August) on 56 male spiny dogfish sharks (<italic>Squalus acanthias suckleyi</italic>; 0.3–1.7 kg) collected locally from Barkely Sound by trawling. Only males were used for purposes of population conservation, as females were invariably pregnant. [Note that <xref ref-type="bibr" rid="ref-4">Ebert et al. (2010)</xref> have recently proposed that these north-east Pacific elasmobranchs are a separate species (<italic>Squalus suckleyi</italic>) distinct from <italic>Squalus acanthias</italic>]. The fish were held in a large 151,000-L tank at seasonal photoperiod, served with running seawater at the experimental temperature (12 ± 1 °C), salinity (30 ± 2 ppt) and pH (7.95 ± 0.10) for 2–8 weeks prior to experimentation. During this period they were fed every 3–4 days with a 3% ration of dead hake (<italic>Merluccius productus</italic>), but removed to smaller 1000-L tanks for 1–2 weeks fasting prior to experimentation, under the same conditions. Gill tissue and plasma samples were taken from 9 of the animals sacrificed for other studies, in order to provide <italic>in vivo</italic> reference values; the remainder were used for <italic>in vitro</italic> perfused head preparations. The <italic>in vivo</italic> samples were taken from deeply anaesthetized animals, as described below for the perfused head preparations. All procedures followed Canada Council for Animal Care guidelines and were approved by BMSC and McMaster University Animal Care Committees (Animal Ethics Research Board of McMaster University AUP # 09004-10).</p>
+      </sec>
+      <sec>
+        <title>Perfused head preparation</title>
+        <p>Methods followed those developed by <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref>, with minor modifications. Before surgery, the fish were injected with 5000 i.u. sodium heparin (Sigma-Aldrich, St. Louis, MO, USA) via the caudal vein and left for 15–20 min. The fish was then deeply anaesthetized in MS-222 (0.2 g L<sup>−1</sup>; Syndel Laboratories, Qualicum Beach, BC, Canada) and decapitated posterior to the pectoral fins. The brain was pithed via the spinal cord. The ventral aorta was cannulated with Clay-Adams PE-160 tubing (Becton Dickinson, Franklin Lakes, NJ, USA), and the dorsal aorta with PE60 or PE160 depending on fish size; both ventral and dorsal aortic catheters were filled with the appropriate saline (see below). A thin latex rubber sheet (dental dam) placed anterior to the pectoral fins was then used to seal the head into a 1.8 L-external reservoir made from a plastic bottle, and internal perfusion and external irrigation were commenced immediately (time = 0 min).</p>
+        <p>The external reservoir was filled with approximately 1.0 L of sea water which was continuously gassed with <named-content content-type="chemical-compound">O<sub>2</sub>
+               </named-content> and recirculated via an external submersible pump (Little Giant, Oklahoma City, OK, USA) connected to the bottom of the reservoir. The pump, controlled by a rheostat, was set to irrigate the gills at a rate of 2.5 L min<sup>−1</sup> via soft silastic tubing (0.5 cm i.d.) inserted via a Y-tube into both spiracles. A Model 1100 cardiac pump (Harvard Apparatus, Holliston, MA, USA) set to a working mode of 1/3 systole, 2/3 diastole and a heart rate of <named-content content-type="chemical-compound">40 beats min<sup>−1</sup>
+               </named-content> was employed for perfusion via the ventral aortic catheter with the appropriate saline which had been pre-gassed as described below. The stroke volume was adjusted for each preparation so as to create a perfusion rate of 20 ml min<sup>−1</sup> kg whole body<sup>−1</sup>. The output of the cardiac pump passed first through an inverted 25-ml Erlenmeyer flask containing a 5-ml air–space which served as a “<italic>windkessel</italic>” to reduce pulsatility and to trap inadvertent bubbles, and then past a T-junction connected to a P23BB pressure transducer (Statham Instruments, Oxnard, CA, USA) linked to a Harvard amplifier-oscillograph system so as to continuously monitor the input perfusion pressure to the ventral aorta. The T-junction also served as a sampling point for ventral aortic perfusate. The external reservoir pump and the perfusion reservoir were both immersed in flowing seawater baths so as to maintain 12 °C. Only one saline treatment was used for each preparation, for a 45 min perfusion period.</p>
+        <p>Samples of external water (10 ml), inflowing ventral aortic perfusate (0.1 ml) from the T-junction, and outflowing perfusate (0.1 ml) directly from the dorsal aortic catheter, were taken at 5 min intervals from time 0 to 45 min. These samples were then aliquotted immediately for radioactivity measurements and frozen for later measurements of urea. At the end of 45 min, perfusion and irrigation were stopped, the head was removed, and the exact water volume of the external reservoir was measured. The pressure drop across the catheter at the same cardiac pump output was measured at the T-junction so as to calculate the true ventral aortic input pressure. The gills were removed by dissection, blotted dry, and the soft tissue of the gill epithelium was sampled by gently scraping the surface with a glass slide. Three samples of approximately 0.5 g were immediately added to tared tubes containing 1 ml of ice-cold 8% <named-content content-type="chemical-compound">HClO<sub>3</sub>
+               </named-content>. The tubes were reweighed to determine the exact weight of gill tissue, then allowed to sit on ice for 3 h with intermittent vortexing. Thereafter the tubes were centrifuged at 13,000G for 2 min and the supernatant aliquotted for radioactivity measurements and frozen for later measurements of urea. Additionally two gill tissue samples of approximately 0.3 g were weighed out into aluminum dishes for determination of water content.</p>
+      </sec>
+      <sec>
+        <title>Perfusion salines</title>
+        <p>The basic saline (Control saline 1) contained 350 mmol L<sup>−1</sup> urea and was identical to that used by <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> – see <xref ref-type="table" rid="table-1">Table 1</xref> in that paper – except that the trimethyl amine oxide (TMAO) concentration was set to 85 mmol L<sup>−1</sup> rather than 15 mmol L<sup>−1</sup> to better represent <italic>in vivo</italic> values (<xref ref-type="bibr" rid="ref-18">Schmidt-Nielsen, Truniger &amp; Rabinowitz, 1972</xref>; <xref ref-type="bibr" rid="ref-16">Robertson, 1975</xref>; <xref ref-type="bibr" rid="ref-10">Kajimura et al., 2006</xref>). All other salines were modifications of this. In Control saline 2, urea concentration was reduced to 175 mmol L<sup>−1</sup>, with osmotic balance achieved by addition of 175 mmol L<sup>−1</sup> mannitol. For treatments with the urea analogues thiourea or acetamide, the saline contained 175 mmol L<sup>−1</sup> urea and 175 mmol L<sup>−1</sup> of the respective analogue. All salines were filtered through a <named-content content-type="chemical-compound">0.22 µm</named-content> Millipore filter prior to use, and were equilibrated with a precision gas mixture of 0.25% <named-content content-type="chemical-compound">CO<sub>2</sub>
+               </named-content> in air to yield a <named-content content-type="chemical-compound">PCO<sub>2</sub>
+               </named-content> of about 1.9 mm Hg. The pH was set to 7.7–7.8. Diffusion of the gas through silastic tubing rather than direct bubbling was employed to avoid foaming of the bovine serum albumen component.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.33/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <p>The water content of gill tissue and its distribution.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/33/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Treatment</th>
+                  <th align="left">Water (<named-content content-type="chemical-compound">kg H<sub>2</sub>O.kg tissue<sup>−1</sup>
+                              </named-content>)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Thiourea (<named-content content-type="chemical-compound">175 mmol L<sup>−1</sup>) + Urea (175 mmol L<sup>−1</sup>)</named-content>
+                           </td>
+                  <td align="left">0.8522 ± 0.0037<sup>c</sup> (6)</td>
+                </tr>
+                <tr>
+                  <td align="left">Acetamide (<named-content content-type="chemical-compound">175 mmol L<sup>−1</sup>) + Urea (175 mmol L<sup>−1</sup>)</named-content>
+                           </td>
+                  <td align="left">0.8617 ± 0.0036<sup>c</sup> (6)</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>In vivo</italic>
+                  </td>
+                  <td align="left">0.8273 ± 0.0043<sup>b</sup> (9)</td>
+                </tr>
+                <tr>
+                  <td align="left">Control Saline 1 (350 mmol L<sup>−1</sup> Urea)</td>
+                  <td align="left">0.8199 ± 0.0067<sup>ab</sup> (10)</td>
+                </tr>
+                <tr>
+                  <td align="left">Control Saline 2 (<named-content content-type="chemical-compound">175 mmol L<sup>−1</sup>Urea + 175 mmol L<sup>−1</sup>
+                              </named-content> Mannitol)</td>
+                  <td align="left">0.8075 ± 0.0025<sup>a</sup> (5)</td>
+                </tr>
+                <tr>
+                  <td align="left">  Extracellular Fluid Volume (ECFV)</td>
+                  <td align="left">  0.5230 ± 0.0023 (5)</td>
+                </tr>
+                <tr>
+                  <td align="left">  Intracellular Fluid Volume (ICFV)</td>
+                  <td align="left">  0.2845 ± 0.0023 (5)</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-1fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-1fn1">
+              <p>Means ± 1SEM (N). Means not sharing the same letters are significantly different (<italic>P</italic> &lt; 0.05). ECFV and ICFV were measured only for the Control Saline 2 treatment.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>In all of the experiments, urea efflux was calculated from the appearance of “cold” urea in the external seawater, as measured by chemical assay. The same assay was used to measure urea concentration in the gill tissue. However there is no assay of comparable sensitivity for the urea analogues. Therefore in order to evaluate whether radiotracer methodology would be suitable, in 6 preparations perfused with Control saline 1, [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]urea (Amersham, Little Chalfont, UK; <named-content content-type="chemical-compound">59 mCi mmol<sup>−1</sup>
+               </named-content>) was added to the perfusion medium at a concentration of <named-content content-type="chemical-compound">50 µCi L<sup>−1</sup>
+               </named-content> to allow simultaneous measurements by both “hot” and “cold” techniques. Based on these results, [<sup>14</sup>C]thiourea (<named-content content-type="chemical-compound">50 µCi L<sup>−1</sup>
+               </named-content>; Sigma-Aldrich; 30–60 mCi mmol<sup>−1</sup>) and [<sup>14</sup>C]acetamide (<named-content content-type="chemical-compound">50 µCi L<sup>−1</sup>
+               </named-content>; NEN-Dupont, 58 mCi mmol<sup>−1</sup>) were added to the perfusion saline in the respective analogue trials. In order to measure extracellular and intracellular spaces, <named-content content-type="chemical-compound">10 µCi L<sup>−1</sup>
+               </named-content> of the extracellular space marker [<sup>3</sup>H]methoxy inulin (Perkin-Elmer, Woodbridge, ON, Canada; 2500 mCi mmol<sup>−1</sup>) was added to the saline in 5 preparations perfused with Control saline 2. This added a negligible amount of “cold” methoxy inulin ( &lt; 10<sup>−5</sup> mmol L<sup>−1</sup>) to the perfusate.</p>
+      </sec>
+      <sec>
+        <title>Analytical techniques</title>
+        <p>Urea in sea water, perfusate, and gill extract samples was measured by the colorimetric diacetyl monoxime assay of <xref ref-type="bibr" rid="ref-15">Rahmatullah &amp; Boyde (1980)</xref>. All radioactivity measurements were made on a LS6500 scintillation counter (Beckman Coulter, Fullerton, CA, USA). Water samples (5 ml) for determination of [<sup>14</sup>C]urea, [<sup>14</sup>C]thiourea, or [<sup>14</sup>C]acetamide radioactivity were added to 10 ml of Aqueous Counting Scintillant (ACS) (Amersham, Little Chalfont, UK). Perfusate samples (<named-content content-type="chemical-compound">50 µl</named-content>) and gill extract samples (<named-content content-type="chemical-compound">100 µl</named-content>) were diluted to 5 ml with sea water and similarly added to 10 ml ACS. Quench correction was performed by an onboard program using the external standard (Beckman H-# system) and checked by internal standardization. For determination of [<sup>3</sup>H]methoxy inulin radioactivity, 0.8 ml of gill extract and 1.0 ml of perfusate were diluted to 2 ml with seawater and added to 4 ml of ACS. The quench in each sample was corrected by internal standardization. Water content of gill samples was determined gravimetrically by drying at 60 °C for three days.</p>
+      </sec>
+      <sec>
+        <title>Calculations and statistics</title>
+        <p>Mean urea efflux rates were calculated from the slopes of the appearance curves of urea in the external sea water, factored by time, total fish body weight, and the measured volume of the external reservoir. In the case of radiolabeled compounds ([<sup>14</sup>C]urea, [<sup>14</sup>C]thiourea, and [<sup>14</sup>C]acetamide), the slope of the appearance curve of radioactivity (dpm h<sup>−1</sup>) was additionally factored by the mean specific activity (i.e. <named-content content-type="chemical-compound">dpm µmol<sup>−1</sup>
+               </named-content>) of venous (i.e. input) perfusate samples over the same period. Measurements of gill tissue concentrations of urea, thiourea, and acetamide by [<sup>14</sup>C] radioactivity were based on the radioactivity of gill extracts (after correction for dilution), factored by the mean specific activity (i.e. <named-content content-type="chemical-compound">dpm µmol<sup>−1</sup>
+               </named-content>) of venous and arterial perfusate samples taken at the end of the perfusion period. Concentrations were expressed both per kg tissue and per kg tissue water, as noted in figures.</p>
+        <p>The extracellular fluid volume of gill tissue was calculated as: <disp-formula id="eqn-1"><alternatives><graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/33/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[\begin{eqnarray*} \text{ECFV}=\frac{\text{Tissue }[{\text{}}^{3}\mathrm{H}]\text{methoxy inulin (dpm. kg }{\mathrm{tissue}}^{-1})}{\text{Perfusate }[{\text{}}^{3}\mathrm{H}]\text{methoxy inulin (dpm. kg perfusate }{\mathrm{H}}_{2}{\mathrm{O}}^{-1})} \end{eqnarray*}]]></tex-math><mml:math id="mml-eqn-1"><mml:mstyle displaystyle="true"><mml:mtext>ECFV</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mtext>Tissue </mml:mtext><mml:mo>[</mml:mo><mml:msup><mml:mrow><mml:mtext/></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi mathvariant="normal">H</mml:mi><mml:mo>]</mml:mo><mml:mtext>methoxy inulin (dpm. kg </mml:mtext><mml:msup><mml:mrow><mml:mi mathvariant="normal">tissue</mml:mi></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mtext>Perfusate </mml:mtext><mml:mo>[</mml:mo><mml:msup><mml:mrow><mml:mtext/></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mi mathvariant="normal">H</mml:mi><mml:mo>]</mml:mo><mml:mtext>methoxy inulin (dpm. kg perfusate </mml:mtext><mml:msub><mml:mrow><mml:mi mathvariant="normal">H</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msup><mml:mrow><mml:mi mathvariant="normal">O</mml:mi></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>)</mml:mo></mml:mrow></mml:mfrac></mml:mstyle></mml:math></alternatives></disp-formula> where the numerator was based on radioactivity measurements in gill extracts, corrected for dilution, and denominator was the mean of arterial and venous radioactivity measurements at the end of the perfusion period. Intracellular fluid volume (ICFV) was calculated as the difference between total tissue water (kg <named-content content-type="chemical-compound">H<sub>2</sub>O. kg tissue<sup>−1</sup>
+               </named-content>) and ECFV (kg <named-content content-type="chemical-compound">H<sub>2</sub>O. kg tissue<sup>−1</sup>
+               </named-content>).</p>
+        <p>Data have been expressed as means ± 1 SEM, where <italic>N</italic> = number of animals. Data were checked for normality and homogeneity of variance, and in a few cases log or arc-sine transformed to achieve this. Means were compared by Student’s paired or unpaired Student’s t-test (two-tailed) as appropriate, or in the case of multiple comparisons, by 1-way ANOVA followed by the Fisher’s LSD test. Regression lines were fitted by least squares, and the significance of Pearson’s correlation coefficient (<italic>r</italic>) assessed. A significance level of <italic>P</italic> &lt; 0.05 was used throughout.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>Ventral aortic input pressure was unaffected by the experimental treatments, but increased significantly by about 15% over the course of the 45 min perfusions from 23.7 ± 1.2 to 27.2 ± 1.3 mm Hg (<italic>N</italic> = 44). Efflux rates of urea and urea analogues into the external recirculating water were generally low and variable in the first 10 min, but stabilized thereafter, so rates were calculated from regression lines fitted to the 10–45 min data points.</p>
+      <sec>
+        <title>“Cold” urea versus “hot” [<sup>14</sup>C]urea efflux rates and gill tissue concentrations</title>
+        <p>There was a strong linear relationship (<italic>Y</italic> = 1.28<italic>X</italic>−136.2, <italic>N</italic> = 6, <italic>r</italic> = 0.98, <italic>P</italic> &lt; 0.001) between the efflux rate of “hot” [<sup>14</sup>C]labeled urea (<italic>Y</italic>) and the efflux rate of “cold” urea (<italic>X</italic>), measured simultaneously on the same preparations (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The relationship covered a wide range of flux rates (100–<named-content content-type="chemical-compound">3000 µmol kg<sup>−1</sup> h<sup>−1</sup>
+               </named-content>) representative of the range of urea and analogue fluxes recorded in subsequent experiments, and the slope was not significantly different from 1.0. Additionally, gill tissue urea concentration measured chemically (i.e. “cold”) in these 6 preparations was 309.5 ± 18.6 mmol kg<sup>−1</sup> and by [<sup>14</sup>C]urea radioactivity (i.e. “hot”) was 299.0 ± 17.9 mmol kg<sup>−1</sup>, not significantly different. These data therefore validate the use of the radiolabel methodology for subsequent measurements of the fluxes and gill tissue concentrations of the analogues, which could not be quantified by “cold” techniques.</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.33/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Validation of the radiotracer method.</title>
+            <p>The relationship between urea efflux rate measured by [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]urea radiotracer appearance (“hot”) versus urea efflux rate measured by chemical assay of urea appearance (“cold”) in the perfused head preparation of the dogfish shark (<italic>N</italic> = 6).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/33/fig-1.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Urea and analogue efflux rates</title>
+        <p>When dogfish gills were perfused with Control saline 1 containing 350 mmol L<sup>−1</sup> urea, urea efflux rates averaged about <named-content content-type="chemical-compound">450 µmol kg<sup>−1</sup> h<sup>−1</sup>
+               </named-content> (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). In separate preparations where the saline [urea] was reduced by 50% to 175 mmol L<sup>−1</sup> (Control 2; osmotically compensated with 175 mM mannitol), the urea efflux rate fell by only 35%, a difference which was not significant. However, when 175 mmol L<sup>−1</sup> thiourea was presented together with 175 mmol L<sup>−1</sup> urea, the urea efflux rate exhibited a 4-fold increase relative to 175 mmol L<sup>−1</sup> urea alone, and a 6.5-fold increase when 175 mmol L<sup>−1</sup> acetamide was presented together with 175 mmol L<sup>−1</sup> urea. Both of these increases were highly significant. In each case, the simultaneously measured [<sup>14</sup>C] analogue efflux rate was approximately equal to the urea efflux rate.</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.33/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Urea and analogue efflux rates in the perfused head preparation of the dogfish shark.</title>
+            <p>Open bars represent urea efflux rates; shaded bars represent analogue efflux rates. The treatment (perfusion saline) is noted below the bars: Control saline 1–350 mmol L<sup>−1</sup> urea (<italic>N</italic> = 12); Control saline 2–175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup> mannitol (<italic>N</italic> = 5); 175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup> [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]thiourea (<italic>N</italic> = 6); 175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup> [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]acetamide (<italic>N</italic> = 6). Means ± 1 SEM. Means bearing the same letters are not significantly different (<italic>P</italic> &lt; 0.05).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/33/fig-2.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Gill tissue urea and analogue concentrations</title>
+        <p>When expressed on a per kg tissue or kg plasma basis, gill tissue [urea] at the end of the 45 min perfusion with Control saline 1 (350 mmol L<sup>−1</sup>) was about 90% of perfusate [urea], a significant difference (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). By way of comparison, in gill tissue sampled from intact dogfish, gill [urea] was about 85% of plasma urea, again a significant difference. Both <italic>in vivo</italic> values were slightly higher than in the perfused preparations, significant only for the plasma <italic>versus</italic> perfusate concentrations. However when the urea concentrations were expressed on a per kg tissue H<sub>2</sub>O and per kg perfusate or plasma H<sub>2</sub>O basis, there were no longer any plasma or perfusate <italic>versus</italic> gill tissue differences, indicating equilibration between the compartments for Control saline 1 and <italic>in vivo</italic> treatments (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>).</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.33/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Urea concentrations in plasma or perfusate versus those measured simultaneously in gill tissue.</title>
+            <p>Black bars represent concentrations in the plasma or perfusate; open bars represent concentrations in the gill tissue. In (A), concentrations are expressed on a per kg tissue or plasma/perfusate basis; in (B) concentrations are expressed on a per kg tissue <named-content content-type="chemical-compound">H<sub>2</sub>O</named-content> or plasma/perfusate <named-content content-type="chemical-compound">H<sub>2</sub>O</named-content> basis. The treatment is noted below the bars: In vivo (<italic>N</italic> = 9); Control saline 1–350 mmol L<sup>−1</sup> urea (<italic>N</italic> = 10); Control saline 2–<named-content content-type="chemical-compound">175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup>
+                     </named-content> mannitol (<italic>N</italic> = 5); <named-content content-type="chemical-compound">175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup>
+                     </named-content> [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]thiourea (<italic>N</italic> = 6); <named-content content-type="chemical-compound">175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup>
+                     </named-content> [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]acetamide (<italic>N</italic> = 6). Means ± 1 SEM. Plasma/perfusate means bearing the same capital letters are not significantly different (<italic>P</italic> &lt; 0.05); gill tissue means bearing the same lower case letters are not significantly different (<italic>P</italic> &lt; 0.05); asterisks indicate gill tissue mean significantly different (<italic>P</italic> &lt; 0.05) from corresponding plasma/perfusate mean.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/33/fig-3.png"/>
+        </fig>
+        <p>This was not the case for gills perfused with Control saline 2 (175 mmol L<sup>−1</sup> urea, osmotically compensated with mannitol). On a per kg tissue or perfusate basis, gill [urea] was 34% higher than perfusate [urea] (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>), and this difference increased to 42% when the data were expressed on a per kg tissue H<sub>2</sub>O and per kg perfusate H<sub>2</sub>O basis (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). Thus gill [urea] tended to be maintained, falling by only about 22% despite a 45 min perfusion with Control saline 2; it did not decline in proportion to the 50% difference in perfusate [urea] between Control saline 1 and Control saline 2.</p>
+        <p>A very different pattern was seen when 175 mmol L<sup>−1</sup> thiourea or 175 mmol L<sup>−1</sup> acetamide was presented together with 175 mmol L<sup>−1</sup> urea. Gill [urea] declined by approximately 50% relative to the control saline 1 treatment, and was about equal to perfusate [urea] regardless of whether the data were expressed on a per kg tissue basis (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>) or a per kg tissue H<sub>2</sub>O basis (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). These tissue urea concentrations were substantially lower than in the Control saline 2 treatment, despite identical perfusate urea concentrations (<xref ref-type="fig" rid="fig-3">Figs. 3A, 3B</xref>). Thus the presence of either analogue displaced urea from the gill tissue.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.33/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Analogue concentrations in the perfusate versus those measured simultaneously in gill tissue.</title>
+            <p>Black bars represent concentrations in the perfusate; open bars represent concentrations in the gill tissue. In (A), concentrations are expressed on a per kg tissue or perfusate basis; in (B) concentrations are expressed on a per kg tissue <named-content content-type="chemical-compound">H<sub>2</sub>O</named-content> or perfusate <named-content content-type="chemical-compound">H<sub>2</sub>O</named-content> basis. The treatment (perfusion saline) is noted below the bars: <named-content content-type="chemical-compound">175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup>
+                     </named-content> [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]thiourea (<italic>N</italic> = 6); <named-content content-type="chemical-compound">175 mmol L<sup>−1</sup> urea + 175 mmol L<sup>−1</sup>
+                     </named-content> [<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]acetamide (<italic>N</italic> = 6). Means ± 1 SEM. Perfusate means bearing the same capital letters are not significantly different (<italic>P</italic> &lt; 0.05); gill tissue means bearing the same lower case letters are not significantly different (<italic>P</italic> &lt; 0.05); asterisks indicate gill tissue mean significantly different (<italic>P</italic> &lt; 0.05) from corresponding perfusate mean.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/33/fig-4.png"/>
+        </fig>
+        <p>However the two analogues behaved very differently with respect to their own accumulation in gill tissue. Gill tissue concentrations of [<sup>14</sup>C]thiourea, were extremely high, about 2.8-fold those of the perfusate regardless of whether the data were expressed on a per kg tissue basis (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>) or a per kg tissue H<sub>2</sub>O basis (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). Thus they were also significantly higher than the simultaneously measured gill [urea] (<xref ref-type="fig" rid="fig-3">Figs. 3A, 3B</xref>) by comparable factors (2.9- fold). In contrast, gill tissue [<sup>14</sup>C]acetamide concentration was 25% lower than perfusate [<sup>14</sup>C]acetamide concentration (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>), and this difference remained significant (22% lower) when the data were expressed on a per kg tissue H<sub>2</sub>O basis (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). Thus acetamide did not equilibrate between perfusate and tissue, and indeed tissue [<sup>14</sup>C]acetamide concentrations (<xref ref-type="fig" rid="fig-4">Figs. 4A, 4B</xref>) also remained below tissue urea concentrations (<xref ref-type="fig" rid="fig-3">Figs. 3A, 3B</xref>) by about 20%.</p>
+      </sec>
+      <sec>
+        <title>The water content of gill tissue and its distribution</title>
+        <p>The water content of gills perfused with Control saline 1 was similar to that <italic>in vivo</italic>, and to that in gills perfused with Control saline 2 (<xref ref-type="table" rid="table-1">Table 1</xref>). However the latter was significantly below the <italic>in vivo</italic> value by about 2.5%. Water contents were significantly higher by 3–6% in the two analogue treatments relative to all others, but there was no difference between gills perfused with 175 mmol L<sup>−1</sup> thiourea plus 175 mmol L<sup>−1</sup> urea <italic>versus</italic> 175 mmol L<sup>−1</sup> acetamide plus 175 mmol L<sup>−1</sup> urea.</p>
+        <p>Extracellular (ECFV) and intracellular (ICFV) volumes were measured only in preparations perfused with Control saline 2. Based on the distribution of the extracellular marker [<sup>3</sup>H]methoxy inulin, the tissue water was divided into an extracellular compartment of 64.79 ± 2.88 (5)% and an intracellular compartment of 35.24 ± 2.88% (5)%; absolute values are reported in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <sec>
+        <title>Overview</title>
+        <p>Overall, the data are consistent with the presence of an active urea back-transporter in the gill cells which is competitively inhibited by the urea analogues thiourea and acetamide. Our original hypotheses that the analogues would increase urea efflux rates, would displace urea from the gill cells, and would be excreted at comparable rates to urea when presented at equimolar concentrations in the perfusate were all confirmed. Our hypothesis that gill cell urea concentration would be buffered from changes in extracellular urea concentration was also confirmed, and helped explain the lack of correspondence between plasma urea concentration and urea efflux rate seen in this and previous investigations (see Introduction). However, our hypothesis that gill cell urea concentrations would be much lower than the extracellular concentrations was disproven; indeed gill cell urea concentrations appear to be normally very close to plasma concentrations both <italic>in vivo</italic> and in the perfused head preparation. As such, these results provide new evidence the apical membrane as the limiting factor in maintaining gill urea impermeability, and raise the prospect that a back-transporter may also operate at the apical membrane.</p>
+      </sec>
+      <sec>
+        <title>Urea efflux rates</title>
+        <p>Mean urea efflux rates (<named-content content-type="chemical-compound">∼ 450 µmol kg<sup>−1</sup> h<sup>−1</sup>
+               </named-content>) from the head preparation when perfused with Control saline 1 were at the high end of the range (182–<named-content content-type="chemical-compound">480 µmol kg<sup>−1</sup> h<sup>−1</sup>
+               </named-content>) reported by <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> for various control series in a very similar preparation. They were also slightly higher than rates (250–<named-content content-type="chemical-compound">400 µmol kg<sup>−1</sup> h<sup>−1</sup>
+               </named-content>) typically measured <italic>in vivo</italic> (<xref ref-type="bibr" rid="ref-22">Wood, Pärt &amp; Wright, 1995</xref>; <xref ref-type="bibr" rid="ref-23">Wood et al., 2005</xref>; <xref ref-type="bibr" rid="ref-10">Kajimura et al., 2006</xref>) on <italic>Squalus acanthias</italic> from the same source. Our results showing only a small, non-significant drop in urea efflux rate (by about 35%) when perfusate urea was reduced by 50% (Control saline 2) were also in agreement with very similar results of <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref>, and are explained, and least in part, by the very small measured change (22% drop) in gill tissue urea concentration. Thus gill urea concentration, and consequently urea efflux rates, appear to be buffered from changes in extracellular urea concentration.</p>
+        <p>In contrast, a major difference from the results of <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> was our finding that equimolar thiourea markedly increased urea efflux rates. The likely explanation is that <xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood (1998)</xref> changed over the perfusate from 175 mmol L<sup>−1</sup> urea to 175 mmol L<sup>−1</sup> urea plus 175 mmol L<sup>−1</sup> thiourea for a period of only 10 min, whereas we perfused continuously with the latter saline for 45 min. Indeed we found that urea efflux rates were usually unstable during the initial 10 min of perfusion with any solution. It is also noteworthy that 45 min perfusion with equimolar acetamide, another competitive analogue, had a very similar effect. These data are consistent with the <italic>in vivo</italic> findings of <xref ref-type="bibr" rid="ref-22">Wood, Pärt &amp; Wright (1995)</xref> that thiourea and urea infusions increased branchial urea efflux rates in intact dogfish. However, it is more difficult to rationalize these results with the lack of significant effect of 148-fold excesses of thiourea and acetamide on urea transport rate in gill basolateral membrane vesicles (<xref ref-type="bibr" rid="ref-5">Fines, Ballantyne &amp; Wright, 2001</xref>). As argued below, the most likely explanation is that thiourea and acetamide were acting on a different back-transport system in the current experiments.</p>
+      </sec>
+      <sec>
+        <title>Gill urea and analogue concentrations</title>
+        <p>Contrary to earlier supposition that gill cell urea concentrations would be much below extracellular concentrations (<xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood, 1998</xref>; <xref ref-type="bibr" rid="ref-5">Fines, Ballantyne &amp; Wright, 2001</xref>; <xref ref-type="bibr" rid="ref-9">Hill et al., 2004</xref>), the present measurements suggest that they are almost in equilibrium when expressed on a per kg water basis. Of course this conclusion depends to some extent on water distribution between ECFV and ICFV, which was measured only in Control series 2. In <xref ref-type="table" rid="table-2">Table 2</xref>, we have applied the same ECFV and ICFV values to all the experimental series, so as to estimate mean intracellular urea and analogue concentrations in the gill cells. The calculation is based on the measured extracellular and gill tissue urea concentrations and water contents, and the assumption that the same ECFV applies to all treatments. Thus measured differences in water content, associated mainly with the analogue treatments (<xref ref-type="table" rid="table-1">Table 1</xref>), would be due entirely to changes in ICFV. Nevertheless, model calculations, using the opposite assumption, that differences in water content were due entirely to changes in ECFV, yielded very similar values, indicating that the estimates are robust.</p>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.33/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <p>Intracellular and extracellular concentrations of urea and analogues in gill tissue.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/33/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Treatment</th>
+                  <th align="left">Intracellular</th>
+                  <th align="left">Extracellular</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">(<named-content content-type="chemical-compound">mmol kg H<sub>2</sub>O<sup>−1</sup>
+                              </named-content>)</th>
+                  <th align="left">(<named-content content-type="chemical-compound">mmol kg H<sub>2</sub>O<sup>−1</sup>
+                              </named-content>)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" colspan="3">
+                    <bold>Urea Concentrations:</bold>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>In vivo</italic>
+                  </td>
+                  <td align="left">337</td>
+                  <td align="left">443</td>
+                </tr>
+                <tr>
+                  <td align="left">Control Saline 1 (<named-content content-type="chemical-compound">350 mmol L<sup>−1</sup>
+                              </named-content> Urea)</td>
+                  <td align="left">409</td>
+                  <td align="left">385</td>
+                </tr>
+                <tr>
+                  <td align="left">Control Saline 2 (<named-content content-type="chemical-compound">175 mmol L<sup>−1</sup> Urea + 175 mmol L<sup>−1</sup>
+                              </named-content> Mannitol)</td>
+                  <td align="left">419</td>
+                  <td align="left">214</td>
+                </tr>
+                <tr>
+                  <td align="left">[<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]Thiourea <named-content content-type="chemical-compound">(175 mmol L<sup>−1</sup>) + Urea (175 mmol L<sup>−1</sup>)</named-content>
+                           </td>
+                  <td align="left">185</td>
+                  <td align="left">189</td>
+                </tr>
+                <tr>
+                  <td align="left">[<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]Acetamide <named-content content-type="chemical-compound">(175 mmol L<sup>−1</sup>) + Urea (175 mmol L<sup>−1</sup>)</named-content>
+                           </td>
+                  <td align="left">171</td>
+                  <td align="left">194</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="3">
+                    <bold>Analogue Concentrations:</bold>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left">[<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]Thiourea <named-content content-type="chemical-compound">(175 mmol L<sup>−1</sup>) + Urea (175 mmol L<sup>−1</sup>)</named-content>
+                           </td>
+                  <td align="left">1135</td>
+                  <td align="left">194</td>
+                </tr>
+                <tr>
+                  <td align="left">[<named-content content-type="chemical-compound"><sup>14</sup>C</named-content>]Acetamide <named-content content-type="chemical-compound">(175 mmol L<sup>−1</sup>) + Urea (175 mmol L<sup>−1</sup>)</named-content>
+                           </td>
+                  <td align="left">87</td>
+                  <td align="left">195</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-2fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-2fn1">
+              <p>See text for calculation details.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>These calculations (<xref ref-type="table" rid="table-2">Table 2</xref>) suggest that <italic>in vivo</italic>, intracellular urea concentration is about 76% of extracellular urea concentration, and this rises to approximate equality in preparations perfused with Control saline 1. When extracellular urea is approximately halved, in perfusions with Control saline 2, intracellular urea remains unchanged. However, when equimolar thiourea or acetamide are present in the perfusion medium, then intracellular urea concentrations are reduced by about 55%. Thus in the absence of the analogues, gill intracellular urea is well-regulated in the face of a large decrease in extracellular urea, but the presence of either analogue markedly depresses intracellular urea concentration.</p>
+        <p>These calculations also indicate that intracellular thiourea concentrations are remarkably 6-fold higher than extracellular concentrations at the end of 45 min perfusion. This is not necessarily due to an active retention mechanism. Similar biomagnification has been seen in other systems such as the rat lung, and is probably explained by binding of the sulfhydryl moiety on thiourea to cellular membrane proteins (<xref ref-type="bibr" rid="ref-8">Hollinger, Giri &amp; Hwang, 1976</xref>; <xref ref-type="bibr" rid="ref-7">Hollinger &amp; Giri, 1990</xref>). Adsorption is unlikely to occur for either urea or acetamide, which do not contain sulfhydryl moieties. In contrast to thiourea, intracellular acetamide concentrations remained well below extracellular acetamide levels, as well as below intracellular urea levels, despite the ability of acetamide to displace intracellular urea. Based on both urea efflux rates and acetamide efflux rates, this analogue is a more effective blocker of the urea retention mechanism than thiourea, yet appears to be poorly reabsorbed itself. It is clear that urea transporters in different systems may vary both in their affinity for analogues, and in their transport capacity for analogues. See for example the studies on two different urea transporters in gills and kidney of an unusual ureotelic teleost, the gulf toadfish (<italic>Opsanus beta</italic>) by <xref ref-type="bibr" rid="ref-12">McDonald et al. (2000)</xref> and additional examples cited therein. In the kidney of <italic>Squalus acanthias</italic>, an apparent Na<sup>+</sup>-linked active urea reabsorption mechanism transports acetamide, but to a lesser extent than urea, yet it does not transport thiourea (<xref ref-type="bibr" rid="ref-17">Schmidt-Nielsen &amp; Rabinowitz, 1964</xref>; <xref ref-type="bibr" rid="ref-18">Schmidt-Nielsen, Truniger &amp; Rabinowitz, 1972</xref>).</p>
+      </sec>
+      <sec>
+        <title>Implications and a new proposal</title>
+        <p>The present results clearly support the concept of an active urea back-transport mechanism in the gills, reducing effective urea permeability. However, while not discounting the presence of such a back-transporter and an unusual lipid composition in the basolateral membranes (<xref ref-type="bibr" rid="ref-5">Fines, Ballantyne &amp; Wright, 2001</xref>), they return the focus to the apical membranes as the limiting barrier (<xref ref-type="bibr" rid="ref-13">Pärt, Wright &amp; Wood, 1998</xref>; <xref ref-type="bibr" rid="ref-9">Hill et al., 2004</xref>). It is difficult to see how the basolateral membranes could be limiting when intracellular urea concentrations are close to extracellular levels. We suggest this dichotomy could be explained by the presence of a back-transporter on the apical membranes, actively scavenging urea from the boundary layer as it leaks out. The primary effects of thiourea and acetamide in the present study would have been due to competition for this apical back-transporter, thereby increasing urea efflux and reducing intracellular urea concentration. There is undoubtedly a strong inwardly directed Na<sup>+</sup> gradient from the external seawater across the apical membranes that could power such a mechanism by co-transport, as in the dogfish kidney (<xref ref-type="bibr" rid="ref-18">Schmidt-Nielsen, Truniger &amp; Rabinowitz, 1972</xref>), and unidirectional Na<sup>+</sup> influx rates are many-fold higher than urea efflux rates in other elasmobranchs (<xref ref-type="bibr" rid="ref-14">Payan &amp; Maetz, 1973</xref>; <xref ref-type="bibr" rid="ref-3">Carrier &amp; Evans, 1972</xref>; <xref ref-type="bibr" rid="ref-6">Haywood, 1974</xref>; <xref ref-type="bibr" rid="ref-1">Bentley, Maetz &amp; Payan, 1976</xref>). To our knowledge, this possibility has never been investigated.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>CM Wood is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Chris M. Wood</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-2">Hon Jung Liew</xref> performed the experiments, edited the manuscript.</p>
+        </fn>
+        <fn id="contribution-3">
+          <p><xref ref-type="contrib" rid="author-3">Gudrun De Boeck</xref> performed the experiments, contributed reagents/materials/analysis tools, edited the manuscript.</p>
+        </fn>
+        <fn id="contribution-4">
+          <p><xref ref-type="contrib" rid="author-4">Patrick J. Walsh</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, edited the manuscript.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Animal Ethics</title>
+        <fn id="addinfo-1">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>Research Board McMaster University; AUP #09-04-10.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Ethics</title>
+        <fn id="addinfo-2">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>All procedures followed Canada Council for Animal Care guidelines and were approved by BMSC and McMaster University Animal Care Committees.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Bentley, Maetz &amp; Payan (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bentley</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Maetz</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Payan</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>A study of the unidirectional fluxes of <named-content content-type="chemical-compound">Na<sup>+</sup>
+                  </named-content> and <named-content content-type="chemical-compound">Cl<sup>−</sup>
+                  </named-content> across the gills of the dogfish <italic>Scyliorhinus canicula</italic> (Chondrichthyes)</article-title>
+          <source>Journal of Experimental Biology</source>
+          <year>1976</year>
+          <volume>64</volume>
+          <fpage>629</fpage>
+          <lpage>637</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Boylan (1967)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boylan</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Gilbert</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Mathewson</surname>
+              <given-names>RF</given-names>
+            </name>
+            <name>
+              <surname>Rall</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Gill permeability in <italic>Squalus acanthias</italic></article-title>
+          <source>Sharks, skates and rays</source>
+          <year>1967</year>
+          <publisher-loc>Baltimore</publisher-loc>
+          <publisher-name>Johns Hopkins Press</publisher-name>
+          <fpage>197</fpage>
+          <lpage>206</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Carrier &amp; Evans (1972)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carrier</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>DH</given-names>
+            </name>
+          </person-group>
+          <article-title>Ion, water, and urea turnover rates in the nurse shark, <italic>Ginglymostoma cirratum</italic></article-title>
+          <source>Comparative Biochemistry and Physiology</source>
+          <year>1972</year>
+          <volume>19</volume>
+          <fpage>649</fpage>
+          <lpage>653</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Ebert et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ebert</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>WT</given-names>
+            </name>
+            <name>
+              <surname>Goldman</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Compagno</surname>
+              <given-names>LJV</given-names>
+            </name>
+            <name>
+              <surname>Daly-Engel</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>RD</given-names>
+            </name>
+          </person-group>
+          <article-title>Resurrection and redescription of <italic>Squalus suckleyi</italic> Girard from the North Pacific, with comments on the <italic>Squalus acanthias</italic> subgroup (Squaliformes: Squalidae)</article-title>
+          <source>Zootaxa</source>
+          <year>2010</year>
+          <volume>2612</volume>
+          <fpage>22</fpage>
+          <lpage>40</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Fines, Ballantyne &amp; Wright (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fines</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Ballantyne</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>Active urea transport and an unusual basolateral membrane composition in the gills of a marine elasmobranch</article-title>
+          <source>American Journal of Physiology</source>
+          <year>2001</year>
+          <volume>280</volume>
+          <fpage>R16</fpage>
+          <lpage>R24</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Haywood (1974)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haywood</surname>
+              <given-names>GP</given-names>
+            </name>
+          </person-group>
+          <article-title>The exchangeable ionic space, and salinity effects upon ion, water, and urea turnover rates in the dogfish <italic>Poroderma africanum</italic></article-title>
+          <source>Marine Biology</source>
+          <year>1974</year>
+          <volume>26</volume>
+          <fpage>69</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00389088</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Hollinger &amp; Giri (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hollinger</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Giri</surname>
+              <given-names>SN</given-names>
+            </name>
+          </person-group>
+          <article-title>Interaction of thiourea with rat lung protein</article-title>
+          <source>Toxicology</source>
+          <year>1990</year>
+          <volume>60</volume>
+          <fpage>245</fpage>
+          <lpage>251</lpage>
+          <pub-id pub-id-type="doi">10.1016/0300-483X(90)90147-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Hollinger, Giri &amp; Hwang (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hollinger</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Giri</surname>
+              <given-names>SN</given-names>
+            </name>
+            <name>
+              <surname>Hwang</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Binding of radioactivity from [<sup>14</sup>C]thiourea to rat lung protein</article-title>
+          <source>Drug Metabolism and Disposition</source>
+          <year>1976</year>
+          <volume>4</volume>
+          <fpage>119</fpage>
+          <lpage>123</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Hill et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hill</surname>
+              <given-names>WG</given-names>
+            </name>
+            <name>
+              <surname>Mathai</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Gensure</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Zeidel</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Apodaca</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Saenz</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Kinne-Saffran</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kinne</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zeidel</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <article-title>Permeabilities of teleost and elasmobranch gill apical membranes: evidence that lipid bilayers alone do not account for barrier function</article-title>
+          <source>American Journal of Physiology</source>
+          <year>2004</year>
+          <volume>287</volume>
+          <fpage>C235</fpage>
+          <lpage>C242</lpage>
+          <pub-id pub-id-type="doi">10.1152/ajpcell.00017.2004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Kajimura et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kajimura</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Walsh</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Mommsen</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>The dogfish shark (<italic>Squalus acanthias</italic>) activates both hepatic and extra-hepatic ornithine urea cycle enzyme activities for nitrogen conservation after feeding</article-title>
+          <source>Physiological and Biochemical Zoology</source>
+          <year>2006</year>
+          <volume>79</volume>
+          <fpage>602</fpage>
+          <lpage>613</lpage>
+          <pub-id pub-id-type="doi">10.1086/501060</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Marsh &amp; Knepper (1992)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marsh</surname>
+              <given-names>D J</given-names>
+            </name>
+            <name>
+              <surname>Knepper</surname>
+              <given-names>M A</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Windhager</surname>
+              <given-names>EE</given-names>
+            </name>
+          </person-group>
+          <article-title>Renal handling of urea</article-title>
+          <source>Handbook of physiology, section 8, renal physiology</source>
+          <year>1992</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>1317</fpage>
+          <lpage>1348</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>McDonald et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McDonald</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>YX</given-names>
+            </name>
+            <name>
+              <surname>Walsh</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Differential branchial and renal handling of urea, acetamide, and thiourea in the gulf toadfish, <italic>Opsanus beta</italic>: evidence for two transporters</article-title>
+          <source>Journal of Experimental Biology</source>
+          <year>2000</year>
+          <volume>203</volume>
+          <fpage>1027</fpage>
+          <lpage>1037</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Pärt, Wright &amp; Wood (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pärt</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Urea and water permeability in dogfish (<italic>Squalus acanthias</italic>) gills</article-title>
+          <source>Comparative Biochemistry and Physiology</source>
+          <year>1998</year>
+          <volume>119A</volume>
+          <fpage>117</fpage>
+          <lpage>123</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Payan &amp; Maetz (1973)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Payan</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Maetz</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Branchial sodium transport mechanisms in <italic>Scyliorhinis canicula</italic>; evidence for <named-content content-type="chemical-compound">Na<sup>+</sup>/NH<sub>4+</sub>
+                  </named-content> and <named-content content-type="chemical-compound">Na<sup>+</sup>/H<sup>+</sup>
+                  </named-content> exchanges and for a role of carbonic anhydrase</article-title>
+          <source>Journal of Experimental Biology</source>
+          <year>1973</year>
+          <volume>58</volume>
+          <fpage>487</fpage>
+          <lpage>502</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Rahmatullah &amp; Boyde (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rahmatullah</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Boyde</surname>
+              <given-names>TR</given-names>
+            </name>
+          </person-group>
+          <article-title>Improvements in the determination of urea using diacetyl monoxime; methods with and without deproteinization</article-title>
+          <source>Clinica Chimica Acta</source>
+          <year>1980</year>
+          <volume>107</volume>
+          <fpage>3</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1016/0009-8981(80)90407-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Robertson (1975)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robertson</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>Osmotic characteristics of the blood plasma and parietal muscle of <italic>Squalus acanthias</italic> L</article-title>
+          <source>Biological Bulletin</source>
+          <year>1975</year>
+          <volume>148</volume>
+          <fpage>303</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="doi">10.2307/1540549</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Schmidt-Nielsen &amp; Rabinowitz (1964)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidt-Nielsen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Rabinowitz</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Methylurea and acetamide; active reabsorption by elasmobranch renal tubules</article-title>
+          <source>Science</source>
+          <year>1964</year>
+          <volume>146</volume>
+          <fpage>1587</fpage>
+          <lpage>1588</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.146.3651.1587</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Schmidt-Nielsen, Truniger &amp; Rabinowitz (1972)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schmidt-Nielsen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Truniger</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Rabinowitz</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Sodium-linked urea transport by the renal tubule of the spiny dogfish <italic>Squalus acanthias</italic></article-title>
+          <source>Comparative Biochemistry and Physiology</source>
+          <year>1972</year>
+          <volume>42A</volume>
+          <fpage>13</fpage>
+          <lpage>25</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Staedler &amp; Frerichs (1858)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Staedler</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Frerichs</surname>
+              <given-names>FT</given-names>
+            </name>
+          </person-group>
+          <article-title>Uber das vorkomenn von harnstoff, taurin, und scyllit in den organen der plagiostomen</article-title>
+          <source>Journal für Praktische Chemie</source>
+          <year>1858</year>
+          <volume>73</volume>
+          <fpage>48</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1002/prac.18580730110</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Smith (1929)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>HW</given-names>
+            </name>
+          </person-group>
+          <article-title>The composition of the body fluids of elasmobranchs</article-title>
+          <source>Journal of Biological Chemistry</source>
+          <year>1929</year>
+          <volume>81</volume>
+          <fpage>407</fpage>
+          <lpage>419</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Smith (1936)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>HW</given-names>
+            </name>
+          </person-group>
+          <article-title>The retention and physiological role of urea in the elasmobranchii</article-title>
+          <source>Biological Reviews</source>
+          <year>1936</year>
+          <volume>11</volume>
+          <fpage>49</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-185X.1936.tb00497.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Wood, Pärt &amp; Wright (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wood</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Pärt</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>Ammonia and urea metabolism in relation to gill function and acid-base balance in a marine elasmobranch, the spiny dogfish (<italic>Squalus acanthias</italic>)</article-title>
+          <source>Journal of Experimental Biology</source>
+          <year>1995</year>
+          <volume>198</volume>
+          <fpage>1545</fpage>
+          <lpage>1558</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Wood et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wood</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Kajimura</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mommsen</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Walsh</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Alkaline tide and nitrogen conservation after feeding in the elasmobranch <italic>Squalus acanthias</italic></article-title>
+          <source>Journal of Experimental Biology</source>
+          <year>2005</year>
+          <volume>208</volume>
+          <fpage>2693</fpage>
+          <lpage>2705</lpage>
+          <pub-id pub-id-type="doi">10.1242/jeb.01678</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

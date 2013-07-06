@@ -1,1147 +1,1527 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">42</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.42</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Neuroscience</subject>
+          <subject>Cognitive Disorders</subject>
+          <subject>Psychiatry and Psychology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Pattern classification of brain activation during emotional processing in subclinical depression: psychosis proneness as potential confounding factor</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Modinos</surname>
+            <given-names>Gemma</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Mechelli</surname>
+            <given-names>Andrea</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Pettersson-Yeo</surname>
+            <given-names>William</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Allen</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>McGuire</surname>
+            <given-names>Philip</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author">
+          <name>
+            <surname>Aleman</surname>
+            <given-names>Andre</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Psychosis Studies, Institute of Psychiatry, King’s College London</institution>, <addr-line>London</addr-line>, <country>United Kingdom</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Neuroscience, Neuroimaging Center (NIC), University Medical Center Groningen, University of Groningen</institution>, <country>The Netherlands</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Iacoboni</surname>
+            <given-names>Marco</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>gemma.modinos@kcl.ac.uk</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-26">
+        <day>26</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e42</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-12-04">
+          <day>4</day>
+          <month>12</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-28">
+          <day>28</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Modinos et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Modinos et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/42"/>
+      <abstract>
+        <p>We used Support Vector Machine (SVM) to perform multivariate pattern classification based on brain activation during emotional processing in healthy participants with subclinical depressive symptoms. Six-hundred undergraduate students completed the Beck Depression Inventory II (BDI-II). Two groups were subsequently formed: (i) subclinical (mild) mood disturbance (<italic>n</italic> = 17) and (ii) no mood disturbance (<italic>n</italic> = 17). Participants also completed a self-report questionnaire on subclinical psychotic symptoms, the Community Assessment of Psychic Experiences Questionnaire (CAPE) positive subscale. The functional magnetic resonance imaging (fMRI) paradigm entailed passive viewing of negative emotional and neutral scenes. The pattern of brain activity during emotional processing allowed correct group classification with an overall accuracy of 77% (<italic>p</italic> = 0.002), within a network of regions including the amygdala, insula, anterior cingulate cortex and medial prefrontal cortex. However, further analysis suggested that the classification accuracy could also be explained by subclinical psychotic symptom scores (correlation with SVM weights <italic>r</italic> = 0.459, <italic>p</italic> = 0.006). Psychosis proneness may thus be a confounding factor for neuroimaging studies in subclinical depression.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Machine learning</kwd>
+        <kwd>Support vector machine</kwd>
+        <kwd>fMRI</kwd>
+        <kwd>Emotion</kwd>
+        <kwd>Subclinical depression</kwd>
+        <kwd>Psychosis proneness</kwd>
+        <kwd>Neuroimaging</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>NARSAD Independent Investigator Award</funding-source>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>European Science Foundation EURYI grant</funding-source>
+          <award-id>NWO number: 044035001</award-id>
+        </award-group>
+        <funding-statement>Andrea Mechelli is supported by a NARSAD Independent Investigator Award. Data collection was supported by a European Science Foundation EURYI grant (NWO number: 044035001) awarded to André Aleman. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Abnormalities in the brain circuitry underlying emotional processing may be key in determining vulnerability to major depressive disorder (MDD) (<xref ref-type="bibr" rid="ref-4">Davidson et al., 2002</xref>). Neuroimaging studies of healthy volunteers have identified a neural circuitry important for the experience of affective states, involving the amygdala, insula, anterior cingulate cortex (ACC), orbitofrontal and medial prefrontal cortex (PFC) (<xref ref-type="bibr" rid="ref-21">Phillips et al., 2003a</xref>). In MDD, studies have documented abnormal activity within this network compared to healthy controls during emotional experience (<xref ref-type="bibr" rid="ref-22">Phillips et al., 2003b</xref>). It is unclear to what extent these abnormalities can be considered a marker of the disorder and to what extent they can be considered a marker of vulnerability. This can be investigated by examining brain activation during emotional experience in young adults with subclinical depressive symptoms.</p>
+      <p>Studies in groups with subclinical symptomatology should consider that alterations in brain activation in subclinical groups are likely to be subtler than those observed in full-blown disorders. The standard approach in the analysis of functional magnetic resonance imaging (fMRI) data is based on the General Linear Model (GLM) (<xref ref-type="bibr" rid="ref-7">Friston et al., 1995</xref>), and is known as mass-univariate because it makes statistical inferences in each location (voxel) independently. However, fMRI data are multivariate in nature since each scan contains information about brain activation at thousands of measured locations (voxels). Based on multivariate statistics, a multivariate analysis may thus be more sensitive to spatially distributed and subtle effects in the brain than a standard mass-univariate analysis, potentially providing a more powerful approach for studies of subclinical populations in which less severe alterations are generally observed. An additional advantage is that it allows inferences to be made at the level of the individual rather than the group and therefore has high translational potential in a clinical setting. The Support Vector Machine (SVM) (<xref ref-type="bibr" rid="ref-26">Vapnik, 1995</xref>) is a powerful tool for statistical pattern classification through which the combination of all voxels as a whole is identified as a global spatial pattern by which the groups differ. In MDD, the application of multivariate analysis to MRI scans has yielded promising results, achieving diagnostic classification accuracies of 67%–86% with functional and 68%–85% with structural MRI (reviewed in <xref ref-type="bibr" rid="ref-19">Orrù et al., 2012</xref>). The application of SVM in MDD has a clear translational potential by identifying biomarkers that allow prediction of treatment response at the individual level. In addition, machine learning weighting factors (used for making predictions) based on abnormalities of brain structure can inform clinical practice reflecting an objective biomarker of MDD illness severity, as recently shown by <xref ref-type="bibr" rid="ref-18">Mwangi et al. (2012)</xref> who achieved 90% classification accuracy with structural MRI scans of MDD patients and controls and observed the SVM weighting factors correlated strongly with subjective ratings of illness severity.</p>
+      <p>Interestingly, <xref ref-type="bibr" rid="ref-8">Fu et al. (2008)</xref> used an emotional processing fMRI task involving sad facial stimuli in a sample of 19 patients with MDD and 19 healthy controls and reported successful discrimination between the groups with an overall accuracy of 86% (<italic>p</italic> &lt; 0.001). However, no previous studies have applied multivariate techniques to address the issue of whether these neurobiological characteristics relate to disease vulnerability. Our group has previously reported significant SVM classification (69.4% accuracy, <italic>p</italic> = 0.017) in a subclinical population, that is, in individuals with psychosis proneness, using functional activation during emotional processing (<xref ref-type="bibr" rid="ref-17">Modinos et al., 2012</xref>). No studies to date have applied multivariate analysis to a sample of individuals with subclinical depression. We therefore used SVM to examine whether individuals with subclinical depressive symptoms would show different brain activation during emotional processing using a multivariate approach. We sought to determine (i) whether a feature classifier based on functional parameters during emotional processing could reliably discriminate between participants with, and without, subclinical depressive symptoms, (ii) which regions contributed to this discrimination and (iii) the role of confounding factors, in particular of subclinical psychosis proneness, as this has been shown to be associated depression (<xref ref-type="bibr" rid="ref-27">Verdoux et al., 1999</xref>) and with emotional processing abnormalities (<xref ref-type="bibr" rid="ref-25">van ’t Wout et al., 2004</xref>).</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Participants</title>
+        <p>Six hundred undergraduate students completed the Beck Depression Inventory II (BDI-II) (<xref ref-type="bibr" rid="ref-2">Beck et al., 1996</xref>). Of these, 17 (10 female) scored ∼14 (range 11-19, mild mood disturbance) and agreed to take part in the study. An age- and gender-matched control group of 17 students (10 female) with low scores (no mood disturbance) was recruited to ensure matching of demographic variables (see <xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.42/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Characteristics of study participants.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/42/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left"/>
+                  <th align="left">Subclinical depression group</th>
+                  <th align="left">Control group</th>
+                  <th align="left"><italic>P</italic> value</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Age (years)</td>
+                  <td align="left">20.5 (Range: 18-27; SD 2.4)</td>
+                  <td align="left">20.7 (Range: 18-27; SD 2.3)</td>
+                  <td align="left">0.886</td>
+                </tr>
+                <tr>
+                  <td align="left">Gender (percentage Female)</td>
+                  <td align="left">10 (%58.8)</td>
+                  <td align="left">10 (%58.8)</td>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Beck Depression Inventory-II (BDI-II)</td>
+                  <td align="left">14.2 (Range: 11-19; SD 2.9)</td>
+                  <td align="left">2.1 (Range: 0-9; SD 2.4)</td>
+                  <td align="left"> &lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td align="left">Community Assessment of Psychic Experiences (CAPE)</td>
+                  <td align="left">1.5 (Range: 1.2-1.8; SD 0.2)</td>
+                  <td align="left">1.1 (Range: 1-1.2; SD 0.04)</td>
+                  <td align="left"> &lt; 0.001</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>The BDI-II is a 21-item mood scale designed to measure depressive symptoms, with each item scored on a four-point scale. No participants scoring above BDI-II Major Depressive Disorder cut-off ( ≥ 20) were included. Participants also completed the Community Assessment of Psychic Experiences (CAPE) (<xref ref-type="bibr" rid="ref-24">Stefanis et al., 2002</xref>), a self-report instrument on psychotic symptoms administered as part of a parallel study on emotional processing in psychosis proneness. In the present study, we used the CAPE to examine the effect of psychosis proneness as a possible confounding variable. Subjects were screened for exclusion criteria by experienced raters using a self-report checklist for healthy participants, comprising (i) no personal history of neurological or psychiatric illness, (ii) no family history of psychotic or neurological illness in first-degree relatives, (iii) no use of illicit substances, and (iv) no changes in overall level of functioning over the past 6 months. After subjects were given a complete explanation of the study, written informed consent was obtained from all of them. Participants were paid for their participation. The study was approved by the Medical Ethical Committee of the University Medical Center Groningen, and was conducted in accordance with the Declaration of Helsinki.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Emotional processing task</title>
+      <p>The stimulus set consisted of 66 colour pictures from the International Affective Picture System (IAPS) (<xref ref-type="bibr" rid="ref-9">Lang, Bradley &amp; Cuthbert, 1997</xref>). Twenty-two neutral (mean valence ±  SD = 5.1 ± 1.7; mean arousal ± SD = 2.89 ± 2) and 44 negative pictures (mean valence ± SD = 2.5 ± 1.6; mean arousal ±  SD = 5.8 ± 2.2) were chosen based on normative ratings, according to which 9 represents a high rating on each dimension (e.g., high arousal, positive valence), and 1 represents a low rating on each dimension (e.g., low arousal, negative valence) (<xref ref-type="bibr" rid="ref-9">Lang, Bradley &amp; Cuthbert, 1997</xref>; <xref ref-type="bibr" rid="ref-10">Lang, Bradley &amp; Cuthbert, 2008</xref>). All negative pictures depicted complex scenes of burn victims, funerals, and interpersonal violence, and were matched for arousal ratings and visual complexity. The task design has been described in detail elsewhere (<xref ref-type="bibr" rid="ref-16">Modinos, Ormel &amp; Aleman, 2010</xref>). In brief, at the beginning of each trial, a photo was presented in the centre of a black screen, for 2 s, with the instruction VIEW displayed in white letters underneath, for emotional induction. During this period subjects were to view the photo and allow themselves to naturally experience any emotional response to it. The fMRI paradigm involved 2 main conditions: Negative (viewing of a negative picture), and Neutral (viewing of a neutral picture, serving as control condition). For the purpose of this study, we focused on the initial 2 s of emotional induction. The rest of a trial-block involved: 4 s of either attending or cognitively down-regulating their emotional response to the photo, 3.1 s of a fixation cross, 3 s for rating the strength of their negative emotion with a button response, and 5 s with the word “RELAX” before the next trial began, with a constant gap between trials, as explained in <xref ref-type="bibr" rid="ref-16">Modinos, Ormel &amp; Aleman (2010)</xref>. In its entirety, the experimental paradigm comprised 66 trials of 18 s, interleaved with four 20-s rest trials (fixation cross). All participants underwent a training session immediately before fMRI scanning with a different set of 10 IAPS pictures.</p>
+      <sec>
+        <title>fMRI measurements and preprocessing</title>
+        <p>Images were acquired on a 3-T Philips Intera MR scanner (Philips Medical Systems, Best, the Netherlands). Functional MRI data comprised 634 volumes acquired with T2*-weighted gradient echo-planar imaging (EPI) sequences, using a sense-8 head coil, in two functional runs of 317 volumes. Thirty-seven slices per volume, sensitive to blood oxygenation level-dependent (BOLD) contrast, were obtained using a TR of 2 s, flip angle = 70<sup>∘</sup>, TE = 35 ms; inplane resolution = 3.5 × 3.5 mm, and field of view = 224 mm. Slices were acquired interleaved and oriented parallel to the AC–PC plane, with a thickness of 3.5 mm and no gap. High-resolution T1-weighted 3D fast-field echo sequences were obtained for anatomical reference (160 slices, TR = 25 ms, TE = 4.6 ms, slice thickness = 1 mm; matrix size = 256 × 256; field of view = 260 mm; voxel size = 1 × 1 × 1 mm).</p>
+        <p>Image preprocessing was carried out in SPM5 (<uri xlink:href="http://www.fil.ion.ucl.ac.uk/spm">www.fil.ion.ucl.ac.uk/spm</uri>). All functional images were slice-time corrected, and realigned. After realignment, the obtained mean EPI image was co-registered with the structural T1 image. Subsequently, images were spatially normalised to the standard stereotactic space defined by the Montreal Neurological Institute (MNI) template. During normalisation, scans were re-sampled onto a 2 × 2 × 2 mm<sup>3</sup> grid. Functional images were spatially smoothed with a 3D isotropic Gaussian kernel (FWHM of 8 mm). Low-frequency noise was removed by applying a high-pass filter (cut-off of 128 s) to the fMRI time-series at each voxel. Statistical parametric maps during emotional experience in each subject were identified with the Negative &gt; Neutral contrast. Effects were modelled using a boxcar convolved with a canonical hemodynamic response function for the 2 s trial epoch during which participants viewed each picture.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Pattern classification analysis</title>
+      <p>SVM was implemented on the Pattern Recognition of Brain Image Data toolbox (Probid; <uri xlink:href="http://www.brainmap.co.uk/probid.htm">http://www.brainmap.co.uk/probid.htm</uri>). Multivariate analyses were carried out as detailed in our previous study (<xref ref-type="bibr" rid="ref-17">Modinos et al., 2012</xref>). Individual Negative &gt; Neutral contrast images were treated as points located in a high dimensional space defined by the voxel values. A linear decision boundary in this high dimensional space was defined by a “hyperplane” that separated the individual contrast images according to a class label (i.e. subclinical depression, controls). The optimal separating hyperplane was computed based on the multivariate pattern of voxel values across each contrast image. This hyperplane can be described in terms of a vector of voxel weights, plus an offset. In order to project each subject’s map onto the weight vector, and thus observe their relative distance from the hyperplane, the inner product is obtained between the weight vector and that subject’s input vector, and the result added to the offset. This provides a single absolute decision value for each subject indicating their relative distance from the hyperplane, and thus the relative ease, or difficulty, with which they were classified. While the absolute value of weight vector scores depends on several methodological variables and is not meaningful per se (<xref ref-type="bibr" rid="ref-13">Lee et al., 2010</xref>), it can be used to identify voxels which provide the greatest relative contribution to classification (<xref ref-type="bibr" rid="ref-19">Orrù et al., 2012</xref>). The minimal distance from the separating hyperplane to the closest training example is called the margin. The training examples that lie on the margin are called support vectors. They are conceptually the most difficult data points to classify and therefore they define the location of the separating hyperplane. The optimal hyperplane has been shown to be the one with maximal margin (i.e., more separation between the classes), so that a larger margin reduces risk of group overlap corresponding to a better generalisation. The SVM thus selects from many possible solutions the optimal one, which is determined by the most difficult to classify, hence most informative, training examples (the support vectors). Advantages of this method are the selection of training examples that are most informative for the classification and a good scaling for high dimensions. The SVM approach considers all brain voxels jointly in a high-dimensional space rather than examining each brain region individually (<xref ref-type="bibr" rid="ref-11">Lao et al., 2004</xref>). As the classifier is multivariate by nature, the combination of all voxels as a whole is identified as a global spatial pattern by which the groups differ (i.e. the discriminating pattern). The PROBID software allows a linear kernel matrix (measuring similarity between all pairs of brain images) to be pre-computed and supplied to the classifier. A linear rather than a non-linear kernel SVM was used in order to reduce the risk of overfitting the data and to allow direct extraction of the weight vector as an image (i.e. the SVM discrimination map). This approach affords a substantial increase in computational efficiency and permits whole-brain classification without requiring explicit dimensionality reduction. A “leave-one-out” cross-validation method was used (<xref ref-type="bibr" rid="ref-14">Lemm et al., 2011</xref>), which involved excluding a single subject from each group and training the classifier using the remaining subjects; the subject pair excluded was then used to test the ability of the classifier to reliably distinguish between categories. SVM classification in PROBID is provided by the LIBSVM library (<uri xlink:href="http://www.csie.ntu.edu.tw/ cjlin/libsvm/">http://www.csie.ntu.edu.tw/ cjlin/libsvm/</uri>). At the end of the process, a multivariate discrimination map was generated visualising the most discriminating regions between groups.</p>
+      <p>Based on our a priori hypothesis of differential response to negative pictures within a network of regions involved in emotional processing, we created an anatomical mask which included the bilateral amygdala, insula, anterior cingulate cortex (ACC), orbitofrontal, and medial PFC using the Automated Anatomical Labeling (AAL) as implemented in the WFU_Pickatlas toolbox. These regions were chosen based on the literature on affective neuroscience in the healthy brain (<xref ref-type="bibr" rid="ref-5">Davidson &amp; Irwin, 1999</xref>; <xref ref-type="bibr" rid="ref-12">LeDoux, 1996</xref>; <xref ref-type="bibr" rid="ref-20">Phan et al., 2002</xref>; <xref ref-type="bibr" rid="ref-21">Phillips et al., 2003a</xref>), and evidence of abnormalities in patients with psychosis and at-risk populations (<xref ref-type="bibr" rid="ref-1">Aleman &amp; Kahn, 2005</xref>; <xref ref-type="bibr" rid="ref-3">Brunet-Gouet &amp; Decety, 2006</xref>; <xref ref-type="bibr" rid="ref-23">Phillips &amp; Seidman, 2008</xref>; <xref ref-type="bibr" rid="ref-22">Phillips et al., 2003b</xref>). We then used this mask to constrain the search of significant group differences for the comparison between negative and neutral pictures. In addition to this region-of-interest (ROI) analysis, we conducted an SVM analysis of the whole brain minus our regions of interest for completeness.</p>
+      <p>In order to examine whether the differential group activations observed with SVM would also be seen with a standard GLM analysis, we applied a paired <italic>t</italic>-test design in SPM5 using the same contrast images (Negative &gt; Neutral) and the same subject pairs used for the SVM classification. The same pre-defined anatomical “emotional” mask was used to constrain the search of significant group differences for the comparison between negative and neutral pictures. Finally, as this was an implicit emotion processing paradigm and no behaviour was recorded from the subjects inside the scanner, we conducted a within-group GLM analysis to examine whether the task induced the expected effects within each group. Statistical inferences were made at <italic>p</italic> &lt; 0.05 after False-Discovery Rate correction (FDR).</p>
+    </sec>
+    <sec>
+      <title>Results and discussion</title>
+      <sec>
+        <title>Behavioural results</title>
+        <p>There were no significant differences in age between the groups (<italic>F</italic><sub>1,32</sub> &lt; 1; <italic>p</italic> = 0.886). Participants with subclinical depressive symptoms also showed higher psychotic symptom scores (<italic>F</italic><sub>1,32</sub> = 82.079; <italic>p</italic> &lt; 0.001) than controls.</p>
+      </sec>
+      <sec>
+        <title>SVM results</title>
+        <p>The classification sensitivity was 71% (subclinical depression correctly classified), and the specificity 82% (controls correctly classified), corresponding to an accuracy of 77% (see <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The set of regions which showed different values between the subclinical depression group and the control group are reported in <xref ref-type="table" rid="table-2">Table 2</xref>. The threshold of classification strength was set to show the top 5% of the weight vector scores, as done in our previous study (<xref ref-type="bibr" rid="ref-17">Modinos et al., 2012</xref>).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.42/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Weight vector map showing the most discriminating brain regions between groups (top 5%).</title>
+            <p>Regions that contributed more to classifying individuals with subclinical depression (<italic>n</italic> = 17) are shown in red, while regions that contributed more to the classification of controls are shown in blue (<italic>n</italic> = 17), in axial (A) and coronal (B) views (<italic>z</italic> = [−22, −17, −12, −2, 3, 18, 28, 38, 48]; <italic>y</italic> = [−1, 2]). (C) Projection of each subject onto the weight vector, with positive patterns (red circles) discriminating for subclinical depression, and negative patterns (blue crosses) for controls (<italic>p</italic> = 0.002).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/42/fig-1.png"/>
+        </fig>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.42/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Most important activation regions (top 5%) discriminating between each group (subclinical depression and controls).</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/42/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Anatomical region</th>
+                  <th align="left">Side</th>
+                  <th align="center" colspan="3">MNI coordinates</th>
+                  <th align="left">
+                    <italic>w</italic>
+                    <sub>
+                      <italic>i</italic>
+                    </sub>
+                  </th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left"/>
+                  <th align="left">
+                    <italic>x</italic>
+                  </th>
+                  <th align="left">
+                    <italic>y</italic>
+                  </th>
+                  <th align="left">
+                    <italic>z</italic>
+                  </th>
+                  <th align="left"/>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left"><italic>Controls</italic>  &gt; <italic>Subclinical depression</italic></td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Medial frontal gyrus</td>
+                  <td align="left">L</td>
+                  <td align="left">−3</td>
+                  <td align="left">57</td>
+                  <td align="left">4</td>
+                  <td align="left">13.27</td>
+                </tr>
+                <tr>
+                  <td align="left">Medial frontal gyrus</td>
+                  <td align="left">R</td>
+                  <td align="left">4</td>
+                  <td align="left">52</td>
+                  <td align="left">8</td>
+                  <td align="left">11.74</td>
+                </tr>
+                <tr>
+                  <td align="left">Anterior cingulate cortex</td>
+                  <td align="left"/>
+                  <td align="left">0</td>
+                  <td align="left">32</td>
+                  <td align="left">21</td>
+                  <td align="left">22.49</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">L</td>
+                  <td align="left">−33</td>
+                  <td align="left">12</td>
+                  <td align="left">−16</td>
+                  <td align="left">35.04</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">R</td>
+                  <td align="left">34</td>
+                  <td align="left">28</td>
+                  <td align="left">3</td>
+                  <td align="left">31.84</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">R</td>
+                  <td align="left">30</td>
+                  <td align="left">0</td>
+                  <td align="left">−25</td>
+                  <td align="left">25.12</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">L</td>
+                  <td align="left">−24</td>
+                  <td align="left">0</td>
+                  <td align="left">−25</td>
+                  <td align="left">20.60</td>
+                </tr>
+                <tr>
+                  <td align="left"><italic>Subclinical depression</italic>  &gt;  <italic>controls</italic></td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Medial frontal gyrus</td>
+                  <td align="left">R</td>
+                  <td align="left">8</td>
+                  <td align="left">59</td>
+                  <td align="left">27</td>
+                  <td align="left">28.61</td>
+                </tr>
+                <tr>
+                  <td align="left">Medial frontal gyrus</td>
+                  <td align="left">L</td>
+                  <td align="left">−20</td>
+                  <td align="left">39</td>
+                  <td align="left">26</td>
+                  <td align="left">24.31</td>
+                </tr>
+                <tr>
+                  <td align="left">Anterior cingulate cortex</td>
+                  <td align="left">R</td>
+                  <td align="left">−4</td>
+                  <td align="left">36</td>
+                  <td align="left">4</td>
+                  <td align="left">8.76</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">R</td>
+                  <td align="left">44</td>
+                  <td align="left">23</td>
+                  <td align="left">3</td>
+                  <td align="left">29.64</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">L</td>
+                  <td align="left">−38</td>
+                  <td align="left">21</td>
+                  <td align="left">2</td>
+                  <td align="left">20.68</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">R</td>
+                  <td align="left">28</td>
+                  <td align="left">−3</td>
+                  <td align="left">−15</td>
+                  <td align="left">5.33</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">L</td>
+                  <td align="left">−30</td>
+                  <td align="left">−4</td>
+                  <td align="left">−16</td>
+                  <td align="left">4.62</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-2fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-2fn1" fn-type="other">
+              <p>MNI: Montreal Neurological Institute space; L: Left; R: Right; <italic>w</italic><sub><italic>i</italic></sub>: weight of each cluster centroid <italic>i</italic>.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>We performed a permutation test to examine the statistical significance of the classification result. Specifically, we carried out 1000 random assignments of all participants to the “subclinical depression” or “control” categories, and then performed the leave-1-out procedure. By calculating the number of occasions where the permuted accuracy was greater than the obtained accuracy, and dividing this figure by 1000, we were able to estimate the probability that the observed result was obtained by chance. This showed that the statistical significance of the classification obtained in relation to chance was <italic>p</italic> = 0.002.</p>
+        <p>The SVM analysis including the whole brain minus our regions of interest did not yield a statistically significant classification (overall accuracy was 56%, <italic>p</italic> = 0.306; 1000 permutations).</p>
+      </sec>
+      <sec>
+        <title>Effect of psychosis proneness</title>
+        <p>In order to examine the possible contribution of psychosis proneness to the SVM classification, we subjected the individual CAPE scores to a correlation analysis (Pearson’s r) with the projection of each subject’s brain image onto the weight vector (i.e. distance of each test subject’s scan from the classification hyperplane thus quantifying the relative ease, or difficulty, with which they were categorised). This revealed a significant association (<italic>r</italic> = 0.459, <italic>p</italic> = 0.006), suggesting that psychosis proneness scores were associated with the neural activity underlying the classification results.</p>
+      </sec>
+      <sec>
+        <title>GLM results</title>
+        <p>Standard univariate between-group analysis revealed no significant differences for the contrast Negative &gt; Neutral either with ROI analysis or with the whole-brain mask minus our regions of interest, corrected for multiple comparisons (<italic>p</italic> &lt; 0.05). At a more lenient level (<italic>p</italic> &lt; 0.001, uncorrected), subjects with subclinical depression, compared with controls, showed decreased activation in the left insula (<italic>x</italic> = −38 <italic>z</italic> = 8 <italic>y</italic> = −12, <italic>k</italic> = 72 voxels), anterior cingulate cortex (<italic>x</italic> = 6 <italic>z</italic> = 18 <italic>y</italic> = 22, <italic>k</italic> = 39 voxels), and bilaterally in the amygdala (right: <italic>x</italic> = 20 <italic>z</italic> = 0 <italic>y</italic> = −10, <italic>k</italic> = 7 voxels; left: <italic>x</italic> = −24 <italic>z</italic> = −4 <italic>y</italic> = −12, <italic>k</italic> = 12 voxels).</p>
+        <p>Finally, the ROI analysis of the Negative &gt; Neutral contrast within each group showed that the task reliably induced increased activity in these emotion-related regions (namely, medial frontal gyrus including the anterior cingulate cortex, the amygdala and the insula bilaterally), after FDR correction for multiple comparisons (<italic>p</italic> &lt; 0.05) (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>, <xref ref-type="table" rid="table-3">Table 3</xref>).</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.42/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Brain regions showing increased functional activation during the experience of negative emotion (relative to the neutral condition) within groups, as measured with standard General Linear Model analysis and at <italic>p</italic> &lt; 0.05, FDR corrected (<italic>z</italic> = −22, −17, −12, −2, 3, 18, 28, 38).</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/42/fig-2.png"/>
+        </fig>
+        <table-wrap id="table-3">
+          <object-id pub-id-type="doi">10.7717/peerj.42/table-3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Region of interest within-group results with standard GLM analysis on the contrast Negative &gt; Neutral within groups, FDR-corrected for multiple comparisons (<italic>p</italic> &lt; 0.05).</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/42/table-3.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Anatomical region</th>
+                  <th align="left">Side</th>
+                  <th align="center" colspan="3">MNI coordinates</th>
+                  <th align="left">Number of voxels</th>
+                  <th align="left"><italic>t</italic>-value</th>
+                  <th align="left"><italic>z</italic>-value</th>
+                </tr>
+                <tr>
+                  <th align="left"/>
+                  <th align="left"/>
+                  <th align="left">
+                    <italic>x</italic>
+                  </th>
+                  <th align="left">
+                    <italic>y</italic>
+                  </th>
+                  <th align="left">
+                    <italic>z</italic>
+                  </th>
+                  <th align="left"/>
+                  <th align="left"/>
+                  <th align="left"/>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">
+                    <italic>Controls</italic>
+                  </td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Medial frontal gyrus</td>
+                  <td align="left">L</td>
+                  <td align="left">−8</td>
+                  <td align="left">56</td>
+                  <td align="left">24</td>
+                  <td align="left">2999</td>
+                  <td align="left">10.03</td>
+                  <td align="left">5.57</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">L</td>
+                  <td align="left">−34</td>
+                  <td align="left">16</td>
+                  <td align="left">−16</td>
+                  <td align="left">521</td>
+                  <td align="left">8.73</td>
+                  <td align="left">5.22</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">L</td>
+                  <td align="left">−18</td>
+                  <td align="left">−6</td>
+                  <td align="left">−16</td>
+                  <td align="left">204</td>
+                  <td align="left">8.13</td>
+                  <td align="left">5.05</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">R</td>
+                  <td align="left">22</td>
+                  <td align="left">0</td>
+                  <td align="left">−20</td>
+                  <td align="left">184</td>
+                  <td align="left">6.82</td>
+                  <td align="left">4.61</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">R</td>
+                  <td align="left">36</td>
+                  <td align="left">16</td>
+                  <td align="left">−16</td>
+                  <td align="left">410</td>
+                  <td align="left">5.77</td>
+                  <td align="left">4.18</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>Subclinical depression</italic>
+                  </td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Medial frontal gyrus</td>
+                  <td align="left">L</td>
+                  <td align="left">−8</td>
+                  <td align="left">26</td>
+                  <td align="left">36</td>
+                  <td align="left">512</td>
+                  <td align="left">6.54</td>
+                  <td align="left">4.50</td>
+                </tr>
+                <tr>
+                  <td align="left">Medial frontal gyrus</td>
+                  <td align="left">R</td>
+                  <td align="left">6</td>
+                  <td align="left">46</td>
+                  <td align="left">36</td>
+                  <td align="left">288</td>
+                  <td align="left">5.15</td>
+                  <td align="left">3.90</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">R</td>
+                  <td align="left">44</td>
+                  <td align="left">24</td>
+                  <td align="left">−2</td>
+                  <td align="left">27</td>
+                  <td align="left">5.08</td>
+                  <td align="left">3.87</td>
+                </tr>
+                <tr>
+                  <td align="left">Insula</td>
+                  <td align="left">L</td>
+                  <td align="left">−32</td>
+                  <td align="left">20</td>
+                  <td align="left">−12</td>
+                  <td align="left">174</td>
+                  <td align="left">5.02</td>
+                  <td align="left">3.83</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">L</td>
+                  <td align="left">−20</td>
+                  <td align="left">−8</td>
+                  <td align="left">−16</td>
+                  <td align="left">9</td>
+                  <td align="left">4.07</td>
+                  <td align="left">3.32</td>
+                </tr>
+                <tr>
+                  <td align="left">Amygdala</td>
+                  <td align="left">R</td>
+                  <td align="left">22</td>
+                  <td align="left">−6</td>
+                  <td align="left">−14</td>
+                  <td align="left">2</td>
+                  <td align="left">3.23</td>
+                  <td align="left">2.79</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-3fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-3fn1" fn-type="other">
+              <p>MNI: Montreal Neurological Institute stereotactic space, L: Left; R: Right.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>The present study suggests that a multivariate approach appears to enable accurate identification of individuals with subclinical depressive symptoms based on brain activation in a network of regions thought to underlie the experience of affective states, comprising the amygdala, insula, ACC, and medial prefrontal cortex bilaterally. Importantly, however, this identification could also be explained by subclinical psychotic symptoms which were associated with depression proneness. In contrast, the standard GLM analysis was unable to detect significant differences in activation between groups, although within-group analyses confirmed that the task successfully induced significant increases in activation in emotional brain regions during the processing of negative emotion in each group.</p>
+      <p>Our results are in keeping with previous reports of accurate classification of patients with MDD using multivariate analysis methods on functional activation during emotional processing (<xref ref-type="bibr" rid="ref-8">Fu et al., 2008</xref>), and indicate that these methods can also be used to classify individuals with vulnerability to depression. However, associated psychotic symptomatology may have a significant effect on the classification, even at subclinical levels. Indeed, associations between symptoms of depression and psychotic-like experiences in healthy samples have been previously documented (e.g. <xref ref-type="bibr" rid="ref-25">van ’t Wout et al., 2004</xref>; <xref ref-type="bibr" rid="ref-15">Lewandowski et al., 2006</xref>), and may thus warrant being incorporated in the statistical evaluation of brain data. Of note, unlike the present study, in our earlier neuroimaging studies in which the groups were identified based on psychosis proneness scores the results remained significant after controlling for the effects of depressive symptoms (e.g. <xref ref-type="bibr" rid="ref-16">Modinos, Ormel &amp; Aleman, 2010</xref>; <xref ref-type="bibr" rid="ref-17">Modinos et al., 2012</xref>). Although we note that while successful classification of depression proneness could be explained by subthreshold psychotic symptoms in the present investigation, successful classification of psychosis proneness did not appear to be dependent on subthreshold depressive symptoms in a previous study (<xref ref-type="bibr" rid="ref-17">Modinos et al., 2012</xref>). Taken collectively, this pattern of results provides evidence that psychosis proneness was a greater source of influence on brain activation than depression proneness. The application of machine learning approaches to neuroimaging data in psychiatric disorders is relatively young and new developments are in progress to deal with challenges associated with the nature of the populations under study. The present study sought to examine whether associated subclinical psychosis proneness would impact on the classification of MRI images of individuals with subclinical depressive symptoms, and not to control for them. Nevertheless, new methods are being developed to control for confounding variables in SVM analysis of brain data. In Alzheimer’s Disease research, for instance, <xref ref-type="bibr" rid="ref-6">Dukart, Schroeter &amp; Mueller (2011)</xref> proposed a method to control for possible effects of confounding variables such as age prior to statistical evaluation of MRI data using SVM. These type of new advances applied to clinical neurosciences can improve and extend the application of pattern classification algorithms as a means to deal with issues such as concomitant symptomatology.</p>
+      <p>As a limitation to the study, although all participants denied having had a formal diagnosis of depression, testing our classification algorithm on a clinically diagnosed population while taking into account potential concomitant psychotic symptoms and their effect on the classification should help expand the present findings. Our sample size was sufficient to discriminate between individuals with, and without, subclinical depression scores, with statistically significant accuracy, but it was insufficiently powered to establish, for example, gender differences within groups, which might be important in emotional paradigms (<xref ref-type="bibr" rid="ref-28">Wager et al., 2003</xref>). Finally, while we did not have access to follow-up data in this study, following these subjects over time to elucidate potential transitions to full-blown depression/psychosis would have been of interest. Future studies with a prospective design should provide valuable insights to the use of pattern classification in detecting biomarkers of illness development.</p>
+      <p>To our knowledge, this is the first study to use a multivariate approach to investigate patterns of brain activation in people with subclinical depressive symptoms. The main finding is that, although a multivariate approach could accurately discriminate these individuals based on a neural network involved in emotional processing, psychosis proneness played a critical role in the classification and may thus be an important confounding factor to be considered in future neuroimaging work in this group.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Anita Kuiper for assistance with MRI scanning, and our study volunteers for their participation.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>Andrea Mechelli is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Gemma Modinos</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper, participated in interpretation of the data; approved the final version of the manuscript.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Andrea Mechelli</xref> and <xref ref-type="contrib" rid="author-6">Andre Aleman</xref> conceived and designed the experiments, participated in interpretation of the data; approved the final version of the manuscript.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">William Pettersson-Yeo</xref> analyzed the data, participated in interpretation of the data; approved the final version of the manuscript.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Paul Allen</xref> and <xref ref-type="contrib" rid="author-5">Philip McGuire</xref> participated in interpretation of the data; approved the final version of the manuscript.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Human Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>The study was approved by the Medical Ethical Committee of the University Medical Center Groningen (Ethical Review Board approval number: METc 2007/105, approved on September 10, 2007), and was conducted in accordance with the Declaration of Helsinki.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Aleman &amp; Kahn (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aleman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kahn</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>Strange feelings: do amygdala abnormalities dysregulate the emotional brain in schizophrenia?</article-title>
+          <source>Progress in Neurobiology</source>
+          <year>2005</year>
+          <volume>77</volume>
+          <fpage>283</fpage>
+          <lpage>298</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Beck et al. (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beck</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Steer</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Ball</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Ranieri</surname>
+              <given-names>WF</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of beck depression inventories -IA and -II in psychiatric outpatients</article-title>
+          <source>Journal of Personality Assessment</source>
+          <year>1996</year>
+          <volume>67</volume>
+          <fpage>588</fpage>
+          <lpage>597</lpage>
+          <pub-id pub-id-type="doi">10.1207/s15327752jpa6703_13</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Brunet-Gouet &amp; Decety (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunet-Gouet</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Decety</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Social brain dysfunctions in schizophrenia: a review of neuroimaging studies</article-title>
+          <source>Psychiatry Research</source>
+          <year>2006</year>
+          <volume>148</volume>
+          <fpage>75</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pscychresns.2006.05.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Davidson et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davidson</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Pizzagalli</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Nitschke</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Putnam</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Depression: perspectives from affective neuroscience</article-title>
+          <source>Annual Review of Psychology</source>
+          <year>2002</year>
+          <volume>53</volume>
+          <fpage>545</fpage>
+          <lpage>574</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.psych.53.100901.135148</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Davidson &amp; Irwin (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davidson</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Irwin</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>The functional neuroanatomy of emotion and affective style</article-title>
+          <source>Trends in Cognitive Science</source>
+          <year>1999</year>
+          <volume>3</volume>
+          <fpage>11</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1364-6613(98)01265-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Dukart, Schroeter &amp; Mueller (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dukart</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schroeter</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Mueller</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Alzheimer’s disease neuroimaging initiative. Age correction in dementia–matching to a healthy brain</article-title>
+          <source>PLoS ONE</source>
+          <issue>7</issue>
+          <year>2011</year>
+          <volume>6</volume>
+          <elocation-id>e22193</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0022193</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Friston et al. (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Friston</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Holmes</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Worsley</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Poline</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Frith</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Frackowiak</surname>
+              <given-names>RSJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Statistical parametric maps in functional imaging: a general linear approach</article-title>
+          <source>Human Brain Mapping</source>
+          <year>1995</year>
+          <volume>2</volume>
+          <fpage>189</fpage>
+          <lpage>210</lpage>
+          <pub-id pub-id-type="doi">10.1002/hbm.460020402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Fu et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fu</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Mourao-Miranda</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Costafreda</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Khanna</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Marquand</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Brammer</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Pattern classification of sad facial processing: toward the development of neurobiological markers in depression</article-title>
+          <source>Biological Psychiatry</source>
+          <year>2008</year>
+          <volume>63</volume>
+          <fpage>656</fpage>
+          <lpage>662</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biopsych.2007.08.020</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Lang, Bradley &amp; Cuthbert (1997)</label>
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lang</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Cuthbert</surname>
+              <given-names>BN</given-names>
+            </name>
+          </person-group>
+          <article-title>International affective picture system (IAPS): technical manual and affective ratings</article-title>
+          <year>1997</year>
+          <institution>NIMH center for the study of emotion and attention, University of Florida</institution>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Lang, Bradley &amp; Cuthbert (2008)</label>
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lang</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Cuthbert</surname>
+              <given-names>BN</given-names>
+            </name>
+          </person-group>
+          <article-title>International affective picture system (IAPS): affective ratings of pictures and instruction manual</article-title>
+          <source>Technical Report A-8</source>
+          <year>2008</year>
+          <institution>University of Florida</institution>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Lao et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lao</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Karacali</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Resnick</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Davatzikos</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Morphological classification of brains via high-dimensional shape transformations and machine learning methods</article-title>
+          <source>Neuroimage</source>
+          <year>2004</year>
+          <volume>21</volume>
+          <fpage>46</fpage>
+          <lpage>57</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neuroimage.2003.09.027</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>LeDoux (1996)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LeDoux</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <source>The emotional brain</source>
+          <year>1996</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Simon and Schuster</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Lee et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Halder</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kübler</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Birbaumer</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Sitaram</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Effective functional mapping of fMRI data with support-vector machines</article-title>
+          <source>Human Brain Mapping</source>
+          <year>2010</year>
+          <volume>31</volume>
+          <fpage>1502</fpage>
+          <lpage>1511</lpage>
+          <pub-id pub-id-type="doi">10.1002/hbm.20955</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Lemm et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lemm</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Blankertz</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Dickhaus</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Müller</surname>
+              <given-names>KR</given-names>
+            </name>
+          </person-group>
+          <article-title>Introduction to machine learning for brain imaging</article-title>
+          <source>Neuroimage</source>
+          <year>2011</year>
+          <volume>56</volume>
+          <fpage>387</fpage>
+          <lpage>399</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.11.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Lewandowski et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewandowski</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Barrantes-Vidal</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Nelson-Gray</surname>
+              <given-names>RO</given-names>
+            </name>
+            <name>
+              <surname>Clancy</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kepley</surname>
+              <given-names>HO</given-names>
+            </name>
+            <name>
+              <surname>Kwapil</surname>
+              <given-names>TR</given-names>
+            </name>
+          </person-group>
+          <article-title>Anxiety and depression symptoms in psychometrically identified schizotypy</article-title>
+          <source>Schizophrenia Research</source>
+          <year>2006</year>
+          <volume>83</volume>
+          <fpage>225</fpage>
+          <lpage>235</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.schres.2005.11.024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Modinos, Ormel &amp; Aleman (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Modinos</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ormel</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Aleman</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Altered activation and functional connectivity of neural systems supporting cognitive control of emotion in psychosis proneness</article-title>
+          <source>Schizophrenia Research</source>
+          <year>2010</year>
+          <volume>118</volume>
+          <fpage>88</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.schres.2010.01.030</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Modinos et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Modinos</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pettersson-Yeo</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>McGuire</surname>
+              <given-names>PK</given-names>
+            </name>
+            <name>
+              <surname>Aleman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mechelli</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Multivariate pattern classification reveals differential brain activation during emotional processing in individuals with psychosis proneness</article-title>
+          <source>Neuroimage</source>
+          <year>2012</year>
+          <volume>59</volume>
+          <fpage>3033</fpage>
+          <lpage>3041</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.10.048</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Mwangi et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mwangi</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Ebmeier</surname>
+              <given-names>KP</given-names>
+            </name>
+            <name>
+              <surname>Matthews</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Steele</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>Multi-centre diagnostic classification of individual structural neuroimaging scans from patients with major depressive disorder</article-title>
+          <source>Brain</source>
+          <year>2012</year>
+          <volume>135</volume>
+          <fpage>1508</fpage>
+          <lpage>1521</lpage>
+          <pub-id pub-id-type="doi">10.1093/brain/aws084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Orrù et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Orrù</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pettersson-Yeo</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Marquand</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Sartori</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Mechelli</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Using support vector machine to identify imaging biomarkers of neurological and psychiatric disease: a critical review</article-title>
+          <source>Neuroscience and Biobehavioral Reviews</source>
+          <year>2012</year>
+          <volume>36</volume>
+          <fpage>1140</fpage>
+          <lpage>1152</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neubiorev.2012.01.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Phan et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phan</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Wager</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Liberzon</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Functional neuroanatomy of emotion: a meta-analysis of emotion activation studies in PET and fMRI</article-title>
+          <source>NeuroImage</source>
+          <year>2002</year>
+          <volume>16</volume>
+          <fpage>331</fpage>
+          <lpage>348</lpage>
+          <pub-id pub-id-type="doi">10.1006/nimg.2002.1087</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Phillips et al. (2003a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phillips</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Drevets</surname>
+              <given-names>WC</given-names>
+            </name>
+            <name>
+              <surname>Rauch</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Lane</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Neurobiology of emotion perception I: the neural basis of normal emotion perception</article-title>
+          <source>Biological Psychiatry</source>
+          <year>2003a</year>
+          <volume>54</volume>
+          <fpage>504</fpage>
+          <lpage>514</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-3223(03)00168-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Phillips et al. (2003b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phillips</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Drevets</surname>
+              <given-names>WC</given-names>
+            </name>
+            <name>
+              <surname>Rauch</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Lane</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Neurobiology of emotion perception II: implications for major psychiatric disorders</article-title>
+          <source>Biological Psychiatry</source>
+          <year>2003b</year>
+          <volume>54</volume>
+          <fpage>515</fpage>
+          <lpage>528</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-3223(03)00171-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Phillips &amp; Seidman (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Phillips</surname>
+              <given-names>LK</given-names>
+            </name>
+            <name>
+              <surname>Seidman</surname>
+              <given-names>LJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Emotion processing in persons at risk for schizophrenia</article-title>
+          <source>Schizophrenia Bulletin</source>
+          <year>2008</year>
+          <volume>34</volume>
+          <fpage>888</fpage>
+          <lpage>903</lpage>
+          <pub-id pub-id-type="doi">10.1093/schbul/sbn085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Stefanis et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stefanis</surname>
+              <given-names>NC</given-names>
+            </name>
+            <name>
+              <surname>Hanssen</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Smirnis</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Avramopoulos</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Evdokimidis</surname>
+              <given-names>IK</given-names>
+            </name>
+            <name>
+              <surname>Stefanis</surname>
+              <given-names>CN</given-names>
+            </name>
+            <name>
+              <surname>Verdoux</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Van Os</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence that three dimensions of psychosis have a distribution in the general population</article-title>
+          <source>Psychological Medicine</source>
+          <year>2002</year>
+          <volume>32</volume>
+          <fpage>347</fpage>
+          <lpage>358</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0033291701005141</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>van ’t Wout et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van ’t Wout</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Aleman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kessels</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>C, Larøi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Kahn</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>Emotional processing in a non-clinical psychosis-prone sample</article-title>
+          <source>Schizophrenia Research</source>
+          <year>2004</year>
+          <volume>68</volume>
+          <fpage>271</fpage>
+          <lpage>281</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.schres.2003.09.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Vapnik (1995)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vapnik</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <source>The nature of statistical learning theory</source>
+          <year>1995</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Springer-Verlag</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Verdoux et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verdoux</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>van Os</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Maurice-Tison</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gay</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Salamon</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bourgeois</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <article-title>Increased occurrence of depression in psychosis-prone subjects: a follow-up study in primary care settings</article-title>
+          <source>Comprehensive Psychiatry</source>
+          <year>1999</year>
+          <volume>40</volume>
+          <fpage>462</fpage>
+          <lpage>468</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0010-440X(99)90091-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Wager et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wager</surname>
+              <given-names>TD</given-names>
+            </name>
+            <name>
+              <surname>Phan</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Liberzon</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>SF</given-names>
+            </name>
+          </person-group>
+          <article-title>Valence, gender, and lateralization of functional brain anatomy in emotion: a meta-analysis of findings from neuroimaging</article-title>
+          <source>Neuroimage</source>
+          <year>2003</year>
+          <volume>19</volume>
+          <fpage>513</fpage>
+          <lpage>531</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1053-8119(03)00078-8</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

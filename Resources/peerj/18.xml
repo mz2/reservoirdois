@@ -1,1147 +1,954 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">18</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.18</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Veterinary Medicine</subject>
+          <subject>Epidemiology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Evaluation of animal control measures on pet demographics in Santa Clara County, California, 1993–2006</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Kass</surname>
+            <given-names>Philip H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Johnson</surname>
+            <given-names>Karen L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Weng</surname>
+            <given-names>Hsin-Yi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Population Health and Reproduction, School of Veterinary Medicine, University of California</institution>, <addr-line>Davis, CA</addr-line>, <country>USA</country></aff>
+        <aff id="aff-2"><label>2</label><institution>National Pet Alliance</institution>, <addr-line>San Jose, CA</addr-line>, <country>USA</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Comparative Pathobiology, College of Veterinary Medicine, Purdue University</institution>, <addr-line>West Lafayette, IN</addr-line>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Perencevich</surname>
+            <given-names>Eli</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>phkass@ucdavis.edu</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-19">
+        <day>19</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e18</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-14">
+          <day>14</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-01-04">
+          <day>4</day>
+          <month>1</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Kass et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Kass et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/18"/>
+      <abstract>
+        <p>The measurable benefits of animal control programs are unknown and the aim of this study was to determine the impact of these programs on pet population changes. A prospective cross-sectional study of 1000 households was implemented in 2005 to evaluate characteristics of the owned and unowned population of dogs and cats in Santa Clara County, California. The same population was previously studied 12 years earlier. During this time period, the county instituted in 1994 and then subsequently disestablished a municipal spay/neuter voucher program for cats. Dog intakes declined from 1992–2005, as they similarly did for an adjacent county (San Mateo). However, cat intakes declined significantly more in Santa Clara County than San Mateo, with an average annual decline of approximately 700 cats for the 12 year period. Time series analysis showed a greater than expected decline in the number of cats surrendered to shelters in Santa Clara County during the years the voucher program was in effect (1994–2005). The net savings to the county by reducing the number of cat shelter intakes was estimated at approximately $1.5 million. The measurable benefits of animal control programs are unknown and the aim of this study was to determine the impact of these programs on pet population changes.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Animal euthanasia</kwd>
+        <kwd>Epidemiology</kwd>
+        <kwd>Animal population groups</kwd>
+        <kwd>Population control</kwd>
+        <kwd>Population policy</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>The Cat Fanciers’ Association, Inc</funding-source>
+        </award-group>
+        <funding-statement>Funding for this research was provided by The Cat Fanciers’ Association, Inc.; The George and Phyllis Miller Trust, Center for Companion Animal Health, School of Veterinary Medicine, University of California; City of San Jose; County of Santa Clara; National Pet Alliance; Tails and No Tales Cat Club; Santa Clara Valley Cat Fanciers; Ft. Worth Cat Club, and numerous anonymous individuals. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>One of the greatest threats to the lives of cats and dogs in contemporary American society does not come from infectious or noninfectious disease, but rather from the threat of being unowned or becoming unwanted and susceptible to abandonment or relinquishment to shelters. Each year millions of healthy and potentially adoptable pets are euthanized for lack of ownership or residence; the most palpable manifestation of this is witnessed at local municipal or private animal shelters (<xref ref-type="bibr" rid="ref-13">Salman et al., 1998</xref>). The financial burden of managing this overabundance of pets to communities across the United States is enormous and incalculable (<xref ref-type="bibr" rid="ref-20">Zanowski, 2010</xref>).</p>
+    <p>Scientific investigations into pet population dynamics have evolved from the purely descriptive to the analytic, particularly with respect to studying determinants of relinquishment. Many studies performed in the United States have sought to quantify characteristics of animals as well as their owners that appear to be proscriptive for an impairment of the human–animal bond (<xref ref-type="bibr" rid="ref-10">Patronek et al., 1996a</xref>; <xref ref-type="bibr" rid="ref-11">Patronek et al., 1996b</xref>; <xref ref-type="bibr" rid="ref-13">Salman et al., 1998</xref>; <xref ref-type="bibr" rid="ref-8">New et al., 1999</xref>; <xref ref-type="bibr" rid="ref-14">Scarlett et al., 1999</xref>; <xref ref-type="bibr" rid="ref-4">Kass et al., 2001</xref>). The cumulative effect of these studies has led to a better understanding of why relinquishment occurs, but the enduring challenge remains how to use such information to implement prevention and/or intervention strategies. A prototypical example of these strategies is the establishment of community spay and neuter programs. Such programs can be sponsored either by municipalities or humane organizations, both of which often jointly serve critical animal control needs in communities and frequently join together in collaboration to achieve their mutual goals.</p>
+    <p>Santa Clara County, California is an opportune place to study the results of intervention strategies. As of 2005 the 1,291 square mile county contained 1.76 million people (in an estimated 603,000 households, averaging 2.92 persons per household), with more than half (945,000) living in San Jose, and over 200,000 more living in the cities of Sunnyvale and Santa Clara (<xref ref-type="bibr" rid="ref-19">US Census Bureau, 2012</xref>; <xref ref-type="bibr" rid="ref-17">State of California, 2009a</xref>). The ethnic distribution was approximately 44% Caucasian, 25% Asian/Pacific Islander, 24% Hispanic/Latino, 3% African-American, and 4% other groups (<xref ref-type="bibr" rid="ref-18">State of California, 2009b</xref>). Per capita annual growth has been approximately 1.2%; annual household growth has increased approximately 0.8% over the past 15 years (<xref ref-type="bibr" rid="ref-19">US Census Bureau, 2012</xref>; <xref ref-type="bibr" rid="ref-17">State of California, 2009a</xref>).</p>
+    <p>Two major animal shelters operate: the City of San Jose Animal Care &amp; Services (SJACS) which opened in 2004, and the Humane Society of Silicon Valley (HSSV) facility in Santa Clara, which accepted up to 25,000 animals per year. The latter predominantly provided sheltering services until late 1992, when for financial reasons the County ceased field services for cats, only accepting those owner-reliquished. The HSSV recommenced services 14 months later for most of the County.</p>
+    <p>The number of cats entering the HSSV climbed approximately 25% (from 20,000 to 25,000 cats) from 1983 to 1990, and remained close to its high until Santa Clara County field services ended in 1992; in 1993 the total number of incoming live cats returned to 20,000 (<xref ref-type="bibr" rid="ref-1">Cat Fanciers’ Almanac, 1994</xref>). Approximately 60% of incoming animals to HSSV arrived through field services. Upon resumption of these services in 1994, San Jose instituted a free spay/neuter voucher program to reduce its number of stray cats, and initiated one for dogs in 1995. These programs ceased in 2003 in anticipation of the SJACS opening, but temporarily resumed in 2005 until the latter opened its own low-cost spay/neuter clinic in 2006. Santa Clara County also instituted a low-cost spay/neuter program in 1998 with almost $50,000 in annual funding.</p>
+    <p>A local non-profit organization of cat and dog owners and fanciers<sup>a</sup> commissioned a survey of Santa Clara County residents in 1993 (<xref ref-type="bibr" rid="ref-1">Cat Fanciers’ Almanac, 1994</xref>). The purpose of this survey was estimate the number of owned and unowned cats and dogs in the county. Investigators interviewed people by telephone from 1,031 households throughout all parts of the County except the city of Palo Alto (whose small shelter declined to provide intake statistics), and determined that 51% of households did not own pets, 19% owned only cats, 19% owned only dogs, and 11% owned both cats and dogs. Households that owned cats and dogs had an average of 1.7 cats and of 1.3 dogs, respectively. Ten percent of all households (48% of which did not own pets) also cared for an average of 3.4 stray cats. Strays, sometimes referred to as community cats, are free-roaming, unowned, or feral; the latter do not allow human touch. These figures led investigators to estimate that in 1993 the number of owned cats and dogs in the county was approximately 247,000 and 195,000, respectively (<xref ref-type="bibr" rid="ref-1">Cat Fanciers’ Almanac, 1994</xref>). Of particular importance was the projection that the County had approximately 169,000 unowned but fed cats (41% of all cats in the county), a figure that does not account for unowned but unfed and feral cats.</p>
+    <p>The purpose of the current study, conducted in 2005, was to revisit the population of cats and dogs in Santa Clara County 12 years following the earlier study, and to correlate pet population changes with the institution or disestablishment of animal population control programs, including vouchers, field services, and low-cost spay and neuter facilities. The hypothesis was that these programs would be associated with a reduction in the pet populations in Santa Clara County that differed from that of an adjacent comparison county, with resultant cost savings to the county.</p>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Study population</title>
+        <p>The same private survey firm used in 1993 was commissioned to conduct a similar random telephone survey of 1,000 households throughout Santa Clara County except Palo Alto (which has its own small shelter and did not participate in 1993). An equal probability of selection method (EPSEM) phone list of residential landline telephone numbers for the survey was purchased from a private company.<xref ref-type="fn" rid="peerj-18-fn1"><sup>4</sup></xref><fn id="peerj-18-fn1"><label>4</label><p>Scientific Telephone Samples, Foothill Ranch, California.</p></fn> Three attempts were made at each number over successive nights. Over 7,000 calls (including disconnected lines, no answers, refusals) were attempted to reach 1000 respondents. People who agreed to be questioned were asked whether or not they owned dogs or cats, fed stray dogs or cats, whether or not the animals had been altered, if they had reproduced, if cats had been declawed, how they obtained their pets, whether or not cats were allowed outside, purebred status, city of residence, and residence type. Data was initially recorded on written interview forms, and manually entered into a Microsoft Excel 2007 (Microsoft Corporation, Redmond, WA) spreadsheet for statistical analysis.</p>
+        <p>Animal shelter entry information was provided by Santa Clara County Animal Control, Humane Society of Silicon Valley, San Jose Animal Care and Services, and for comparative purposes the Peninsula Humane Society and SPCA in neighboring San Mateo County and Los Angeles County Animal Control. Spay/neuter voucher program information, costs and statistics were obtained from the City of San Jose, and County of Santa Clara. San Mateo County was chosen for comparative purposes, as it most closely resembled Santa Clara County, as opposed to the other four more rural surrounding counties.</p>
+      </sec>
+      <sec>
+        <title>Statistical analysis</title>
+        <p>The 1982–1993 Santa Clara County shelter intake records (from before the launch of the spay/neuter voucher program) were used for projecting the expected numbers of shelter intakes from 1994 to 2005. US Census data was used to determine the number of county households, which was used with survey-derived estimates of the average number of dogs and cats per household and proportion of households that owned dogs and cats to estimate the number of owned dogs and cats in the county, and with survey-derived estimates of the percentage of households feeding stray dogs and the average number of unowned but fed dogs and cats per household to estimate the number of stray dogs and cats in the county.</p>
+        <p>Data from the survey was initially described using proportions. Pearson’s chi-square test was used to compare proportions; <italic>p</italic>-values &lt; 0.05 were considered statistically significant. The observed numbers of shelter intakes between 1994 and 2005, during which the spay/neuter program was in place, were compared with projected numbers based on varying the proportion of cats in the voucher program that were owned versus unowned to assess the program’s effect (i.e., change in numbers of shelter intakes). Autoregressive integrated moving average (ARIMA (<italic>p</italic>, <italic>q</italic>, <italic>d</italic>, where <italic>p</italic> =  order of autoregression, <italic>q</italic> =  order of moving averages, and <italic>d</italic> =  order of differencing)) models were fit to the data before the launch of the spay/neuter voucher program (1982 to 1993). Autocorrelation function (ACF) and partial autocorrelation function (PACF) plots were used to select the best-fit ARIMA models and to evaluate the model fit. The selected ARIMA models were then used to estimate and project the trend in number of shelter intakes after the implementation of spay/neuter program (1994 to 2005) with corresponding 95% confidence limits of the ARIMA projections. In addition, we constructed a stochastic model to estimate the number of additional cats that would have been born and taken into the shelters between 1994 and 2005 had the spay/neuter program never been implemented. The key parameters, their corresponding probability distributions for owned and unowned cats, and the data sources are listed in <xref ref-type="table" rid="table-1">Table 1</xref>. This model was also used for benefit–cost analysis of the voucher program. The software program @Risk (version 5.0.0, Palisade Corp., Ithaca, New York) was used for the simulation, using Latin Hypercube sampling and Mersenne Twister generator with a fixed initial seed of 12,345 for 10,000 iterations. Median and the 5th and 95th percentiles were reported.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.18/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Information used in modeling cat population dynamics from 1994 to 2005 if no spay/neuter voucher program had been initiated in Santa Clara County, California.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Parameter</th>
+                  <th align="left">Owned cats</th>
+                  <th align="left">Unowned cats</th>
+                  <th align="left">References</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Kittens/litter</td>
+                  <td align="left">4.25</td>
+                  <td align="left">3.6</td>
+                  <td align="left">(<xref ref-type="bibr" rid="ref-12">Pedersen, 1991</xref>; <xref ref-type="bibr" rid="ref-16">Scott, Levy &amp; Crawford, 2002</xref>)</td>
+                </tr>
+                <tr>
+                  <td align="left">Kitten mortality rate (%)</td>
+                  <td align="left">30</td>
+                  <td align="left">75</td>
+                  <td align="left">(<xref ref-type="bibr" rid="ref-3">Jemmett &amp; Evans, 1977</xref>; <xref ref-type="bibr" rid="ref-9">Nutter, Levine &amp; Stoskopf, 2004</xref>; <xref ref-type="bibr" rid="ref-15">Scott, Geissinger &amp; Peltz, 1978</xref>)</td>
+                </tr>
+                <tr>
+                  <td align="left">Life expectancy (years)</td>
+                  <td align="left">12</td>
+                  <td align="left">4.7</td>
+                  <td align="left">(<xref ref-type="bibr" rid="ref-6">Levy, Gale &amp; Gale, 2003</xref>; <xref ref-type="bibr" rid="ref-7">New et al., 2004</xref>)</td>
+                </tr>
+                <tr>
+                  <td align="left">Litters per female per year</td>
+                  <td align="left">2.1</td>
+                  <td align="left">1.4</td>
+                  <td align="left">(<xref ref-type="bibr" rid="ref-12">Pedersen, 1991</xref>; <xref ref-type="bibr" rid="ref-9">Nutter, Levine &amp; Stoskopf, 2004</xref>; <xref ref-type="bibr" rid="ref-6">Levy, Gale &amp; Gale, 2003</xref>; <xref ref-type="bibr" rid="ref-16">Scott, Levy &amp; Crawford, 2002</xref>)</td>
+                </tr>
+                <tr>
+                  <td align="left">Percent female</td>
+                  <td align="left">55</td>
+                  <td align="left">45</td>
+                  <td align="left">(<xref ref-type="bibr" rid="ref-6">Levy, Gale &amp; Gale, 2003</xref>)</td>
+                </tr>
+                <tr>
+                  <td align="left">Sexually intact (%)</td>
+                  <td align="left">14</td>
+                  <td align="left">94.5</td>
+                  <td align="left">1993 survey</td>
+                </tr>
+                <tr>
+                  <td align="left">Surrendered to shelter (%)</td>
+                  <td align="left">3.0</td>
+                  <td align="left">7.3</td>
+                  <td align="left">1993 survey and shelter statistics</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Dog survey results</title>
+        <p>Twenty nine percent of responding county households reported that they owned dogs (unchanged from 1993); the average household owned 1.9 dogs, representing an increase from 1.3 dogs in 1993. Using US census data led to an estimate of 332,000 owned dogs in Santa Clara County (assuming Palo Alto has the same ownership frequency). Registered and unregistered purebred dogs were 33% and 18% (total = 51%) of the dog population, respectively; the remainder (49%) of dogs was either mixed or unknown breeds. Dogs were acquired from a variety of sources; the most common were friends or relatives (30%), breeders (25%), public or private animal shelter (15%), with the remainder (less than 10% each) coming from a breed rescue group, a newspaper advertisement, found as stray, being born at home, acquired from a pet store, and rare other sources (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.18/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Source of acquisition of dogs from Santa Clara County survey, 2005.</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/fig-1.png"/>
+        </fig>
+        <p>Seventy five percent (75%) of owners reported surgically sterilizing their dogs. Among those that declined to alter them, 28% of owners said this was a deliberate decision, and none claimed that cost was a justification for not sterilizing. Thirty three percent (33%) of the unaltered dogs were intended for breeding purposes, and 17% were puppies too young for surgery. Of the 99 unaltered dogs, 70 (70.7%) were male and 29 (29.3%) were female.</p>
+        <p>Twenty one households (2%) in the survey acknowledged feeding dogs they did not own, with an average of 2.3 dogs per feeding household. An examination of zip codes indicated that the majority of these dogs were found in the downtown and north and east sides of the city of San Jose. With some exceptions, these areas are in the lower socio-economic range of households in San Jose. Using US census data, this leads to an estimate of approximately 15,650 transiently or permanently stray dogs throughout the county, or 4.7% of the county’s dog population.</p>
+      </sec>
+      <sec>
+        <title>Cat survey results</title>
+        <p>Twenty five percent of households reported owning cats, representing a decrease from 30% in 1993 (<italic>p</italic> = 0.013). With an average of 1.7 owned cats per household (a figure unchanged since 1993), the county’s owned cat population was estimated at 256,000 cats. Most cats (85%) were characterized as domestic varieties; only 3% were claimed to be registered pedigree (a figure unchanged since 1993), while others were described as unregistered pedigreed or unknown breed. The percentage of cats kept strictly indoors rose from 33% in 1993 to 49% in 2005 (<italic>p</italic> &lt; 0.001); only 8% were currently described as strictly outdoors, down from 14% in 1993 (<italic>p</italic> &lt; 0.001).</p>
+        <p>The most common source of owned cats was from a friend or relative (42% in 2005 versus 33% in 1993), followed by being found as a free-roaming homeless cat (20% in 2005 versus 32% in 1993), a public or private animal shelter (16% in 2005 versus 12% in 1993), a breed rescue group (9% in 2005 versus 2% in 1993), a breeder (4% in both years), an ad in a newspaper or adopted or purchased in a pet store (2% in 2005 versus 6% in 1993), a negligible percentage born at home (&lt;1% in 2005 versus 6% in 1993), and the remainder coming from various minor or unknown sources. The <italic>p</italic>-value comparing the source distribution of owned cats between 2005 and 1993 was &lt;0.001.</p>
+        <p>In 2005 most cat owners (92.8%) had their cats surgically sterilized, compared to 86% in 1993 (<italic>p</italic> &lt; 0.001). Within the 7.2% of cats not spayed or neutered, 48% had owners that deliberately did not want their cats to be sterilized, 13% had owners who wanted to retain the cat for breeding, 13% were kittens, 13% had owners claiming that the costs were prohibitive, and the remainder gave two or more reasons (the most common of which was lack of time to transport the cat for surgery). Thus, only approximately 6% of owned cats were sexually mature and capable of breeding, approximately half of which were female. However, less than one-half of 1% of owners of sterilized female cats allowed their cats to have a litter prior to sterilization.</p>
+        <p>The rate of reproduction of owned cats in Santa Clara County was 89 cats per 1000 households, in contrast to the higher rate of 112 kittens per 1000 households in the 1996 National Council on Pet Population Study and Policy (<xref ref-type="bibr" rid="ref-13">Salman et al., 1998</xref>). This may be attributable to the high proportion of altered cats in the county (93%) relative to the comparable 1993 figure and the 2005 national average of 86%. In addition, while in 1993 16% of owned cats had a litter prior to altering, in the current study this figure was less than one-half of 1%. While it was beyond the scope of this study to determine the reasons for this change in attitude, it is likely that greater awareness prompted by considerable multimedia public education about the county-sponsored voucher program instituted in 1993 bore at least some responsibility.</p>
+        <p>When owners were asked about whether their cats were declawed, 8% stated that they were, but 29% of them obtained the cat in that condition. The most common reason given by owners (84%) for declawing was to protect furniture. Owners not electing to declaw their cats protected their furniture through a variety of means, including having scratching posts and mats, using a spray bottle, clipping the claws, applying double-sided tape, and making loud deterrent noises.</p>
+        <p>Many individuals fed stray cats: 7% of household respondents admitted to feeding an average of 3.2 cats, a decrease from 10% with an average of 3.4 cats in 1993. Relying on U.S. census data, the estimated fed stray cat population is therefore approximately 135,000 cats, or approximately 35% of the total owned and fed free-roaming/unowned cat population in the county (391,000 cats, which represents a drop from 416,000 in 1993). Only 5.5% of these cats were either trapped or taken to be surgically sterilized by their people feeding them. Fifty six percent of the cats were fed daily, while the remaining cats were fed from once every other day to only occasionally. The cats were most commonly fed on the doorstep of a person’s home (62%), followed by an office (15%), a park (12%), and a shopping center (&lt;1%). Fed stray cats were either alone or belonged to colonies ranging in size from 2 to 25 cats. Two-thirds of the fed stray cats were too wild to be picked up and were defined as feral; the remaining third were classified as unowned (although some of these may have had owners unknown to the survey respondent). Forty seven percent of the female stray cats were known to have had at least one litter, which is probably a conservative estimate. Over half of the known litters were allowed to remain free and disperse into their neighborhoods. Of the remaining kittens, half were kept by the feeder, while the others were given away or taken to an animal shelter. Of the females who had litters, 58% were not trapped or taken to a veterinarian after having a litter, remaining free to potentially breed again.</p>
+      </sec>
+      <sec>
+        <title>Population changes at Santa Clara County animal shelters</title>
+        <p>Changes in dog shelter intakes for Santa Clara County (and the Peninsula Humane Society and SPCA shelter in adjacent San Mateo County for comparison) are shown in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>. Dog intakes declined 13,643 to 8,441 (38.1%) from 1992–2005 in Santa Clara County. An external explanation for the observed trend is supported by the findings in adjacent San Mateo County, where dog intakes declined by a similar 35.7% between 1990 and 2004. These proportions were not significantly different (<italic>p</italic> = 0.11).</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.18/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Regression analysis of intake of dogs at shelters in Santa Clara County (<italic>r</italic> = 0.95) and San Mateo County (<italic>r</italic> = 0.97) over time (1990–2005).</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/fig-2.png"/>
+        </fig>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.18/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Secular changes in cat intakes in Santa Clara County, 1982–2007, indexed by historically relevant events.</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/fig-3.png"/>
+        </fig>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.18/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Regression analysis of intake of cats at shelters in Santa Clara (<italic>r</italic> = 0.98) and San Mateo Counties (<italic>r</italic> &gt; 0.99), 1990–2006.</title>
+            <p>Field services in Santa Clara County ended in 1992; at that time 60% of cats were brought in through field services. Field services resumed in November 1993 in some cities.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/fig-4.png"/>
+        </fig>
+        <p>A substantially different picture emerged when examining changes in cat shelter intakes in Santa Clara and San Mateo Counties (<xref ref-type="fig" rid="fig-3">Figs. 3</xref> and <xref ref-type="fig" rid="fig-4">4</xref>). Intakes in Santa Clara County dropped 22,473 to 16,369 (27.2%) from 1993 to 2004 and 22,473 to 16,807 (25.2%) from 1993 to 2005, compared to a drop of 8,252 to 6,078 (26.3%) in San Mateo County from 1993 to 2004. Although the two 1993 to 2004 proportions were similar (<italic>p</italic> = 0.16), there was an overall decline in annual intakes in Santa Clara County of 6,104 cats to 2004 (509 cats per year) for the 12 year period, compared to 2,174 cats in the same 12 year period for San Mateo County (181 cats per year). The absolute changes are economically more germane to counties with respect to shelter expenses because expenditures are based on the per diem cost of maintaining individual cats. The results of the ARIMA (1,0,1) projections indicated a higher-than-expected cat intake to shelters in Santa Clara County during the years when the voucher program was in effect, i.e., 1994–2005 (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). The ARIMA (1,0,1) projections further showed that the observed numbers of cats brought in by the field service did not substantially differ from the expected numbers during the same time period (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>).</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.18/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Observed numbers of cats surrendered to the shelters in Santa Clara County versus autoregressive integrated moving average (ARIMA) projected numbers of surrendered cats.</title>
+            <p>Figure uses the 1982–1993 data (before the launch of the spay/neuter voucher program) shelter data. The lower (LCL) and upper (UCL) 95% confidence limits of the ARIMA projection are also presented.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/fig-5.png"/>
+        </fig>
+        <fig id="fig-6">
+          <object-id pub-id-type="doi">10.7717/peerj.18/fig-6</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Observed numbers of cats brought to the shelters in Santa Clara County by the field service versus the autoregressive integrated moving average (ARIMA) projected numbers of cats.</title>
+            <p>Figure shows cats brought in by field service using the 1982–1993 (before the launch of the spay/neuter voucher program, shelter data). The lower (LCL) and upper (UCL) 95% confidence limits of the ARIMA projection are also presented.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/fig-6.png"/>
+        </fig>
+        <p>Information provided by the HSSV shelter indicated that the majority of cats entering the shelter were unweaned kittens and feral cats. From 2000 to 2004, the HSSV euthanized 53,419 cats deemed unadoptable: 14,406 were too young (under four weeks of age), 7,912 were unsociable, and 7,595 were feral.</p>
+        <p>Under the voucher program, 20,419 cats were surgically sterilized from 1994–2001 and an additional 6,231 cats were sterilized from 2001–2003. While the program was initiated at the end of 1994, public interest did not start until mid-1995, when a local television station and newspaper ran a story about it.</p>
+        <p>The San Jose program was initially free to the public; however, various program changes over time were instituted. Veterinarians were reimbursed at a set fee of $25 female and $15 male. Pregnancies could add to the veterinarian reimbursement up to $50, and anatomical issues adjusted the price to as high as $150. In 1996 modifications included requiring a $5 co-pay, and a requirement that cat owners obtain a $5 license and rabies inoculation. While these changes increased the veterinarian reimbursement, they also created a negative effect on the program, as voucher requests declined from 5,600 in the first 16 months of the program to only 2,800 for the year following the changes.</p>
+        <p>The San Jose voucher program ended in 2003, but the county program continued. Utilizing assumptions in <xref ref-type="table" rid="table-1">Table 1</xref>, if no voucher program had been initiated, the same cats enrolled in the voucher program (assuming that 65% were owned, based on the 2005 survey results) would have produced approximately 312,000 kittens between 1994 and 2005, and approximately 8,600 additional cats would have entered (6,200 surrendered and 2,500 brought in by the field service) the shelters in Santa Clara County. This would have incurred an additional cost of approximately $2.15 million, with the HSSV charge to cities for stray cat services under their contract cost of $250 per cat. If the cost per cat for spay/neuter surgery in 2001–2002 ($23.21 average for all surgeries) can be assumed to be constant from 1994–2005, then the expected cost of the HSSV voucher program was approximately $620,000. Thus, the net gain of the program from reducing the number of cat shelter intakes was approximately $1.53 million. Not counted would be the added burden of approximately 44,000 cats to the stray population in the county.</p>
+        <p>The proportion of feral cats actually altered in the program considerably fluctuated: from 77% in 2006 to 82% in 2007 to 48% in 2008 (the latter data is from San Jose only). <xref ref-type="table" rid="table-2">Table 2</xref> contains projections of how county cat and shelter populations would be expected to change in the absence of the voucher program under different owned versus feral cat ratios. Under all plausible scenarios, ranging from 20% to 80% of the altered cats being feral, the costs to the shelters would have likely exceeded $2 million over the 12-year life of the program, and at the higher proportion of feral cats the costs would have likely exceeded $6 million.</p>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.18/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Projected impact of hypothetical absence of the 12 year spay/neuter program on cat populations, shelter intake, and municipal cost in Santa Clara County.</title>
+            <p>Median and the 5th and 95th percentiles (in parentheses) are reported (×$1,000).</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/18/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Percentage of surgeries performed on owned cats</th>
+                  <th align="left">Additional number of owned cats</th>
+                  <th align="left">Additional number of stray cats</th>
+                  <th align="left">Cats voluntarily surrendered to shelter</th>
+                  <th align="left">Cats brought in by field service</th>
+                  <th align="left">Total additional shelter cat intake</th>
+                  <th align="left">Cost to shelter for additional surrendered and stray cats</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">20</td>
+                  <td align="left">193</td>
+                  <td align="left">265</td>
+                  <td align="left">6</td>
+                  <td align="left">20</td>
+                  <td align="left">25</td>
+                  <td align="left">$6,333</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">(110, 388)</td>
+                  <td align="left">131, 593)</td>
+                  <td align="left">(3, 12)</td>
+                  <td align="left">(10, 44)</td>
+                  <td align="left">(13, 55)</td>
+                  <td align="left">(3,242, 13,817)</td>
+                </tr>
+                <tr>
+                  <td align="left">30</td>
+                  <td align="left">226</td>
+                  <td align="left">181</td>
+                  <td align="left">7</td>
+                  <td align="left">13</td>
+                  <td align="left">20</td>
+                  <td align="left">$5,034</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">(140, 412)</td>
+                  <td align="left">(98, 367)</td>
+                  <td align="left">(4, 13)</td>
+                  <td align="left">(7, 27)</td>
+                  <td align="left">(11, 40)</td>
+                  <td align="left">(2,867, 9,893)</td>
+                </tr>
+                <tr>
+                  <td align="left">40</td>
+                  <td align="left">239</td>
+                  <td align="left">124</td>
+                  <td align="left">7</td>
+                  <td align="left">9</td>
+                  <td align="left">16</td>
+                  <td align="left">$4,078</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">(159, 398)</td>
+                  <td align="left">(73, 226)</td>
+                  <td align="left">(5, 12)</td>
+                  <td align="left">(5, 17)</td>
+                  <td align="left">(10, 28)</td>
+                  <td align="left">(2,549, 7,089)</td>
+                </tr>
+                <tr>
+                  <td align="left">50</td>
+                  <td align="left">242</td>
+                  <td align="left">84</td>
+                  <td align="left">7</td>
+                  <td align="left">6</td>
+                  <td align="left">13</td>
+                  <td align="left">$3,351</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">(173, 368)</td>
+                  <td align="left">(54, 138)</td>
+                  <td align="left">(5, 11)</td>
+                  <td align="left">(4, 10)</td>
+                  <td align="left">(9, 21)</td>
+                  <td align="left">(2,282, 5,291)</td>
+                </tr>
+                <tr>
+                  <td align="left">60</td>
+                  <td align="left">241</td>
+                  <td align="left">55</td>
+                  <td align="left">7</td>
+                  <td align="left">4</td>
+                  <td align="left">11</td>
+                  <td align="left">$2,823</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">(180, 342)</td>
+                  <td align="left">(38, 85)</td>
+                  <td align="left">(5, 10)</td>
+                  <td align="left">(3, 6)</td>
+                  <td align="left">(8, 17)</td>
+                  <td align="left">(2,035, 4,135)</td>
+                </tr>
+                <tr>
+                  <td align="left">70</td>
+                  <td align="left">236</td>
+                  <td align="left">35</td>
+                  <td align="left">7</td>
+                  <td align="left">3</td>
+                  <td align="left">10</td>
+                  <td align="left">$2,411</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">(182, 319)</td>
+                  <td align="left">(25, 50)</td>
+                  <td align="left">(5, 10)</td>
+                  <td align="left">(2, 4)</td>
+                  <td align="left">(7, 13)</td>
+                  <td align="left">(1,814, 3,324)</td>
+                </tr>
+                <tr>
+                  <td align="left">80</td>
+                  <td align="left">231</td>
+                  <td align="left">20</td>
+                  <td align="left">7</td>
+                  <td align="left">1</td>
+                  <td align="left">8</td>
+                  <td align="left">$2,099</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">(182, 303)</td>
+                  <td align="left">(15, 27)</td>
+                  <td align="left">(5, 9)</td>
+                  <td align="left">(1, 2)</td>
+                  <td align="left">(6, 11)</td>
+                  <td align="left">(1,625, 2,792)</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>This study documents the positive impacts publically subsidized low-cost spay and neuter programs can have that often go unmet in communities: pet population control, leading to the prevention of the proliferation of feral dog and cat populations, slowing the flow of animals into shelters both voluntarily and through field services, and reduction in the incidence of humane destruction of animals. But they also extend to other issues of economic importance to communities; namely, reduction in capital and ongoing animal control expenditures that come under a municipality’s jurisdiction. In contrast, the implication of cessation of such programs can be seen in <xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref> when the decline in shelter admissions of dogs and cats became attenuated. The problem could be exacerbated over time as the human (and hence pet-owning) population increases.</p>
+      <p>The finding that there were over 15,000 dogs (4.7% of the county’s dog population) estimated to be transiently or permanently stray throughout the county is troubling from societal and public health standpoints. The absence of a domestic environment can lead stray dogs, which are by nature gregarious, to form packs that can become aggressive and endanger other animals and even humans. The origin of such a large number of dogs is worthy of further research, as this study did not explore whether these were free-roaming dogs or those kept in temporary foster or rescue care.</p>
+      <p>Specific breed information was not available for dogs in Santa Clara County animal shelters. Respondents claimed 51% of their dogs were registered and unregistered purebred dogs. This stands in contrast to a 1996 national survey that found 30% of dogs relinquished to shelters were purebred (<xref ref-type="bibr" rid="ref-13">Salman et al., 1998</xref>), and the Humane Society of the United States estimates that 25%–30% of shelter dogs are purebred (<xref ref-type="bibr" rid="ref-2">The Humane Society of the United States, 2011</xref>). Nationally, purebred dogs are substantially less likely to be relinquished to animal shelters than dogs of mixed breed (<xref ref-type="bibr" rid="ref-13">Salman et al., 1998</xref>).</p>
+      <p>The dogs with greatest likelihood of successful adoption from county animal shelters are puppies (<xref ref-type="bibr" rid="ref-5">Lepper, Kass &amp; Hart, 2002</xref>). By the time dogs reach the age of one year, though, their risk of unsuccessful adoption following relinquishment rises considerably; again, particularly true in pit bull-like breeds (<xref ref-type="bibr" rid="ref-5">Lepper, Kass &amp; Hart, 2002</xref>). Aggressive dog behavior is a major reason dogs are euthanized at the county shelters (<xref ref-type="bibr" rid="ref-4">Kass et al., 2001</xref>). To reduce dog intakes, municipalities should consider how the establishment of free or low cost puppy training programs (potentially mandatory for shelter adoptions) might impact shelter populations. A collaborative effort among multiple community agencies, including animal control, non-profits, and local pet industry businesses should be explored.</p>
+      <p>Another important finding is the enumeration of the substantial unowned cat population in Santa Clara County, two-thirds of which are feral. Also notable is that the majority of unowned cats entering the animal shelters in the study were arguably unsuitable for adoption, with over 50% being feral or unweaned kittens. Such cats are often quickly euthanized. Preventing such input defies simplistic solutions, because although 93% of cat owners were willing to have their own pets surgically sterilized, it is unrealistic to expect the 7% of the population that feeds an average of 3 stray cats to assume the hundreds of dollars necessary to surgically alter these cats.</p>
+      <p>Conversely, the cost of not altering the cats is to add 3.5 kittens per year (<xref ref-type="bibr" rid="ref-9">Nutter, Levine &amp; Stoskopf, 2004</xref>; <xref ref-type="bibr" rid="ref-12">Pedersen, 1991</xref>) for each stray female, which at the cost to a shelter of approximately $250 per cat would cost a shelter almost $900 in husbandry expenses for those 3.5 kittens; were they not sheltered, the kittens would be expected to have 75% mortality (<xref ref-type="table" rid="table-1">Table 1</xref>). The underscores why low-cost spay and neuter programs directed to reducing the un-owned and feral cat populations continue to be integral to not only reducing cat mortality at the shelters, but also to managing the cost to the various municipalities to handle and house the stray cats. Santa Clara County’s contribution of $45 to alter a stray cat under its separate feral spay/neuter program created an immediate savings of over $200 for just the first litter that permanently results in non-reproducing cats. The county program also subsidized shots, and for a time, FELV testing. The earlier such cats can be sterilized, the greater the potential savings to municipalities. The savings would be expected to grow over additional years. Moreover, under all plausible scenarios shown in <xref ref-type="table" rid="table-2">Table 2</xref> the voucher program would have resulted in a net savings in expenditure.</p>
+      <p>If stray cat-feeding citizens can be convinced through public education to avail themselves of population control options by making them more affordable and they are provided with instructions and resources as to how to accomplish this activity, the savings in costs and lives will be substantial. This study shows approximately 93% of county residents did not make an effort to sterilize unowned cats. Only 5.5% of the unowned but fed cats were surgically sterilized. Efforts should be focused on removing barriers and finding ways to encourage those who feed free-roaming cats to take this important step. Because the study shows that 62% of unowned but fed cats are fed in people’s yards, efforts should be intensified to sterilize cats living in close proximity to homes, rather than less accessible colonies.</p>
+      <p>This study’s limitations include the assumption that the participating individuals are representative of the county’s population. Interviews were conducted via telephone, with the non-telephone-owning segment of the county excluded by design, and to the extent that this subgroup differs in their pet ownership and practices the findings cannot be generalized to them. However, calls were made to each zip code in the county, and the number of respondents completing the survey in each zip code, were proportionate to their share of the county population. Although the finding that shelter intake declined in association with the inception of the voucher program, the presence of extraneous (confounding) factors associated both with time and shelter intake cannot be ruled out, including migration into and out of the county (although the human population actually increased during the study period). At the time of the study, two additional smaller shelters existed in the county: a county facility in San Martin, which served the 5% of the population not living within cities, and a city facility in Palo Alto, which only served Palo Alto residents; these shelters were not expected to have any meaningful impact on intake changes in the shelters in this study.</p>
+      <p>In conclusion, this study demonstrates the financial and societal value of instituting a low-cost voucher program on a county-wide scale. Although the parameters utilized in the projections and models in this research (e.g., fecundity and mortality) will vary, perhaps substantially, from county to county, they are realistic and based on published observations. It is therefore likely that the qualitative – if not the precise quantitative – benefits of the voucher program in Santa Clara County will be of significance if incepted elsewhere.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We are grateful to Beth Ward and Chris Benninger at the Humane Society of Silicon Valley, Greg VanWassenhove at County of Santa Clara, and Jon Cicirelli at the City of San Jose for providing annual shelter statistics.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors do not have any competing interests in this manuscript. Philip Kass is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Philip H. Kass</xref> and <xref ref-type="contrib" rid="author-3">Hsin-Yi Weng</xref> analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Karen L. Johnson</xref> wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Cat Fanciers’ Almanac (1994)</label>
+        <element-citation publication-type="other">
+          <comment><bold>Cat Fanciers’ Almanac. 1994</bold>. <italic>National pet alliance’s survey report on Santa Clara county’s pet population</italic>. San Jose, CA: National Pet Alliance</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>The Humane Society of the United States (2011)</label>
+        <element-citation publication-type="other">
+          <comment><bold>The Humane Society of the United States. 2011.</bold> Adopting from an animal shelter or rescue group. Available at <uri xlink:href="http://www.humanesociety.org/issues/adopt/tips/adopting_from_shelter_rescue.html">http://www.humanesociety.org/issues/adopt/tips/adopting_from_shelter_rescue.html</uri> (accessed 12 November 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Jemmett &amp; Evans (1977)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jemmett</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>A survey of sexual behavior and reproduction in female cats</article-title>
+          <source>Journal of Small Animal Practice</source>
+          <year>1977</year>
+          <volume>18</volume>
+          <fpage>31</fpage>
+          <lpage>37</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1748-5827.1977.tb05821.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Kass et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kass</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>New</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Scarlett</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Salman</surname>
+              <given-names>MD</given-names>
+            </name>
+          </person-group>
+          <article-title>Understanding animal companion surplus in the United States: relinquishment of nonadoptables to animal shelters for euthanasia</article-title>
+          <source>Journal of Applied Animal Welfare Science</source>
+          <year>2001</year>
+          <volume>4</volume>
+          <fpage>237</fpage>
+          <lpage>248</lpage>
+          <pub-id pub-id-type="doi">10.1207/S15327604JAWS0404_01</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Lepper, Kass &amp; Hart (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lepper</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kass</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of adoption versus euthanasia among dogs and cats in a California animal shelter</article-title>
+          <source>Journal of Applied Animal Welfare Science</source>
+          <year>2002</year>
+          <volume>5</volume>
+          <fpage>29</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.1207/S15327604JAWS0501_3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Levy, Gale &amp; Gale (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levy</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Gale</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Gale</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the effect of a long-term trap-neuter-return and adoption program on a free-roaming cat population. [Evaluation Studies]</article-title>
+          <source>Journal of the American Veterinary Medical Association</source>
+          <year>2003</year>
+          <volume>222</volume>
+          <fpage>42</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="doi">10.2460/javma.2003.222.42</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>New et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>New</surname>
+              <given-names>JG</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Kelch</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Hutchison</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Salman</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Scarlett</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kass</surname>
+              <given-names>PH</given-names>
+            </name>
+          </person-group>
+          <article-title>Birth and death rate estimates of cats and dogs in U.S. households and related factors</article-title>
+          <source>Journal of Applied Animal Welfare Science</source>
+          <year>2004</year>
+          <volume>7</volume>
+          <fpage>229</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="doi">10.1207/s15327604jaws0704_1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>New et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>New</surname>
+              <given-names>JG</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Salman</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Scarlett</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kass</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Vaughn</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Scherr</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kelch</surname>
+              <given-names>WJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Moving: characteristics of dogs and cats and those relinquishing them to 12 U.S. animal shelters</article-title>
+          <source>Journal of Applied Animal Welfare Science</source>
+          <year>1999</year>
+          <volume>2</volume>
+          <fpage>83</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="doi">10.1207/s15327604jaws0202_1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Nutter, Levine &amp; Stoskopf (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nutter</surname>
+              <given-names>FB</given-names>
+            </name>
+            <name>
+              <surname>Levine</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Stoskopf</surname>
+              <given-names>MK</given-names>
+            </name>
+          </person-group>
+          <article-title>Reproductive capacity of free-roaming domestic cats and kitten survival rate. [Research Support, Non-U.S. Gov’t]</article-title>
+          <source>Journal of the American Veterinary Medical Assocication</source>
+          <year>2004</year>
+          <volume>225</volume>
+          <fpage>1399</fpage>
+          <lpage>1402</lpage>
+          <pub-id pub-id-type="doi">10.2460/javma.2004.225.1399</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Patronek et al. (1996a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patronek</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Glickman</surname>
+              <given-names>LT</given-names>
+            </name>
+            <name>
+              <surname>Beck</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>McCabe</surname>
+              <given-names>GP</given-names>
+            </name>
+            <name>
+              <surname>Ecker</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Risk factors for relinquishment of dogs to an animal shelter</article-title>
+          <source>Journal of the American Veterinary Medical Association</source>
+          <year>1996a</year>
+          <volume>209</volume>
+          <fpage>572</fpage>
+          <lpage>581</lpage>
+          <pub-id pub-id-type="doi">10.1111/1467-9280.00173</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Patronek et al. (1996b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patronek</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Glickman</surname>
+              <given-names>LT</given-names>
+            </name>
+            <name>
+              <surname>Beck</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>McCabe</surname>
+              <given-names>GP</given-names>
+            </name>
+            <name>
+              <surname>Ecker</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Risk factors for relinquishment of cats to an animal shelter</article-title>
+          <source>Journal of the American Veterinary Medical Association</source>
+          <year>1996b</year>
+          <volume>209</volume>
+          <fpage>582</fpage>
+          <lpage>588</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Pedersen (1991)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>NC</given-names>
+            </name>
+          </person-group>
+          <source>Feline husbandry: diseases and management in the multiple-cat environment</source>
+          <year>1991</year>
+          <publisher-loc>Goleta, CA</publisher-loc>
+          <publisher-name>American Veterinary Publications</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Salman et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salman</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>New</surname>
+              <given-names>JG</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Scarlett</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kass</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Ruch-Gallie</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hetts</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Human and animal factors related to relinquishment of dogs and cats in 12 selected animal shelters in the United States</article-title>
+          <source>Journal of Applied Animal Welfare Science</source>
+          <year>1998</year>
+          <volume>1</volume>
+          <fpage>207</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="doi">10.1207/s15327604jaws0103_2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Scarlett et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scarlett</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Salman</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>New</surname>
+              <given-names>JG</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Kass</surname>
+              <given-names>PH</given-names>
+            </name>
+          </person-group>
+          <article-title>Reasons for relinquishment of companion animals in U.S. animal shelters: selected health and personal issues</article-title>
+          <source>Journal of Applied Animal Welfare Science</source>
+          <year>1999</year>
+          <volume>2</volume>
+          <fpage>41</fpage>
+          <lpage>57</lpage>
+          <pub-id pub-id-type="doi">10.1207/s15327604jaws0201_4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Scott, Geissinger &amp; Peltz (1978)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scott</surname>
+              <given-names>FW</given-names>
+            </name>
+            <name>
+              <surname>Geissinger</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Peltz</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Kitten mortality survey</article-title>
+          <source>Feline Practice</source>
+          <year>1978</year>
+          <volume>8</volume>
+          <fpage>31</fpage>
+          <lpage>34</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Scott, Levy &amp; Crawford (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scott</surname>
+              <given-names>KC</given-names>
+            </name>
+            <name>
+              <surname>Levy</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Crawford</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Characteristics of free-roaming cats evaluated in a trap-neuter-return program</article-title>
+          <source>Journal of the American Veterinary Medical Association</source>
+          <year>2002</year>
+          <volume>221</volume>
+          <fpage>1136</fpage>
+          <lpage>1138</lpage>
+          <pub-id pub-id-type="doi">10.2460/javma.2002.221.1136</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>State of California (2009a)</label>
+        <element-citation publication-type="other">
+          <comment><bold>State of California. 2009a.</bold> Table B-3: total population of California counties as of July 1. Available at <uri xlink:href="http://www.dof.ca.gov/HTML/FS_DATA/STAT-ABS/Toc_xls.htm">http://www.dof.ca.gov/HTML/FS_DATA/STAT-ABS/Toc_xls.htm</uri> (accessed 12 November 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>State of California (2009b)</label>
+        <element-citation publication-type="other">
+          <comment><bold>State of California. 2009b.</bold> Table B-5: population and percent distribution by race and Hispanic origin, California, Census 2000. Available at <uri xlink:href="http://www.dof.ca.gov/HTML/FS_DATA/STAT-ABS/Toc_xls.htm">http://www.dof.ca.gov/HTML/FS_DATA/STAT-ABS/Toc_xls.htm</uri> (accessed 12 November 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>US Census Bureau (2012)</label>
+        <element-citation publication-type="other">
+          <comment><bold>US Census Bureau. 2012.</bold> State &amp; County QuickFacts. Santa Clara County, California. Available at <uri xlink:href="http://quickfacts.census.gov/qfd/states/06/06085.html">http://quickfacts.census.gov/qfd/states/06/06085.html</uri> (accesssed 12 November 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Zanowski (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zanowski</surname>
+              <given-names>GN</given-names>
+            </name>
+          </person-group>
+          <article-title>The true costs of euthanasia in animal shelters: a comprehensive examination</article-title>
+          <source>International Journal of Liability and Scientific Enquiry</source>
+          <year>2010</year>
+          <volume>3</volume>
+          <fpage>291</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="doi">10.1504/IJLSE.2010.035621</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

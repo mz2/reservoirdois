@@ -1,1147 +1,1231 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018425000,&quot;from_str&quot;:&quot;2013-07-05T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500025000,&quot;from_str&quot;:&quot;2013-06-29T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370512825000,&quot;from_str&quot;:&quot;2013-06-06T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948025000,&quot;from_str&quot;:&quot;2012-12-31T10:00:25+00:00&quot;,&quot;to&quot;:1373104825000,&quot;to_str&quot;:&quot;2013-07-06T10:00:25+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,347,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">7</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.7</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Cell Biology</subject>
+          <subject>Molecular Biology</subject>
+          <subject>Neuroscience</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mutations changing tropomodulin affinity for tropomyosin alter neurite formation and extension</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Moroz</surname>
+            <given-names>Natalia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="fn" rid="aufn-1">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Guillaud</surname>
+            <given-names>Laurent</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <xref ref-type="fn" rid="aufn-1">
+            <sup>4</sup>
+          </xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Desai</surname>
+            <given-names>Brinda</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Kostyukova</surname>
+            <given-names>Alla S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+          <xref ref-type="corresp" rid="corresp-1">*</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Voiland School of Chemical Engineering and Bioengineering</institution>, <addr-line>Washington State University</addr-line>, <addr-line>Pullman, WA</addr-line>, <country>USA</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Cellular and Molecular Synaptic Function Unit</institution>, <addr-line>Okinawa Institute of Science and Technology - Graduate University</addr-line>, <addr-line>Kunigami, Okinawa</addr-line>, <country>Japan</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Neuroscience and Cell Biology</institution>, <addr-line>Robert Wood Johnson Medical School</addr-line>, <addr-line>Piscataway, NJ</addr-line>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Deli</surname>
+            <given-names>Maria</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn id="aufn-1">
+          <label>4</label>
+          <p>These authors contributed equally to this work.</p>
+        </fn>
+        <corresp id="corresp-1">
+          <label>*</label>
+          <email>alla.kostyukova@wsu.edu</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-02-12">
+        <day>12</day>
+        <month>2</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e7</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2012-11-12">
+          <day>12</day>
+          <month>11</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2012-12-15">
+          <day>15</day>
+          <month>12</month>
+          <year iso-8601-date="2012">2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Moroz et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Moroz et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/7"/>
+      <abstract>
+        <p>Assembly of the actin cytoskeleton is an important part of formation of neurites in developing neurons. Tropomodulin, a tropomyosin-dependent capping protein for the pointed end of the actin filament, is one of the key players in this process. Tropomodulin binds tropomyosin in two binding sites. Tmod1 and Tmod2, tropomodulin isoforms found in neurons, were overexpressed in PC12 cells, a model system for neuronal differentiation. Tmod1 did not affect neuronal differentiation; while cells expressing Tmod2 showed a significant reduction in the number and the length of neurites. Both tropomodulins bind short α-, γ- and δ-tropomyosin isoforms. Mutations in one of the tropomyosin-binding sites of Tmod1, which increased its affinity to short γ- and δ-tropomyosin isoforms, caused a decrease in binding short α-tropomyosin isoforms along with a 2-fold decrease in the length of neurites. Our data demonstrate that Tmod1 is involved in neuronal differentiation for proper neurite formation and outgrowth, and that Tmod2 inhibits these processes. The mutations in the tropomyosin-binding site of Tmod1 impair neurite outgrowth, suggesting that the integrity of this binding site is critical for the proper function of Tmod1 during neuronal differentiation.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Tropomodulin</kwd>
+        <kwd>Tropomyosin</kwd>
+        <kwd>Actin</kwd>
+        <kwd>Neurite formation</kwd>
+        <kwd>Cytoskeleton</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>National Institutes of Health grant</funding-source>
+          <award-id>GM081688</award-id>
+        </award-group>
+        <funding-statement>This study was supported by a National Institutes of Health grant GM081688 to Alla Kostyukova.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Assembly and re-assembly of the actin cytoskeleton is an important part of neuritogenesis (for reviews see, <xref ref-type="bibr" rid="ref-5">da Silva &amp; Dotti, 2002</xref>; <xref ref-type="bibr" rid="ref-22">Stiess &amp; Bradke, 2011</xref>). The ability of actin to polymerize and depolymerize allows postmitotic neurons to migrate, and neurites, neuronal appendages, to sprout. Proteins that control polymerization at the barbed (fast-growing) ends and depolymerization at the pointed (slowly-growing) ends of actin filaments are of great importance for cytoskeletal reorganization.</p>
+      <p>Tropomodulin (Tmod), a capping protein for the pointed end (<xref ref-type="bibr" rid="ref-28">Weber et al., 1994</xref>), is one of the key players in this system. So far, little attention has been paid to Tmod function in neurons, mostly because it was believed that the most important things happen at the barbed end, where continuous incorporation of actin subunits occurs. Barbed ends face and push the distal membrane in growing neurites. The pointed end was labeled only as the end where depolymerization occurred; capping of this end was not believed to be crucial for neuritogenesis. However, recently it has been shown that Tmod plays an important role as a negative regulator in neurite formation (<xref ref-type="bibr" rid="ref-6">Fath et al., 2011</xref>).</p>
+      <p>There are four known Tmod isoforms: Tmod1 is found mainly in erythrocytes, but also in heart, skeletal muscle, brain, and many other tissues; Tmod2 is found in brain; Tmod3 is expressed widely in various tissues; Tmod4 is found in skeletal muscle only (<xref ref-type="bibr" rid="ref-27">Watakabe, Kobayashi &amp; Helfman, 1996</xref>; <xref ref-type="bibr" rid="ref-1">Almenar-Queralt et al., 1999</xref>; <xref ref-type="bibr" rid="ref-4">Cox &amp; Zoghbi, 2000</xref>; <xref ref-type="bibr" rid="ref-2">Conley et al., 2001</xref>). Hyperactivity, reduced sensorimotor gating, and impaired learning and memory were found in mice lacking Tmod2 (<xref ref-type="bibr" rid="ref-3">Cox et al., 2003</xref>). Tmod1 levels in Tmod2 knockout mice increased drastically, probably to compensate for the absence of Tmod2, while no change in the Tmod3 level was detected. In N2a neuroblastoma cells (model system to study neuritogenesis), both Tmod1 and Tmod2 were expressed, but levels of Tmod1 increased drastically starting 24 hours after induction of neuritogenesis (<xref ref-type="bibr" rid="ref-6">Fath et al., 2011</xref>).</p>
+      <p>The Tmod molecule consists of two functionally and structurally distinct halves, a disordered N-terminal domain, and a compact C-terminal domain (<xref ref-type="bibr" rid="ref-13">Kostyukova et al., 2000</xref>; <xref ref-type="bibr" rid="ref-17">Krieger et al., 2002</xref>). In order to bind tightly to actin, Tmod requires tropomyosin (<xref ref-type="bibr" rid="ref-28">Weber et al., 1994</xref>). There are two tropomyosin-binding sites located in the N-terminal disordered domain (<xref ref-type="bibr" rid="ref-15">Kostyukova, Choy &amp; Rapp, 2006</xref>).</p>
+      <p>Tropomyosins (TMs) are a family of rod-shaped, coiled-coil proteins that bind to both grooves of the actin filament (for reviews see (<xref ref-type="bibr" rid="ref-11">Gunning et al., 2005</xref>; <xref ref-type="bibr" rid="ref-18">Martin &amp; Gunning, 2008</xref>)). TMs are encoded by four genes, α, β, γ and δ. Alternative splicing of the genes gives rise to many isoforms, organized by their molecular weight into two classes, short (low molecular weight) and long (high molecular weight) TMs. Distribution of TM isoforms depends on actin isoform localization as well as on the localization of other actin-binding proteins (<xref ref-type="bibr" rid="ref-11">Gunning et al., 2005</xref>; <xref ref-type="bibr" rid="ref-18">Martin &amp; Gunning, 2008</xref>). It is assumed that the microtubule system is also involved in isoform sorting of TMs.</p>
+      <p>Several TM isoforms are expressed in neurons. Expression depends on the maturity of the neuron and the stage of development. Of all the isoforms, TMBr3 (short α-TM) is the most abundant, but it is expressed in mature neurons only. Other short TMs, TM4 (δ-TM) and TM5NM1 (γ-TM), are expressed early. Expression of TM4 in neurons increases immediately after birth and then declines (<xref ref-type="bibr" rid="ref-12">Had et al., 1994</xref>). Intracellular localization of TM5NM1 changes from axonal to dendritic upon neuronal maturation (<xref ref-type="bibr" rid="ref-29">Weinberger et al., 1996</xref>). Due to differential and strictly regulated patterns of TM expression, it is probable that each isoform is responsible for distinct functions (<xref ref-type="bibr" rid="ref-11">Gunning et al., 2005</xref>; <xref ref-type="bibr" rid="ref-18">Martin &amp; Gunning, 2008</xref>).</p>
+      <p>Previously, we showed that Tmod-TM interactions are isoform specific (<xref ref-type="bibr" rid="ref-25">Uversky et al., 2011</xref>). Dissociation constants were determined for complexes of synthetic TM and Tmod peptides, which represent binding sites of different Tmod and TM isoforms. We found that binding for short γ- and δ-TMs is very weak in TM-binding site 1 of Tmod1, compared to Tmod2. Changing two residues, Ala 21 and Glu 33 in site 1 of Tmod1 to Lys and Val, the corresponding residues in the Tmod2 sequence, resulted in an increase of γ- and δ-TM binding. We suggested that the function of Tmod isoforms is regulated by their affinity to TM isoforms. In this work, we studied the effects of A21K/E33V mutations in the full-length Tmod1 on the formation of neurites and the binding of short brain TM isoforms. We showed that these mutations caused a decrease in binding of short TMs derived from the α-gene, and that they also caused a 2-fold decrease in the length of neurites formed.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Plasmid construction and mutagenesis</title>
+        <p>For transfection experiments and expression in <italic>Escherichia coli</italic>, mouse Tmod2 (accession No. NM_016711) was subcloned into pReceiver-M55 with mCherry tag and into pReceiver-B01 with His-tag (Genecopoeia, Rockville, MD), respectively. The plasmid for mouse Tmod1 (accession No. NM_21883) subcloned into pEGFP-C1 was a generous gift from Dr. Carol Gregorio (Arizona State University) previously used in (<xref ref-type="bibr" rid="ref-24">Tsukada et al., 2011</xref>). The GFP-Tmod1 plasmid was used both for PC12 transfection and as a template for mutagenesis. The pET(His)Tmod1 plasmid (<xref ref-type="bibr" rid="ref-13">Kostyukova et al., 2000</xref>) was used for Tmod1 expression in <italic>E. coli</italic> and as a template for mutagenesis. Site-directed mutagenesis was performed using a QuikChange Site-Directed Mutagenesis Kit (Stratagene, La Jolla, CA). The plasmids were amplified by PCR according to the manufacturer’s instructions with the modification described in (<xref ref-type="bibr" rid="ref-24">Tsukada et al., 2011</xref>) using Pfu Ultra Hotstart DNA polymerase (Agilent) and two complementary sets of oligonucleotides, which contain changed triplets.</p>
+        <p>To change Ala 21 to Lys in chicken or mouse Tmod1, the sets of oligonucleotides were 5′-GAA GAC AAG ATC CTC GGA AAG CTG ACG GAG GAA GAG CTC-3′ and 5′-GAG CTC TTC CTC CGT CAG CTT TCC GAG GAT CTT GTC TTC-3′; or 5′-GAG GAT GAA ATC CTG GGG AAG CTC ACA GAG GAG GAG C-3′ and 5′-GCT CCT CCT CTG TGA GCT TCC CCA GGA TTT CAT CCT C-3′, respectively.</p>
+        <p>Then once a single mutation was introduced and confirmed for each plasmid, the singly-mutated plasmid was then used as a template to introduce the second mutation.</p>
+        <p>To change Glu 33 to Val in chicken or mouse Tmod1, the sets of oligonucleotides were: 5′-CTC AGG AAG TTG GAG AAC GTG CTG GAA GAG CTG GAC-3′ and 5′-GTC CAG CTC TTC CAG CAC GTT CTC CAA CTT CCT GAG-3′, or 5′-CTG AGG ACG CTG GAA AAT GTG CTA GAT GAA CTA GAC-3′ and 5′-GTC TAG TTC A TCT AGC ACA TTT TCC AGC GTC CTC AG-3′, respectively.</p>
+        <p>After PCR, the original plasmid was digested using DpnI. The digest was used to transform <italic>E. coli</italic> maximum-efficiency DH5α (Invitrogen). Cells were grown in the presence of 100 mg/L carbenicillin for all plasmids except the one for GFP-Tmod1, which was grown in the presence of 50 mg/L kanamycin. After plasmid purification (using Qiagen mini-prep kit), the presence of mutations was confirmed by DNA sequencing. Synthesis of all oligonucleotides was done by Integrated DNA Technologies Inc. (Coralville, Iowa), and DNA sequencing was done by Genewiz (South Plainfield, NJ).</p>
+      </sec>
+      <sec>
+        <title>Tmod purification</title>
+        <p>Tmod1 (both wild type and mutant) was overexpressed in <italic>E. coli</italic> BL21 (DE3) pLysE while Tmod2 was overexpressed in <italic>E. coli</italic> BL21 (DE3). Auto-inducible ZYP-5052 media (<xref ref-type="bibr" rid="ref-23">Studier, 2005</xref>) containing 100 mg/L carbenicillin (plus 50 mg/L chloramphenicol for <italic>E. coli</italic> BL21 (DE3) pLysE) was inoculated and cells were grown for 12–15 hours at 37 °C. Cells were harvested by centrifugation at 8,000 rpm (Sorvall SLA-3000 Rotor), 4 °C, for 10 min. Pellets were re-suspended in 20 mM Tris-HCL, pH 7.0, 100 mM NaCl, containing a protease inhibitor cocktail (Roche), containing 1 mM pefabloc, and 1 mM tosyl-L-lysine chloromethyl ketone (TLCK). Re-suspended pellets were sonicated for 10 min on ice. The homogenized solution was then centrifuged at 20,000 rpm (Sorvall SA-300 Rotor), 4 °C, for 20 minutes and the supernatant was loaded onto a Superflow Ni-NTA agarose column (Qiagen) equilibrated with 50 mM Na-phosphate, pH 6.8, containing 10 mM imidazole. Once the protein was loaded, the column was washed with 50 mM Na-phosphate, pH 6.8, containing 10 mM imidazole and 5 mM β-mercaptoethanol. Proteins were eluted by a 50–250 mM imidazole gradient in the same buffer. Fractions containing Tmod were combined, dialyzed overnight against 20 mM Tris-HCl, pH 8, containing 1 mM EDTA and 1 mM DTT, and loaded on an anion-exchange column Poros HQ/L (PerSeptive Biosystems) using an FPLC system (Pharmacia). Proteins were eluted by a 12–25% (for Tmod1) or 10-30% (for Tmod2) NaCl gradient. Fractions containing Tmod were combined and dialyzed against 20 mM Tris-HCl, pH 8, containing 1mM EDTA and 1mM DTT. Protein purity was evaluated using SDS-PAGE.</p>
+      </sec>
+      <sec>
+        <title>Peptides</title>
+        <p>N-acetylated TM peptides (αTm1bzip, γTm1bzip, and δTm1bzip) were synthesized by the Tufts University Core Facility (Boston, MA). Chimeric TM peptides designed for structural and functional studies (<xref ref-type="bibr" rid="ref-9">Greenfield et al., 2001</xref>; <xref ref-type="bibr" rid="ref-14">Kostyukova, 2007</xref>; <xref ref-type="bibr" rid="ref-19">Meshcheryakov et al., 2011</xref>) contain 19 N-terminal residues of short α-, γ-, or δ-TM respectively, encoded by exon 1b. To stabilize the coiled-coil structure, each peptide contained an additional 18 C-terminal residues of the GCN4 leucine Zipper domain. Quality of the synthetic peptides was confirmed using mass spectroscopy; molecular weights of the peptides were the same as the predicted ones.</p>
+        <p>Isoelectric points of TM peptides were calculated using protparam <uri xlink:href="http://web.expasy.org/protparam/">http://web.expasy.org/protparam/</uri>. Concentrations of proteins and peptides were determined both by using the BCA protein assay kit (Pierce) and by measuring their difference spectra in 6 M guanidine-HCl between pH 12.5 and 7.0, using the extinction coefficients of 2357 per tyrosine and 830 per tryptophan at 294 nm as in (<xref ref-type="bibr" rid="ref-16">Kostyukova, Hitchcock-Degregori &amp; Greenfield, 2007</xref>). Standard deviations of concentrations determined by the two methods were 20% for Tmod2 and between 4 and 16% for TM peptides.</p>
+      </sec>
+      <sec>
+        <title>Binding experiments</title>
+        <p>Binding was detected using native gel electrophoresis in 9% polyacrylamide gels that were polymerized in the presence of 10% glycerol without SDS. To prepare complexes for loading onto gels, stock solutions of 12 µM Tmods were mixed with TM peptides in a 1:2 molar ratio in 20 mM Tris-HCl, pH 8.0, containing 1 mM DTT and 1 mM EDTA. Presence ( ≤ 100 mM) or absence of NaCl did not affect binding results. Sample loading buffer (125 mM Tris-HCl, pH 6.8, 40% glycerol, 0.01% bromophenol blue) was added to the samples to a Tmod final concentration of 7.5 µM. Running buffer for electrophoresis contained 25 mM Tris-HCl and 192 mM glycine. For titration, TM peptides were added at different ratios (up to 3:1) to the stock solution of Tmod2. Samples were analyzed by staining native polyacrylamide gels with Coomassie R-250 and quantified using a ChemiDoc XRS+ with Image Lab Software (BioRad). Density of the complex bands was normalized in order to average results of several titrations.</p>
+      </sec>
+      <sec>
+        <title>Cell culture and imaging</title>
+        <p>Undifferentiated PC12 cells were grown in DMEM (Invitrogen) supplemented with 5% fetal bovine serum (FBS, Invitrogen) and 10% horse serum (HS, Invitrogen), and were sub-cultured every three days. For neuronal differentiation, PC12 cells were grown on 100 µg/ml poly-D-lysine–coated 8-well plates or 35-mm culture dishes (ibidi LLC) in DMEM supplemented with 0.5% FBS, 1% HS, and 100 ng/ml nerve growth factor (NGF, invitrogen). PC12 cells were transfected with GFP-Tmod1 WT, GFP-Tmod1 A21K/E33V, mChFP-Tmod2, or GFP-actin using lipofectamin 2000 (Invitrogen) according to the manufacturer’s instructions. Twenty-four hours after transfection, neuronal differentiation was induced and neurite outgrowth was monitored on day 3 and day 6 on a laser scanning confocal microscope LSM710 (Zeiss) with a 63x oil immersion lens (Zeiss). Images were acquired with Zen software (Zeiss) and the number and length of neurites were analyzed in Imaris software (Bitplane). Statistical analysis was performed by One-way ANOVA.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>A21K and E33V mutations in Tmod1 cause decrease in neurite length</title>
+        <p>Mutagenesis of Ala21 to Lys and Glu33 to Val in the Tmod1 fragment, Tmod1s1, increased the affinity of this fragment for TM peptides (<xref ref-type="bibr" rid="ref-25">Uversky et al., 2011</xref>). Tmod1s1 corresponded to the TM-binding site 1 of Tmod1 (res. 1-38). TM chimeric peptides, γTM1bzip and δTM1bzip, contained the N-terminal sequences of short TM isoforms TM5NM1 and TM4, respectively. To study the effects of this changed affinity on neurite formation, these mutations were introduced in full-length GFP-Tmod1. The mutant was expressed in PC12 cells, a model system for neuronal differentiation (<xref ref-type="bibr" rid="ref-8">Greene &amp; Tischler, 1976</xref>) and functional assessment of neurite outgrowth (<xref ref-type="bibr" rid="ref-10">Guillaud et al., 1998</xref>), to test its effect on neurite formation and extension.</p>
+        <p>We first checked expression of GFP-Tmod1 and mChFP-Tmod2 in PC12 cells. Both GFP-Tmod1 and mChFP-Tmod2 were successfully expressed and localized in both the cell body and neuronal extensions in differentiated PC12 cells (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>); however, mChFP-Tmod2 appeared be more restricted to the shaft of the neurites, while GFP-Tmod1 localized in the shaft and at the very end of the growth cones (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.7/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Confocal imaging illustrating the effect of Tmod expression on PC12 neuronal differentiation.</title>
+            <p>(A) PC12 cells over-expressing GFP-Tmod1 wild-type, GFP-Tmod1 mutant, and mChFP-Tmod2 after three days of NGF-induced neuronal differentiation. Bar = 20 µm. (B) PC12 cells over-expressing GFP-Tmod1 wild-type, GFP-Tmod1 mutant and mChFP-Tmod2 after six days of NGF-induced neuronal differentiation. Bar = 50 µm. (C) Bar graphs showing the number of neurites per cell and (D) the average length of neurites in PC12 cells over-expressing GFP-Tmod1 WT (<italic>n</italic> = 55), GFP-Tmod1 A21K/E33V (<italic>n</italic> = 48) and mChFP-Tmod2 (<italic>n</italic> = 45) three days (dark grey bars) and six days (light grey bars) after NGF-induced neuronal differentiation. Error bars in C) and D) represent sd (*: <italic>p</italic> &lt; 0.01 and **: <italic>p</italic> &lt; 0.0005; One-way ANOVA).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/7/fig-1.png"/>
+        </fig>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.7/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Localization and distribution of Tmod2 in PC12 cells.</title>
+            <p>A) Co-expression of mChFP-Tmod2 and GFP-Tmod1 in PC12 cells after 3 days of NGF-induced neuronal differentiation. Tmod2 does not co-localize with Tmod1 in the growth cones (arrowheads). Bar = 20 µm. B) Co-expression of mChFP-Tmod2 and GFP-actin in PC12 cells after 3 days of NGF-induced neuronal differentiation. Tmod2 does not co-localize on actin filaments in the tip of the neurites (arrowheads) or membrane ruffles (arrow). Bar = 20 µm.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/7/fig-2.png"/>
+        </fig>
+        <p>We next observed the effect of GFP-Tmod1 and mChFP-Tmod2 overexpression on neurite formation and outgrowth of PC12 cells, three and six days after NGF induction. Overexpression of GFP-Tmod1 did not affect neuronal differentiation when compared with overexpression of GFP alone (data not shown), but overexpression of mChFP-Tmod2 impaired neuronal differentiation of PC12 cells (<xref ref-type="fig" rid="fig-1">Figs. 1A and 1B</xref>). PC12 cells expressing GFP-Tmod1 showed proper neurite outgrowth after three and six days of NGF-induced neuronal differentiation. On the other hand, PC12 cells expressing mChFP-Tmod2 showed a significant reduction in the number (4-fold) and the length (3 to 10-fold) of neurites (<xref ref-type="fig" rid="fig-1">Figs. 1C and 1D</xref>).</p>
+        <p>Additionally, we co-expressed GFP-Tmod1 and mChFP-Tmod1 in PC12 cells and checked their effect on neuronal differentiation. Interestingly, co-expression of Tmod1 and Tmod2 did not impair NGF-induced neuronal differentiation after three days (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). The number (3.1 ± 0.6, <italic>n</italic> = 20) and length (61.3 ± 8.3 µm, <italic>n</italic> = 20) of neurites were similar to those observed in Tmod1 over-expressing cells (<xref ref-type="fig" rid="fig-1">Figs. 1C and 1D</xref>). Tmod2 did not localize with actin filaments in the tips of neurites of PC12 cells over-expressing mChFP-Tmod2 and GFP-actin (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>).</p>
+        <p>We further checked the effect of A21K and E33V mutations in GFP-Tmod1 on PC12 cell’s neuronal differentiation. PC12 cells overexpressing GFP-Tmod1[A21K/E33V] did not exhibit a significant decrease in the number of neurites per cell; however, the average length of neurites decreased approximately 2 to 3-fold (<xref ref-type="fig" rid="fig-1">Figs. 1A–1C</xref>). Interestingly, GFP-Tmod1[A21K/E33V] shared a similar localization pattern with mChFP-Tmod2 (data not shown).</p>
+      </sec>
+      <sec>
+        <title>Effect of the mutations in full-length Tmod1 on binding TM isoforms</title>
+        <p>Experiments that demonstrated increased Tmod1 binding to short non-muscle TM isoforms were performed using synthetic TM and Tmod peptides (<xref ref-type="bibr" rid="ref-25">Uversky et al., 2011</xref>). Residues 7–14 of short TMs form the binding site for Tmod (<xref ref-type="bibr" rid="ref-26">Vera et al., 2000</xref>). Therefore the data obtained for TM peptides, which contain 19 N-terminal residues, may be extrapolated to full-length TMs. Tmods contain two TM-binding sites; changes in one site may or may not affect TM-binding properties of the full-length molecule.</p>
+        <p>To explore the effect of the changes on full-length Tmod1, A21K and E33V mutations were introduced into full-length, His-tagged Tmod1. TM-binding properties of purified mutant Tmod1[A21K/E33V] and wild-type Tmod1 and Tmod2 were analyzed using native gel-electrophoresis (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Three TM peptides, αTM1bzip, γTM1bzip and δTM1bzip, were used in this experiment. All of them contained TM N-terminal sequences encoded by exon 1b of α, γ, and δ-genes, respectively. Tmods alone and mixed with TM peptides were loaded on native gels. TM peptides cannot be seen on native gels; they are positively charged and do not enter a gel unless they are in a complex with Tmod (isoelectric points of αTM1bzip, γTM1bzip and δTM1bzip are 9.98, 9.82, and 9.82, respectively). Binding positively charged TM peptides decreased Tmod mobility in gels; therefore, a shift of bands corresponding to the formed complexes was observed.</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.7/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Complex formation between Tmods and TM peptides detected by shift in native gel-electrophoresis.</title>
+            <p>Tmod and TM peptides were mixed at 1:1 ratio. Tmod (lane 1), Tmod and αTM1bzip (lane 2), Tmod and γTM1bzip (lane 3), Tmod and δTM1bzip (lane 4). TM peptides cannot be seen in gels because of high isoelectric points. Arrow indicates the additional complex band.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/7/fig-3.png"/>
+        </fig>
+        <p>Compact bands were formed for the mixtures of both Tmod1 and Tmod2 with αTM1bzip, (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>, lane 2) indicating formation of a stable complex. Tmod1 has been shown to bind an αTM1bzip peptide at both sites (<xref ref-type="bibr" rid="ref-15">Kostyukova, Choy &amp; Rapp, 2006</xref>). Although Tmod1 also has two binding sites for γTM1bzip, formation of a complex with only one γTM1bzip peptide bound to site 2 can be detected using native gel-electrophoresis (<xref ref-type="bibr" rid="ref-16">Kostyukova, Hitchcock-Degregori &amp; Greenfield, 2007</xref>). Binding one peptide instead of two resulted in higher electrophoretic mobility of the Tmod1/γTM1bzip band on the gel, and resulted from the weak affinity of γTM1bzip to site 1. The similar position of the band for the Tmod1/δTM1bzip complex, indicated that only one δTM1bzip peptide was bound to Tmod1 under these conditions (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>, lane 4). A smear, which appeared under the Tmod1/γTM1bzip and Tmod1/δTM1bzip bands, can be explained by complex dissociation during electrophoresis, indicating weaker affinities of Tmod1 with these TM isoforms (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>, lanes 3–4).</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.7/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Titration of Tmod2 by TM peptides αTM1bzip (A), γTM1bzip (B) and δTM1bzip (C).</title>
+            <p>Arrows indicate complexes, arrowheads indicate Tmods.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/7/fig-4.png"/>
+        </fig>
+        <p>Mutations A21K and E33V were designed based on previous data (<xref ref-type="bibr" rid="ref-25">Uversky et al., 2011</xref>) to enhance interaction of Tmod1 with short γ- and δ-TMs in site 1. With these mutations, we expected to see a band with the mobility of the band formed by Tmod1 and αTM1bzip. However, we saw no change of mobility for the complexes of Tmod1[A21K/E33V] with γTM1bzip and δTM1bzip (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>, lanes 3, 4). Unexpectedly, rather than a single band, for the complex of Tmod1[A21K/E33V] with αTM1bzip, an additional lower band appeared (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>, lane 2). The usual band representing a complex of Tmod1[A21K/E33V] with two αTM1bzip was also observed. The increased mobility of the additional band indicated formation of a complex with one TM peptide. Therefore, these mutations decreased the affinity of Tmod1 for the αTM1bzip in site 1, but did not affect the formation of the complex of Tmod1 with the two other TM peptides at least that can be detected by native gel-electrophoresis.</p>
+        <p>The mobilities of the Tmod2/γTM1bzip and Tmod2/δTM1bzip bands were slightly greater than the mobility of Tmod2/αTM1bzip (<xref ref-type="fig" rid="fig-3">Fig. 3C</xref>). The difference may be explained either by the slightly higher isoelectric point of αTM1bzip or by binding only one peptide.</p>
+      </sec>
+      <sec>
+        <title>Titration of Tmod2 by TM peptides</title>
+        <p>To find out how many TM molecules bind to Tmod2, Tmod2 was titrated with αTM1bzip, γTM1bzip, and δTM1bzip (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). In all cases, the Tmod2 band disappeared completely at a 1:1 molar TM/Tmod ratio, indicating that at this ratio all Tmod2 molecules were in a complex with one TM peptide. Complex formation between Tmod2 and αTM1bzip was different than with the two other peptides. The intensity of the Tmod2/αTM1bzip band continued to increase gradually, reaching maximum at a 2:1 ratio. It was more difficult to understand if the intensity of complex bands for Tmod2/γTM1bzip and Tmod2/δTM1bzip also continued to increase after disappearance of Tmod2 band. To clarify this, the change of the complexes in the mixture was monitored by scanning and quantifying the complex bands in native gels. The normalized density of the complexes is shown in <xref ref-type="fig" rid="fig-5">Fig. 5</xref> as a function of the TM/Tmod molar ratio. All curves demonstrate saturation at a 2:1 ratio. This result may be explained if binding of Tmod2 to all peptides was not cooperative and all Tmod2 molecules bind one TM peptide first, in a site that has a higher affinity; then a second peptide starts to bind. The change in the position of the complex band also confirms this explanation. Mobility of the complex band at a 1:1 ratio is slightly higher than at a 2:1 ratio (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>).</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.7/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Density dependence of the complex bands on the amount of TM peptide added (TM/Tmod molar ratio).</title>
+            <p>Error bars show standard deviation (<italic>n</italic> = 3).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/7/fig-5.png"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>TM5NM1, TM4 and TMBr3 are short TM isoforms specific to neurons. Location and development profiles of these isoforms were studied in rats using isoform-specific antibodies (<xref ref-type="bibr" rid="ref-12">Had et al., 1994</xref>; <xref ref-type="bibr" rid="ref-29">Weinberger et al., 1996</xref>; <xref ref-type="bibr" rid="ref-20">Schevzov et al., 2005</xref>; <xref ref-type="bibr" rid="ref-18">Martin &amp; Gunning, 2008</xref>). There is a low level of TMBr3 at birth with an increase after day 10 and the maximum level at days 21-35. Levels of TM4 are high at birth and reach a maximum at day 10, followed by decreasing levels. It was shown that in growing embryonic neurons, TM4 was concentrated in the cell body and the growth cones located at the distal ends of neurites. In embryonic neurons, TM5NM1 is localized in the growth cones, but cannot be found in cell bodies. In adult neurons, both TM5NM1 and TM4 localize in the cell body while TMBr3 was found in the axon and presynaptic area.</p>
+      <p>Tmod2 was found in the brain along with Tmod1 as a TMBr3-binding protein and was identified as a new Tmod isoform specific for neurons (<xref ref-type="bibr" rid="ref-27">Watakabe, Kobayashi &amp; Helfman, 1996</xref>). Tmod2 is detected at embryonic day 14 and reaches adult levels before birth. Watakabe et al. also tested binding of Tmod1 and Tmod2 to several TM isoforms: TM5a, TM5NM1, TMBr3 and TM4. They found strong binding of both Tmod1 and Tmod2 to TM5a, TMBr3 and TM5NM1. Weak binding to TM4 was detected for Tmod1 and no TM4 binding was detected for Tmod2. However, we showed that Tmod2 binds TM4. This conclusion is supported by our results with δTM1bzip and the drastic increase in Tmod2’s ability to cap actin filaments in the presence of full-length TM4 (data not shown). Therefore, binding to all these isoforms should be important for Tmod2 function in neurons.</p>
+      <p>Originally the chimeric peptide αTM1bzip was designed to study the structure and function of TM5a/5b, the short non-muscle α-TMs (<xref ref-type="bibr" rid="ref-9">Greenfield et al., 2001</xref>; <xref ref-type="bibr" rid="ref-14">Kostyukova, 2007</xref>; <xref ref-type="bibr" rid="ref-19">Meshcheryakov et al., 2011</xref>). TM5a was reported in brain tissue (<xref ref-type="bibr" rid="ref-20">Schevzov et al., 2005</xref>) with a polyclonal a/9d antibody that cross-reacted with TM5NM1. However, the monoclonal a/9d antibody, which did not cross-react with TM5NM1, did not detect TM5a (<xref ref-type="bibr" rid="ref-21">Schevzov et al., 2011</xref>); therefore, most likely this TM isoform is not specific for neurons. Two other short TM isoforms, TMBr2 and TMBr3, result from splicing of the α-gene and share the same N-terminal region encoded by exons 1b, 3, 4 and 5 (<xref ref-type="bibr" rid="ref-11">Gunning et al., 2005</xref>). Therefore, the Tmod-binding properties of αTM1bzip, which contains the sequence encoded by exon 1b, may be attributed to all these isoforms.</p>
+      <p>Our present results regarding the localization of overexpressed Tmod1 and Tmod2 are in agreement with the literature investigating localization of Tmod1 and Tmod2 in cultured neurons (<xref ref-type="bibr" rid="ref-6">Fath et al., 2011</xref>). Fath and coauthors showed that Tmod2 was localized in the cell body and central domain of the growth cone and most of it was diffuse and not associated with actin filaments during early neuritogenesis. Unlike Tmod2, most of Tmod1 was co-localized with actin filament bundles in lamellipodia and growth cones.</p>
+      <p>Knockdown of Tmod2 in N2a neuroblastoma cells increased the percentage of cells with neurites (no change in number of neurites) and the length of neurites was increased 2-fold (<xref ref-type="bibr" rid="ref-6">Fath et al., 2011</xref>). Knock-down of Tmod1 had no effect on the percentage of cells with neurites, but increased the number of neurites per cell and slightly decreased their lengths. It was concluded that Tmod2 negatively regulates neurite formation and extension; and the decreases in neurite formation and elongation observed in Tmod2 over-expressing PC12 cells presented here, strongly confirm and support the above hypothesis.</p>
+      <p>Fath and co-authors (<xref ref-type="bibr" rid="ref-6">Fath et al., 2011</xref>) suggested that Tmod2’s ability to bind G-actin (<xref ref-type="bibr" rid="ref-7">Fischer et al., 2006</xref>; <xref ref-type="bibr" rid="ref-30">Yamashiro et al., 2010</xref>) might explain the inhibition of neurite growth, because Tmod2 sequesters free actin monomers in the cytoplasm. However, in our experiments, co-expression of Tmod1 and Tmod2 did not change the number and length of neurites; therefore, the sequestering activity of Tmod2 did not affect neurite growth.</p>
+      <p>The slight decrease in neurite number and the 2-fold decrease of neurite length that resulted from the A21K/E33V mutation in TM-binding site 1 of Tmod1, indicate that the difference in TM-binding abilities is important for the different functions of Tmod isoforms. Unexpectedly, the A21K/E33V mutation in Tmod1, that was supposed to increase binding to TM5NM1 and TM4 in site 1 (<xref ref-type="bibr" rid="ref-25">Uversky et al., 2011</xref>), also decreased binding of αTM1bzip and therefore of a short α-TM, TMBr3. However, actin filaments in the growth cone are associated with TM5NM1 and TM4 while TMBr3 is expressed only in adult neurons. We assume the most likely it is the change in binding TM5NM1 and TM4 that caused the decrease in neurite length.</p>
+      <p>Our present data on the over-expression of Tmod1 WT, Tmod1[A21K/E33V] and Tmod2 in PC12 cells clearly argue that Tmod1 is involved in neuronal differentiation for proper neurite formation and outgrowth, and that Tmod2 inhibits such neuronal differentiation. In fact, it is possible that an adequate balance between Tmod1 and Tmod2 levels may regulate actin polymerization in the growth cone during neuronal differentiation in order to promote neurite extension. Tmod1 may be required at the tip of growth cones whereas Tmod2 may be necessary within the shaft of the neurite. Mutations in the TM binding site of Tmod1 significantly impair neurite outgrowth, suggesting that the integrity of this binding domain is critical for the proper function of Tmod1 during neuronal differentiation.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors are grateful to Dr. Thomas Fath for discussions and to Dr. Steven D. Aird for English editing.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1">
+          <p>Alla Kostyukova is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1">
+          <p><xref ref-type="contrib" rid="author-1">Natalia Moroz</xref> and <xref ref-type="contrib" rid="author-2">Laurent Guillaud</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2">
+          <p><xref ref-type="contrib" rid="author-3">Brinda Desai</xref> performed the experiments, reviewed the manuscript and wrote comments.</p>
+        </fn>
+        <fn id="contribution-3">
+          <p><xref ref-type="contrib" rid="author-4">Alla S. Kostyukova</xref> conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Almenar-Queralt et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Almenar-Queralt</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Conley</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Ribas de Pouplana</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Fowler</surname>
+              <given-names>VM</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of a novel tropomodulin isoform, skeletal tropomodulin, that caps actin filament pointed ends in fast skeletal muscle</article-title>
+          <source>Journal of Biological Chemistry</source>
+          <year>1999</year>
+          <volume>274</volume>
+          <fpage>28466</fpage>
+          <lpage>28475</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.274.40.28466</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Conley et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conley</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Fritz-Six</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Almenar-Queralt</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Fowler</surname>
+              <given-names>VM</given-names>
+            </name>
+          </person-group>
+          <article-title>Leiomodins: larger members of the tropomodulin (Tmod) gene family</article-title>
+          <source>Genomics</source>
+          <year>2001</year>
+          <volume>73</volume>
+          <fpage>127</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="doi">10.1006/geno.2000.6501</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Cox et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cox</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Fowler</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sweatt</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Paylor</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zoghbi</surname>
+              <given-names>HY</given-names>
+            </name>
+          </person-group>
+          <article-title>Mice lacking Tropomodulin-2 show enhanced long-term potentiation, hyperactivity, and deficits in learning and memory</article-title>
+          <source>Molecular and Cellular Neuroscience</source>
+          <year>2003</year>
+          <volume>23</volume>
+          <fpage>1</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1044-7431(03)00025-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Cox &amp; Zoghbi (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cox</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Zoghbi</surname>
+              <given-names>HY</given-names>
+            </name>
+          </person-group>
+          <article-title>Sequencing, expression analysis, and mapping of three unique human tropomodulin genes and their mouse orthologs</article-title>
+          <source>Genomics</source>
+          <year>2000</year>
+          <volume>63</volume>
+          <fpage>97</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.1006/geno.1999.6061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>da Silva &amp; Dotti (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>da Silva</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Dotti</surname>
+              <given-names>CG</given-names>
+            </name>
+          </person-group>
+          <article-title>Breaking the neuronal sphere: regulation of the actin cytoskeleton in neuritogenesis</article-title>
+          <source>Nature Reviews. Neuroscience</source>
+          <year>2002</year>
+          <volume>3</volume>
+          <fpage>694</fpage>
+          <lpage>704</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrn918</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Fath et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fath</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Dehmelt</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Halpain</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fowler</surname>
+              <given-names>VM</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomodulins are negative regulators of neurite outgrowth</article-title>
+          <source>European Journal of Cell Biology</source>
+          <year>2011</year>
+          <volume>90</volume>
+          <fpage>291</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejcb.2010.10.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Fischer et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fischer</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Yarmola</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Speicher</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Speicher</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Bubb</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Fowler</surname>
+              <given-names>VM</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomodulin 3 binds to actin monomers</article-title>
+          <source>Journal of Biological Chemistry</source>
+          <year>2006</year>
+          <volume>281</volume>
+          <fpage>36454</fpage>
+          <lpage>36465</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M606315200</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Greene &amp; Tischler (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greene</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Tischler</surname>
+              <given-names>AS</given-names>
+            </name>
+          </person-group>
+          <article-title>Establishment of a noradrenergic clonal line of rat adrenal pheochromocytoma cells which respond to nerve growth factor</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>1976</year>
+          <volume>73</volume>
+          <fpage>2424</fpage>
+          <lpage>2428</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.73.7.2424</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Greenfield et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greenfield</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>YJ</given-names>
+            </name>
+            <name>
+              <surname>Palm</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Swapna</surname>
+              <given-names>GV</given-names>
+            </name>
+            <name>
+              <surname>Monleon</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Montelione</surname>
+              <given-names>GT</given-names>
+            </name>
+            <name>
+              <surname>Hitchcock-DeGregori</surname>
+              <given-names>SE</given-names>
+            </name>
+          </person-group>
+          <article-title>Solution NMR structure and folding dynamics of the N terminus of a rat non-muscle alpha-tropomyosin in an engineered chimeric protein</article-title>
+          <source>Journal of Molecular Biology</source>
+          <year>2001</year>
+          <volume>312</volume>
+          <fpage>833</fpage>
+          <lpage>847</lpage>
+          <pub-id pub-id-type="doi">10.1006/jmbi.2001.4982</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Guillaud et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guillaud</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bosc</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Fourest-Lieuvin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Denarier</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Pirollet</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Lafanechere</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Job</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>STOP proteins are responsible for the high degree of microtubule stabilization observed in neuronal cells</article-title>
+          <source>Journal of Cell Biology</source>
+          <year>1998</year>
+          <volume>142</volume>
+          <fpage>167</fpage>
+          <lpage>179</lpage>
+          <pub-id pub-id-type="doi">10.1083/jcb.142.1.167</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Gunning et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gunning</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Schevzov</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kee</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Hardeman</surname>
+              <given-names>EC</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomyosin isoforms: divining rods for actin cytoskeleton function</article-title>
+          <source>Trends in Cell Biology</source>
+          <year>2005</year>
+          <volume>15</volume>
+          <fpage>333</fpage>
+          <lpage>341</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tcb.2005.04.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Had et al. (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Had</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Faivre-Sarrailh</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Legrand</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Mery</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Brugidou</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rabie</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomyosin isoforms in rat neurons: the different developmental profiles and distributions of TM-4 and TMBr-3 are consistent with different functions</article-title>
+          <source>Journal of Cell Science</source>
+          <issue>Pt 10</issue>
+          <year>1994</year>
+          <volume>107</volume>
+          <fpage>2961</fpage>
+          <lpage>2973</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Kostyukova et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Yamauchi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Krieger</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Domain structure of tropomodulin: distinct properties of the N-terminal and C-terminal halves</article-title>
+          <source>European Journal of Biochemistry</source>
+          <year>2000</year>
+          <volume>267</volume>
+          <fpage>6470</fpage>
+          <lpage>6475</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1432-1327.2000.01738.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Kostyukova (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>AS</given-names>
+            </name>
+          </person-group>
+          <article-title>Leiomodin/tropomyosin interactions are isoform specific</article-title>
+          <source>Archives of Biochemistry and Biophysics</source>
+          <year>2007</year>
+          <volume>465</volume>
+          <fpage>227</fpage>
+          <lpage>230</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.abb.2007.05.012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Kostyukova, Choy &amp; Rapp (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Choy</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rapp</surname>
+              <given-names>BA</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomodulin binds two tropomyosins: a novel model for actin filament capping</article-title>
+          <source>Biochemistry</source>
+          <year>2006</year>
+          <volume>45</volume>
+          <fpage>12068</fpage>
+          <lpage>12075</lpage>
+          <pub-id pub-id-type="doi">10.1021/bi060899i</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Kostyukova, Hitchcock-Degregori &amp; Greenfield (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Hitchcock-Degregori</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Greenfield</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular basis of tropomyosin binding to tropomodulin, an actin-capping protein</article-title>
+          <source>Journal of Molecular Biology</source>
+          <year>2007</year>
+          <volume>372</volume>
+          <fpage>608</fpage>
+          <lpage>618</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jmb.2007.05.084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Krieger et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yamashita</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nitanai</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Crystal structure of the C-terminal half of tropomodulin and structural basis of actin filament pointed-end capping</article-title>
+          <source>Biophysical Journal</source>
+          <year>2002</year>
+          <volume>83</volume>
+          <fpage>2716</fpage>
+          <lpage>2725</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-3495(02)75281-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Martin &amp; Gunning (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gunning</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Isoform sorting of tropomyosins</article-title>
+          <source>Advances in Experimental Medicine and Biology</source>
+          <year>2008</year>
+          <volume>644</volume>
+          <fpage>187</fpage>
+          <lpage>200</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Meshcheryakov et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meshcheryakov</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Krieger</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Samatey</surname>
+              <given-names>FA</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure of a tropomyosin N-terminal fragment at 0.98 A resolution</article-title>
+          <source>ACTA Crystallographica. Section D: Biological Crystallography</source>
+          <year>2011</year>
+          <volume>67</volume>
+          <fpage>822</fpage>
+          <lpage>825</lpage>
+          <pub-id pub-id-type="doi">10.1107/S090744491102645X</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Schevzov et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schevzov</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bryce</surname>
+              <given-names>NS</given-names>
+            </name>
+            <name>
+              <surname>Almonte-Baldonado</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Joya</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Hardeman</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Weinberger</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gunning</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Specific features of neuronal size and shape are regulated by tropomyosin isoforms</article-title>
+          <source>Molecular Biology of the Cell</source>
+          <year>2005</year>
+          <volume>16</volume>
+          <fpage>3425</fpage>
+          <lpage>3437</lpage>
+          <pub-id pub-id-type="doi">10.1091/mbc.E04-10-0951</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Schevzov et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schevzov</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Whittaker</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Fath</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Gunning</surname>
+              <given-names>PW</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomyosin isoforms and reagents</article-title>
+          <source>Bioarchitecture</source>
+          <year>2011</year>
+          <volume>1</volume>
+          <fpage>135</fpage>
+          <lpage>164</lpage>
+          <pub-id pub-id-type="doi">10.4161/bioa.1.4.17897</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Stiess &amp; Bradke (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stiess</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bradke</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Neuronal polarization: the cytoskeleton leads the way</article-title>
+          <source>Developmental Neurobiology</source>
+          <year>2011</year>
+          <volume>71</volume>
+          <fpage>430</fpage>
+          <lpage>444</lpage>
+          <pub-id pub-id-type="doi">10.1002/dneu.20849</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Studier (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Studier</surname>
+              <given-names>FW</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein production by auto-induction in high density shaking cultures</article-title>
+          <source>Protein Expression and Purification</source>
+          <year>2005</year>
+          <volume>41</volume>
+          <fpage>207</fpage>
+          <lpage>234</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pep.2005.01.016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Tsukada et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsukada</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kotlyanskaya</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Huynh</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Novak</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Kajava</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Gregorio</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>AS</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of residues within tropomodulin-1 responsible for its localization at the pointed ends of the actin filaments in cardiac myocytes</article-title>
+          <source>Journal of Biological Chemistry</source>
+          <year>2011</year>
+          <volume>286</volume>
+          <fpage>2194</fpage>
+          <lpage>2204</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M110.186924</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Uversky et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uversky</surname>
+              <given-names>VN</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Gritsyna</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hitchcock-DeGregori</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Kostyukova</surname>
+              <given-names>AS</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic analysis of tropomodulin/tropomyosin interactions uncovers fine-tuned binding specificity of intrinsically disordered proteins</article-title>
+          <source>Journal of Molecular Recognition</source>
+          <year>2011</year>
+          <volume>24</volume>
+          <fpage>647</fpage>
+          <lpage>655</lpage>
+          <pub-id pub-id-type="doi">10.1002/jmr.1093</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Vera et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vera</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sood</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Yee</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Sung</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomodulin-binding site mapped to residues 7-14 at the N-terminal heptad repeats of tropomyosin isoform 5</article-title>
+          <source>Archives of Biochemistry and Biophysics</source>
+          <year>2000</year>
+          <volume>378</volume>
+          <fpage>16</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="doi">10.1006/abbi.2000.1802</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Watakabe, Kobayashi &amp; Helfman (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Watakabe</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Helfman</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>N-tropomodulin: a novel isoform of tropomodulin identified as the major binding protein to brain tropomyosin</article-title>
+          <source>Journal of Cell Science</source>
+          <issue>Pt 9</issue>
+          <year>1996</year>
+          <volume>109</volume>
+          <fpage>2299</fpage>
+          <lpage>2310</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Weber et al. (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weber</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pennise</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Babcock</surname>
+              <given-names>GG</given-names>
+            </name>
+            <name>
+              <surname>Fowler</surname>
+              <given-names>VM</given-names>
+            </name>
+          </person-group>
+          <article-title>Tropomodulin caps the pointed ends of actin filaments</article-title>
+          <source>Journal of Cell Biology</source>
+          <year>1994</year>
+          <volume>127</volume>
+          <fpage>1627</fpage>
+          <lpage>1635</lpage>
+          <pub-id pub-id-type="doi">10.1083/jcb.127.6.1627</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Weinberger et al. (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weinberger</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Schevzov</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Jeffrey</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gunning</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>The molecular composition of neuronal microfilaments is spatially and temporally regulated</article-title>
+          <source>Journal of Neuroscience</source>
+          <year>1996</year>
+          <volume>16</volume>
+          <fpage>238</fpage>
+          <lpage>252</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Yamashiro et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamashiro</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Speicher</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Speicher</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Fowler</surname>
+              <given-names>VM</given-names>
+            </name>
+          </person-group>
+          <article-title>Mammalian tropomodulins nucleate actin polymerization via their actin monomer binding and filament pointed end-capping activities</article-title>
+          <source>Journal of Biological Chemistry</source>
+          <year>2010</year>
+          <volume>285</volume>
+          <fpage>33265</fpage>
+          <lpage>33280</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M110.144873</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

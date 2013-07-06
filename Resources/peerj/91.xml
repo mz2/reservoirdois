@@ -1,1147 +1,604 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373019059000,&quot;from_str&quot;:&quot;2013-07-05T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500659000,&quot;from_str&quot;:&quot;2013-06-29T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513459000,&quot;from_str&quot;:&quot;2013-06-06T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948659000,&quot;from_str&quot;:&quot;2012-12-31T10:10:59+00:00&quot;,&quot;to&quot;:1373105459000,&quot;to_str&quot;:&quot;2013-07-06T10:10:59+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,131,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">91</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.91</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Pathology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Merker</surname>
+            <given-names>Jason D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>O’Grady</surname>
+            <given-names>Naomi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Gojenola</surname>
+            <given-names>Linda</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Dao</surname>
+            <given-names>Mai</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Lenta</surname>
+            <given-names>Ross</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author">
+          <name>
+            <surname>Yeakley</surname>
+            <given-names>Joanne M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-7" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Schrijver</surname>
+            <given-names>Iris</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+          <email>ischrijver@stanfordmed.org</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Pathology, Stanford University School of Medicine</institution>, <addr-line>Stanford, CA</addr-line>, <country>USA</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Illumina, Inc.</institution>, <addr-line>San Diego, CA</addr-line>, <country>USA</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Pediatrics, Stanford University School of Medicine</institution>, <addr-line>Stanford, CA</addr-line>, <country>USA</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Arany</surname>
+            <given-names>Praveen</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-07-02">
+        <day>2</day>
+        <month>7</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e91</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-04-05">
+          <day>5</day>
+          <month>4</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-06-01">
+          <day>1</day>
+          <month>6</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Merker et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Merker et al.</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/91"/>
+      <abstract>
+        <p>We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction protocols that use magnetic glass particles. We found that an adequate number of microbeads are consistently carried over during genomic DNA extraction to allow specimen identification, that the beads do not interfere with the performance of several different molecular assays, and that the beads and genomic DNA remain stable when stored together under regular storage conditions in the molecular pathology laboratory. The beads function as an internal, easily readable specimen barcode. This approach may be useful for identifying DNA specimens and reducing errors associated with molecular laboratory testing.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>DNA extraction</kwd>
+        <kwd>Microbeads</kwd>
+        <kwd>Holographic barcode</kwd>
+        <kwd>Specimen identification</kwd>
+        <kwd>Molecular pathology</kwd>
+        <kwd>Quality</kwd>
+        <kwd>Quality assessment program</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>Stanford University Department of Pathology developmental research grant</funding-source>
+        </award-group>
+        <funding-statement>This work was supported by a Stanford University Department of Pathology developmental research grant. Veracode microbeads and consumables needed for the BeadXpress Reader System were provided by Illumina, Inc. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Events that negatively impact, or could negatively impact, patient care because of quality concerns with DNA-based clinical genetic testing are rare, occurring in &lt;0.5% of tests performed (<xref ref-type="bibr" rid="ref-2">Hofgartner &amp; Tait, 1999</xref>). Despite this low rate of error, further reduction remains a priority of clinical laboratories. Errors can occur in all phases of testing (pre-analytical, analytical, and post-analytical), with the majority of problems occurring in the pre-analytical phase. This emphasizes the importance of quality assurance in all phases of testing. In this brief report, we describe the use of small glass microbeads containing a unique numeric code to barcode DNA eluates from peripheral blood specimens. The beads can be added directly to the peripheral blood specimens and are carried through automated DNA extraction protocols that use magnetic glass particles. A bead reader system can identify the bead number in the specimen, which can function as an internal barcode for specimen identification. This can be used to check the identity of DNA specimens that, for example, give unexpected results. Likewise, this approach could be used to check specimens at a set interval as part of the laboratory quality assessment program. Incorporation of this microbead system directly into blood draw tubes could be used to immediately barcode the specimen very early in the pre-analytical phase of testing. Preliminary data suggest that this approach can be used to track DNA specimens without interfering with DNA storage or downstream molecular testing. With the increased use of nucleic acid testing to guide precision or personalized medicine, this method provides a unique approach to decrease laboratory error.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Specimens</title>
+        <p>The use of peripheral blood specimens in this study was approved by a Stanford University IRB.</p>
+      </sec>
+      <sec>
+        <title>VeraCode glass microbeads</title>
+        <p>VeraCode microbeads were provided by Illumina, Inc. (San Diego, CA) in microcentrifuge tubes, each containing approximately 40,000 beads in 70% ethanol. VeraCode microbeads are cylindrical glass beads measuring 240 microns in length by 28 microns in diameter. A digital holographic element containing a numeric code is embedded within the beads serving as a unique identifier. When excited by a laser, each bead emits a unique code image that is detected by Illumina’s BeadXpress Reader System.</p>
+      </sec>
+      <sec>
+        <title>DNA extraction with VeraCode microbeads</title>
+        <p>Tubes containing the VeraCode microbeads were centrifuged in a microcentrifuge at greater than or equal to 10,000 rpm. Most of the 70% ethanol was removed from the tubes, leaving ∼150 µL of residual 70% ethanol with the 40,000 beads. Subsequently, 200 µL of peripheral blood was added to the 70% ethanol and bead mixture using a 1 mL pipet and mixed thoroughly. The peripheral blood specimens containing the bead mixtures were then extracted on the Qiagen BioRobot EZ1 Workstation using the EZ1 DNA Blood 350 µL Kit (Valencia, CA) following the manufacturer’s standard protocol with a 200 µL elution volume. The eluate containing the VeraCode beads was transferred to the well of a 96-well round bottom microplate (Corning Inc., Corning, NY). A KingFisher 96 pin magnet head with a tip comb (Thermo Fisher Scientific, Waltham, MA) was used to remove residual Qiagen magnetic beads that could potentially interfere with the BeadXpress Reader System.</p>
+      </sec>
+      <sec>
+        <title>Determination of the number of VeraCode microbeads carried through the DNA extraction process</title>
+        <p>On seven independent days, VeraCode microbeads were added to three peripheral blood specimens. As is outlined in <xref ref-type="table" rid="table-1">Table 1</xref>, the same sets of peripheral blood specimens were used for two or three days. Following the extraction process described in the above section, the beads were transferred to a 76.2 × 25.4 mm standard glass microscope slide and a 24 × 50 mm cover glass was used. The VeraCode microbeads were counted using a microscope under 100 × magnification.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.91/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Number of Veracode microbeads carried through the DNA extraction process.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/91/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="center" colspan="3">Days 1, 2 and 3</th>
+                  <th align="center" colspan="3">Days 4 and 5</th>
+                  <th align="center" colspan="3">Days 6 and 7</th>
+                </tr>
+                <tr>
+                  <th align="left">Specimen 1</th>
+                  <th align="left">Specimen 2</th>
+                  <th align="left">Specimen 3</th>
+                  <th align="left">Specimen 4</th>
+                  <th align="left">Specimen 5</th>
+                  <th align="left">Specimen 6</th>
+                  <th align="left">Specimen 7</th>
+                  <th align="left">Specimen 8</th>
+                  <th align="left">Specimen 9</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">534</td>
+                  <td align="left">464</td>
+                  <td align="left">743</td>
+                  <td align="left">108</td>
+                  <td align="left">203</td>
+                  <td align="left">135</td>
+                  <td align="left">231</td>
+                  <td align="left">295</td>
+                  <td align="left">408</td>
+                </tr>
+                <tr>
+                  <td align="left">1096</td>
+                  <td align="left">778</td>
+                  <td align="left">362</td>
+                  <td align="left">168</td>
+                  <td align="left">242</td>
+                  <td align="left">83</td>
+                  <td align="left">140</td>
+                  <td align="left">174</td>
+                  <td align="left">101</td>
+                </tr>
+                <tr>
+                  <td align="left">105</td>
+                  <td align="left">279</td>
+                  <td align="left">257</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Utilization of VeraCode microbeads for specimen identification</title>
+        <p>Six peripheral blood specimens submitted for cystic fibrosis gene mutation testing underwent DNA extraction as described above with and without VeraCode microbeads added to the peripheral blood; beads containing a unique bead identification code were added to each peripheral blood specimen. DNA eluates with and without the beads were tested with the Cystic Fibrosis Genotyping Assay (Abbott Laboratories, Abbott Park, IL). In brief, this assay detects 32 cystic fibrosis transmembrane conductance regulator (<italic>CFTR</italic>) gene mutations via multiplex PCR amplification and oligonucleotide ligation assays followed by detection via capillary electrophoresis on an Applied Biosystems 3130xl Genetic Analyzer (Life Technologies Corporation, Carlsbad, CA). The resulting electropherograms were interpreted and evaluated for equivalency by two molecular pathologists (JDM and IS). A plate containing the residual DNA specimens with and without the beads was covered, frozen, and shipped to Illumina, Inc. to use the BeadXpress Reader System in order to determine the bead number associated with each specimen. We required that ≥ 20 beads with the same barcode be detected by the instrument for definitive specimen identification for all experiments. In internal experiments, Illumina has determined that the bead mis-identification rate is under 0.5%, suggesting that a requirement for 20 beads for sample identification is more than sufficient.</p>
+        <p>We selected six independent peripheral blood specimens from individuals without a known cancer diagnosis, and for three of the specimens, we spiked in a cell line containing the <italic>IGH</italic>-<italic>BCL2</italic> translocation at a 1:10,000 dilution to generate positive sensitivity controls near the lower limit of detection of the <italic>IGH-BCL2</italic> translocation assay. DNA extraction was performed as described above with and without VeraCode microbeads added to each of the six peripheral blood specimens. Beads containing a unique bead identification code were added to each peripheral blood specimen. DNA eluates with and without the beads were tested with our assay used to detect <italic>IGH</italic>-<italic>BCL2</italic> translocations involving the major breakpoint region, minor cluster region and intermediate cluster region of <italic>BCL2</italic>. This assay uses multiplex, nested PCR followed by detection of amplification products via agarose gel electrophoresis. The resulting gel photographs were interpreted and evaluated for equivalency by two molecular pathologists (JDM and IS). A plate containing the residual DNA specimens with and without the beads was covered, frozen, shipped to Illumina, Inc., and scanned on the BeadXpress Reader System in order to determine the unique bead identification code associated with each specimen. The group using the BeadXpress Reader System was blinded to which specimens had beads added and to which bead identification code was used in each sample.</p>
+      </sec>
+      <sec>
+        <title>Examination of VeraCode bead and DNA stability</title>
+        <p>Three peripheral blood specimens were used for this portion of the study – each was submitted to our molecular pathology laboratory for testing with either the Cystic Fibrosis Genotyping Assay described above, the quantitative <italic>JAK2</italic> V617F MutaQuant assay (Ipsogen, Stamford, CT), or our laboratory-developed Fragile X syndrome assay. The <italic>JAK2</italic> V617F MutaQuant assay is an allele-specific, real-time PCR assay that quantifies both <italic>JAK2</italic> V617F and corresponding wild-type alleles. Our laboratory-developed Fragile X syndrome assay uses PCR optimized for GC-rich amplicons followed by capillary electrophoresis on an Applied Biosystems 3130xl Genetic Analyzer to detect (CGG)<sub>n</sub> trinucleotide repeat expansions in the 5′ untranslated region of <italic>FMR1</italic>. Each specimen was assigned a unique bead identification code. Beads with this identification code were added to four aliquots of each peripheral blood specimen, and the specimens were extracted as described above. Eluates containing the beads were incubated at 25°C. Two aliquots of each specimen were removed after 50 days and 90 days. Each specimen was re-tested using the same assay for which the specimen was originally submitted, and the results were interpreted and evaluated for equivalency by two molecular pathologists (JDM and IS). A plate containing the DNA specimens with beads was covered, frozen, and shipped to Illumina, Inc. to use the BeadXpress Reader System in order to determine the bead identification code associated with each specimen. The group using the BeadXpress Reader System was blinded to which bead identification code was added to each specimen.</p>
+        <p>Accelerated stability calculations used the Q<sub>10</sub> model, a simplification of the Arrhenius equation approach (<xref ref-type="bibr" rid="ref-1">Hemmerich, 1998</xref>). In this experiment, the method predicts the stability of a well-characterized reagent at ≤ 4°C based on stability at the elevated temperature of 25°C. The Q<sub>10</sub> value equals 2. Under the Q<sub>10</sub> model, the time relationship between the accelerated temperature (Taccel) and the storage temperature (Tstorage) is given by the equation Q Factor = 2<sup>((Taccel−Tstorage)/10)</sup>; therefore, for this experiment the Q Factor = 2<sup>((25−4)/10)</sup> = 4.3. One day at 25°C is equivalent to ∼4 days at 4°C.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>We initially observed that VeraCode microbeads containing a holographic identification code could be added to whole blood specimens and subsequently carried through the genomic DNA extraction process on instruments that use magnetic glass particles. We observed equivalent results using the BioRobot EZ1 Workstation (Qiagen) and MagNA Pure LC (Roche Diagnostics Corporation, Indianapolis, IN), and used the BioRobot EZ1 Workstation for subsequent work described in this manuscript. Given potential applications for specimen identification and quality assurance in the molecular pathology laboratory, we performed a set of experiments designed to evaluate the potential feasibility of using the VeraCode microbeads to track specimens in a clinical molecular laboratory. We found that a sufficient number of microbeads are consistently carried over during genomic DNA extraction to allow specimen identification, that the beads do not interfere with several different molecular assays, and that the beads and genomic DNA are stable when stored together over extended periods of time.</p>
+      <p>We first evaluated if a sufficient number of microbeads would be carried through the DNA extraction procedure to be read by the BeadXpress Reader System (Illumina), thereby allowing identification of the specimen being tested. Although in practice even a single bead can be read and detected by the system, we conservatively established that at least 20 microbeads with the same identification code should be present to allow reliable detection with this system. As is shown in <xref ref-type="table" rid="table-1">Table 1</xref>, well in excess of 20 microbeads were carried through the extraction procedure using multiple different specimens over multiple days. In total, 21 individual extractions were evaluated, yielding a median of 242 microbeads per extraction (range 83–1096). Given that 40,000 microbeads are added to the initial whole blood aliquot, the efficiency of carryover to the DNA eluate is low, but a sufficient number of beads are consistently transferred to allow detection by the system. Of note, the measured DNA yield of extractions that included the beads was generally lower than that of the same specimen extracted without microbeads – average of 57 ng/µL without beads and 34 ng/µL with beads (<xref ref-type="table" rid="table-2">Table 2</xref>). PCR can be reproducibly performed on nanogram quantities of genomic DNA, and our laboratory generally uses between 1 and 1,000 ng of genomic DNA per PCR reaction. Therefore, the DNA concentration and total yield were for sufficient for molecular testing, and we usually had micrograms of residual DNA. It is unclear why the presence of the microbeads during the extraction process reduced the amount of DNA in the eluate. It is possible that some of the DNA was bound to the glass microbeads and therefore not available to be measured in solution. Collectively, these data indicate that a sufficient number of microbeads are carried through the DNA extraction procedure to be read by the BeadXpress Reader System, and that inclusion of the microbeads does not appreciably impact the DNA extraction process.</p>
+      <table-wrap id="table-2">
+        <object-id pub-id-type="doi">10.7717/peerj.91/table-2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <title>Effect of including Veracode microbeads during DNA extraction on resulting DNA concentration.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/91/table-2.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Specimen</th>
+                <th align="left">DNA concentration when <break/>extracted without beads</th>
+                <th align="left">DNA concentration when <break/>extracted with beads</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">1</td>
+                <td align="left">43 ng/µL</td>
+                <td align="left">22 ng/µL</td>
+              </tr>
+              <tr>
+                <td align="left">2</td>
+                <td align="left">51 ng/µL</td>
+                <td align="left">33 ng/µL</td>
+              </tr>
+              <tr>
+                <td align="left">3</td>
+                <td align="left">44 ng/µL</td>
+                <td align="left">24 ng/µL</td>
+              </tr>
+              <tr>
+                <td align="left">4</td>
+                <td align="left">73 ng/µL</td>
+                <td align="left">44 ng/µL</td>
+              </tr>
+              <tr>
+                <td align="left">5</td>
+                <td align="left">49 ng/µL</td>
+                <td align="left">25 ng/µL</td>
+              </tr>
+              <tr>
+                <td align="left">6</td>
+                <td align="left">79 ng/µL</td>
+                <td align="left">53 ng/µL</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>We subsequently examined whether inclusion of the VeraCode microbeads affected the performance of two clinical assays commonly performed in our molecular pathology laboratory and whether the beads could be used to track DNA specimens within our laboratory. We hypothesized that the beads would not interfere with molecular assays because they are commonly used in related genotyping assays (<xref ref-type="bibr" rid="ref-3">Lin et al., 2009</xref>). Six peripheral blood specimens submitted for <italic>CFTR</italic> mutation testing underwent DNA extraction with and without VeraCode microbeads added to the peripheral blood. A unique bead identification code was added to each peripheral blood specimen, essentially adding a readily readable molecular barcode to the specimen. DNA eluates with and without the beads were tested with our laboratory’s cystic fibrosis carrier screening assay. The resulting data were interpreted by two molecular pathologists, and the results of the cystic fibrosis assays were the same in the paired peripheral blood specimens with and without the beads (<xref ref-type="table" rid="table-3">Table 3</xref>). In addition, peak positions and heights were equivalent in the specimens with and without beads (<xref ref-type="fig" rid="fig-1">Fig. 1</xref> illustrates a representative example), indicating that the presence of the microbeads does not significantly interfere with the performance of this assay. Subsequently, members of our group blinded to which bead was added to each specimen successfully used the BeadXpress Reader System to identify the correct bead identification code originally added to each specimen (<xref ref-type="table" rid="table-3">Table 3</xref>).</p>
+      <table-wrap id="table-3">
+        <object-id pub-id-type="doi">10.7717/peerj.91/table-3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <title>Using Veracode microbeads to identify DNA specimens and examining their effect on two molecular pathology assays.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/91/table-3.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Specimen<break/>number</th>
+                <th align="left">Bead number<break/>added</th>
+                <th align="left">Bead number<break/>detected</th>
+                <th align="left">Assay</th>
+                <th align="left">Assay result with microbeads<break/>added</th>
+                <th align="left">Assay result without beads<break/>added</th>
+                <th align="left">Equivalent<break/>amplification</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">10</td>
+                <td align="left">4096</td>
+                <td align="left">4096</td>
+                <td align="left">CF32</td>
+                <td align="left">homozygous delF508</td>
+                <td align="left">homozygous delF508</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">11</td>
+                <td align="left">272</td>
+                <td align="left">272</td>
+                <td align="left">CF32</td>
+                <td align="left">homozygous delF508</td>
+                <td align="left">homozygous delF508</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">12</td>
+                <td align="left">40</td>
+                <td align="left">40</td>
+                <td align="left">CF32</td>
+                <td align="left">homozygous delF508</td>
+                <td align="left">homozygous delF508</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">13</td>
+                <td align="left">136</td>
+                <td align="left">136</td>
+                <td align="left">CF32</td>
+                <td align="left">no mutations detected</td>
+                <td align="left">no mutations detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">14</td>
+                <td align="left">2560</td>
+                <td align="left">2560</td>
+                <td align="left">CF32</td>
+                <td align="left">no mutations detected</td>
+                <td align="left">no mutations detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">15</td>
+                <td align="left">1040</td>
+                <td align="left">1040</td>
+                <td align="left">CF32</td>
+                <td align="left">no mutations detected</td>
+                <td align="left">no mutations detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">16</td>
+                <td align="left">1040</td>
+                <td align="left">1040</td>
+                <td align="left">BCL2</td>
+                <td align="left"><italic>IGH-BCL2</italic> detected</td>
+                <td align="left"><italic>IGH-BCL2</italic> detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">17</td>
+                <td align="left">2560</td>
+                <td align="left">2560</td>
+                <td align="left">BCL2</td>
+                <td align="left"><italic>IGH-BCL2</italic> not detected</td>
+                <td align="left"><italic>IGH-BCL2</italic> not detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">18</td>
+                <td align="left">136</td>
+                <td align="left">136</td>
+                <td align="left">BCL2</td>
+                <td align="left"><italic>IGH-BCL2</italic> detected</td>
+                <td align="left"><italic>IGH-BCL2</italic> detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">19</td>
+                <td align="left">40</td>
+                <td align="left">40</td>
+                <td align="left">BCL2</td>
+                <td align="left"><italic>IGH-BCL2</italic> not detected</td>
+                <td align="left"><italic>IGH-BCL2</italic> not detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">20</td>
+                <td align="left">272</td>
+                <td align="left">272</td>
+                <td align="left">BCL2</td>
+                <td align="left"><italic>IGH-BCL2</italic> detected</td>
+                <td align="left"><italic>IGH-BCL2</italic> detected</td>
+                <td align="left">Yes</td>
+              </tr>
+              <tr>
+                <td align="left">21</td>
+                <td align="left">4096</td>
+                <td align="left">4096</td>
+                <td align="left">BCL2</td>
+                <td align="left"><italic>IGH-BCL2</italic> not detected</td>
+                <td align="left"><italic>IGH-BCL2</italic> not detected</td>
+                <td align="left">Yes</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-3fn">
+            <p>
+              <bold>Notes.</bold>
+            </p>
+          </fn>
+          <fn id="table-3fn1" fn-type="other">
+            <p>CF32 – Abbott Laboratories Cystic Fibrosis Genotyping Assay; BCL2 – Laboratory-developed assay for detection of <italic>IGH</italic>-<italic>BCL2</italic> translocations.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.91/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Representative capillary electropherograms from a multiplex PCR amplification and oligonucleotide ligation assay to detect 32 different mutations in the <italic>CFTR</italic> gene.</title>
+          <p>The presence of beads during the extraction process and downstream steps (A) does not appear to affect either peak height or assay results when compared to analysis of the same specimen without beads (B). No <italic>CFTR</italic> mutations were detected in the specimen with or without the beads and each of the peaks is present at the same position.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/91/fig-1.png"/>
+      </fig>
+      <p>We also performed a similar set of experiments to that described above with the cystic fibrosis carrier assay, using our laboratory assay for the qualitative detection of <italic>IGH</italic>-<italic>BCL2</italic> translocations by PCR. As is seen in <xref ref-type="table" rid="table-3">Table 3</xref> and <xref ref-type="fig" rid="fig-2">Fig. 2</xref>, the results were the same for all six specimens tested and assay performance was equivalent. Likewise, we were able to re-identify in a blinded manner which bead was added to which specimen.</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.91/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Agarose gel electrophoresis demonstrating control amplification reactions for a PCR-based <italic>IGH-BCL2</italic> translocation assay.</title>
+          <p>The presence of beads during the extraction process and downstream steps does not significantly affect the control amplification for this assay. This control amplicon is a 270 bp product derived from the <italic>F5</italic> gene.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/91/fig-2.png"/>
+      </fig>
+      <p>The cystic fibrosis and <italic>IGH</italic>-<italic>BCL2</italic> experiments also allowed examination of time required for operation of the BeadXpress Reader System. Since the plates containing the specimens with microbeads can be directly loaded into a drawer in the BeadXpress Reader System after thawing, minimal hands-on time is required for this step. Once the instrument is initialized, the time to get results for 1, 12, or 96 specimens is approximately 5, 10, and 60 min, respectively.</p>
+      <p>Finally, to examine the long-term stability of the VeraCode microbeads we used accelerated stability experiments, and we also evaluated the integrity of the DNA under these conditions. We selected three peripheral blood specimens submitted to our molecular pathology laboratory for testing with either the Cystic Fibrosis Genotyping Assay, a quantitative <italic>JAK2</italic> V617F MutaQuant assay, or our laboratory-developed Fragile X syndrome assay. Beads with a number specific to each specimen were added to multiple aliquots of each peripheral blood specimen, and DNA was extracted from the specimens. Eluates containing the beads were incubated at 25°C, which was our elevated storage temperature. Using the Q<sub>10</sub> model, one day at 25°C is equivalent to just over four days at or below 4°C. Two aliquots of each specimen were removed from incubation at 25°C after 50 days and 90 days, which is projected to represent 4°C incubation for 215 days and 387 days. Each specimen was re-tested using the same assay for which the specimen was originally submitted, and the results were equivalent in both replicates at both time points. In addition, the correct bead number associated with each replicate was identified in a blinded manner. We note that the accelerated stability calculations using the Q<sub>10</sub> model is a conservative approach in the assignment of Q<sub>10</sub> = 2. In addition, if this method is used to calculate the stability of reagents stored at −15°C or below, additional stability may be conferred due to the phase transition. Collectively, these data indicate that the beads and the DNA in the eluate are stable for at least one year at 4°C and possibly longer when stored frozen.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>In this report, we evaluated the feasibility of using the VeraCode microbeads to track DNA specimens in the clinical molecular laboratory. We found that a sufficient number of microbeads are consistently carried over during genomic DNA extraction to allow specimen identification, that the beads do not appear to interfere with several different molecular assays, and that the beads and genomic DNA are stable when stored together over extended periods of time. The beads function as an internal, easily readable specimen barcode. This method may provide an additional approach to identifying DNA specimens and minimizing errors associated with molecular laboratory testing. Presently, this approach could be used to recheck the identity of DNA specimens that give unexpected results or to check specimens at a set interval as part of the laboratory quality assurance program. This would be a novel way to monitor for possible specimen mix-ups. Although the hands-on time and scanning time are reasonable, our experience suggests that it would not be practical to examine every specimen tested by a busy molecular pathology laboratory with our method.</p>
+      <p>We suggest that this approach represents a novel mechanism to track DNA specimens in the molecular pathology laboratory, and the data presented provide a proof of concept that such an approach is possible. However, a couple of technical issues related to the microbead size currently limit the potential utility of this approach. The present microbeads are too large to co-elute with DNA using column-based extraction methods, and consequently this microbead tracking system cannot be used with many DNA and RNA extraction methods. Likewise, the relatively large size of the microbeads makes it difficult to consistently transfer a sufficient number of beads from the DNA eluate to downstream assay steps due to the microliter volumes typically used during molecular testing. As an example, we found that addition of DNA from the tube containing the DNA eluate with microbeads to a standard PCR reaction did not reliably result in the transfer of a sufficient number of beads to be detected by the barcode reader. However, further manipulation of the beads or extraction process may allow for these limitations to be overcome and for this application to become more broadly applied.</p>
+      <p>Other factors must be addressed and studies performed before the method can be incorporated into routine clinical practice. First, the BeadXpress Reader System and associated VeraCode microbeads were not designed for this application. Consequently, the final retail list price of the reader, $98,000, was likely higher than an instrument designed solely for applications described in this manuscript. Furthermore, the configuration of VeraCode microbeads used in this study was custom prepared and is not commercially available at this time. Second, we evaluated this method to track DNA specimens extracted from peripheral blood. For this method to be applied to all areas of the molecular pathology laboratory, further examination of RNA extracted specimens would need to be performed. Likewise, specimens other than peripheral blood would need to be evaluated, and in the case of tissue specimens, the protocol would likely need to be modified to avoid, among other issues, destruction of the glass microbeads during the homogenization process. Third, we examined four assays in this study and a thorough validation would require examination of a larger number of qualitative and quantitative assays with associated statistical assessment of interference.</p>
+      <p>In summary, we have demonstrated a proof of concept that glass microbeads with a holographic numeric code can be used to barcode DNA eluates from peripheral blood specimens. This represents a novel way to track DNA specimens in the molecular pathology laboratory, and we suggest that with appropriate modifications and further evaluation such an approach could minimize the potential for errors associated with molecular laboratory testing.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>Naomi O’Grady, Ross Lenta, and Joanne M. Yeakley were employees of Illumina, Inc. during this study. Iris Schrijver is an Academic Editor for PeerJ.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Jason D. Merker</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Naomi O’Grady</xref> and <xref ref-type="contrib" rid="author-6">Joanne M. Yeakley</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Linda Gojenola</xref> conceived and designed the experiments, performed the experiments.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Mai Dao</xref> performed the experiments.</p>
+        </fn>
+        <fn id="contribution-5" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-5">Ross Lenta</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools.</p>
+        </fn>
+        <fn id="contribution-6" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-7">Iris Schrijver</xref> conceived and designed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Human Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+          <p>The use of peripheral blood specimens in this study was approved by a Stanford University IRB (protocol 8353).</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Hemmerich (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hemmerich</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <article-title>General aging theory and simplified protocol for accelerated aging of medical devices</article-title>
+          <source>Medical Plastics and Biomaterials</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>5</volume>
+          <fpage>16</fpage>
+          <lpage>23</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Hofgartner &amp; Tait (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hofgartner</surname>
+              <given-names>WT</given-names>
+            </name>
+            <name>
+              <surname>Tait</surname>
+              <given-names>JF</given-names>
+            </name>
+          </person-group>
+          <article-title>Frequency of problems during clinical molecular-genetic testing</article-title>
+          <source>American Journal of Clinical Pathology</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>112</volume>
+          <fpage>14</fpage>
+          <lpage>21</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Lin et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Yeakley</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>McDaniel</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Medium- to high-throughput SNP genotyping using VeraCode microbeads</article-title>
+          <source>Methods in Molecular Biology</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>496</volume>
+          <fpage>129</fpage>
+          <lpage>142</lpage>
+          <pub-id pub-id-type="doi">10.1007/978-1-59745-553-4_10</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

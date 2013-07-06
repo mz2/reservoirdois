@@ -1,1147 +1,1305 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <meta charset="utf-8">
-
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>PeerJ         -  - Search
-    </title>
-
-                
-        <link rel="alternate" type="application/atom+xml" href="/articles/index.atom">
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.rss2">
-    <link rel="alternate" type="application/rdf+xml" href="/articles/index.rss1">
-    <link rel="alternate" type="application/json" href="/articles/index.json">
-    <link rel="alternate" type="text/plain" href="/articles/index.rss3">
-    <link rel="search" type="application/opensearchdescription+xml" href="/articles/osd.xml">
-
-    <meta name="robots" content="noindex">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-
-                    <link rel="stylesheet" href="/css/0382a79-284a4d8.css">
-
-<!--[if lt IE 9]>
-    <link rel="stylesheet" href="/assets/css/ie8.css">
-<![endif]-->
-    
-
-    <link rel="stylesheet" href="/css/d9c2315-d3f9e69.css">
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-
-<script src="/assets/js/jquery-migrate.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!--[if lt IE 8]>
-<script src="/assets/js/json2.js"></script>
-<![endif]-->
-<script>
-    var PeerJ = {
-        Article: {},
-        User: {},
-        Publication: {},
-        Event: {},
-        Com: {},
-        Payment: {}
-    };
-</script>
-    
-    <link rel="shortcut icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/favicon.ico">
-    <link rel="apple-touch-icon" href="https://d2pdyyx74uypu5.cloudfront.net/images/apple-touch-icon.png">
-
-    <meta property="fb:app_id" content="534542813234464">
-
-     <link rel="search"
-           type="application/opensearchdescription+xml" 
-           href="https://peerj.com/articles/osd.xml"
-           title="PeerJ" />
-     
-        <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-31208920-1']); 
-    _gaq.push(['_setDomainName', 'peerj.com']);
-    _gaq.push(['_trackPageview']);
-            (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-</script>
-    </head>
-
-<body>
-
-
-    
-<div class="navbar navbar-fixed-top navbar-inverse">
-	<div class="navbar-inner">
-		<div class="container">
-			<a href="/" class="brand" title="PeerJ"><img src="https://d2pdyyx74uypu5.cloudfront.net/images/launch/peerj_logo_53.png" alt="PeerJ" width="53" height="26"></a>
-             			<ul class="nav nav-search-ul">
-               <li class="nav-search-li">
-                 <form class="nav-search-form" action="/search/">
-                    <input id="navSearch" name="q" data-href="/search/" type="text" class="nav-search-input" placeholder="Search">
-                    <span class="nav-search-icon-span">
-                        <i class="icon-search nav-search-icon"></i>
-                    </span>
-                </form>
-                </li>
-            </ul>
-            
-            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-    
-        <!-- Within @media collapsed menu -->
-			<div class="nav-collapse">
-				<ul class="nav">
-					<li class="divider-vertical"></li>
-					    <li><a href="/articles/"><i class="icon-file icon-white"></i>  Articles</a></li>
-					<li class="divider-vertical"></li>
-					    <li><a href="/preprints/"><i class="icon-pencil icon-white"></i>  PrePrints</a></li>
-					<li class="divider-vertical"></li>
-                                            <li><a href="/manuscripts/">Submit <span class="visible-desktop">my best work</span></a></li>
-                    
-					                        <li class="divider-vertical"></li>
-                        <li><a href="/pricing/" style="color: white;">Signup & Pricing</a></li>
-	
-						<li class="divider-vertical"></li>
-
- 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-	
-														<ul class="dropdown-menu">
-								<li><a href="/about/">Who we are</a></li>
-	
-								<li class="divider"></li>
-						        <li><a href="/pricing/">Paid Memberships</a></li>
-								<li class="divider"></li>
-
-								<li><a href="/academic-boards/advisors/">Academic Advisors</a></li>
-								<li><a href="/academic-boards/editors/">Academic Editors</a></li>
-	
-								<li class="divider"></li>
-								
-								<li><a href="/about/aims-and-scope/">Aims & Scope</a></li>
-								<li><a href="/about/author-instructions/">Instructions for Authors</a></li>	
-								<li><a href="/about/preprints/scope-and-instructions/">PrePrint Instructions</a></li>
-								<li><a href="/about/how-it-works/">How it Works</a></li>
-								<li><a href="/about/FAQ/user">FAQ</a></li>
-								<li><a href="http://blog.peerj.com/">Blog</a></li>
-							</ul>
-						</li>
-						<li class="divider-vertical"></li>
-                                            
-				</ul>
-
-				<ul class="nav pull-right">
-										    <li><a href="/login">Sign in</a></li>
-					    			</ul>
-			</div>
-            <!-- End @media collapsed menu -->		
-		</div>
-	</div>
-</div>
-
-
-<div id="wrap">
-    <noscript>
-        <div class="alert alert-warning"><i class="icon icon-warning-sign"></i> PeerJ works best with JavaScript enabled</div>
-    </noscript>
-
-    <div id="nav-pad"></div>
-
-    
-    <div class="container">
-        
-                
-	
-	<div class="row main-search-container" style="min-height:400px;margin-top:15px">
-        <!-- start span8 left search column -->
-	    <div class="span8">
-	                        <div class="main-search-form-row">
-                    <!-- Query input -->
-                    <form id="mainSearch" class="form-inline" action="/search/">
-                        <div class="input-append">
-    <input class="main-search-input span7" name="q" type="text" value="" placeholder="Search"/>
-    <button type="submit" class="btn btn-success btn-main-search">Search</button>
-</div>
-
-<input id="search-input-time" name="t" type="hidden" value=""/>
-<input id="search-input-type" name="type" type="hidden" value="articles"/>
-<input id="search-input-subject" name="subject" type="hidden" value=""/>
-
-                        <!-- Hits + fuzzy row -->
-                        <div style="color:#888;margin-top:10px" class="row">
-                            <div class="span4" style="font-size:14px">
-                               Total of <span>96 results</span>                                                             </div>
-                            <div class="span4">
-                                <div class="checkbox" style="text-align:right;padding-right:35px;">
-
-                                    <i style="opacity:0.7" class="icon-question-sign" rel="popover"
-                                       title="Fuzzy matching"
-                                       data-placement="bottom"
-                                       data-content="<p style='margin-bottom:7px'>Looks for misspelled words and variants in both your search terms and results.</p>
-                                        <p>It may also find results irrelevant to your search. Turn off for stricter matching.</p>"></i>
-                                    <label for="search-input-fuzzy">Fuzzy match</label>
-                                    <input id="search-input-fuzzy" type="checkbox" name="fuzzy" value="1"
-                                           >
-                                </div>
-                            </div>
-                        </div>
-                     <!-- /end Hits + fuzzy row -->
-                    </form>
-                </div>
-            
-            <!-- Results -->
-            <div class="row" style="margin-top:20px">
-                <div class="span8">
-                                                                                
-                                            
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/94/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/94/">
-                                                                                            Optimising locational access of deprived populations to farmers’ markets at a national scale: one route to improved fruit and vegetable consumption?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/94/author-1"
-                                                        >Amber L. Pearson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/94/author-2"
-                                                        >Nick Wilson</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Background. Evidence suggests that improved locational access to farmers’ markets increases fruit and vegetable (FV) consumption, particularly for low-income groups. Therefore, we modelled potential alternative distributions of farmers’ markets in one country (New...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Nutrition&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/94/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Josep Tur
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.94
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/91/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/91/">
-                                                                                            Feasibility of using microbeads with holographic barcodes to track DNA specimens in the clinical molecular laboratory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/91/author-1"
-                                                        >Jason D. Merker</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-2"
-                                                        >Naomi O’Grady</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-3"
-                                                        >Linda Gojenola</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-4"
-                                                        >Mai Dao</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-5"
-                                                        >Ross Lenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-6"
-                                                        >Joanne M. Yeakley</a>,                                                                                                     <a class="search-item-show-link" href="/articles/91/author-7"
-                                                        >Iris Schrijver</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We demonstrate the feasibility of using glass microbeads with a holographic barcode identifier to track DNA specimens in the molecular pathology laboratory. These beads can be added to peripheral blood specimens and are carried through automated DNA extraction...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Pathology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/91/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Praveen Arany
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.91
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/88/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">2 Jul 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/88/">
-                                                                                            Activity in ventral premotor cortex is modulated by vision of own hand in action
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/88/author-1"
-                                                        >Luciano Fadiga</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-2"
-                                                        >Luana Caselli</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-3"
-                                                        >Laila Craighero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-4"
-                                                        >Benno Gesierich</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-5"
-                                                        >Andriy Oliynyk</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-6"
-                                                        >Banty Tia</a>,                                                                                                     <a class="search-item-show-link" href="/articles/88/author-7"
-                                                        >Riccardo Viaro</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Parietal and premotor cortices of the macaque monkey contain distinct populations of neurons which, in addition to their motor discharge, are also activated by visual stimulation. Among these visuomotor neurons, a population of grasping neurons located in the anterior...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Neuroscience&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/88/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Marco Iacoboni
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.88
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/97/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/97/">
-                                                                                            Non-pneumococcal mitis-group streptococci confound detection of pneumococcal capsular serotype-specific loci in upper respiratory tract
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/97/author-1"
-                                                        >Maria da Gloria Carvalho</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-2"
-                                                        >Fabiana C. Pimenta</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-3"
-                                                        >Iaci Moura</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-4"
-                                                        >Alexis Roundtree</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-5"
-                                                        >Robert E. Gertz</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-6"
-                                                        >Zhongya Li</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-7"
-                                                        >Geofrey Jagero</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-8"
-                                                        >Godfrey Bigogo</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-9"
-                                                        >Muthoni Junghae</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-10"
-                                                        >Laura Conklin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-11"
-                                                        >Daniel R. Feikin</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-12"
-                                                        >Robert F. Breiman</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-13"
-                                                        >Cynthia G. Whitney</a>,                                                                                                     <a class="search-item-show-link" href="/articles/97/author-14"
-                                                        >Bernard W. Beall</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            We performed culture-based and PCR-based tests for pneumococcal identification and serotyping from carriage specimens collected in rural and urban Kenya. Nasopharyngeal specimens from 237 healthy children <5 years old (C-NPs) and combined nasopharyngeal/oropharyngeal...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Microbiology&quot;,&quot;Infectious Diseases&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/97/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Valeria Souza
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.97
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/96/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/96/">
-                                                                                            Wake sorting, selective predation and biogenic mixing: potential reasons for high turbulence in fish schools
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/96/author-1"
-                                                        >Jay Willis</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            There has been debate about animals’ contribution to ocean circulation, called biomixing, or biogenic mixing. The energy input of schooling fish is significant but the eddies may be too small; so energy is dissipated as heat before impacting oceanic structure....
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Aquaculture, Fisheries and Fish Science&quot;,&quot;Ecology&quot;,&quot;Ecosystem Science&quot;,&quot;Marine Biology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/96/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Jack Stanford
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.96
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/93/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/93/">
-                                                                                            Phylogenetic diversity of plants alters the effect of species richness on invertebrate herbivory
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/93/author-1"
-                                                        >Russell Dinnage</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Long-standing ecological theory proposes that diverse communities of plants should experience a decrease in herbivory. Yet previous empirical examinations of this hypothesis have revealed that plant species richness increases herbivory in just as many systems as...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Evolutionary Studies&quot;,&quot;Plant Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/93/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Richard Cowling
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.93
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/89/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">25 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/89/">
-                                                                                            PTree: pattern-based, stochastic search for maximum parsimony phylogenies
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/89/author-1"
-                                                        >Ivan Gregor</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-2"
-                                                        >Lars Steinbrück</a>,                                                                                                     <a class="search-item-show-link" href="/articles/89/author-3"
-                                                        >Alice C. McHardy</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Phylogenetic reconstruction is vital to analyzing the evolutionary relationship of genes within and across populations of different species. Nowadays, with next generation sequencing technologies producing sets comprising thousands of sequences, robust identification...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Evolutionary Studies&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/89/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Keith Crandall
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.89
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/92/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/92/">
-                                                                                            Qualitative community stability determines parasite establishment and richness in estuarine marshes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/92/author-1"
-                                                        >Tavis K. Anderson</a>,                                                                                                     <a class="search-item-show-link" href="/articles/92/author-2"
-                                                        >Michael V.K. Sukhdeo</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The establishment of parasites with complex life cycles is generally thought to be regulated by free-living species richness and the stability of local ecological interactions. In this study, we test the prediction that stable host communities are prerequisite...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Biodiversity&quot;,&quot;Ecology&quot;,&quot;Mathematical Biology&quot;,&quot;Parasitology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/92/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yoh Iwasa
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.92
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/90/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">18 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/90/">
-                                                                                            Factors associated with delayed entry into HIV medical care after HIV diagnosis in a resource-limited setting: Data from a cohort study in India
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/90/author-1"
-                                                        >Gerardo Alvarez-Uria</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Studies from sub-Saharan Africa have shown that a substantial proportion of patients diagnosed with HIV enter into HIV medical care late. However, data from low or middle-income countries outside Africa are scarce. In this study, we investigated risk factors associated...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Global Health&quot;,&quot;HIV&quot;,&quot;Infectious Diseases&quot;,&quot;Public Health&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/90/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Tomas Perez-Acle
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.90
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/87/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/87/">
-                                                                                            Prediction of morbidity and mortality in patients with type 2 diabetes
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/87/author-1"
-                                                        >Brian J. Wells</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-2"
-                                                        >Rachel Roth</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-3"
-                                                        >Amy S. Nowacki</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-4"
-                                                        >Susana Arrigain</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-5"
-                                                        >Changhong Yu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-6"
-                                                        >Wayne A. Rosenkrans</a>,                                                                                                     <a class="search-item-show-link" href="/articles/87/author-7"
-                                                        >Michael W. Kattan</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Introduction. The objective of this study was to create a tool that accurately predicts the risk of morbidity and mortality in patients with type 2 diabetes according to an oral hypoglycemic agent.Materials and Methods. The model was based on a cohort of 33,067...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Diabetes and Endocrinology&quot;,&quot;Epidemiology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/87/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Akio Inui
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.87
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/86/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/86/">
-                                                                                            Major histocompatibility complex class I evolution in songbirds: universal primers, rapid evolution and base compositional shifts in exon 3
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/86/author-1"
-                                                        >Miguel Alcaide</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-2"
-                                                        >Mark Liu</a>,                                                                                                     <a class="search-item-show-link" href="/articles/86/author-3"
-                                                        >Scott V. Edwards</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Genes of the Major Histocompatibility Complex (MHC) have become an important marker for the investigation of adaptive genetic variation in vertebrates because of their critical role in pathogen resistance. However, despite significant advances in the last few years...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Evolutionary Studies&quot;,&quot;Genetics&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/86/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Christophe Dessimoz
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.86
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/85/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">11 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/85/">
-                                                                                            Molecular modeling and pharmacophore elucidation study of the Classical Swine Fever virus helicase as a promising pharmacological target
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/85/author-1"
-                                                        >Dimitrios Vlachakis</a>,                                                                                                     <a class="search-item-show-link" href="/articles/85/author-2"
-                                                        >Sophia Kossida</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            The Classical Swine Fever virus (CSFV) is a major pathogen of livestock and belongs to the flaviviridae viral family. Even though there aren’t any verified zoonosis cases yet, the outcomes of CSFV epidemics have been devastating to local communities. In an effort...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Computational Biology&quot;,&quot;Virology&quot;,&quot;Infectious Diseases&quot;,&quot;Computational Science&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/85/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Yonghong Peng
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.85
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/83/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/83/">
-                                                                                            Looking after your partner: sentinel behaviour in a socially monogamous bird
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/83/author-1"
-                                                        >Mark C. Mainwaring</a>,                                                                                                     <a class="search-item-show-link" href="/articles/83/author-2"
-                                                        >Simon C. Griffith</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Animal Behavior&quot;,&quot;Ecology&quot;,&quot;Zoology&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/83/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Lesley Rogers
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.83
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/82/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/82/">
-                                                                                            What is the “normal” fetal heart rate?
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/82/author-1"
-                                                        >Stephanie Pildner von Steinburg</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-2"
-                                                        >Anne-Laure Boulesteix</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-3"
-                                                        >Christian Lederer</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-4"
-                                                        >Stefani Grunow</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-5"
-                                                        >Sven Schiermeier</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-6"
-                                                        >Wolfgang Hatzmann</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-7"
-                                                        >Karl-Theodor M. Schneider</a>,                                                                                                     <a class="search-item-show-link" href="/articles/82/author-8"
-                                                        >Martin Daumer</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Aim. There is no consensus about the normal fetal heart rate. Current international guidelines recommend for the normal fetal heart rate (FHR) baseline different ranges of 110 to 150 beats per minute (bpm) or 110 to 160 bpm. We started with a precise definition...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Bioinformatics&quot;,&quot;Evidence Based Medicine&quot;,&quot;Gynecology and Obstetrics&quot;,&quot;Statistics&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/82/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Mandeep Mehra
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.82
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                            <!-- PERSON SECTION -->
-                                                        
-                            <!-- ARTICLE SECTION -->
-                                                                                                                                                                                                
-                                <div class="row-fluid main-search-item-row">
-                                    <div class="span2 main-search-item-publication-img" style="margin-top:3px">
-                                                                                     <a href="/articles/84/"><div class="search-label">article</div></a>
-                                                                                  <div style="font-weight:200;color:#888;margin-top:5px">4 Jun 2013</div>
-                                    </div>
-                                    <div class="span9 main-search-item-meta">
-                                        <div class="search-item-title"><a
-                                            href="/articles/84/">
-                                                                                            RRE-deleting self-inactivating and self-activating HIV-1 vectors for improved safety
-                                                                                        </a></div>
-                                         <!-- Author matches -->
-                                         <div class="main-search-item-person">
-                                                                                                                                                                                    <!-- No author matches -->
-                                            <div class="main-search-authors-target" style="display:inline">
-                                                                                                    <a class="search-item-show-link" href="/articles/84/author-1"
-                                                        >Narasimhachar Srinivasakumar</a>                                                                                            </div>
-                                        </div>
-                                        <!-- Article abstract -->
-                                        <p class="leadh2" style="font-size:15px;line-height:21px;">
-                                                                                                                                            Retroviruses have been shown to efficiently delete sequences between repeats as a consequence of the template switching ability of the viral reverse transcriptase. To evaluate this approach for deriving safety-modified lentiviral vectors, we created HIV-1 vectors...
-                                                                                    </p>
-                                        <!-- Article subjects -->
-                                        <div class="row-fluid" style="margin-top:5px">
-                                                                                            <div class="span7 main-search-item-subjects">[&quot;Virology&quot;,&quot;HIV&quot;]</div>
-                                                                                        <div class="span5" style="float:right;text-align:right;font-weight:300;color:#888">
-                                                                                                     <div class="main-search-item-editor">
-                                                        <a style="color:#888" class="search-item-show-link" href="/articles/84/editor-1"><span
-                                                            class="badge badge-editor-blue" rel="tooltip" data-original-title="Academic editor">E</span>
-                                                                                                                                    Nicola Decaro
-                                                                                                                        </a>
-                                                    </div>
-                                                                                                doi:10.7717/peerj.84
-                                            </div>
-                                        </div>
-                                        <!-- Author keywords -->
-                                                                                <!-- Article funding -->
-                                                                                <!-- Article institutions -->
-                                                                           </div>
-                                </div>
-                            
-                            <!-- SUBJECT SECTION -->
-                                                        
-                        
-                                    </div>
-            </div>
-        <!-- end span8 right search column -->
-        </div>
-
-        <!-- Filter bar right column-->
-        <div class="span4" id="main-search-filter-bar">
-                <div id="facet-json" style="display:none">{&quot;facet_dates&quot;:{&quot;_type&quot;:&quot;range&quot;,&quot;ranges&quot;:[{&quot;from&quot;:0,&quot;from_str&quot;:&quot;1970-01-01T00:00:00+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6},{&quot;from&quot;:1373018989000,&quot;from_str&quot;:&quot;2013-07-05T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:0,&quot;total_count&quot;:0,&quot;total&quot;:0,&quot;mean&quot;:0},{&quot;from&quot;:1372500589000,&quot;from_str&quot;:&quot;2013-06-29T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:3,&quot;min&quot;:1372752350000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:3,&quot;total&quot;:4118257105000,&quot;mean&quot;:1372752368333.3},{&quot;from&quot;:1370513389000,&quot;from_str&quot;:&quot;2013-06-06T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:12,&quot;min&quot;:1370937907000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:12,&quot;total&quot;:16462742146000,&quot;mean&quot;:1371895178833.3},{&quot;from&quot;:1356948589000,&quot;from_str&quot;:&quot;2012-12-31T10:09:49+00:00&quot;,&quot;to&quot;:1373105389000,&quot;to_str&quot;:&quot;2013-07-06T10:09:49+00:00&quot;,&quot;count&quot;:96,&quot;min&quot;:1360663461000,&quot;max&quot;:1372752386000,&quot;total_count&quot;:96,&quot;total&quot;:1.30981085711e+14,&quot;mean&quot;:1364386309489.6}]},&quot;facet_articles_subjects&quot;:{&quot;_type&quot;:&quot;terms&quot;,&quot;missing&quot;:0,&quot;total&quot;:286,&quot;other&quot;:182,&quot;terms&quot;:[{&quot;term&quot;:&quot;Evolutionary Studies&quot;,&quot;count&quot;:14},{&quot;term&quot;:&quot;Neuroscience&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Molecular Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Ecology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Computational Biology&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Biochemistry&quot;,&quot;count&quot;:11},{&quot;term&quot;:&quot;Zoology&quot;,&quot;count&quot;:10},{&quot;term&quot;:&quot;Bioinformatics&quot;,&quot;count&quot;:9},{&quot;term&quot;:&quot;Psychiatry and Psychology&quot;,&quot;count&quot;:8},{&quot;term&quot;:&quot;Microbiology&quot;,&quot;count&quot;:8}]}}</div>
-
-    <!-- Object type filter -->
-    <div class="row">
-        <div class="span3">
-            <h3 class="slim facet-h3">Refine by type</h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul" data-type-facet="articles">
-                <li id="type-any"><a class="search-type-facet" data-type="">Any type</a></li>
-                <li id="type-articles"><a class="search-type-facet" data-type="articles">Published articles</a></li>
-                <li id="type-preprints"><a class="search-type-facet" data-type="preprints">PrePrints</a></li>
-                <li id="type-member"><a class="search-type-facet" data-type="member">Members</a></li>
-                <li id="type-editor"><a class="search-type-facet" data-type="editor">Editors & advisors only</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Publication date facet -->
-    <div id="date-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Publish Date <small>- Articles</small></h3>
-            <ul id="search-date-facet" class="nav nav-list unstyled search-filter-ul" data-date-facet="any">
-                <li id="date-any"><a class="search-date-facet" data-time="">Any time</a></li>
-                <li id="date-day"><a class="search-date-facet" data-time="day">Past day</a></li>
-                <li id="date-week"><a class="search-date-facet" data-time="week">Past week </a></li>
-                <li id="date-month"><a class="search-date-facet" data-time="month">Past 30 days</a></li>
-                <li id="date-year"><a class="search-date-facet" data-time="year">This year</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Article subject facet -->
-    <div id="article-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- Articles</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul articles-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-
-    <!-- User subject facet -->
-    <div id="member-subject-facet-row" class="row" style="margin-top:25px">
-        <div class="span3">
-            <h3 class="slim facet-h3">Top subject areas <small>- People</small></h3>
-            <ul id="search-type-facet" class="nav nav-list unstyled search-filter-ul member-subject-facet-ul">
-            </ul>
-        </div>
-    </div>
-	    </div>
-
-    </div>
-
-    <div class="row" >
-        <div class="span8 offset3">
-            <div class="pagination">
-                                    
-	<ul>
-    
-                        <li class="active"><a href="#">1</a></li>
-        
-                        <li>
-            	<a href="/articles/?page=2" class="page">2</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=3" class="page">3</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=4" class="page">4</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=5" class="page">5</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=6" class="page">6</a>
-            </li>
-        
-                        <li>
-            	<a href="/articles/?page=7" class="page">7</a>
-            </li>
-        
-    
-            <li>
-        	<a href="/articles/?page=2">Next</a>
-        </li>
-        </ul>
-
-                            </div>
-        </div>
-    </div>
-
-	
-    </div>
-
-    
-    <!-- empty element, makes sure the footer is pushed to the bottom of the page -->
-    <div id="push"></div>
-</div>
-
-<footer id="footer">
-    <div class="foot">
-        <div class="container">
-                                                            <div class="row">
-	<div class="span7">
-		<b>About us -</b> <a href="/about/" class="aboutLink" data-target="team">PeerJ team</a> 
-		| <a href="/about/publications/" class="aboutLink" data-target="journals">Our publications</a> | <a
-		href="/about/partnerships/" class="aboutLink" data-target="partnership">Partnerships</a> | <a
-		href="/about/endorsements/" class="aboutLink" data-target="endorsements">Endorsements</a>
-		| <a href="/about/reviews/" class="aboutLink" data-target="reviews">Reviews</a>
-	</div>
-	<div class="span5">
-		<b>Resources -</b> <a href="/about/FAQ/user">FAQ</a> | <a
-		href="/about/careers/">Careers</a> | <a href="/about/press/">Press
-		room</a> | <a href="/about/terms/">Terms of use</a> | <a
-		href="/about/privacy/">Privacy</a> | <a
-		href="/about/contact/" class="aboutLink" data-target="contact">Contact</a>
-	</div>
-	<div class="span7">
-		<b>Academic boards -</b> <a href="/academic-boards/advisors/">Advisors</a> | <a
-		href="/academic-boards/editors/">Editors</a> |
-		<a href="/academic-boards/subjects/">Subject areas</a>
-	</div>
-	<div class="span5">
-		<b>Follow us -</b>
-		<a href="http://blog.peerj.com/">PeerJ blog</a> |
-		<a href="http://twitter.com/thePeerJ/" title="Follow on Twitter" alt="Twitter" rel="tooltip">Twitter</a>
-		|
-		<a href="http://facebook.com/thePeerJ/" title="Follow on Facebook" alt="Facebook" rel="tooltip">Facebook</a>
-		|
-		<a href="http://peerj.com/+" title="Follow on Google+" alt="Google+" rel="tooltip">Google+</a>
-	</div>
-	<div class="span7">
-		<b>Submission guides -</b> 
-		<a href="/about/aims-and-scope/"><em>PeerJ</em> instructions</a> | 
-		<a href="/about/preprints/scope-and-instructions/"><em>PeerJ PrePrints</em> instructions</a>
-	</div>
-	<div class="span5">
-		<b>Article feeds -</b>
-		<a href="/articles/index.atom" rel="alternate" title="Articles (Atom)" type="application/atom+xml">Atom</a> |
-		<a href="/articles/index.rss2">RSS 2.0</a> |
-		<a href="/articles/index.json">JSON</a> |
-		<a href="/articles/index.rss1">RSS 1.0</a>
-	</div>
-    <div class="span7">&nbsp;</div>
-    <div class="span5">
-        <b>PrePrint feeds -</b>
-        <a href="/preprints/index.atom" rel="alternate" title="PrePrints (Atom)" type="application/atom+xml">Atom</a> |
-        <a href="/preprints/index.rss2">RSS 2.0</a> |
-        <a href="/preprints/index.json">JSON</a> |
-        <a href="/preprints/index.rss1">RSS 1.0</a>
-    </div>
-
-</div>
-
-<div id="fb-root"></div> 
-                            <div class="row" style="margin-top:10px;font-size:12px">
-                <div class="span12" style="color:#888">
-                                            <span style="margin-right:7px">&copy;2012-2013 PeerJ, Inc | Public user content licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</a></span>
-                                         <span style="margin-right:7px"><span style="font-style:italic">PeerJ</span> ISSN: 2167-8359</span>
-                     <span><span style="font-style:italic">PeerJ PrePrints</span> ISSN: 2167-9843</span>
-                </div>
-            </div>
-        </div>
-        <!--/end foot-container /-->
-    </div>
-</footer>
-
-        <script src="/js/f1b6973-6ea91b4.js"></script>
-<script>
-    $(function() {
-        $("[rel=tooltip]").tooltip({ container: "body", placement: "bottom"});
-        $("[rel=popover]").popover({ container: "body", trigger: "hover", html: "true" });
-    })
-</script>
-
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","d5eeba4cf5","1495858","MQcDZBMHX0EFUBBcXghNNEIISVBCFB0UXUE=",0,353,new Date().getTime()]);</script>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">83</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.83</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Animal Behavior</subject>
+          <subject>Ecology</subject>
+          <subject>Zoology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Looking after your partner: sentinel behaviour in a socially monogamous bird</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Mainwaring</surname>
+            <given-names>Mark C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Griffith</surname>
+            <given-names>Simon C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <email>simon.griffith@mq.edu.au</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Biological Sciences, Macquarie University</institution>, <addr-line>Sydney, NSW</addr-line>, <country>Australia</country></aff>
+        <aff id="aff-2"><label>2</label><institution>School of Biological, Earth &amp; Environmental Sciences, University of New South Wales</institution>, <addr-line>Sydney, NSW</addr-line>, <country>Australia</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Rogers</surname>
+            <given-names>Lesley</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-06-04">
+        <day>4</day>
+        <month>6</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e83</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-04-11">
+          <day>11</day>
+          <month>4</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-05-15">
+          <day>15</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Mainwaring &amp; Griffith</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Mainwaring &amp; Griffith</copyright-holder>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/83"/>
+      <abstract>
+        <p>Natural selection favours those individuals with effective anti-predator defences. The presence of sentinels is known to be an effective form of defence amongst stable groups of individuals within cooperative and polygynous breeding systems. However, the presence of sentinels in the more prevalent socially monogamous breeding systems remains overlooked as an important benefit of such partnerships. Here, we describe a study in which we examined the presence and effectiveness of sentinels in a wild population of the socially monogamous zebra finch (<italic>Taeniopygia guttata</italic>). We found that when experimentally approached by a human observer during incubation, birds flushed from their nests at significantly greater distances when their reproductive partner was acting as a sentinel than when the partner was absent. The distance at which birds flushed was not influenced by the approach direction of the human observer, the gender of the incubating bird, the presence of conspecifics, the habitat type or the size of the breeding colony. Our results indicate that sentinels are an effective anti-predator defence amongst socially monogamous birds, and may represent a neglected benefit of the formation of stable social partnerships in birds. We suggest that whilst recent work has focused on the sexual conflicts that occur between males and females in socially monogamous pairs, we should not lose sight of the benefits that individuals may gain from their partner.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Incubation</kwd>
+        <kwd>Zebra finch</kwd>
+        <kwd>Predation</kwd>
+        <kwd>Bi-parental care</kwd>
+        <kwd>Natural selection</kwd>
+        <kwd>Sentinels</kwd>
+        <kwd>Social monogamy</kwd>
+        <kwd>Taeniopygia guttata</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>Australian Research Council Discovery Project</funding-source>
+          <award-id>DP0881019</award-id>
+        </award-group>
+        <funding-statement>This study was financed through grants from the Australian Research Council. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Avoiding predation is an almost ubiquitous challenge for most species and natural selection favours those individuals with effective anti-predator defences (<xref ref-type="bibr" rid="ref-36">Ruxton, Sherratt &amp; Speed, 2004</xref>; <xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>). Longevity is an important determinant of lifetime reproductive success (<xref ref-type="bibr" rid="ref-31">Pettorelli &amp; Durant, 2007</xref>) and accordingly, a wide range of sophisticated anti-predator defences have evolved amongst prey species (<xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>). The presence of sentinels, whereby one individual assumes a prominent position and scans for predators whilst other individuals engage in some other activity, such as foraging, has evolved as an effective form of defence. Sentinel behaviours have been well described in species with stable social groups of birds and mammals within cooperative and polygynous breeding systems (<xref ref-type="bibr" rid="ref-4">Beletsky, Higgins &amp; Orians, 1986</xref>; <xref ref-type="bibr" rid="ref-20">Knight &amp; Temple, 1988</xref>; <xref ref-type="bibr" rid="ref-19">Hollén, Bell &amp; Radford, 2008</xref>; <xref ref-type="bibr" rid="ref-34">Ridley, Raihani &amp; Bell, 2010</xref>; <xref ref-type="bibr" rid="ref-8">Clutton-Brock et al., 1999</xref>). Indeed, amongst cooperatively breeding birds and mammals, the deployment of sentinels as a common form of anti-predator defence has long been perceived as a classic example of kin selection or reciprocal altruism (<xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>; <xref ref-type="bibr" rid="ref-33">Ridley, Nelson-Flower &amp; Thompson, 2013</xref>). Even in circumstances in which sentinels are believed to be acting in their own individual interests (<xref ref-type="bibr" rid="ref-8">Clutton-Brock et al., 1999</xref>), other group members benefit from their presence. When sentinels are present, group members enjoy increased foraging success (<xref ref-type="bibr" rid="ref-19">Hollén, Bell &amp; Radford, 2008</xref>) and receive early warnings of approaching predators (<xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>).</p>
+      <p>Surprisingly, given the cooperation between a male and female that is inherent at the heart of a socially monogamous relationship, unequivocal evidence of sentinels in socially monogamous breeding systems remains elusive, despite some earlier reports of their presence (<xref ref-type="bibr" rid="ref-25">Morton &amp; Shalter, 1977</xref>; <xref ref-type="bibr" rid="ref-37">Tilson, 1980</xref>; <xref ref-type="bibr" rid="ref-10">D’Agostino, Giovinazzo &amp; Eaton, 1981</xref>). Over the past couple of decades, most research on socially monogamous species has focused on aspects of conflict rather than cooperation. For example, there has been much effort invested in questions relating to genetic infidelity (<xref ref-type="bibr" rid="ref-30">Petrie &amp; Kempenaers, 1998</xref>; <xref ref-type="bibr" rid="ref-16">Griffith, Owens &amp; Thuman, 2002</xref>), the conflict over parental investment (<xref ref-type="bibr" rid="ref-28">Parker, Royle &amp; Hartley, 2002</xref>; <xref ref-type="bibr" rid="ref-35">Royle, Hartley &amp; Parker, 2002</xref>), and maternal effects, particularly from the conflict-centric differential allocation hypothesis (<xref ref-type="bibr" rid="ref-5">Burley, 1988</xref>; <xref ref-type="bibr" rid="ref-13">Gil et al., 1999</xref>; <xref ref-type="bibr" rid="ref-32">Pryke &amp; Griffith, 2009</xref>). Despite this apparent neglect, cooperative behaviour between partners such as sentinelling should be expected to have evolved within socially monogamous breeding systems (<xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>) where the evolutionary fitness of one’s partner is linked to one’s own fitness. When one member of the pair has a low probability of detecting a predator but a high probability of receiving advanced warning of a predator from the other pair member, then active sentinelling behaviour should be advantageous. Effective sentinelling within partnerships may improve partner survival and also the efficiency with which they engage in activities such as foraging or incubation.</p>
+      <p>The purpose of this study was to experimentally test for the presence and effectiveness of sentinels in a socially monogamous bird, the wild zebra finch (<italic>Taeniopygia guttata</italic>). Although domesticated zebra finches are a well-used model system in studies of sexual conflict (<xref ref-type="bibr" rid="ref-5">Burley, 1988</xref>; <xref ref-type="bibr" rid="ref-13">Gil et al., 1999</xref>; <xref ref-type="bibr" rid="ref-35">Royle, Hartley &amp; Parker, 2002</xref>), in the wild, zebra finches form life-long genetically monogamous pair bonds (<xref ref-type="bibr" rid="ref-41">Zann, 1996</xref>; <xref ref-type="bibr" rid="ref-15">Griffith et al., 2010</xref>) with high levels of behavioural synchrony (<xref ref-type="bibr" rid="ref-23">Mariette &amp; Griffith, 2012</xref>; <xref ref-type="bibr" rid="ref-24">Mariette &amp; Griffith, 2013</xref>). Individuals increase their fitness by breeding with a familiar partner (<xref ref-type="bibr" rid="ref-1">Adkins-Regan &amp; Tomaszycki, 2007</xref>) and, as the long-term evolutionary interests of both parents overlap significantly, cooperative anti-predator behaviours should be expected (<xref ref-type="bibr" rid="ref-36">Ruxton, Sherratt &amp; Speed, 2004</xref>; <xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>). Whilst foraging, adult zebra finches suffer high mortality rates from aerial predators, such as Australian hobbies (<italic>Falco longipennis</italic>) and collared sparrowhawks (<italic>Accipiter fasciatus</italic>) (<xref ref-type="bibr" rid="ref-41">Zann, 1996</xref>), and are vulnerable in their enclosed bottle-shaped nests to predation by cats and a number of snake, lizard and bird species (<xref ref-type="bibr" rid="ref-41">Zann, 1996</xref>; <xref ref-type="bibr" rid="ref-17">Griffith, Pryke &amp; Mariette, 2008</xref>). Consequently, in this study, we tested the hypothesis that, when approached by a human observer during incubation, birds would flush from their nests at a higher rate and significantly greater distances when their reproductive partners were present and acting as a sentinel than when they were absent.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Study site and general methods</title>
+        <p>Data were collected between September–December 2012 from wild zebra finches breeding in nine colonies within the Fowlers Gap Arid Zone Research Station located in far-western New South Wales, Australia (31°05’S, 42°42’E). The study site is characterised by open mixed chenopod and acacia shrubland (<xref ref-type="bibr" rid="ref-17">Griffith, Pryke &amp; Mariette, 2008</xref>).</p>
+        <p>A total of 287 nestboxes were available for breeding zebra finches to occupy across the nine colonies that varied in size from 2 to 42 active nests within an area of approximately 100 square metres. From early September, all nestboxes were checked at least every other day for the commencement of breeding and egg laying. We were interested in examining anti-predator behaviour directed towards the partner specifically rather than towards offspring, and therefore targeted birds during the incubation phase, i.e., in the absence of hatched nestlings. In wild zebra finches, incubation usually commences when the last egg is laid (<xref ref-type="bibr" rid="ref-41">Zann, 1996</xref>; <xref ref-type="bibr" rid="ref-14">Gilby, Mainwaring &amp; Griffith, in press</xref>) and, counting the day that the last egg was laid as day zero, we quantified sentinel behaviour on the fifth day of incubation. We choose a single day of the incubation cycle to standardise our data and reduce any variation that may have been caused by changes in investment over the reproductive cycle. We chose day five because in an earlier study we had previously recorded incubation duration times in detail for both males and females on this day (<xref ref-type="bibr" rid="ref-14">Gilby, Mainwaring &amp; Griffith, in press</xref>), enabling us to control for natural departures (see below).</p>
+      </sec>
+      <sec>
+        <title>Quantifying sentinel behaviour</title>
+        <p>We quantified the presence and effectiveness of sentinel behaviour of the birds in response to the standardised approach of a human observer towards the nest during trials at 205 nests. The direction in which the human observer approached a nestbox was systematically alternated between the ‘front’, thereby potentially allowing the incubating bird to see and hear the approaching human and the ‘side’ at an angle of 90° to the front of the box, thereby potentially allowing the incubating bird to hear, but not see, the approaching human. By conducting this work on individuals breeding inside nestboxes we were able to ascertain that the bird sitting in the nest was unable to see the experimenter. Birds in natural nests that are constructed out of grass stems may well have been able to see out of the side. On the day prior to trials, a Garmin Etrex GPS was used to mark the starting point, either 100 m in front or to the side of the focal nestbox, for the subsequent day’s trial. The starting points were marked as waypoints in the GPS allowing the observer to find the starting point on the day of the trial without disturbing the birds at the nestbox.</p>
+        <p>For each trial, once the observer was in position at the starting point, the trial started (at time zero) and the observer then set off towards the box at a random departure time between 0–90 s from the start time. This randomised start time allowed us to control for random natural departures by the birds from the nestbox and also separate the effect of being in the vicinity of a nest (standing at the start point) and being a direct threat (approaching). The average incubation bout of wild zebra finches on day five of incubation is 23 min (<xref ref-type="bibr" rid="ref-14">Gilby, Mainwaring &amp; Griffith, in press</xref>), and therefore we would only expect a low number of incidents where the bird was naturally leaving the box during the total period of our trials (i.e., trials lasted a maximum of 3 min and 10 s and birds only leave the box once every 23 min normally). At the departure time, the observer walked slowly at a constant speed of one metre per second directly towards the focal nestbox whilst using binoculars (Leica: 8 × 42 BN) to aid visual identification of behaviour. The observer recorded the appearance of a bird in the doorway of a nestbox (as they flushed off the eggs and prepared to leave the box) and recorded the distance (metres from the box) and time (seconds taken to walk to the box) at which the bird flew from the nest box. The gender of the incubating bird was also recorded. Meanwhile, the presence and gender of the sentinel bird, which was usually conspicuously associated with the nestbox, was also recorded. Sentinel birds were typically perched in a tree or bush within about 3 m of the nestbox, and their presence or absence was ascertained both at the beginning and throughout the trials. The presence or absence of other conspecifics seen during the trial was recorded and the habitat type was classified as being either ‘open’ if acacia bushes were absent or thinly distributed or ‘closed’ if acacia bushes were abundant. The size of the breeding colony, defined as the number of pairs breeding actively (having eggs or nestlings in the nest) in the colony at the time of the trail, was also quantified. Of the 205 trials, there were 10 trials in which neither bird was observed, thereby leaving 195 trials where birds were observed. All of the trials were conducted by one person (MCM).</p>
+      </sec>
+      <sec>
+        <title>Statistical analyses</title>
+        <p>The data were analysed in the SPSS v20.0 statistical package. We began by using a General Linear Model (GLM) to examine the relationship between the distance from the nest and the time from the nest at which birds flushed from nestboxes during trials, where the dependent variable was ‘flight distance’ (0–100 m) and the fixed explanatory covariate term was ‘flight time’ (0–100 s).</p>
+        <p>We examined variation in ‘flight distance’ using a GLM. The dependent variable was ‘flight distance’ (0–100 m), the fixed explanatory factorial terms were ‘approach direction’ (front or side), ‘focal bird sex’ (male or female), ‘partner present’ (yes or no), ‘conspecific present’ (yes or no) and ‘habitat type’ (open or closed), and the fixed explanatory covariate term was ‘colony size’ (number of pairs in the colony). The maximal model included all of the explanatory variables, and their two-way interaction terms, and the explanatory variables were all assessed for significance when they were the last terms in the model. Non-significant effects were sequentially removed by stepwise deletion until the most parsimonious model was obtained (<xref ref-type="bibr" rid="ref-9">Crawley, 1993</xref>). We used the stepwise deletion procedure of model selection as previous studies have shown it to perform equally as well as other methods of selecting predictive models (<xref ref-type="bibr" rid="ref-27">Murtaugh, 2009</xref>).</p>
+        <p>We then used a GLM to examine the relationship between the total time from the beginning of each trial (which consisted of the sum of the random departure time between 0–90 s and the time from when the observer started walking to when the incubating bird flushed between 0–100 s) and the random departure time, where the dependent variable was ‘total time’ (0–190 s) and the fixed explanatory covariate term was ‘random departure time’ (0–90 s). The means are presented ± 1 standard error and a critical P-value of 0.05 is applied throughout.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>Sentinel birds were observed in 163 (84%) of the 195 trials in which an individual was inside the nest incubating the eggs, and not observed during 32 (16%) of the trials. In the 163 trials in which sentinels were observed, males were found to be incubating in 67 (41%) trials (i.e., the sentinel was a female in these cases) and in the 32 trials without sentinels, males were found to be incubating in 17 (53%) trials. There was a strong positive correlation between the observer’s distance from the nest and the time taken by the observer to walk to the nest for those trials when the incubating bird left the nest (<italic>F</italic><sub>1,194</sub> = 2698.255, <italic>P</italic> &lt; 0.001), which meant that the observer was indeed moving towards the nest at a steady pace. In the 163 trials in which sentinel birds were present, incubating birds flushed from the nest when the observer was 11.8 ± 0.5 m from the nest, whereas in the 32 trials in which sentinel birds were absent, the observer was essentially able to catch the bird in the nest as incubating birds flushed from nest when the observer was only 0.4 ± 0.2 m from the nest. This means that incubating birds flushed from their nests when the observer was a significantly greater distance from the nest when their reproductive partner was present and observed acting as a sentinel (<italic>P</italic> &lt; 0.001) (<xref ref-type="table" rid="table-1">Table 1</xref>) (<xref ref-type="fig" rid="fig-1">Figs. 1A</xref> and <xref ref-type="fig" rid="fig-1">1B</xref>). Further analyses indicated that there was a strong positive correlation between the total time from the beginning of each trial (which consisted of the sum of the random departure time between 0–90 s and the time from when the observer started walking to when the incubating bird flushed between 0–100 s) and the random departure time (<italic>F</italic><sub>1,194</sub> = 2297.197, <italic>P</italic> &lt; 0.001). This indicates that departure times by incubating birds were driven by the observer’s proximity to the nest rather than being random natural departures. Meanwhile, the distance at which incubating birds flushed from nests was not influenced by the approach direction of the observer, the gender of the focal bird, the presence or absence of conspecifics, the type of habitat, the size of the breeding colony or any of their two-way interaction terms (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.83/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Variation in the (A) mean and (B) relative frequency of ‘flight distances’ at which incubating zebra finches flushed when approached by a human observer in relation to the presence of their reproductive partner acting as a sentinel.</title>
+          <p>Note that in figure (B), the grey bars represent those trials in which the partner was absent and the white bars represent those trials in which the partner was present.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/83/fig-1.png"/>
+      </fig>
+      <table-wrap id="table-1">
+        <object-id pub-id-type="doi">10.7717/peerj.83/table-1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Summary of a General Linear Model examining variation in the ‘flight distance’ of incubating zebra finches when approached by a human observer.</title>
+          <p>Note that non-significant interactions are not included for reasons of brevity.</p>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/83/table-1.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Explanatory term</th>
+                <th align="left">Effect size</th>
+                <th align="left"><italic>F</italic>-value (<italic>d</italic><italic>f</italic> = 1, 195)</th>
+                <th align="left"><italic>P</italic> value</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Partner present</td>
+                <td align="left">0.487</td>
+                <td align="left">95.043</td>
+                <td align="left">&lt;0.001</td>
+              </tr>
+              <tr>
+                <td align="left">Colony size</td>
+                <td align="left">0.010</td>
+                <td align="left">2.011</td>
+                <td align="left">0.158</td>
+              </tr>
+              <tr>
+                <td align="left">Habitat type</td>
+                <td align="left">0.010</td>
+                <td align="left">2.001</td>
+                <td align="left">0.159</td>
+              </tr>
+              <tr>
+                <td align="left">Approach direction</td>
+                <td align="left">0.005</td>
+                <td align="left">0.959</td>
+                <td align="left">0.329</td>
+              </tr>
+              <tr>
+                <td align="left">Focal bird sex</td>
+                <td align="left">0.00003</td>
+                <td align="left">0.063</td>
+                <td align="left">0.803</td>
+              </tr>
+              <tr>
+                <td align="left">Conspecific present</td>
+                <td align="left">0.00003</td>
+                <td align="left">0.063</td>
+                <td align="left">0.803</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>We found that acting as a sentinel for an incubating partner was a common and effective form of anti-predator defence in the socially monogamous zebra finch. When a human observer approached nests during incubation, birds flushed from their nests at significantly greater distances when their partner was acting as a sentinel than when their partner was absent. We are confident that incubating birds did not flush as a result of their directly seeing the approaching experimenter because there was no difference in the flushing distance between those trials in which the observer approached from the front or the side. In the latter situation, a bird on the nest could not see through the side wall of the nestbox, whereas an observer approaching from the front could be seen through the nest box entrance hole.Therefore, by focusing on birds that were visually occluded by the nest box itself we have been able to demonstrate that individuals benefit from the presence of a sentinelling partner. Nevertheless, we believe that sentinel behaviour will be just as effective in birds in natural nests and certainly we see no reason to believe that it will have increased in frequency in this nest box nesting population. Although the nestboxes were attached to steel picket posts they were always positioned within a few metres of an acacia or wattle bush (<xref ref-type="bibr" rid="ref-17">Griffith, Pryke &amp; Mariette, 2008</xref>) and sentinel birds were seen perching on the nearest bush, and within a few metres of the nest, providing them with good opportunity to scan for predators.</p>
+      <p>The sentinelling behaviour that we have observed will have enabled the adult in the nest to leave the nest before potentially being surprised and trapped by a predator. We have previously observed one direct predation of an adult bird being consumed after being caught on a natural nest by an eastern brown snake (<italic>Pseudonajat extilis</italic>), and found half a dozen more active natural nests that appear to have been pulled apart by predators and in which we have seen large numbers of adult feathers, providing suggestive evidence that an adult was predated from the nest (<xref ref-type="bibr" rid="ref-17">Griffith, Pryke &amp; Mariette, 2008</xref>). An adult taken by surprise in a nest is very vulnerable. The nest is a light construction of thin grass stems readily broken apart by most predators, and it is hard for adults to escape as the only exit is the funneled entrance hole, scarcely wider than the bird itself. Exiting the nest before an approaching predator reaches the nest is therefore the best survival strategy. Our results demonstrate the effectiveness of this strategy and indeed on the 32 occasions when there was no sentinel, the observer reached the nestbox and was able to trap and capture the bird inside the nest.</p>
+      <p>Zebra finches do not mob, attack, and attempt to distract predators and instead, either flee or freeze to keep out of harm’s way (<xref ref-type="bibr" rid="ref-41">Zann, 1996</xref>). Even if the eggs or nestlings are vulnerable to a predator, the adults will not make any attempt to dispel the predator. Therefore, we can be reasonably confident that the sentinel behavior we observed is focused on preserving the life of the partner rather than being an incidental response to an anti-predator call that might have another functional response such as eliciting help from conspecifics to mount a mobbing response. For that reason, although we only studied the behavior on a single day of the incubation period, we expect such sentinelling to be maintained across the whole reproductive period, and indeed to occur throughout non-breeding periods as well. We believe that the primary function of the behavior is to maintain the partnership rather than the reproductive attempt itself. In this, our work contrasts nicely with one of the observations of sentinel behaviour in a non-cooperatively breeding bird – the red-winged blackbird. In this polygynous species, male sentinels gain direct fitness benefits by warning offspring about an approaching predator and/or instigating a mobbing defence against a predator (<xref ref-type="bibr" rid="ref-4">Beletsky, Higgins &amp; Orians, 1986</xref>; <xref ref-type="bibr" rid="ref-20">Knight &amp; Temple, 1988</xref>; <xref ref-type="bibr" rid="ref-40">Yasukawa, Whittenberger &amp; Nielsen, 1992</xref>; <xref ref-type="bibr" rid="ref-6">Burton &amp; Yasukawa, 2001</xref>). This sentinelling behaviour in the red-winged blackbird reduces predation on eggs or nestlings and is actively selected by females as one of their mate choice criteria because good males will provide better defence for their offspring (<xref ref-type="bibr" rid="ref-20">Knight &amp; Temple, 1988</xref>). Zebra finches use sentinelling to protect a partner, whereas red-winged blackbirds appear to primarily use sentinel behaviour to protect offspring. However, when comparing our findings with those from the blackbirds, it is important to remember that the data of the two studies were collected during the incubation and nestling phases respectively. Sentinel behaviour (that is focused on the survival of the brood) might be expected to change throughout the reproductive cycle as investment in the brood increases and this will be worthy of future study.</p>
+      <p>Sophisticated forms of anti-predator defences such as sentinelling are expected to evolve in social species that suffer high levels of predation and live in habitats that facilitate some individuals with a good vantage point to sense approaching danger (<xref ref-type="bibr" rid="ref-2">Bednekoff, 2001</xref>; <xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>). These criteria apply in the zebra finch, which typically live in small social groups and forage on the ground in semi-open habitat where they are vulnerable to aerial ambush predators such as Australian hobbies or collared sparrowhawks. Whilst sentinelling for each other will probably make sense throughout the whole year it makes particular sense during reproduction when one adult is required to spend time alone in the nest. Previous work has demonstrated that pairs have very synchronised behaviour and move around together almost habitually and visit the nest together during nestling provisioning (<xref ref-type="bibr" rid="ref-23">Mariette &amp; Griffith, 2012</xref>). We recently found that the pairs that had the highest levels of behaviour synchrony (spending more time in each other’s company) hatched a higher proportion of their eggs resulting in higher fitness (<xref ref-type="bibr" rid="ref-23">Mariette &amp; Griffith, 2012</xref>; <xref ref-type="bibr" rid="ref-24">Mariette &amp; Griffith, 2013</xref>). Perhaps this may, in part, be due to a greater efficacy of incubation by individuals that are reassured by the presence of their partner on guard outside the nest. Another important determinant of fitness that has been demonstrated in a study of domesticated zebra finches was that pairs that have experience of breeding together are more efficient at initiating a reproductive attempt once conditions allow (<xref ref-type="bibr" rid="ref-1">Adkins-Regan &amp; Tomaszycki, 2007</xref>). These two lines of evidence provide good motivation for a partner to look out for its incubating mate.</p>
+      <p>The costs of acting as a sentinel are not necessarily great and sentinelling is no longer seen as an altruistic behaviour in the way that it once was (<xref ref-type="bibr" rid="ref-8">Clutton-Brock et al., 1999</xref>; <xref ref-type="bibr" rid="ref-38">Wright et al., 2001</xref>; <xref ref-type="bibr" rid="ref-39">Wright, Maklakov &amp; Khazin, 2001</xref>; <xref ref-type="bibr" rid="ref-3">Bednekoff &amp; Woolfenden, 2003</xref>; <xref ref-type="bibr" rid="ref-34">Ridley, Raihani &amp; Bell, 2010</xref>; but see <xref ref-type="bibr" rid="ref-33">Ridley, Nelson-Flower &amp; Thompson, 2013</xref>). The incubation phase is one of the few times when an individual will find itself potentially physically separated from its mate, and alone in the environment (<xref ref-type="bibr" rid="ref-41">Zann, 1996</xref>; <xref ref-type="bibr" rid="ref-11">Elie et al., 2010</xref>). Isolating an individual zebra finch from other conspecifics (visually and acoustically) has been shown to be physiologically stressful (<xref ref-type="bibr" rid="ref-29">Perez et al., 2012</xref>), and therefore perhaps sentinels are partly motivated by a desire to remain in contact with their partner. Furthermore, taking up a sentinelling position should reduce an individual’s predation risk because a sentinel can choose a position that is near cover and provides good sight lines to approaching danger (<xref ref-type="bibr" rid="ref-8">Clutton-Brock et al., 1999</xref>).</p>
+      <p>The mechanism through which the incubating bird learned of a potential predator is currently unclear, although there are three possibilities. First, the sentinelling bird may have given an alarm call alerting the incubating bird. Second, the cessation of an ongoing duet between the pair (<xref ref-type="bibr" rid="ref-11">Elie et al., 2010</xref>) may have alerted the incubating bird to the possibility of danger, causing it to have approached the nestbox entrance to check for itself. Third, the incubating bird may have heard the flapping wings of the fleeing partner as this has previously been shown to be an effective anti-predator strategy in other species (<xref ref-type="bibr" rid="ref-18">Hingee &amp; Magrath, 2009</xref>). Moreover, given that sentinel and other anti-predator behaviours have been shown to be plastic over spatial and temporal timescales, the cues observed in the zebra finches may differ between different contexts (<xref ref-type="bibr" rid="ref-7">Caro, 2005</xref>; <xref ref-type="bibr" rid="ref-33">Ridley, Nelson-Flower &amp; Thompson, 2013</xref>).</p>
+      <p>Over the past few decades, much research effort in socially monogamous animals has focused on aspects of sexual conflict, and the zebra finch is one of the most widely used models in this area (<xref ref-type="bibr" rid="ref-5">Burley, 1988</xref>; <xref ref-type="bibr" rid="ref-13">Gil et al., 1999</xref>; <xref ref-type="bibr" rid="ref-35">Royle, Hartley &amp; Parker, 2002</xref>; <xref ref-type="bibr" rid="ref-12">Forstmeier et al., 2011</xref>). We believe that our findings help to redress the balance a little and highlight the mutual benefits that a male and female provide for one another in the social bond of monogamy. Recent work on the wild zebra finch has demonstrated that pairs are reproductively faithful to one another (<xref ref-type="bibr" rid="ref-15">Griffith et al., 2010</xref>), are behaviourally coordinated to a high degree (<xref ref-type="bibr" rid="ref-23">Mariette &amp; Griffith, 2012</xref>; <xref ref-type="bibr" rid="ref-24">Mariette &amp; Griffith, 2013</xref>), and have subtle and highly ritualised acoustic communication (<xref ref-type="bibr" rid="ref-11">Elie et al., 2010</xref>). This emerging picture of the social bond of the wild zebra finch does contrast with much of the work focused on the domesticated zebra finch revealing various aspects of sexual conflict. However, we believe that the unpredictable ecological conditions of the Australian arid zone (<xref ref-type="bibr" rid="ref-26">Morton et al., 2012</xref>), and the selective and behavioural pressure exerted by predators helps to reinforce the strength and depth of the social bond in wild zebra finches.</p>
+      <p>Social monogamy is the predominant mating bond formed in birds (&gt;90% of species, (<xref ref-type="bibr" rid="ref-21">Lack, 1968</xref>)), and the behavioural and physiological dynamics at the heart of this pair bond play an important role in life-history evolution. Recently breeding pairs were described as a ‘flock of two’ (<xref ref-type="bibr" rid="ref-22">Lima, 2009</xref>), and our findings support the idea that the individuals in a socially monogamous partnership have the opportunity to benefit mutually in a number of ways that effect their own individual fitness. Although sentinels are most classically observed in cooperatively breeding mammals and birds (<xref ref-type="bibr" rid="ref-8">Clutton-Brock et al., 1999</xref>; <xref ref-type="bibr" rid="ref-34">Ridley, Raihani &amp; Bell, 2010</xref>) as one of the clearest manifestations of highly social and cooperative behaviour, our work demonstrates that it may be found in a much broader context.</p>
+      <p>We believe that our findings should lead to a renewed interest in the cooperative aspects of social monogamy that have been neglected for so long in favour of the more fashionable ideas focused on the conflict between the partners. These conflicts over investment, and individual fitness, are important but have been overstated in recent decades. The strength and duration of the partnership between a male and female has the potential to directly affect individual fitness in a number of ways that have yet to be thoroughly explored and we believe that our findings will help to establish the importance of those determinants of individual fitness.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/83/Paper_-_zebra_finch_sentinels_4c_-_raw_data.xlsx">
+        <object-id pub-id-type="doi">10.7717/peerj.83/supp-1</object-id>
+        <label>Supplemental Information</label>
+        <caption>
+          <title>Raw data</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Fiona Finch, David Humphries, Emilie Perez, Luke McCowan, Kang Nian Yap, Nora Prior and Ingrid Boucaud for help with fieldwork; Keith Leggett, Garry and Vicki Dowling and Mark Tilley for logistical support; and Lesley Rogers, Jeff Graves, Rob Magrathand and an anonymous reviewer for insightful comments on an earlier version of the manuscript.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors have no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Mark C. Mainwaring</xref> performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Simon C. Griffith</xref> conceived and designed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Animal Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>This study is covered under Animal Research Approval 2010/053 from the Macquarie University Animal Ethics Committee.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Field Study Permissions</title>
+        <fn id="addinfo-2" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e. approving body and any reference numbers):</p>
+          <p>The study was carried out with the knowledge and approval of the Director of the UNSW Fowlers Gap Arid Zone Research Station.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Adkins-Regan &amp; Tomaszycki (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adkins-Regan</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tomaszycki</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Monogamy on the fast track</article-title>
+          <source>Biology Letters</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>3</volume>
+          <fpage>617</fpage>
+          <lpage>619</lpage>
+          <pub-id pub-id-type="doi">10.1098/rsbl.2007.0388</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Bednekoff (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bednekoff</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>Coordination of safe, selfish sentinels based on mutual benefits</article-title>
+          <source>Acta Zoologica Fennica</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>38</volume>
+          <fpage>5</fpage>
+          <lpage>14</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Bednekoff &amp; Woolfenden (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bednekoff</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Woolfenden</surname>
+              <given-names>GE</given-names>
+            </name>
+          </person-group>
+          <article-title>Florida scrub-jays (<italic>Aphelocoma coerulescens</italic>) are sentinels more when well-fed (even with no kin nearby)</article-title>
+          <source>Ethology</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>109</volume>
+          <fpage>895</fpage>
+          <lpage>903</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.0179-1613.2003.00926.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Beletsky, Higgins &amp; Orians (1986)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beletsky</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Higgins</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Orians</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>Communication by changing signals: call switching in red-winged blackbirds</article-title>
+          <source>Behavioural Ecology and Sociobiology</source>
+          <year iso-8601-date="1986">1986</year>
+          <volume>18</volume>
+          <fpage>221</fpage>
+          <lpage>229</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00290826</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Burley (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burley</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>The differential allocation hypothesis: an experimental test</article-title>
+          <source>American Naturalist</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>132</volume>
+          <fpage>611</fpage>
+          <lpage>628</lpage>
+          <pub-id pub-id-type="doi">10.1086/284877</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Burton &amp; Yasukawa (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burton</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Yasukawa</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>The “predator early warning system” of Red-Winged Blackbirds</article-title>
+          <source>Journal of Field Ornithology</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>72</volume>
+          <fpage>106</fpage>
+          <lpage>112</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Caro (2005)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caro</surname>
+              <given-names>TM</given-names>
+            </name>
+          </person-group>
+          <source>Antipredator defences in birds and mammals</source>
+          <year iso-8601-date="2005">2005</year>
+          <publisher-loc>Chicago</publisher-loc>
+          <publisher-name>The University of Chicago Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Clutton-Brock et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clutton-Brock</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>O’Riain</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Brotherton</surname>
+              <given-names>PNM</given-names>
+            </name>
+            <name>
+              <surname>Gaynor</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kansky</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Griffin</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Manser</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Selfish sentinels in cooperative mammals</article-title>
+          <source>Science</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>284</volume>
+          <fpage>1640</fpage>
+          <lpage>1644</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.284.5420.1640</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Crawley (1993)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crawley</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <source>GLIM for ecologists</source>
+          <year iso-8601-date="1993">1993</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Blackwell Science</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>D’Agostino, Giovinazzo &amp; Eaton (1981)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D’Agostino</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Giovinazzo</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Eaton</surname>
+              <given-names>SW</given-names>
+            </name>
+          </person-group>
+          <article-title>The sentinel crow as an extension of parental care</article-title>
+          <source>Wilson Bulletin</source>
+          <year iso-8601-date="1981">1981</year>
+          <volume>93</volume>
+          <fpage>394</fpage>
+          <lpage>395</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Elie et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elie</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Mariette</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Soula</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Mathevon</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Vignal</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Vocal communication at the nest between mates in wild zebra finches: a private vocal duet?</article-title>
+          <source>Animal Behaviour</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>80</volume>
+          <fpage>597</fpage>
+          <lpage>605</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.anbehav.2010.06.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Forstmeier et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Forstmeier</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bolund</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Schielzeth</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kempenaers</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Female extra-pair mating behaviour can evolve via indirect selection on males</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>108</volume>
+          <fpage>10608</fpage>
+          <lpage>10613</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1103195108</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Gil et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gil</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Graves</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hazon</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Wells</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Male attractiveness and differential testosterone investment in zebra finch eggs</article-title>
+          <source>Science</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>286</volume>
+          <fpage>126</fpage>
+          <lpage>128</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.286.5437.126</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Gilby, Mainwaring &amp; Griffith (in press)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gilby</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Mainwaring</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+          </person-group>
+          <article-title>Incubation behaviour determines hatching asynchrony, and differs in wild and captive populations of the zebra finch</article-title>
+          <source>Animal Behaviour</source>
+          <year iso-8601-date="2013">2013</year>
+          <comment>(in press). Corrected Proof, Available online 12 April 2013.</comment>
+          <pub-id pub-id-type="doi">10.1016/j.anbehav.2013.03.023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Griffith et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Holleley</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Mariette</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Pryke</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Svedin</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Low level of extrapair parentage in wild zebra finches</article-title>
+          <source>Animal Behaviour</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>79</volume>
+          <fpage>261</fpage>
+          <lpage>264</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.anbehav.2009.11.031</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Griffith, Owens &amp; Thuman (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Owens</surname>
+              <given-names>IPF</given-names>
+            </name>
+            <name>
+              <surname>Thuman</surname>
+              <given-names>KA</given-names>
+            </name>
+          </person-group>
+          <article-title>Extra pair paternity in birds: a review of interspecific variation and adaptive function</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>11</volume>
+          <fpage>2195</fpage>
+          <lpage>2212</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-294X.2002.01613.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Griffith, Pryke &amp; Mariette (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Pryke</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Mariette</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of nest-boxes by the Zebra Finch (<italic>Taeniopygia guttata</italic>): implications for reproductive success and research</article-title>
+          <source>Emu</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>108</volume>
+          <fpage>311</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="doi">10.1071/MU08033</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Hingee &amp; Magrath (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hingee</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Magrath</surname>
+              <given-names>RD</given-names>
+            </name>
+          </person-group>
+          <article-title>Flights of fear: a mechanical wing whistle sounds the alarm in a flocking bird</article-title>
+          <source>Proceedings of the Royal Society B – Biological Sciences</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>276</volume>
+          <fpage>4173</fpage>
+          <lpage>4179</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.2009.1110</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Hollén, Bell &amp; Radford (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hollén</surname>
+              <given-names>LI</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>MBV</given-names>
+            </name>
+            <name>
+              <surname>Radford</surname>
+              <given-names>AN</given-names>
+            </name>
+          </person-group>
+          <article-title>Cooperative sentinel calling? Foragers gain increased biomass intake</article-title>
+          <source>Current Biology</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>18</volume>
+          <fpage>576</fpage>
+          <lpage>579</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cub.2008.02.078</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Knight &amp; Temple (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knight</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Temple</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Nest-defense behaviour in the red-winged blackbird</article-title>
+          <source>Condor</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>90</volume>
+          <fpage>193</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.2307/1368448</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Lack (1968)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lack</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <source>Ecological adaptations for breeding in birds</source>
+          <year iso-8601-date="1968">1968</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Chapman and Hall</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Lima (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lima</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <article-title>Predators and the breeding bird: behavioural and reproductive flexibility under the risk of predation</article-title>
+          <source>Biological Reviews</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>84</volume>
+          <fpage>485</fpage>
+          <lpage>513</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-185X.2009.00085.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Mariette &amp; Griffith (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mariette</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+          </person-group>
+          <article-title>Nest visit synchrony is high and correlates with reproductive success in the wild Zebra finch <italic>Taeniopygia guttata</italic></article-title>
+          <source>Journal of Avian Biology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>43</volume>
+          <fpage>131</fpage>
+          <lpage>140</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1600-048X.2012.05555.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Mariette &amp; Griffith (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mariette</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+          </person-group>
+          <article-title>Does coloniality improve foraging efficiency and nestling provisioning? A field experiment in the wild zebra finch</article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>94</volume>
+          <fpage>325</fpage>
+          <lpage>335</lpage>
+          <pub-id pub-id-type="doi">10.1890/12-0572.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Morton &amp; Shalter (1977)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morton</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Shalter</surname>
+              <given-names>MD</given-names>
+            </name>
+          </person-group>
+          <article-title>Vocal responses to predators in pair-bonded Carolina wrens</article-title>
+          <source>Condor</source>
+          <year iso-8601-date="1977">1977</year>
+          <volume>79</volume>
+          <fpage>222</fpage>
+          <lpage>227</lpage>
+          <pub-id pub-id-type="doi">10.2307/1367165</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Morton et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morton</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Stafford Smith</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Dickman</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Dunkerley</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Friedel</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>McAllister</surname>
+              <given-names>RRJ</given-names>
+            </name>
+            <name>
+              <surname>Reid</surname>
+              <given-names>JRW</given-names>
+            </name>
+            <name>
+              <surname>Roshier</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Walsh</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <name>
+              <surname>Wardle</surname>
+              <given-names>GM</given-names>
+            </name>
+          </person-group>
+          <article-title>A fresh framework for the ecology of arid Australia</article-title>
+          <source>Journal of Arid Environments</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>75</volume>
+          <fpage>313</fpage>
+          <lpage>329</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jaridenv.2010.11.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Murtaugh (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murtaugh</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>Performance of several variable-selection methods applied to real ecological data</article-title>
+          <source>Ecology Letters</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>12</volume>
+          <fpage>1061</fpage>
+          <lpage>1068</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1461-0248.2009.01361.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Parker, Royle &amp; Hartley (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parker</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Royle</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Hartley</surname>
+              <given-names>IR</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrafamilial conflict and parental investment: a synthesis</article-title>
+          <source>Philosophical Transactions of the Royal Society – Biological Sciences</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>357</volume>
+          <fpage>295</fpage>
+          <lpage>307</lpage>
+          <pub-id pub-id-type="doi">10.1098/rstb.2001.0950</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Perez et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perez</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Elie</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Soulage</surname>
+              <given-names>CO</given-names>
+            </name>
+            <name>
+              <surname>Soula</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Mathevon</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Vignal</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>The acoustic expression of stress in a songbird: does corticosterone drive isolation-induced modifications of zebra finch calls?</article-title>
+          <source>Hormones and Behaviour</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>61</volume>
+          <fpage>573</fpage>
+          <lpage>581</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.yhbeh.2012.02.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Petrie &amp; Kempenaers (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Petrie</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kempenaers</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Extra-pair paternity in birds: explaining variation between species and populations</article-title>
+          <source>Trends in Ecology and Evolution</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>13</volume>
+          <fpage>52</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-5347(97)01232-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Pettorelli &amp; Durant (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pettorelli</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Durant</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Longevity in cheetahs: the key to success?</article-title>
+          <source>Oikos</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>116</volume>
+          <fpage>1879</fpage>
+          <lpage>1886</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.0030-1299.2007.16187.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Pryke &amp; Griffith (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pryke</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Griffith</surname>
+              <given-names>SC</given-names>
+            </name>
+          </person-group>
+          <article-title>Socially mediated trade-offs between aggression and parental effort in competing color morphs</article-title>
+          <source>American Naturalist</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>174</volume>
+          <fpage>455</fpage>
+          <lpage>464</lpage>
+          <pub-id pub-id-type="doi">10.1086/605376</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Ridley, Nelson-Flower &amp; Thompson (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ridley</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Nelson-Flower</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>AM</given-names>
+            </name>
+          </person-group>
+          <article-title>Is sentinel behaviour safe? An experimental investigation</article-title>
+          <source>Animal Behaviour</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>85</volume>
+          <fpage>137</fpage>
+          <lpage>142</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.anbehav.2012.10.017</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Ridley, Raihani &amp; Bell (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ridley</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Raihani</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Bell</surname>
+              <given-names>MBV</given-names>
+            </name>
+          </person-group>
+          <article-title>Experimental evidence that sentinel behaviour is affected by risk</article-title>
+          <source>Biology Letters</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>6</volume>
+          <fpage>445</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="doi">10.1098/rsbl.2010.0023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Royle, Hartley &amp; Parker (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Royle</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Hartley</surname>
+              <given-names>IR</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>GA</given-names>
+            </name>
+          </person-group>
+          <article-title>Sexual conflict reduces offspring fitness in zebra finches</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>416</volume>
+          <fpage>733</fpage>
+          <lpage>736</lpage>
+          <pub-id pub-id-type="doi">10.1038/416733a</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Ruxton, Sherratt &amp; Speed (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruxton</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>TN</given-names>
+            </name>
+            <name>
+              <surname>Speed</surname>
+              <given-names>MP</given-names>
+            </name>
+          </person-group>
+          <source>Avoiding attack: the evolutionary ecology of crypsis, warning signals &amp; mimicry</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Tilson (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tilson</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Klipspringer (<italic>Oreotragusore otragus</italic>) social structure and predator avoidance in a desert canyon</article-title>
+          <source>Modoqua</source>
+          <year iso-8601-date="1980">1980</year>
+          <volume>11</volume>
+          <fpage>303</fpage>
+          <lpage>314</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Wright et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wright</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Berg</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>de Kort</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Khazin</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Maklakov</surname>
+              <given-names>AA</given-names>
+            </name>
+          </person-group>
+          <article-title>Safe selfish sentinels in a cooperative bird</article-title>
+          <source>Journal of Animal Ecology</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>70</volume>
+          <fpage>1070</fpage>
+          <lpage>1079</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.0021-8790.2001.00565.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Wright, Maklakov &amp; Khazin (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wright</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Maklakov</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Khazin</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>State-dependent sentinels: an experimental study in the Arabian babbler</article-title>
+          <source>Proceedings of the Royal Society B – Biological Sciences</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>268</volume>
+          <fpage>821</fpage>
+          <lpage>826</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.2000.1574</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>Yasukawa, Whittenberger &amp; Nielsen (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yasukawa</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Whittenberger</surname>
+              <given-names>LK</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Antipredator vigilance in the Red-winged blackbird, <italic>Agelaius phoeniceus</italic> – do males act as sentinels</article-title>
+          <source>Animal Behaviour</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>43</volume>
+          <fpage>961</fpage>
+          <lpage>969</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0003-3472(06)80009-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Zann (1996)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zann</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <source>The zebra finch: a synthesis of field and laboratory studies</source>
+          <year iso-8601-date="1996">1996</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
