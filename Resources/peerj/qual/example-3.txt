@@ -1,0 +1,40 @@
+We collected 1101 questions from 103 family doctors in Iowa by using observations. The participants and procedures for data collection for this aspect of the study are described elsewhere.The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control5 Briefly, after each consultation an observer asked the doctor to report any questions that occurred about how to care for the patient. We collected straightforward questions (“What is the dose of metformin?”) as well as vague uncertainties that would normally be kept to oneself (“I'm not sure what this rash is, but I'm going to call it a contact dermatitis for now.”). Using computer generated random numbers from a uniform distribution, we selected a random sample of 200 questions. Some of these questions were not amenable to evidence based answers (for example, “What is causing her abdominal pain?” “Is it ethical for me to take care of my own file clerk, who has back pain and wants a work excuse?”). Through an iterative process of reviewing questions, creating a classification scheme, coding questions, and revising the classification scheme, we developed a method of identifying questions that were potentially answerable with evidence. This iterative process, which has been described elsewhere, led to the development of an “evidence taxonomy” (box).The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control10,The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control11 Using this taxonomy, we found that 106 questions (53% of the original 200) could potentially be answered with evidence.
+
+Go to:
+Evidence taxonomy used to classify 200 questions from family doctors
+
+I. Clinical (n=193)
+
+A. General (n=141)
+
+1.Evidence (n=106)
+
+a. Intervention (n=71)“What is the drug of choice for epididymitis?”
+
+b. No intervention (n=35)“How common is depression after infectious mononucleosis?”
+
+2.No evidence (n=35)
+
+ “What is the name of that rash that diabetics get on their legs?”
+
+B. Specific (n=52)
+
+“What is causing her anaemia?”
+
+II. Non-clinical (n=7)
+
+“How do you stop somebody with five problems, when their appointment is only long enough for one?”
+
+After listing these 106 questions in random order, one of us (JE) answered the first 10, the investigators answered two, and JE answered eight, totalling 20. We agreed on three criteria for selecting the two questions to be answered by all investigators: the question should be clearly stated, there should be a high likelihood of finding good quality evidence to answer it, and the answer should potentially have an impact on patient care. By using these criteria we selected “What is the proper treatment of gastro-oesophageal reflux disease (GERD)?” and “What should I use for atopic dermatitis?”
+
+Answering questions
+
+We did not follow a standardised search strategy because we wanted to study obstacles related to the strategy. We searched textbooks, journal articles, and various computer applications, but we did not seek individual consultations with humans. Working independently, the investigators completed searches that they thought were sufficient to avoid missing important evidence. While searching, the investigators used a modified “think aloud” method to write field notes that documented the obstacles they encountered.The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control12,The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control13
+
+Development of the taxonomy
+
+We used three data sources to develop the initial taxonomy. The primary source consisted of obstacles documented in field notes written by the investigators as they attempted to answer the questions. The second source comprised frustrations that the investigators had encountered while answering other clinical questions. The third source consisted of problems reported in the literature.The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control1,The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control14–The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control16 The obstacles were described and organised into a taxonomy by using qualitative text analysis. The taxonomy was developed with an approach in which initial “codes” (obstacles described in the “think aloud” field notes) were augmented with obstacles described in the literature and previously encountered by the investigators.The following popper user interface control may not be accessible. Tab to the next button to revert the control to an accessible version.Destroy user interface control17
+
+Validation of the taxonomy
+
+To help validate the taxonomy, we first asked four volunteers (two medical librarians and two university family doctors) to answer four additional questions from the same dataset. Each volunteer coded their own field notes and identified obstacles that were not optimally characterised in the existing taxonomy. Secondly, we asked 21 practising doctors (purposively selected from a list of former trainees from practices in Iowa) to describe on paper the problems they encountered when attempting to answer one of their own questions. Thirdly, we completed 16 half day observation periods involving four randomly selected practising doctors in Iowa (four observation periods per doctor). We asked these doctors to “think aloud” as they attempted to answer their own questions. Based on these three additional sources of data, we added four obstacles to the taxonomy. The final version of the taxonomy was approved by all investigators.
