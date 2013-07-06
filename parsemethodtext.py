@@ -5,6 +5,7 @@ import string
 import re
 import os.path
 import glob
+import cPickle as pickle
 
 # NB you must have run the nltk.download() before first use, to get a language model for english
 
@@ -36,19 +37,22 @@ def ie_preprocess(document):
 	sentences = [nltk.pos_tag(sent) for sent in sentences]
 	return sentences
 
-def analyse_some_text(document):
+
+
+
+def text_to_counts(document):
 	print "NLTK preprocessing..."
 	sentences = ie_preprocess(strip_tags(document))
 
 	print "Counting..."
 	countlist = []
-	ngramlen = 2
+	ngramlen = 1  #2
 	for sent in sentences:
-		print sent
-		print ""
+		#print sent
+		#print ""
 		for position in range(len(sent) + 1 - ngramlen):
-			print sent[position:position+ngramlen]
-			print [x[0] for x in sent[position:position+ngramlen]]
+			#print sent[position:position+ngramlen]
+			#print [x[0] for x in sent[position:position+ngramlen]]
 			countlist.append(" ".join([x[0] for x in sent[position:position+ngramlen]]))
 
 	counted = collections.Counter(countlist)
@@ -56,16 +60,31 @@ def analyse_some_text(document):
 	print "Most common %i-grams:" % ngramlen
 	for item in counted.most_common(20):
 		print item
-
+	print counted
+	return counted
 
 def analyse_folderfull_of_methods(folder):
 	filepaths = glob.glob("%s/*.methods" % folder)
 	analyses = {}
+	grandwordlist = collections.Counter()
 	for fp in filepaths:
-		basename = os.path.basename(fp)
-		f = open(fp, 'r')
-		analyses[basename] = analyse_some_text(f.read())
-		f.close()
+
+		try:
+			f = open("%s.pickle" % fp, 'rb')
+			analyses[basename] = pickle.load(f)
+			f.close()
+		except:
+			basename = os.path.basename(fp)
+			f = open(fp, 'r')
+			thetext = f.read()
+			f.close()
+			analyses[basename] = text_to_counts(thetext)
+			pickle.dump(analyses[basename], open("%s.pickle" % fp, 'wb'), -1)
+		grandwordlist.update(analyses[basename])
+
+	print "GRAND MOST COMMON:"
+	print grandwordlist.most_common(20)
+	return (analyses, grandwordlist)
 
 ################################################
 if __name__=='__main__':
