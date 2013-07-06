@@ -3,6 +3,8 @@ import nltk         # http://nltk.org/
 import collections
 import string
 import re
+import os.path
+import glob
 
 # NB you must have run the nltk.download() before first use, to get a language model for english
 
@@ -36,7 +38,7 @@ def ie_preprocess(document):
 
 def analyse_some_text(document):
 	print "NLTK preprocessing..."
-	sentences = ie_preprocess(strip_tags(text))
+	sentences = ie_preprocess(strip_tags(document))
 
 	print "Counting..."
 	countlist = []
@@ -56,9 +58,17 @@ def analyse_some_text(document):
 		print item
 
 
+def analyse_folderfull_of_methods(folder):
+	filepaths = glob.glob("%s/*.methods" % folder)
+	analyses = {}
+	for fp in filepaths:
+		basename = os.path.basename(fp)
+		f = open(fp, 'r')
+		analyses[basename] = analyse_some_text(f.read())
+		f.close()
 
-
-
+################################################
 if __name__=='__main__':
-	analyse_some_text(text)
+	#analyse_some_text(text)
+	analyse_folderfull_of_methods('Resources/peerj')
 
